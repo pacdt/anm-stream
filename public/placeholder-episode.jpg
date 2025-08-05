@@ -1,0 +1,7 @@
+<svg width="320" height="180" viewBox="0 0 320 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="180" fill="#1a1a1a"/>
+  <rect x="60" y="60" width="200" height="60" rx="8" fill="#333"/>
+  <circle cx="90" cy="90" r="15" fill="#666"/>
+  <polygon points="85,82 85,98 97,90" fill="#999"/>
+  <text x="130" y="95" fill="#999" font-family="Arial" font-size="14" dominant-baseline="middle">Episódio</text>
+</svg>
