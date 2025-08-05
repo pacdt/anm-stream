@@ -3,7 +3,7 @@ import { Anime, Episode, EpisodeStreamResponse, ApiResponse, PaginationInfo } fr
 
 // Configuração base da API
 const apiClient = axios.create({
-  baseURL: import.meta.env.VITE_API_URL || (import.meta.env.DEV ? '/api' : 'http://152.67.40.213:3000/api'),
+  baseURL: import.meta.env.VITE_API_URL || 'http://152.67.40.213:3000/api',
   timeout: 10000,
   headers: {
     'Content-Type': 'application/json',
@@ -134,13 +134,16 @@ export const processEpisodeStreamData = (streamResponse: any) => {
   console.log('🎬 [STREAM DEBUG] Dados recebidos da API externa:', JSON.stringify(streamResponse, null, 2))
   
   const options = []
-  const baseURL = import.meta.env.VITE_API_URL || (import.meta.env.DEV ? '' : 'http://152.67.40.213:3000')
+  const baseURL = import.meta.env.VITE_API_URL || 'http://152.67.40.213:3000/api'
   
-  // Função para criar URL do proxy
+  // Função para criar URL do proxy usando a API externa
   const createProxyUrl = (originalUrl: string) => {
-    // Usar URL absoluta para evitar duplicação do /api
-    const proxyUrl = `http://localhost:4000/api/video-proxy?url=${encodeURIComponent(originalUrl)}`
-    console.log('🔄 [PROXY DEBUG] URL original:', originalUrl.substring(0, 100) + '...')
+    // Remove espaços em branco e cria URL do proxy
+    const cleanedUrl = originalUrl.trim()
+    // Remove /api do final se existir para evitar duplicação
+    const proxyBaseUrl = baseURL.replace(/\/api$/, '')
+    const proxyUrl = `${proxyBaseUrl}/api/video-proxy?url=${encodeURIComponent(cleanedUrl)}`
+    console.log('🔄 [PROXY DEBUG] URL original:', cleanedUrl.substring(0, 100) + '...')
     console.log('🔄 [PROXY DEBUG] URL do proxy:', proxyUrl)
     return proxyUrl
   }
