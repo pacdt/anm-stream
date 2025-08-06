@@ -1,6 +1,5 @@
 # TODO:
 
-- [x] 83: Criar arquivo netlify.toml com configurações de proxy/redirects para a API (priority: High)
-- [x] 84: Implementar detecção de ambiente (dev vs prod) na configuração da API (priority: High)
-- [x] 85: Ajustar baseURL da API para usar URL direta em produção (priority: Medium)
-- [x] 86: Testar se as chamadas da API funcionam no Netlify após configuração (priority: Medium)
+- [x] 87: Corrigir função processEpisodeStreamData para usar a mesma baseURL do apiClient (priority: High)
+- [x] 88: Substituir baseURL hardcoded por função getApiBaseUrl na criação das URLs do video-proxy (priority: High)
+- [x] 89: Testar se o video-proxy funciona corretamente após correção (priority: Medium)

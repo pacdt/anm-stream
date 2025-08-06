@@ -333,17 +333,18 @@ export const processEpisodeStreamData = (streamResponse: any) => {
   console.log('🎬 [STREAM DEBUG] Dados recebidos da API externa:', JSON.stringify(streamResponse, null, 2))
   
   const options = []
-  const baseURL = import.meta.env.VITE_API_URL || 'https://152.67.40.213:3000/api'
+  // Usar a mesma lógica de detecção de ambiente do apiClient
+  const baseURL = getApiBaseUrl()
   
   // Função para criar URL do proxy usando a API externa
   const createProxyUrl = (originalUrl: string) => {
     // Remove espaços em branco e cria URL do proxy
     const cleanedUrl = originalUrl.trim()
-    // Remove /api do final se existir para evitar duplicação
-    const proxyBaseUrl = baseURL.replace(/\/api$/, '')
-    const proxyUrl = `${proxyBaseUrl}/api/video-proxy?url=${encodeURIComponent(cleanedUrl)}`
+    // Construir URL do proxy usando a baseURL configurada
+    const proxyUrl = `${baseURL}/video-proxy?url=${encodeURIComponent(cleanedUrl)}`
     console.log('🔄 [PROXY DEBUG] URL original:', cleanedUrl.substring(0, 100) + '...')
     console.log('🔄 [PROXY DEBUG] URL do proxy:', proxyUrl)
+    console.log('🔄 [PROXY DEBUG] BaseURL usada:', baseURL)
     return proxyUrl
   }
   
