@@ -84,6 +84,7 @@ export interface PaginatedResponse<T> {
 // Tipo para Busca de Animes
 export interface AnimeSearchResponse {
   animes: Anime[];
+  total: number;
   totalPages: number;
   currentPage: number;
   totalItems: number;
@@ -94,6 +95,7 @@ export interface AnimeSearchResponse {
 // Tipo para Favoritos
 export interface FavoritesResponse {
   animes: Anime[];
+  total: number;
   totalPages: number;
   currentPage: number;
   totalItems: number;
@@ -104,11 +106,18 @@ export interface FavoritesResponse {
 // Tipo para Histórico
 export interface HistoryResponse {
   items: WatchHistoryItem[];
+  total: number;
   totalPages: number;
   currentPage: number;
   totalItems: number;
   hasNext: boolean;
   hasPrev: boolean;
+}
+
+// Tipo para resposta de episódios
+export interface EpisodesResponse {
+  episodes: Episode[];
+  total_episodes: number;
 }
 
 // Tipo de Paginação

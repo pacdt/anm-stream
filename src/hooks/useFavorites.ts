@@ -4,9 +4,9 @@ import { Anime, FavoritesResponse } from '@/types'
 
 interface FavoritesParams {
   userId: string
-  genre?: AnimeGenre
-  status?: AnimeStatus
-  type?: AnimeType
+  genre?: string
+  status?: string
+  type?: string
   search?: string
   page?: number
   limit?: number
@@ -60,6 +60,7 @@ export const useFavorites = (params: {
       
       return {
         animes,
+        total: filteredFavorites.length,
         totalPages: Math.ceil(filteredFavorites.length / limit),
         currentPage: page,
         totalItems: filteredFavorites.length,

@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import { Heart, Play, Star, Clock } from 'lucide-react'
+import { Heart, Play, Star } from 'lucide-react'
 import { Anime } from '@/types'
 import { useAddToFavorites, useRemoveFromFavorites, useIsFavorite, useAnimeWatchStatus } from '@/hooks/useAnimes'
 import { useAuth } from '@/hooks/useAuth'
@@ -92,7 +92,7 @@ export const AnimeCard: React.FC<AnimeCardProps> = ({
                   ? anime.rating.toFixed(1) 
                   : typeof anime.rating === 'string' && !isNaN(Number(anime.rating))
                     ? Number(anime.rating).toFixed(1)
-                    : anime.rating
+                    : String(anime.rating)
                 }
               </span>
             </div>
@@ -233,7 +233,7 @@ export const AnimeCard: React.FC<AnimeCardProps> = ({
                   ? anime.rating.toFixed(1) 
                   : typeof anime.rating === 'string' && !isNaN(Number(anime.rating))
                     ? Number(anime.rating).toFixed(1)
-                    : anime.rating
+                    : String(anime.rating)
                 }
               </span>
             </div>

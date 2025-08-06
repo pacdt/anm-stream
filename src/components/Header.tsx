@@ -174,9 +174,9 @@ export const Header: React.FC = () => {
                     <div className="p-4 text-center text-gray-400">
                       Buscando...
                     </div>
-                  ) : searchResults?.animes && searchResults.animes.length > 0 ? (
+                  ) : searchResults?.data && searchResults.data.length > 0 ? (
                     <div className="py-2">
-                      {searchResults.animes.slice(0, 5).map((anime) => (
+                      {searchResults.data.slice(0, 5).map((anime) => (
                         <button
                           key={anime.id}
                           onClick={() => handleAnimeClick(anime)}
@@ -198,7 +198,7 @@ export const Header: React.FC = () => {
                         </button>
                       ))}
                       
-                      {searchResults.animes.length > 5 && (
+                      {searchResults.data.length > 5 && (
                         <button
                           onClick={() => {
                             navigate(`/search?q=${encodeURIComponent(searchQuery)}`)
@@ -206,7 +206,7 @@ export const Header: React.FC = () => {
                           }}
                           className="w-full px-4 py-3 text-red-400 hover:bg-gray-700 transition-colors duration-300 text-center"
                         >
-                          Ver todos os resultados ({searchResults.total})
+                          Ver todos os resultados ({searchResults.pagination?.total || 0})
                         </button>
                       )}
                     </div>

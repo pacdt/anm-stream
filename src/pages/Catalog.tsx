@@ -3,7 +3,10 @@ import { useSearchParams } from 'react-router-dom'
 import { useInfiniteAnimes, useSearchAnimes } from '@/hooks/useAnimes'
 import { AnimeCard, Loading, LoadingError } from '@/components'
 import { Search, Filter, Grid, List, ChevronDown } from 'lucide-react'
-import { AnimeGenre, AnimeStatus, AnimeType } from '@/types/anime'
+// Tipos locais para filtros
+type AnimeGenre = 'Action' | 'Adventure' | 'Comedy' | 'Drama' | 'Fantasy' | 'Horror' | 'Mystery' | 'Romance' | 'Sci-Fi' | 'Slice of Life' | 'Sports' | 'Supernatural'
+type AnimeStatus = 'Completed' | 'Ongoing' | 'Upcoming'
+type AnimeType = 'TV' | 'Movie' | 'OVA' | 'Special'
 import { debounce } from '@/lib/utils'
 
 const GENRES: AnimeGenre[] = [

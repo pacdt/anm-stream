@@ -98,9 +98,9 @@ export class AnimeService {
   }
 
   // Busca avançada de animes
-  static async searchAnimes(params: any): Promise<ApiResponse<Anime[]>> {
-    const response = await apiClient.get('/animes/search', {
-      params
+  static async searchAnimes(query: string, page: number = 1, limit: number = 20): Promise<ApiResponse<Anime[]>> {
+    const response = await apiClient.get(`/animes/search/${encodeURIComponent(query)}`, {
+      params: { page, limit }
     })
     return response.data
   }
@@ -111,6 +111,87 @@ export class AnimeService {
       params
     })
     return response.data
+  }
+
+  // Buscar animes relacionados
+  static async getRelatedAnimes(animeId: number, limit: number = 12): Promise<ApiResponse<Anime[]>> {
+    try {
+      const response = await apiClient.get(`/animes/${animeId}/related`, {
+        params: { limit }
+      })
+      return response.data
+    } catch (error) {
+      // Fallback: retornar animes populares se não houver endpoint específico
+      console.warn('Endpoint de animes relacionados não disponível, usando fallback')
+      return this.getPopularAnimes(limit)
+    }
+  }
+
+  // Buscar animes populares
+  static async getPopularAnimes(limit: number = 20): Promise<ApiResponse<Anime[]>> {
+    try {
+      const response = await apiClient.get('/animes/popular', {
+        params: { limit }
+      })
+      return response.data
+    } catch (error) {
+      // Fallback: usar seção home
+      console.warn('Endpoint de animes populares não disponível, usando seção home')
+      return this.getAnimesBySection('home', 1, limit)
+    }
+  }
+
+  // Buscar animes em destaque
+  static async getFeaturedAnimes(limit: number = 10): Promise<ApiResponse<Anime[]>> {
+    try {
+      const response = await apiClient.get('/animes/featured', {
+        params: { limit }
+      })
+      return response.data
+    } catch (error) {
+      // Fallback: usar top animes
+      console.warn('Endpoint de animes em destaque não disponível, usando top animes')
+      return this.getTopAnimes(limit)
+    }
+  }
+
+  // Buscar animes recentes
+  static async getRecentAnimes(limit: number = 20): Promise<ApiResponse<Anime[]>> {
+    try {
+      const response = await apiClient.get('/animes/recent', {
+        params: { limit }
+      })
+      return response.data
+    } catch (error) {
+      // Fallback: usar seção lançamentos
+      console.warn('Endpoint de animes recentes não disponível, usando lançamentos')
+      return this.getAnimesBySection('lancamentos', 1, limit)
+    }
+  }
+
+  // Buscar animes por gênero
+  static async getAnimesByGenre(genre: string, page: number = 1, limit: number = 20): Promise<ApiResponse<Anime[]>> {
+    try {
+      const response = await apiClient.get(`/animes/genre/${encodeURIComponent(genre)}`, {
+        params: { page, limit }
+      })
+      return response.data
+    } catch (error) {
+      console.warn('Endpoint de animes por gênero não disponível')
+      // Retornar resposta vazia em caso de erro
+      return {
+        message: 'Gênero não encontrado',
+        data: [],
+        pagination: {
+          current_page: page,
+          per_page: limit,
+          total_items: 0,
+          total_pages: 0,
+          has_next: false,
+          has_prev: false
+        }
+      }
+    }
   }
 }
 

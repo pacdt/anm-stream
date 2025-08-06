@@ -2,6 +2,7 @@ import React, { useRef, useEffect, useState, useCallback } from 'react'
 import { usePlayerStore } from '@/store/playerStore'
 import { useUpdateDetailedWatchProgress } from '@/hooks/useAnimes'
 import { useAuth } from '@/hooks/useAuth'
+import { localStorageService } from '@/lib/localStorageService'
 import { 
   Play, 
   Pause, 
@@ -82,7 +83,6 @@ export function VideoPlayer({
 
   const [showSettings, setShowSettings] = useState(false)
   const [isDragging, setIsDragging] = useState(false)
-  const [lastProgressUpdate, setLastProgressUpdate] = useState(0)
   
   const updateProgressMutation = useUpdateDetailedWatchProgress()
   const [lastAutoSave, setLastAutoSave] = useState(0)
@@ -166,6 +166,18 @@ export function VideoPlayer({
       
       // Auto-save progress every 30 seconds
       if (isAuthenticated && time - lastAutoSave > 30) {
+        // Salvar primeiro no localStorage
+        localStorageService.saveWatchProgress({
+          userId: 'current-user', // TODO: Get actual user ID
+          animeId,
+          episodeNumber,
+          currentTime: time,
+          duration: videoRef.current.duration,
+          lastWatchedAt: new Date().toISOString(),
+          animeName: `Anime ${animeId}` // TODO: Get actual anime name
+        })
+        
+        // Tentar sincronizar com Supabase em background
         updateProgressMutation.mutate({
           animeId: parseInt(animeId),
           animeName: `Anime ${animeId}`, // TODO: Get actual anime name
@@ -184,6 +196,18 @@ export function VideoPlayer({
     
     // Mark episode as completed
     if (isAuthenticated && videoRef.current) {
+      // Salvar primeiro no localStorage
+      localStorageService.saveWatchProgress({
+        userId: 'current-user', // TODO: Get actual user ID
+        animeId,
+        episodeNumber,
+        currentTime: videoRef.current.duration,
+        duration: videoRef.current.duration,
+        lastWatchedAt: new Date().toISOString(),
+        animeName: `Anime ${animeId}` // TODO: Get actual anime name
+      })
+      
+      // Tentar sincronizar com Supabase
       updateProgressMutation.mutate({
         animeId: parseInt(animeId),
         animeName: `Anime ${animeId}`, // TODO: Get actual anime name
@@ -208,6 +232,18 @@ export function VideoPlayer({
       
       // Save progress when pausing
       if (isAuthenticated && videoRef.current.currentTime > 0) {
+        // Salvar primeiro no localStorage
+        localStorageService.saveWatchProgress({
+          userId: 'current-user', // TODO: Get actual user ID
+          animeId,
+          episodeNumber,
+          currentTime: videoRef.current.currentTime,
+          duration: videoRef.current.duration,
+          lastWatchedAt: new Date().toISOString(),
+          animeName: `Anime ${animeId}` // TODO: Get actual anime name
+        })
+        
+        // Tentar sincronizar com Supabase
         updateProgressMutation.mutate({
           animeId: parseInt(animeId),
           animeName: `Anime ${animeId}`, // TODO: Get actual anime name

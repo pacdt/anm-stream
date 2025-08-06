@@ -128,7 +128,7 @@ export class SupabaseService {
       .from('watch_history')
       .select('*')
       .eq('user_id', user.id)
-      .order('last_watched', { ascending: false })
+      .order('last_watched_at', { ascending: false })
     
     if (error) throw error
     return data || []
@@ -195,25 +195,33 @@ export class SupabaseService {
 
   // Atualizar progresso detalhado de visualização
   static async updateDetailedWatchProgress(params: {
+    userId?: string;
     animeId: number;
     animeName: string;
     episodeNumber: number;
     currentTimeSeconds: number;
     totalDurationSeconds: number;
     isCompleted?: boolean;
+    lastWatchedAt?: string;
   }) {
     if (!checkSupabaseAvailable() || !supabase) {
       console.log('Progresso não salvo - modo visitante')
       return null
     }
     
-    const { data: { session } } = await supabase.auth.getSession()
-    if (!session?.user) throw new Error('Usuário não autenticado')
+    let targetUserId = params.userId
+    
+    // Se não foi fornecido userId, usar o da sessão atual
+    if (!targetUserId) {
+      const { data: { session } } = await supabase.auth.getSession()
+      if (!session?.user) throw new Error('Usuário não autenticado')
+      targetUserId = session.user.id
+    }
     
     const { data, error } = await supabase
       .from('watch_history')
       .upsert({
-        user_id: session.user.id,
+        user_id: targetUserId,
         anime_id: params.animeId,
         anime_name: params.animeName,
         episode_number: params.episodeNumber,
@@ -221,7 +229,7 @@ export class SupabaseService {
         total_duration_seconds: params.totalDurationSeconds,
         last_position_seconds: params.currentTimeSeconds,
         is_completed: params.isCompleted || false,
-        last_watched_at: new Date().toISOString()
+        last_watched_at: params.lastWatchedAt || new Date().toISOString()
       }, {
         onConflict: 'user_id,anime_id,episode_number'
       })
@@ -491,4 +499,40 @@ export class SupabaseService {
     }
     return supabase.auth.onAuthStateChange(callback)
   }
+
+  // Métodos adicionais para histórico
+  static async clearWatchHistory(userId: string) {
+    if (!checkSupabaseAvailable() || !supabase) {
+      throw new Error('Funcionalidade requer autenticação - faça login')
+    }
+    
+    const { error } = await supabase
+      .from('watch_history')
+      .delete()
+      .eq('user_id', userId)
+    
+    if (error) throw error
+  }
+
+  static async removeFromHistory(animeId: number, episodeNumber: number) {
+    if (!checkSupabaseAvailable() || !supabase) {
+      throw new Error('Funcionalidade requer autenticação - faça login')
+    }
+    
+    const { data: { session } } = await supabase.auth.getSession()
+    if (!session?.user) throw new Error('Usuário não autenticado')
+    
+    const { error } = await supabase
+      .from('watch_history')
+      .delete()
+      .eq('user_id', session.user.id)
+      .eq('anime_id', animeId)
+      .eq('episode_number', episodeNumber)
+    
+    if (error) throw error
+  }
 }
+
+// Exportar instância do serviço
+export const supabaseService = SupabaseService
+export default SupabaseService
