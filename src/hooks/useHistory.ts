@@ -13,22 +13,31 @@ interface HistoryParams {
 // Hook para buscar histórico com filtros
 export const useWatchHistory = (params: {
   period?: 'today' | 'week' | 'month' | 'all'
+  search?: string
   page?: number
   limit?: number
-}): { data?: HistoryResponse; isLoading: boolean; error: any } => {
+} = {}): { data?: HistoryResponse; isLoading: boolean; error: any } => {
   return useQuery({
     queryKey: ['watch-history', params],
     queryFn: async (): Promise<HistoryResponse> => {
-      // Simular busca de histórico
       const history = await SupabaseService.getWatchHistory()
       
-      // Aplicar filtro de período
+      // Aplicar filtros
       let filteredHistory = history
-      const now = new Date()
       
+      // Filtro de busca
+      if (params.search) {
+        const searchLower = params.search.toLowerCase()
+        filteredHistory = filteredHistory.filter(item => 
+          item.anime_name.toLowerCase().includes(searchLower)
+        )
+      }
+      
+      // Filtro de período
       if (params.period && params.period !== 'all') {
-        filteredHistory = history.filter(item => {
-          const itemDate = new Date(item.last_watched)
+        const now = new Date()
+        filteredHistory = filteredHistory.filter(item => {
+          const itemDate = new Date(item.last_watched_at || item.last_watched)
           
           switch (params.period) {
             case 'today':
@@ -45,7 +54,13 @@ export const useWatchHistory = (params: {
         })
       }
       
-      // Simular paginação
+      // Ordenar por data mais recente
+      filteredHistory.sort((a, b) => 
+        new Date(b.last_watched_at || b.last_watched).getTime() - 
+        new Date(a.last_watched_at || a.last_watched).getTime()
+      )
+      
+      // Paginação
       const page = params.page || 1
       const limit = params.limit || 20
       const startIndex = (page - 1) * limit
@@ -53,10 +68,10 @@ export const useWatchHistory = (params: {
       const paginatedHistory = filteredHistory.slice(startIndex, endIndex)
       
       return {
-        items: paginatedHistory,
+        entries: paginatedHistory,
+        total: filteredHistory.length,
         totalPages: Math.ceil(filteredHistory.length / limit),
         currentPage: page,
-        totalItems: filteredHistory.length,
         hasNext: endIndex < filteredHistory.length,
         hasPrev: page > 1
       }

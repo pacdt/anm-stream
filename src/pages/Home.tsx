@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import { Play, TrendingUp, Star, Clock } from 'lucide-react'
-import { useAnimesBySection } from '@/hooks/useAnimes'
+import { useAnimesBySection, useRandomRecommendations } from '@/hooks/useAnimes'
 import { useWatchHistory } from '@/hooks/useAnimes'
 import { useAuth } from '@/hooks/useAuth'
 import { Carousel, PageLoading, LoadingError } from '@/components'
@@ -16,6 +16,9 @@ export const Home: React.FC = () => {
   const { data: topRatedAnimes, isLoading: topRatedLoading, error: topRatedError } = useAnimesBySection('top-rated', 1, 20)
   const { data: dubladosAnimes, isLoading: dubladosLoading, error: dubladosError } = useAnimesBySection('dublados', 1, 20)
   const { data: legendadosAnimes, isLoading: legendadosLoading, error: legendadosError } = useAnimesBySection('legendados', 1, 20)
+  
+  // Recomendações aleatórias
+  const { data: randomRecommendations, isLoading: recommendationsLoading, error: recommendationsError } = useRandomRecommendations(12)
   
 
   
@@ -39,12 +42,12 @@ export const Home: React.FC = () => {
   }, [watchHistory])
 
   // Loading state
-  if (latestLoading && popularLoading && topRatedLoading && dubladosLoading && legendadosLoading) {
+  if (latestLoading && popularLoading && topRatedLoading && dubladosLoading && legendadosLoading && recommendationsLoading) {
     return <PageLoading text="Carregando página inicial..." />
   }
 
   // Error state
-  if (latestError || popularError || topRatedError || dubladosError || legendadosError) {
+  if (latestError || popularError || topRatedError || dubladosError || legendadosError || recommendationsError) {
     return (
       <LoadingError 
         message="Erro ao carregar conteúdo da página inicial"
@@ -168,11 +171,11 @@ export const Home: React.FC = () => {
           cardSize="md"
         />
 
-        {/* Populares */}
+        {/* Talvez você Goste */}
         <Carousel
-          title="Populares da Semana"
-          animes={popularAnimes?.data || []}
-          isLoading={popularLoading}
+          title="Talvez você Goste"
+          animes={randomRecommendations?.data || []}
+          isLoading={recommendationsLoading}
           cardSize="md"
         />
 

@@ -1,6 +1,6 @@
 import React, { useRef, useEffect, useState, useCallback } from 'react'
 import { usePlayerStore } from '@/store/playerStore'
-import { useUpdateWatchProgress } from '@/hooks/useAnimes'
+import { useUpdateDetailedWatchProgress } from '@/hooks/useAnimes'
 import { useAuth } from '@/hooks/useAuth'
 import { 
   Play, 
@@ -84,7 +84,8 @@ export function VideoPlayer({
   const [isDragging, setIsDragging] = useState(false)
   const [lastProgressUpdate, setLastProgressUpdate] = useState(0)
   
-  const updateProgressMutation = useUpdateWatchProgress()
+  const updateProgressMutation = useUpdateDetailedWatchProgress()
+  const [lastAutoSave, setLastAutoSave] = useState(0)
 
   // Initialize available qualities
   useEffect(() => {
@@ -163,15 +164,17 @@ export function VideoPlayer({
       const time = videoRef.current.currentTime
       setCurrentTime(time)
       
-      // Update progress in database every 10 seconds
-      if (isAuthenticated && time - lastProgressUpdate > 10) {
+      // Auto-save progress every 30 seconds
+      if (isAuthenticated && time - lastAutoSave > 30) {
         updateProgressMutation.mutate({
-          animeId,
+          animeId: parseInt(animeId),
+          animeName: `Anime ${animeId}`, // TODO: Get actual anime name
           episodeNumber,
-          currentTime: time,
-          duration: videoRef.current.duration
+          currentTimeSeconds: time,
+          totalDurationSeconds: videoRef.current.duration,
+          isCompleted: false
         })
-        setLastProgressUpdate(time)
+        setLastAutoSave(time)
       }
     }
   }
@@ -180,13 +183,14 @@ export function VideoPlayer({
     setPlaying(false)
     
     // Mark episode as completed
-    if (isAuthenticated) {
+    if (isAuthenticated && videoRef.current) {
       updateProgressMutation.mutate({
-        animeId,
+        animeId: parseInt(animeId),
+        animeName: `Anime ${animeId}`, // TODO: Get actual anime name
         episodeNumber,
-        currentTime: duration,
-        duration,
-        completed: true
+        currentTimeSeconds: videoRef.current.duration,
+        totalDurationSeconds: videoRef.current.duration,
+        isCompleted: true
       })
     }
     
@@ -201,8 +205,20 @@ export function VideoPlayer({
       videoRef.current.play().catch(console.error)
     } else {
       videoRef.current.pause()
+      
+      // Save progress when pausing
+      if (isAuthenticated && videoRef.current.currentTime > 0) {
+        updateProgressMutation.mutate({
+          animeId: parseInt(animeId),
+          animeName: `Anime ${animeId}`, // TODO: Get actual anime name
+          episodeNumber,
+          currentTimeSeconds: videoRef.current.currentTime,
+          totalDurationSeconds: videoRef.current.duration,
+          isCompleted: false
+        })
+      }
     }
-  }, [isPlaying])
+  }, [isPlaying, isAuthenticated, animeId, episodeNumber, updateProgressMutation])
 
   useEffect(() => {
     if (videoRef.current) {

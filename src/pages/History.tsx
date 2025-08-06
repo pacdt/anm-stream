@@ -2,10 +2,11 @@ import React, { useState } from 'react'
 import { Clock, Play, Trash2, Filter, Search, X, Calendar } from 'lucide-react'
 import { AnimeCard } from '@/components'
 import { useAuth } from '@/hooks/useAuth'
-import { useWatchHistory, useClearHistory } from '@/hooks/useHistory'
+import { useWatchHistory, useClearHistory, useRemoveFromHistory } from '@/hooks/useHistory'
 import { formatDistanceToNow } from 'date-fns'
 import { ptBR } from 'date-fns/locale'
 import { toast } from 'sonner'
+import { Link } from 'react-router-dom'
 
 interface HistoryFilters {
   search?: string
@@ -24,13 +25,14 @@ export const History: React.FC = () => {
     isLoading,
     error
   } = useWatchHistory({
-    userId: user?.id || '',
-    ...filters,
+    period: filters.dateRange,
+    search: filters.search,
     page,
     limit: 20
   })
 
   const clearHistoryMutation = useClearHistory()
+  const removeFromHistoryMutation = useRemoveFromHistory()
 
   const handleFilterChange = (key: keyof HistoryFilters, value: any) => {
     setFilters(prev => ({
@@ -212,76 +214,114 @@ export const History: React.FC = () => {
           <>
             {/* History List */}
             <div className="space-y-6">
-              {historyData.entries.map((entry) => (
-                <div key={`${entry.animeId}-${entry.episodeId}-${entry.watchedAt}`} className="bg-gray-800 rounded-lg p-4">
-                  <div className="flex items-start gap-4">
-                    {/* Anime Poster */}
-                    <div className="flex-shrink-0">
-                      <img
-                        src={entry.anime.posterUrl}
-                        alt={entry.anime.title}
-                        className="w-20 h-28 object-cover rounded-lg"
-                      />
-                    </div>
-
-                    {/* Content */}
-                    <div className="flex-1 min-w-0">
-                      <div className="flex items-start justify-between mb-2">
-                        <div>
-                          <h3 className="text-lg font-semibold text-white truncate">
-                            {entry.anime.title}
-                          </h3>
-                          <p className="text-gray-400">
-                            Episódio {entry.episode.number}: {entry.episode.title}
-                          </p>
-                        </div>
-                        <div className="flex items-center gap-2 text-sm text-gray-400">
-                          <Calendar className="w-4 h-4" />
-                          {formatDistanceToNow(new Date(entry.watchedAt), {
-                            addSuffix: true,
-                            locale: ptBR
-                          })}
-                        </div>
-                      </div>
-
-                      {/* Progress Bar */}
-                      <div className="mb-3">
-                        <div className="flex items-center justify-between text-sm text-gray-400 mb-1">
-                          <span>Progresso</span>
-                          <span>{Math.round(entry.progress * 100)}%</span>
-                        </div>
-                        <div className="w-full bg-gray-700 rounded-full h-2">
-                          <div
-                            className="bg-red-500 h-2 rounded-full transition-all duration-300"
-                            style={{ width: `${entry.progress * 100}%` }}
+              {historyData.entries.map((entry) => {
+                const progressPercentage = entry.last_position_seconds && entry.episode_duration 
+                  ? Math.min((entry.last_position_seconds / entry.episode_duration) * 100, 100)
+                  : 0
+                const watchedAt = entry.last_watched_at || entry.watched_at
+                
+                return (
+                  <div key={`${entry.anime_id}-${entry.episode_id}-${watchedAt}`} className="bg-gray-800 rounded-lg p-4">
+                    <div className="flex items-start gap-4">
+                      {/* Anime Poster */}
+                      <div className="flex-shrink-0">
+                        <Link to={`/anime/${entry.anime_id}`}>
+                          <img
+                            src={entry.anime_poster_url || '/placeholder-anime.jpg'}
+                            alt={entry.anime_title}
+                            className="w-20 h-28 object-cover rounded-lg hover:opacity-80 transition-opacity"
                           />
-                        </div>
+                        </Link>
                       </div>
 
-                      {/* Actions */}
-                      <div className="flex items-center gap-3">
-                        <button
-                          onClick={() => window.location.href = `/watch/${entry.animeId}/${entry.episodeId}`}
-                          className="flex items-center gap-2 px-4 py-2 bg-red-600 text-white rounded-lg hover:bg-red-700 transition-colors"
-                        >
-                          <Play className="w-4 h-4" />
-                          {entry.progress < 0.9 ? 'Continuar' : 'Assistir Novamente'}
-                        </button>
-                        <button
-                          onClick={() => window.location.href = `/anime/${entry.animeId}`}
-                          className="px-4 py-2 bg-gray-700 text-gray-300 rounded-lg hover:bg-gray-600 transition-colors"
-                        >
-                          Ver Detalhes
-                        </button>
+                      {/* Content */}
+                      <div className="flex-1 min-w-0">
+                        <div className="flex items-start justify-between mb-2">
+                          <div>
+                            <Link to={`/anime/${entry.anime_id}`}>
+                              <h3 className="text-lg font-semibold text-white truncate hover:text-red-400 transition-colors">
+                                {entry.anime_title}
+                              </h3>
+                            </Link>
+                            <p className="text-gray-400">
+                              Episódio {entry.episode_number}{entry.episode_title ? `: ${entry.episode_title}` : ''}
+                            </p>
+                          </div>
+                          <div className="flex items-center gap-2">
+                            <div className="flex items-center gap-2 text-sm text-gray-400">
+                              <Calendar className="w-4 h-4" />
+                              {formatDistanceToNow(new Date(watchedAt), {
+                                addSuffix: true,
+                                locale: ptBR
+                              })}
+                            </div>
+                            <button
+                              onClick={() => {
+                                removeFromHistoryMutation.mutate(
+                                  { animeId: entry.anime_id, episodeId: entry.episode_id },
+                                  {
+                                    onSuccess: () => {
+                                      toast.success('Item removido do histórico')
+                                    },
+                                    onError: () => {
+                                      toast.error('Erro ao remover item do histórico')
+                                    }
+                                  }
+                                )
+                              }}
+                              className="p-1 text-gray-400 hover:text-red-400 transition-colors"
+                              title="Remover do histórico"
+                            >
+                              <X className="w-4 h-4" />
+                            </button>
+                          </div>
+                        </div>
+
+                        {/* Progress Bar */}
+                        <div className="mb-3">
+                          <div className="flex items-center justify-between text-sm text-gray-400 mb-1">
+                            <span>Progresso</span>
+                            <span>{Math.round(progressPercentage)}%</span>
+                          </div>
+                          <div className="w-full bg-gray-700 rounded-full h-2">
+                            <div
+                              className="bg-red-500 h-2 rounded-full transition-all duration-300"
+                              style={{ width: `${progressPercentage}%` }}
+                            />
+                          </div>
+                          {entry.last_position_seconds && entry.episode_duration && (
+                            <div className="flex justify-between text-xs text-gray-500 mt-1">
+                              <span>{Math.floor(entry.last_position_seconds / 60)}:{String(Math.floor(entry.last_position_seconds % 60)).padStart(2, '0')}</span>
+                              <span>{Math.floor(entry.episode_duration / 60)}:{String(Math.floor(entry.episode_duration % 60)).padStart(2, '0')}</span>
+                            </div>
+                          )}
+                        </div>
+
+                        {/* Actions */}
+                        <div className="flex items-center gap-3">
+                          <Link
+                            to={`/watch/${entry.anime_id}/${entry.episode_id}${entry.last_position_seconds ? `?t=${Math.floor(entry.last_position_seconds)}` : ''}`}
+                            className="flex items-center gap-2 px-4 py-2 bg-red-600 text-white rounded-lg hover:bg-red-700 transition-colors"
+                          >
+                            <Play className="w-4 h-4" />
+                            {progressPercentage < 90 ? 'Continuar' : 'Assistir Novamente'}
+                          </Link>
+                          <Link
+                            to={`/anime/${entry.anime_id}`}
+                            className="px-4 py-2 bg-gray-700 text-gray-300 rounded-lg hover:bg-gray-600 transition-colors"
+                          >
+                            Ver Detalhes
+                          </Link>
+                        </div>
                       </div>
                     </div>
                   </div>
-                </div>
-              ))}
+                )
+              })}
             </div>
 
             {/* Pagination */}
-            {historyData.totalPages > 1 && (
+            {historyData.total > 20 && (
               <div className="flex justify-center mt-12">
                 <div className="flex items-center gap-2">
                   <button
@@ -293,12 +333,12 @@ export const History: React.FC = () => {
                   </button>
                   
                   <span className="px-4 py-2 text-gray-300">
-                    Página {page} de {historyData.totalPages}
+                    Página {page} de {Math.ceil(historyData.total / 20)}
                   </span>
                   
                   <button
                     onClick={() => setPage(page + 1)}
-                    disabled={page === historyData.totalPages}
+                    disabled={page >= Math.ceil(historyData.total / 20)}
                     className="px-4 py-2 bg-gray-700 text-white rounded-lg disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-600 transition-colors"
                   >
                     Próxima

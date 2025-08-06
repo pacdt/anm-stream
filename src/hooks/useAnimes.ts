@@ -39,12 +39,38 @@ export const useInfiniteAnimes = (limit: number = 20) => {
 }
 
 // Hook para buscar animes por nome
-export const useSearchAnimes = (query: string, page: number = 1) => {
+export const useSearchAnimes = (query: string, page: number = 1, limit: number = 20) => {
   return useQuery({
-    queryKey: ['search-animes', query, page],
-    queryFn: () => AnimeService.searchAnimes(query, page),
-    enabled: !!query && query.length >= 2,
-    staleTime: 2 * 60 * 1000, // 2 minutos
+    queryKey: ['search-animes', query, page, limit],
+    queryFn: async () => {
+      if (!query.trim()) {
+        return { 
+          data: [], 
+          pagination: {
+            total: 0, 
+            totalPages: 0,
+            current_page: page,
+            has_next: false,
+            has_prev: false
+          }
+        }
+      }
+      
+      // Implementar busca real na API
+      try {
+        console.log(`🔍 [DEBUG] Buscando animes com query: "${query}", página: ${page}, limite: ${limit}`)
+        const result = await AnimeService.searchAnimes(query, page, limit)
+        console.log(`✅ [DEBUG] Resultados da busca:`, result)
+        console.log(`📊 [DEBUG] Animes encontrados: ${result?.data?.length || 0}`)
+        return result
+      } catch (error) {
+        console.error(`❌ [DEBUG] Erro na busca:`, error)
+        throw error
+      }
+    },
+    enabled: !!query.trim() && query.length >= 2,
+    staleTime: 5 * 60 * 1000, // 5 minutos
+    refetchOnWindowFocus: false
   })
 }
 
@@ -140,6 +166,16 @@ export const useAddToFavorites = () => {
       queryClient.invalidateQueries({ queryKey: ['favorites'] })
       queryClient.invalidateQueries({ queryKey: ['is-favorite', variables.animeId] })
     },
+   })
+ }
+
+// Hook para obter status de progresso de um anime
+export const useAnimeWatchStatus = (animeId: number) => {
+  return useQuery({
+    queryKey: ['anime-watch-status', animeId],
+    queryFn: () => SupabaseService.getLastWatchedEpisode(animeId),
+    enabled: !!animeId,
+    staleTime: 30 * 1000, // 30 segundos
   })
 }
 
@@ -207,5 +243,99 @@ export const useUpdateWatchProgress = () => {
         queryKey: ['episode-progress', variables.animeId, variables.episodeNumber] 
       })
     },
+  })
+}
+
+// Mutation para atualizar progresso detalhado de visualização
+export const useUpdateDetailedWatchProgress = () => {
+  const queryClient = useQueryClient()
+  
+  return useMutation({
+    mutationFn: ({
+      animeId,
+      animeName,
+      episodeNumber,
+      currentTimeSeconds,
+      totalDurationSeconds,
+      isCompleted
+    }: {
+      animeId: number
+      animeName: string
+      episodeNumber: number
+      currentTimeSeconds: number
+      totalDurationSeconds: number
+      isCompleted?: boolean
+    }) => SupabaseService.updateDetailedWatchProgress({
+      animeId,
+      animeName,
+      episodeNumber,
+      currentTimeSeconds,
+      totalDurationSeconds,
+      isCompleted
+    }),
+    onSuccess: (_, variables) => {
+      // Invalidar queries relacionadas
+      queryClient.invalidateQueries({ queryKey: ['watch-history'] })
+      queryClient.invalidateQueries({ 
+        queryKey: ['episode-progress', variables.animeId, variables.episodeNumber] 
+      })
+      queryClient.invalidateQueries({ 
+        queryKey: ['anime-progress', variables.animeId] 
+      })
+    },
+  })
+}
+
+// Hook para recomendações aleatórias
+export const useRandomRecommendations = (limit: number = 12) => {
+  return useQuery({
+    queryKey: ['random-recommendations', limit],
+    queryFn: async () => {
+      try {
+        console.log(`🎲 [DEBUG] Buscando ${limit} recomendações aleatórias`)
+        
+        // Buscar uma página aleatória de animes
+        const randomPage = Math.floor(Math.random() * 10) + 1 // Páginas 1-10
+        const result = await AnimeService.getAnimes(randomPage, limit * 2) // Buscar mais para ter variedade
+        
+        if (result?.data && result.data.length > 0) {
+          // Embaralhar os resultados e pegar apenas o limite solicitado
+          const shuffled = [...result.data].sort(() => Math.random() - 0.5)
+          const recommendations = shuffled.slice(0, limit)
+          
+          console.log(`✅ [DEBUG] ${recommendations.length} recomendações aleatórias obtidas`)
+          
+          return {
+            data: recommendations,
+            pagination: {
+              total: recommendations.length,
+              current_page: 1,
+              has_next: false,
+              has_prev: false
+            }
+          }
+        }
+        
+        // Fallback: se não conseguir dados aleatórios, usar top animes
+        console.log(`⚠️ [DEBUG] Fallback para top animes`)
+        const topResult = await AnimeService.getTopAnimes(limit)
+        return topResult
+        
+      } catch (error) {
+        console.error(`❌ [DEBUG] Erro ao buscar recomendações aleatórias:`, error)
+        
+        // Fallback em caso de erro: usar top animes
+        try {
+          console.log(`🔄 [DEBUG] Tentando fallback com top animes`)
+          return await AnimeService.getTopAnimes(limit)
+        } catch (fallbackError) {
+          console.error(`❌ [DEBUG] Erro no fallback:`, fallbackError)
+          throw fallbackError
+        }
+      }
+    },
+    staleTime: 2 * 60 * 1000, // 2 minutos (menor que outros para mais variedade)
+    cacheTime: 5 * 60 * 1000, // 5 minutos
+    refetchOnWindowFocus: false
   })
 }

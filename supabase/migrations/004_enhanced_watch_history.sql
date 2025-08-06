@@ -7,9 +7,9 @@ ADD COLUMN IF NOT EXISTS last_position_seconds INTEGER DEFAULT 0,
 ADD COLUMN IF NOT EXISTS is_completed BOOLEAN DEFAULT FALSE,
 ADD COLUMN IF NOT EXISTS last_watched_at TIMESTAMP WITH TIME ZONE DEFAULT NOW();
 
--- Atualizar registros existentes para ter last_watched_at baseado em created_at
+-- Atualizar registros existentes para ter last_watched_at baseado em last_watched
 UPDATE watch_history 
-SET last_watched_at = created_at 
+SET last_watched_at = last_watched 
 WHERE last_watched_at IS NULL;
 
 -- Criar índices para performance

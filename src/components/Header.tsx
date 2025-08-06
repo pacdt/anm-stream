@@ -56,6 +56,7 @@ export const Header: React.FC = () => {
       navigate(`/search?q=${encodeURIComponent(searchQuery.trim())}`)
       setIsSearchOpen(false)
       setSearchQuery('')
+      searchInputRef.current?.blur()
     }
   }
 
@@ -63,6 +64,27 @@ export const Header: React.FC = () => {
     const value = e.target.value
     debouncedSearch(value)
     setIsSearchOpen(value.length > 0)
+  }
+
+  const handleSearchKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
+    if (e.key === 'Enter') {
+      e.preventDefault()
+      if (searchQuery.trim()) {
+        navigate(`/search?q=${encodeURIComponent(searchQuery.trim())}`)
+        setIsSearchOpen(false)
+        setSearchQuery('')
+        searchInputRef.current?.blur()
+      }
+    }
+  }
+
+  const handleSearchButtonClick = () => {
+    if (searchQuery.trim()) {
+      navigate(`/search?q=${encodeURIComponent(searchQuery.trim())}`)
+      setIsSearchOpen(false)
+      setSearchQuery('')
+      searchInputRef.current?.blur()
+    }
   }
 
   const handleAnimeClick = (anime: Anime) => {
@@ -133,9 +155,16 @@ export const Header: React.FC = () => {
                   placeholder="Buscar animes..."
                   className="w-64 px-4 py-2 pl-10 bg-gray-800 text-white rounded-lg border border-gray-700 focus:border-red-500 focus:outline-none transition-colors duration-300 hidden sm:block"
                   onChange={handleSearchInputChange}
+                  onKeyDown={handleSearchKeyDown}
                   onFocus={() => searchQuery && setIsSearchOpen(true)}
                 />
-                <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 w-4 h-4 text-gray-400 hidden sm:block" />
+                <button
+                  type="button"
+                  onClick={handleSearchButtonClick}
+                  className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 hover:text-white transition-colors duration-300 hidden sm:block"
+                >
+                  <Search className="w-4 h-4" />
+                </button>
               </form>
 
               {/* Resultados da busca */}

@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import { useSearchParams } from 'react-router-dom'
 import { Search as SearchIcon, Filter, Grid, List, X } from 'lucide-react'
 import { AnimeCard } from '@/components'
-import { useAnimeSearch } from '@/hooks/useAnime'
+import { useSearchAnimes } from '@/hooks/useAnimes'
 import { AnimeGenre, AnimeStatus, AnimeType } from '@/types'
 
 interface SearchFilters {
@@ -25,12 +25,7 @@ export const Search: React.FC = () => {
     data: searchResults,
     isLoading,
     error
-  } = useAnimeSearch({
-    query,
-    ...filters,
-    page,
-    limit: 20
-  })
+  } = useSearchAnimes(query, 20)
 
   useEffect(() => {
     const q = searchParams.get('q')
@@ -256,14 +251,29 @@ export const Search: React.FC = () => {
           </div>
         )}
 
-        {searchResults && searchResults.animes.length === 0 && !isLoading && (
+        {searchResults && searchResults.animes.length === 0 && !isLoading && query && (
           <div className="text-center py-12">
             <SearchIcon className="w-16 h-16 text-gray-600 mx-auto mb-4" />
             <h3 className="text-xl font-semibold text-gray-400 mb-2">
               Nenhum resultado encontrado
             </h3>
+            <p className="text-gray-500 mb-4">
+              Não encontramos animes com o termo "{query}"
+            </p>
+            <p className="text-gray-600 text-sm">
+              Tente usar termos diferentes ou verifique a ortografia
+            </p>
+          </div>
+        )}
+
+        {!query && !isLoading && (
+          <div className="text-center py-12">
+            <SearchIcon className="w-16 h-16 text-gray-600 mx-auto mb-4" />
+            <h3 className="text-xl font-semibold text-gray-400 mb-2">
+              Busque por seus animes favoritos
+            </h3>
             <p className="text-gray-500">
-              Tente ajustar sua busca ou filtros
+              Digite o nome de um anime na barra de busca acima
             </p>
           </div>
         )}

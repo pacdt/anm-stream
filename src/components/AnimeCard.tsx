@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import { Heart, Play, Star, Clock } from 'lucide-react'
 import { Anime } from '@/types'
-import { useAddToFavorites, useRemoveFromFavorites, useIsFavorite } from '@/hooks/useAnimes'
+import { useAddToFavorites, useRemoveFromFavorites, useIsFavorite, useAnimeWatchStatus } from '@/hooks/useAnimes'
 import { useAuth } from '@/hooks/useAuth'
 import { cn } from '@/lib/utils'
 
@@ -27,6 +27,7 @@ export const AnimeCard: React.FC<AnimeCardProps> = ({
 }) => {
   const { isAuthenticated } = useAuth()
   const { data: isFavorite } = useIsFavorite(anime.id)
+  const { data: watchStatus } = useAnimeWatchStatus(anime.id)
   const addToFavorites = useAddToFavorites()
   const removeFromFavorites = useRemoveFromFavorites()
 
@@ -52,15 +53,15 @@ export const AnimeCard: React.FC<AnimeCardProps> = ({
   }
 
   const sizeClasses = {
-    sm: 'w-32 h-48',
-    md: 'w-40 h-60',
-    lg: 'w-48 h-72'
+    sm: 'w-28 h-40 sm:w-32 sm:h-48',
+    md: 'w-32 h-48 sm:w-40 sm:h-60',
+    lg: 'w-40 h-60 sm:w-48 sm:h-72'
   }
 
   const textSizeClasses = {
-    sm: 'text-xs',
-    md: 'text-sm',
-    lg: 'text-base'
+    sm: 'text-xs sm:text-sm',
+    md: 'text-sm sm:text-base',
+    lg: 'text-base sm:text-lg'
   }
 
   if (variant === 'horizontal') {
@@ -166,7 +167,7 @@ export const AnimeCard: React.FC<AnimeCardProps> = ({
       )}
     >
       {/* Imagem do anime */}
-      <div className="relative w-full h-full">
+      <div className="relative w-full h-4/5"> {/* Reduzir altura da imagem para 80% */}
         <img
           src={anime.imagem_original || '/placeholder-anime.jpg'}
           alt={anime.nome}
@@ -177,14 +178,28 @@ export const AnimeCard: React.FC<AnimeCardProps> = ({
           }}
         />
         
-        {/* Overlay gradiente */}
+        {/* Overlay gradiente sempre visível na parte inferior */}
+        <div className="absolute inset-x-0 bottom-0 h-1/3 bg-gradient-to-t from-black/90 via-black/50 to-transparent" />
+        
+        {/* Overlay gradiente no hover */}
         <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
         
-        {/* Botão de play */}
+        {/* Botão de play ou continuar */}
         <div className="absolute inset-0 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-          <div className="bg-red-600 rounded-full p-3 transform scale-75 group-hover:scale-100 transition-transform duration-300">
-            <Play className="w-6 h-6 text-white fill-current" />
-          </div>
+          {isAuthenticated && watchStatus && watchStatus.last_position_seconds > 0 ? (
+            <Link
+              to={`/anime/${anime.id}/episodio/${watchStatus.episode_number}`}
+              className="bg-blue-600 hover:bg-blue-700 rounded-lg px-4 py-2 transform scale-75 group-hover:scale-100 transition-all duration-300 flex items-center gap-2"
+              onClick={(e) => e.stopPropagation()}
+            >
+              <Play className="w-4 h-4 text-white fill-current" />
+              <span className="text-white text-sm font-medium">Continuar Ep. {watchStatus.episode_number}</span>
+            </Link>
+          ) : (
+            <div className="bg-red-600 rounded-full p-3 transform scale-75 group-hover:scale-100 transition-transform duration-300">
+              <Play className="w-6 h-6 text-white fill-current" />
+            </div>
+          )}
         </div>
         
         {/* Botão de favorito */}
@@ -208,59 +223,65 @@ export const AnimeCard: React.FC<AnimeCardProps> = ({
           </button>
         )}
         
-        {/* Rating */}
-        {anime.rating && (
-          <div className="absolute top-2 left-2 bg-black/70 rounded px-2 py-1 flex items-center gap-1">
-            <Star className="w-3 h-3 text-yellow-400 fill-current" />
-            <span className="text-white text-xs font-medium">
-              {typeof anime.rating === 'number' 
-                ? anime.rating.toFixed(1) 
-                : typeof anime.rating === 'string' && !isNaN(Number(anime.rating))
-                  ? Number(anime.rating).toFixed(1)
-                  : anime.rating
-              }
-            </span>
-          </div>
-        )}
+        {/* Rating e Faixa Etária */}
+        <div className="absolute top-2 left-2 right-2 flex justify-between items-start">
+          {anime.rating && (
+            <div className="bg-black/70 rounded px-2 py-1 flex items-center gap-1">
+              <Star className="w-3 h-3 text-yellow-400 fill-current" />
+              <span className="text-white text-xs font-medium">
+                {typeof anime.rating === 'number' 
+                  ? anime.rating.toFixed(1) 
+                  : typeof anime.rating === 'string' && !isNaN(Number(anime.rating))
+                    ? Number(anime.rating).toFixed(1)
+                    : anime.rating
+                }
+              </span>
+            </div>
+          )}
+          
+          {anime.classificacao_etaria && (
+            <div className="bg-red-600 rounded px-2 py-1">
+              <span className="text-white text-xs font-bold">
+                {anime.classificacao_etaria}
+              </span>
+            </div>
+          )}
+        </div>
         
-        {/* Barra de progresso */}
+
+      </div>
+      
+      {/* Informações sempre visíveis */}
+      <div className="absolute bottom-0 left-0 right-0 p-2 sm:p-3 text-white">
+        <h3 className={cn(
+          'font-semibold mb-1 line-clamp-2',
+          textSizeClasses[size]
+        )}>
+          {anime.nome}
+        </h3>
+        
+        <div className="flex items-center justify-between text-xs sm:text-sm text-gray-300">
+          <span>{anime.year}</span>
+          {anime.total_episodios && (
+            <span>{anime.total_episodios} eps</span>
+          )}
+        </div>
+        
+        {/* Barra de progresso se houver */}
         {showProgress && progress > 0 && (
-          <div className="absolute bottom-0 left-0 right-0 h-1 bg-gray-600">
+          <div className="w-full bg-gray-600 rounded-full h-1 mt-2">
             <div
-              className="h-full bg-red-600 transition-all duration-300"
+              className="bg-red-600 h-1 rounded-full transition-all duration-300"
               style={{ width: `${Math.min(progress, 100)}%` }}
             />
           </div>
         )}
       </div>
       
-      {/* Informações do anime */}
-      <div className="absolute bottom-0 left-0 right-0 p-3 bg-gradient-to-t from-black to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-        <h3 className={cn(
-          'font-semibold text-white line-clamp-2 mb-1',
-          textSizeClasses[size]
-        )}>
-          {anime.nome}
-        </h3>
-        
-        <div className="flex items-center gap-2 text-gray-300">
-          {anime.year && (
-            <span className="text-xs">{anime.year}</span>
-          )}
-          
-          {anime.episodes_count && (
-            <>
-              <span className="text-xs">•</span>
-              <div className="flex items-center gap-1">
-                <Clock className="w-3 h-3" />
-                <span className="text-xs">{anime.episodes_count} eps</span>
-              </div>
-            </>
-          )}
-        </div>
-        
+      {/* Informações extras no hover */}
+      <div className="absolute bottom-0 left-0 right-0 p-2 sm:p-3 bg-gradient-to-t from-black to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
         {anime.genres && anime.genres.length > 0 && (
-          <div className="flex flex-wrap gap-1 mt-2">
+          <div className="flex flex-wrap gap-1 mt-12 sm:mt-16">
             {anime.genres.slice(0, 2).map((genre, index) => (
               <span
                 key={index}
