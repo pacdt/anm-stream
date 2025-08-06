@@ -40,7 +40,7 @@ const createMockResponse = (data: any[] = mockAnimes, page: number = 1, limit: n
 
 // Configuração base da API
 const apiClient = axios.create({
-  baseURL: import.meta.env.VITE_API_URL || 'https://152.67.40.213:3000/api',
+  baseURL: import.meta.env.VITE_API_URL || '/api-proxy',
   timeout: 10000,
   headers: {
     'Content-Type': 'application/json',
