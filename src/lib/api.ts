@@ -1,21 +1,27 @@
 import axios from 'axios'
 import { Anime, Episode, EpisodeStreamResponse, ApiResponse } from '@/types'
 
+// Tipo customizado para Error com originalError
+interface CustomError extends Error {
+  originalError?: any;
+}
+
 // Dados mock para fallback quando a API estiver indisponível
 const mockAnimes: Anime[] = [
   {
     id: 1,
-    title: 'Anime em Manutenção',
-    synopsis: 'O serviço está temporariamente indisponível. Tente novamente em alguns minutos.',
-    image: 'https://via.placeholder.com/300x400/4A90E2/FFFFFF?text=Em+Manutenção',
+    nome: 'Anime em Manutenção',
+    name: 'Anime em Manutenção',
+    link: '/anime/manutencao',
     rating: 0,
-    year: new Date().getFullYear(),
-    status: 'Em manutenção',
-    genres: ['Sistema'],
+    classificacao_etaria: 'L',
+    imagem_original: 'https://via.placeholder.com/300x400/4A90E2/FFFFFF?text=Em+Manutenção',
+    image: 'https://via.placeholder.com/300x400/4A90E2/FFFFFF?text=Em+Manutenção',
+    secao: 'lancamentos' as const,
+    total_episodios: 0,
     episodes_count: 0,
-    duration: '0 min',
-    studio: 'Sistema',
-    age_rating: 'L'
+    year: new Date().getFullYear(),
+    genres: ['Sistema']
   }
 ]
 
@@ -52,7 +58,7 @@ apiClient.interceptors.response.use(
       console.warn('🚨 [API] Erro de conectividade detectado. API pode estar indisponível.')
       
       // Criar erro customizado com informações úteis
-      const customError = new Error('Serviço temporariamente indisponível. Tente novamente em alguns minutos.')
+      const customError = new Error('Serviço temporariamente indisponível. Tente novamente em alguns minutos.') as CustomError
       customError.name = 'NetworkError'
       customError.originalError = error
       
@@ -63,7 +69,7 @@ apiClient.interceptors.response.use(
     if (error.message?.includes('CORS') || error.code === 'ERR_BLOCKED_BY_CLIENT') {
       console.warn('🚨 [API] Erro de CORS detectado.')
       
-      const customError = new Error('Erro de conectividade. Verifique sua conexão com a internet.')
+      const customError = new Error('Erro de conectividade. Verifique sua conexão com a internet.') as CustomError
       customError.name = 'CORSError'
       customError.originalError = error
       
