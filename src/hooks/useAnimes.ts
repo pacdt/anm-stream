@@ -1,7 +1,6 @@
 import { useQuery, useInfiniteQuery, useMutation, useQueryClient } from '@tanstack/react-query'
 import { AnimeService } from '@/lib/api'
 import { SupabaseService } from '@/lib/supabaseService'
-import { Anime } from '@/types'
 
 // Hook para listar animes com paginação
 export const useAnimes = (page: number = 1, limit: number = 20) => {
@@ -26,8 +25,9 @@ export const useAnime = (id: number) => {
 export const useInfiniteAnimes = (limit: number = 20) => {
   return useInfiniteQuery({
     queryKey: ['animes-infinite', limit],
-    queryFn: ({ pageParam = 1 }) => AnimeService.getAnimes(pageParam, limit),
-    getNextPageParam: (lastPage) => {
+    queryFn: ({ pageParam = 1 }) => AnimeService.getAnimes(pageParam as number, limit),
+    initialPageParam: 1,
+    getNextPageParam: (lastPage: any) => {
       if (lastPage.pagination?.has_next) {
         return lastPage.pagination.current_page + 1
       }
@@ -46,9 +46,10 @@ export const useSearchAnimes = (query: string, page: number = 1, limit: number =
         return { 
           data: [], 
           pagination: {
-            total: 0, 
-            totalPages: 0,
+            total_items: 0, 
+            total_pages: 0,
             current_page: page,
+            per_page: limit,
             has_next: false,
             has_prev: false
           }
@@ -307,8 +308,10 @@ export const useRandomRecommendations = (limit: number = 12) => {
           return {
             data: recommendations,
             pagination: {
-              total: recommendations.length,
+              total_items: recommendations.length,
+              total_pages: 1,
               current_page: 1,
+              per_page: limit,
               has_next: false,
               has_prev: false
             }
@@ -334,7 +337,7 @@ export const useRandomRecommendations = (limit: number = 12) => {
       }
     },
     staleTime: 2 * 60 * 1000, // 2 minutos (menor que outros para mais variedade)
-    cacheTime: 5 * 60 * 1000, // 5 minutos
+    gcTime: 5 * 60 * 1000, // 5 minutos
     refetchOnWindowFocus: false
   })
 }

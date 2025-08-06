@@ -4,21 +4,13 @@ import { localStorageService } from '@/lib/localStorageService'
 import { useAuth } from '@/hooks/useAuth'
 import { WatchHistoryItem, HistoryResponse } from '@/types'
 
-interface HistoryParams {
-  userId: string
-  search?: string
-  dateRange?: 'today' | 'week' | 'month' | 'all'
-  page?: number
-  limit?: number
-}
-
 // Hook para buscar histórico com filtros (híbrido: Supabase + localStorage)
 export const useWatchHistory = (params: {
   period?: 'today' | 'week' | 'month' | 'all'
   search?: string
   page?: number
   limit?: number
-} = {}): { data?: HistoryResponse; isLoading: boolean; error: any } => {
+} = {}) => {
   const { user } = useAuth()
   
   return useQuery({
@@ -52,8 +44,7 @@ export const useWatchHistory = (params: {
           last_position_seconds: item.currentTime,
           is_completed: (item.currentTime / item.duration) >= 0.9,
           last_watched_at: item.lastWatchedAt,
-          created_at: item.lastWatchedAt,
-          updated_at: item.lastWatchedAt
+          last_watched: item.lastWatchedAt
         }))
       }
       
@@ -88,7 +79,7 @@ export const useWatchHistory = (params: {
       if (params.period && params.period !== 'all') {
         const now = new Date()
         filteredHistory = filteredHistory.filter(item => {
-          const itemDate = new Date(item.last_watched_at || item.created_at)
+          const itemDate = new Date(item.last_watched_at || item.last_watched)
           
           switch (params.period) {
             case 'today':
@@ -107,8 +98,8 @@ export const useWatchHistory = (params: {
       
       // Ordenar por data mais recente
       filteredHistory.sort((a, b) => 
-        new Date(b.last_watched_at || b.created_at).getTime() - 
-        new Date(a.last_watched_at || a.created_at).getTime()
+        new Date(b.last_watched_at || b.last_watched).getTime() - 
+        new Date(a.last_watched_at || a.last_watched).getTime()
       )
       
       // Paginação

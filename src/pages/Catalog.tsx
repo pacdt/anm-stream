@@ -1,6 +1,7 @@
-import React, { useState, useMemo } from 'react'
+import { useState, useMemo } from 'react'
 import { useSearchParams } from 'react-router-dom'
-import { useInfiniteAnimes, useSearchAnimes } from '@/hooks/useAnimes'
+import { useInfiniteAnimes } from '@/hooks/useAnimes'
+import { useAnimeSearch } from '@/hooks/useAnime'
 import { AnimeCard, Loading, LoadingError } from '@/components'
 import { Search, Filter, Grid, List, ChevronDown } from 'lucide-react'
 // Tipos locais para filtros
@@ -66,26 +67,20 @@ export function Catalog() {
   )
 
   // Queries
-  const searchQuery = useSearchAnimes(searchTerm, {
-    enabled: !!searchTerm.trim()
+  const searchQuery = useAnimeSearch({
+    query: searchTerm,
+    page: 1,
+    limit: 20
   })
 
-  const catalogQuery = useInfiniteAnimes({
-    genres: selectedGenres,
-    status: selectedStatus || undefined,
-    type: selectedType || undefined,
-    year: selectedYear || undefined,
-    sort: sortBy
-  }, {
-    enabled: !searchTerm.trim()
-  })
+  const catalogQuery = useInfiniteAnimes(20)
 
   const isLoading = searchTerm ? searchQuery.isLoading : catalogQuery.isLoading
   const isError = searchTerm ? searchQuery.isError : catalogQuery.isError
-  const error = searchTerm ? searchQuery.error : catalogQuery.error
+  // const error = searchTerm ? searchQuery.error : catalogQuery.error
   const animes = searchTerm 
-    ? searchQuery.data || []
-    : catalogQuery.data?.pages.flatMap(page => page.data) || []
+    ? searchQuery.data?.data || []
+    : catalogQuery.data?.pages.flatMap((page: any) => page.data) || []
 
   const handleSearchChange = (value: string) => {
     setSearchTerm(value)
@@ -131,11 +126,7 @@ export function Catalog() {
     setSearchParams({})
   }
 
-  const loadMore = () => {
-    if (!searchTerm && catalogQuery.hasNextPage && !catalogQuery.isFetchingNextPage) {
-      catalogQuery.fetchNextPage()
-    }
-  }
+
 
   if (isError) {
     return (
@@ -342,7 +333,7 @@ export function Catalog() {
           {!searchTerm && catalogQuery.hasNextPage && (
             <div className="text-center mt-8">
               <button
-                onClick={loadMore}
+                onClick={() => catalogQuery.fetchNextPage()}
                 disabled={catalogQuery.isFetchingNextPage}
                 className="bg-red-600 text-white px-6 py-3 rounded-lg hover:bg-red-700 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
               >

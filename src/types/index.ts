@@ -4,7 +4,7 @@ export interface Anime {
   nome: string;
   name: string; // Alias para nome
   link: string;
-  rating: string;
+  rating: string | number;
   classificacao_etaria: string;
   imagem_original: string;
   image: string; // Alias para imagem_original
@@ -73,43 +73,28 @@ export interface ApiResponse<T> {
 
 // Tipo de Resposta com Paginação
 export interface PaginatedResponse<T> {
-  animes: T[];
-  totalPages: number;
-  currentPage: number;
-  totalItems: number;
-  hasNext: boolean;
-  hasPrev: boolean;
+  data: T[];
+  pagination: PaginationInfo;
 }
 
 // Tipo para Busca de Animes
 export interface AnimeSearchResponse {
-  animes: Anime[];
-  total: number;
-  totalPages: number;
-  currentPage: number;
-  totalItems: number;
-  hasNext: boolean;
-  hasPrev: boolean;
+  data: Anime[];
+  pagination: PaginationInfo;
 }
 
 // Tipo para Favoritos
 export interface FavoritesResponse {
-  animes: Anime[];
-  total: number;
-  totalPages: number;
-  currentPage: number;
-  totalItems: number;
-  hasNext: boolean;
-  hasPrev: boolean;
+  data: Anime[];
+  pagination: PaginationInfo;
 }
 
 // Tipo para Histórico
 export interface HistoryResponse {
-  items: WatchHistoryItem[];
+  entries: WatchHistoryItem[];
   total: number;
   totalPages: number;
   currentPage: number;
-  totalItems: number;
   hasNext: boolean;
   hasPrev: boolean;
 }
@@ -172,6 +157,8 @@ export interface WatchHistoryItem {
   anime_id: number;
   anime_name: string;
   episode_number: number;
+  episode_id?: number;             // ID do episódio
+  episode_duration?: number;       // Duração do episódio em segundos
   progress_seconds: number;
   total_duration_seconds?: number;
   last_position_seconds: number;  // NOVO: Posição exata onde parou

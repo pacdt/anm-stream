@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { Heart, Grid, List, Filter, Search, X } from 'lucide-react'
 import { AnimeCard } from '@/components'
-import { useAuth } from '@/hooks/useAuth'
+// import { useAuth } from '@/hooks/useAuth'
 import { useFavorites } from '@/hooks/useFavorites'
 import { AnimeGenre, AnimeStatus, AnimeType } from '@/types'
 
@@ -13,7 +13,7 @@ interface FavoriteFilters {
 }
 
 export const Favorites: React.FC = () => {
-  const { user } = useAuth()
+  // const { user } = useAuth()
   const [viewMode, setViewMode] = useState<'grid' | 'list'>('grid')
   const [showFilters, setShowFilters] = useState(false)
   const [filters, setFilters] = useState<FavoriteFilters>({})
@@ -24,8 +24,10 @@ export const Favorites: React.FC = () => {
     isLoading,
     error
   } = useFavorites({
-    userId: user?.id || '',
-    ...filters,
+    search: filters.search,
+    genre: filters.genre,
+    status: filters.status,
+    type: filters.type,
     page,
     limit: 20
   })
@@ -109,7 +111,7 @@ export const Favorites: React.FC = () => {
 
               {favoritesData && (
                 <span className="text-gray-400">
-                  {favoritesData.total} favorito(s)
+                  {favoritesData.pagination.total_items} favorito(s)
                 </span>
               )}
             </div>
@@ -220,7 +222,7 @@ export const Favorites: React.FC = () => {
           </div>
         )}
 
-        {favoritesData && favoritesData.animes.length === 0 && (
+        {favoritesData && favoritesData.data.length === 0 && (
           <div className="text-center py-12">
             <Heart className="w-16 h-16 text-gray-600 mx-auto mb-4" />
             <h3 className="text-xl font-semibold text-gray-400 mb-2">
@@ -243,14 +245,14 @@ export const Favorites: React.FC = () => {
           </div>
         )}
 
-        {favoritesData && favoritesData.animes.length > 0 && (
+        {favoritesData && favoritesData.data.length > 0 && (
           <>
             <div className={`grid gap-6 ${
               viewMode === 'grid'
                 ? 'grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5'
                 : 'grid-cols-1'
             }`}>
-              {favoritesData.animes.map((anime) => (
+              {favoritesData.data.map((anime) => (
                 <AnimeCard
                   key={anime.id}
                   anime={anime}
@@ -261,7 +263,7 @@ export const Favorites: React.FC = () => {
             </div>
 
             {/* Pagination */}
-            {favoritesData.totalPages > 1 && (
+            {favoritesData.pagination.total_pages > 1 && (
               <div className="flex justify-center mt-12">
                 <div className="flex items-center gap-2">
                   <button
@@ -273,12 +275,12 @@ export const Favorites: React.FC = () => {
                   </button>
                   
                   <span className="px-4 py-2 text-gray-300">
-                    Página {page} de {favoritesData.totalPages}
+                    Página {page} de {favoritesData.pagination.total_pages}
                   </span>
                   
                   <button
                     onClick={() => setPage(page + 1)}
-                    disabled={page === favoritesData.totalPages}
+                    disabled={page === favoritesData.pagination.total_pages}
                     className="px-4 py-2 bg-gray-700 text-white rounded-lg disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-600 transition-colors"
                   >
                     Próxima

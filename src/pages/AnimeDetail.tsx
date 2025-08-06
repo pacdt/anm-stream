@@ -1,7 +1,9 @@
-import React, { useState } from 'react'
+// import React, { useState } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
-import { useAnime, useIsFavorite, useAddToFavorites, useRemoveFromFavorites } from '@/hooks/useAnimes'
-import { useEpisodes, useAnimeProgress } from '@/hooks/useEpisodes'
+import { useAnime } from '@/hooks/useAnime'
+import { useIsFavorite, useAddToFavorites, useRemoveFromFavorites } from '@/hooks/useFavorites'
+import { useEpisodes } from '@/hooks/useEpisodes'
+import { useAnimeProgress } from '@/hooks/useHistory'
 import { useAuth } from '@/hooks/useAuth'
 import { Loading, LoadingError } from '@/components'
 import { 
@@ -19,12 +21,12 @@ export function AnimeDetail() {
   const { id } = useParams<{ id: string }>()
   const navigate = useNavigate()
   const { isAuthenticated } = useAuth()
-  const [selectedSeason, setSelectedSeason] = useState(1)
+  // const [selectedSeason, setSelectedSeason] = useState(1)
   
   const animeQuery = useAnime(Number(id))
   const episodesQuery = useEpisodes(Number(id))
-  const progressQuery = useAnimeProgress(Number(id), { enabled: isAuthenticated })
-  const isFavoriteQuery = useIsFavorite(Number(id), { enabled: isAuthenticated })
+  const progressQuery = useAnimeProgress(Number(id))
+  const isFavoriteQuery = useIsFavorite(Number(id))
   
   const addToFavoritesMutation = useAddToFavorites()
   const removeFromFavoritesMutation = useRemoveFromFavorites()
@@ -88,8 +90,9 @@ export function AnimeDetail() {
     )
   }
 
-  const nextEpisode = progress?.nextEpisode
-  const watchedEpisodes = progress?.watchedEpisodes || 0
+  const lastWatchedEpisode = progress && progress.length > 0 ? Math.max(...progress.map(p => p.episode_number)) : 0
+  const nextEpisode = lastWatchedEpisode > 0 ? lastWatchedEpisode + 1 : 1
+  const watchedEpisodes = progress?.length || 0
   const totalEpisodes = anime?.total_episodios || 0
   const completionPercentage = totalEpisodes > 0 ? (watchedEpisodes / totalEpisodes) * 100 : 0
 
@@ -171,14 +174,14 @@ export function AnimeDetail() {
               )}
 
               {/* Description */}
-              {anime.sinopse && (
+              {/* {anime.sinopse && (
                 <p className="text-gray-300 text-lg leading-relaxed mb-8 max-w-3xl">
                   {anime.sinopse}
                 </p>
-              )}
+              )} */}
 
               {/* Progress Bar (if authenticated and has progress) */}
-              {isAuthenticated && watchedEpisodes > 0 && (
+              {isAuthenticated && progress && progress.length > 0 && (
                 <div className="mb-6">
                   <div className="flex justify-between text-sm text-gray-400 mb-2">
                     <span>Progresso: {watchedEpisodes}/{totalEpisodes} episódios</span>
@@ -255,7 +258,7 @@ export function AnimeDetail() {
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             {episodes.map((episode) => {
-              const isWatched = progress?.watchedEpisodes && episode.episode_number <= progress.watchedEpisodes
+              const isWatched = progress?.some(p => p.episode_number === episode.episode_number && p.is_completed)
               const isCurrent = episode.episode_number === nextEpisode
               
               return (

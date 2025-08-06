@@ -206,7 +206,7 @@ export const Header: React.FC = () => {
                           }}
                           className="w-full px-4 py-3 text-red-400 hover:bg-gray-700 transition-colors duration-300 text-center"
                         >
-                          Ver todos os resultados ({searchResults.pagination?.total || 0})
+                          Ver todos os resultados ({searchResults.pagination?.total_items || 0})
                         </button>
                       )}
                     </div>

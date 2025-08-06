@@ -1,5 +1,5 @@
 import axios from 'axios'
-import { Anime, Episode, EpisodeStreamResponse, ApiResponse, PaginationInfo } from '@/types'
+import { Anime, Episode, EpisodeStreamResponse, ApiResponse } from '@/types'
 
 // Configuração base da API
 const apiClient = axios.create({
@@ -189,6 +189,26 @@ export class AnimeService {
           total_pages: 0,
           has_next: false,
           has_prev: false
+        }
+      }
+    }
+  }
+
+  // Buscar estatísticas de um anime
+  static async getAnimeStats(animeId: number): Promise<any> {
+    try {
+      const response = await apiClient.get(`/animes/${animeId}/stats`)
+      return response.data
+    } catch (error) {
+      console.warn('Endpoint de estatísticas não disponível')
+      // Retornar estatísticas mock
+      return {
+        message: 'Estatísticas não disponíveis',
+        data: {
+          views: 0,
+          favorites: 0,
+          rating: 0,
+          reviews: 0
         }
       }
     }

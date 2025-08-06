@@ -36,19 +36,20 @@ export const useAnime = (id: number) => {
 }
 
 // Hook para busca avançada de animes
-export const useAnimeSearch = (params: AnimeSearchParams): { data?: AnimeSearchResponse; isLoading: boolean; error: any } => {
+export const useAnimeSearch = (params: AnimeSearchParams) => {
   return useQuery({
     queryKey: ['anime-search', params],
     queryFn: async (): Promise<AnimeSearchResponse> => {
-      const response = await AnimeService.searchAnimes(params)
+      const response = await AnimeService.searchAnimes(params.query || '', params.page || 1, params.limit || 20)
       return {
         data: response.data,
-        pagination: {
-          total: response.pagination?.total || 0,
-          totalPages: response.pagination?.totalPages || 1,
-          current_page: response.pagination?.current_page || 1,
-          has_next: response.pagination?.has_next || false,
-          has_prev: response.pagination?.has_prev || false
+        pagination: response.pagination || {
+          total_items: 0,
+          total_pages: 1,
+          current_page: 1,
+          per_page: 20,
+          has_next: false,
+          has_prev: false
         }
       }
     },
@@ -58,19 +59,20 @@ export const useAnimeSearch = (params: AnimeSearchParams): { data?: AnimeSearchR
 }
 
 // Hook para catálogo com filtros
-export const useCatalogAnimes = (params: CatalogParams): { data?: PaginatedResponse<Anime>; isLoading: boolean; error: any } => {
+export const useCatalogAnimes = (params: CatalogParams) => {
   return useQuery({
     queryKey: ['catalog-animes', params],
     queryFn: async (): Promise<PaginatedResponse<Anime>> => {
       const response = await AnimeService.getCatalogAnimes(params)
       return {
         data: response.data,
-        pagination: {
-          total: response.pagination?.total || 0,
-          totalPages: response.pagination?.totalPages || 1,
-          current_page: response.pagination?.current_page || 1,
-          has_next: response.pagination?.has_next || false,
-          has_prev: response.pagination?.has_prev || false
+        pagination: response.pagination || {
+          total_items: 0,
+          total_pages: 1,
+          current_page: 1,
+          per_page: 20,
+          has_next: false,
+          has_prev: false
         }
       }
     },

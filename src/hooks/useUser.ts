@@ -1,15 +1,6 @@
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query'
 import { SupabaseService } from '@/lib/supabaseService'
 
-interface UserProfileData {
-  displayName?: string
-  bio?: string
-  location?: string
-  birthDate?: string
-  favoriteGenres?: string[]
-  avatarUrl?: string
-}
-
 interface UpdateProfileParams {
   userId: string
   displayName?: string
@@ -61,7 +52,7 @@ export const useUploadAvatar = () => {
   return useMutation({
     mutationFn: ({ userId, file }: { userId: string, file: File }) => 
       SupabaseService.uploadAvatar(userId, file),
-    onSuccess: (data, variables) => {
+    onSuccess: (_data, variables) => {
       // Invalidar queries relacionadas
       queryClient.invalidateQueries({ queryKey: ['user-profile', variables.userId] })
     },

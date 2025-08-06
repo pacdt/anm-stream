@@ -227,7 +227,7 @@ export const Search: React.FC = () => {
             </h2>
             {searchResults && (
               <p className="text-gray-400 mt-1">
-                {searchResults.pagination?.total || 0} resultado(s) encontrado(s)
+                {searchResults.pagination?.total_items || 0} resultado(s) encontrado(s)
               </p>
             )}
           </div>
@@ -295,7 +295,7 @@ export const Search: React.FC = () => {
             </div>
 
             {/* Pagination */}
-            {(searchResults.pagination?.totalPages || 0) > 1 && (
+            {(searchResults.pagination?.total_pages || 0) > 1 && (
               <div className="flex justify-center mt-12">
                 <div className="flex items-center gap-2">
                   <button
@@ -307,12 +307,12 @@ export const Search: React.FC = () => {
                   </button>
                   
                   <span className="px-4 py-2 text-gray-300">
-                    Página {page} de {searchResults.pagination?.totalPages || 0}
+                    Página {page} de {searchResults.pagination?.total_pages || 0}
                   </span>
                   
                   <button
                     onClick={() => setPage(page + 1)}
-                    disabled={page === (searchResults.pagination?.totalPages || 0)}
+                    disabled={page === (searchResults.pagination?.total_pages || 0)}
                     className="px-4 py-2 bg-gray-700 text-white rounded-lg disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-600 transition-colors"
                   >
                     Próxima

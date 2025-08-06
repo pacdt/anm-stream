@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { Clock, Play, Trash2, Filter, Search, X, Calendar } from 'lucide-react'
-import { AnimeCard } from '@/components'
+// import { AnimeCard } from '@/components'
 import { useAuth } from '@/hooks/useAuth'
 import { useWatchHistory, useClearHistory, useRemoveFromHistory } from '@/hooks/useHistory'
 import { formatDistanceToNow } from 'date-fns'
@@ -59,14 +59,14 @@ export const History: React.FC = () => {
 
   const hasActiveFilters = filters.search || filters.dateRange !== 'all'
 
-  const getDateRangeLabel = (range: string) => {
-    switch (range) {
-      case 'today': return 'Hoje'
-      case 'week': return 'Esta semana'
-      case 'month': return 'Este mês'
-      default: return 'Todo período'
-    }
-  }
+  // const getDateRangeLabel = (range: string) => {
+  //   switch (range) {
+  //     case 'today': return 'Hoje'
+  //     case 'week': return 'Esta semana'
+  //     case 'month': return 'Este mês'
+  //     default: return 'Todo período'
+  //   }
+  // }
 
   if (isLoading) {
     return (
@@ -218,7 +218,7 @@ export const History: React.FC = () => {
                 const progressPercentage = entry.last_position_seconds && entry.episode_duration 
                   ? Math.min((entry.last_position_seconds / entry.episode_duration) * 100, 100)
                   : 0
-                const watchedAt = entry.last_watched_at || entry.watched_at
+                const watchedAt = entry.last_watched_at || entry.last_watched
                 
                 return (
                   <div key={`${entry.anime_id}-${entry.episode_id}-${watchedAt}`} className="bg-gray-800 rounded-lg p-4">
@@ -227,8 +227,8 @@ export const History: React.FC = () => {
                       <div className="flex-shrink-0">
                         <Link to={`/anime/${entry.anime_id}`}>
                           <img
-                            src={entry.anime_poster_url || '/placeholder-anime.jpg'}
-                            alt={entry.anime_title}
+                            src={'/placeholder-anime.jpg'}
+                            alt={entry.anime_name}
                             className="w-20 h-28 object-cover rounded-lg hover:opacity-80 transition-opacity"
                           />
                         </Link>
@@ -240,11 +240,11 @@ export const History: React.FC = () => {
                           <div>
                             <Link to={`/anime/${entry.anime_id}`}>
                               <h3 className="text-lg font-semibold text-white truncate hover:text-red-400 transition-colors">
-                                {entry.anime_title}
+                                {entry.anime_name}
                               </h3>
                             </Link>
                             <p className="text-gray-400">
-                              Episódio {entry.episode_number}{entry.episode_title ? `: ${entry.episode_title}` : ''}
+                              Episódio {entry.episode_number}
                             </p>
                           </div>
                           <div className="flex items-center gap-2">
@@ -258,7 +258,7 @@ export const History: React.FC = () => {
                             <button
                               onClick={() => {
                                 removeFromHistoryMutation.mutate(
-                                  { animeId: entry.anime_id, episodeId: entry.episode_id },
+                                { animeId: entry.anime_id, episodeNumber: entry.episode_number },
                                   {
                                     onSuccess: () => {
                                       toast.success('Item removido do histórico')
@@ -300,7 +300,7 @@ export const History: React.FC = () => {
                         {/* Actions */}
                         <div className="flex items-center gap-3">
                           <Link
-                            to={`/watch/${entry.anime_id}/${entry.episode_id}${entry.last_position_seconds ? `?t=${Math.floor(entry.last_position_seconds)}` : ''}`}
+                            to={`/watch/${entry.anime_id}/${entry.episode_number}${entry.last_position_seconds ? `?t=${Math.floor(entry.last_position_seconds)}` : ''}`}
                             className="flex items-center gap-2 px-4 py-2 bg-red-600 text-white rounded-lg hover:bg-red-700 transition-colors"
                           >
                             <Play className="w-4 h-4" />
@@ -333,12 +333,12 @@ export const History: React.FC = () => {
                   </button>
                   
                   <span className="px-4 py-2 text-gray-300">
-                    Página {page} de {Math.ceil(historyData.total / 20)}
+                    Página {page} de {historyData.totalPages}
                   </span>
                   
                   <button
                     onClick={() => setPage(page + 1)}
-                    disabled={page >= Math.ceil(historyData.total / 20)}
+                    disabled={page >= historyData.totalPages}
                     className="px-4 py-2 bg-gray-700 text-white rounded-lg disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-600 transition-colors"
                   >
                     Próxima

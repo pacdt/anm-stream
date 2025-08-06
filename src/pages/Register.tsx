@@ -9,7 +9,7 @@ import { toast } from 'sonner'
 
 export const Register: React.FC = () => {
   const navigate = useNavigate()
-  const { signUp, isLoading, error, clearError } = useAuth()
+  const { isLoading, error, clearError } = useAuth()
   const { signUp: authStoreSignUp } = useAuthStore()
   
   const [formData, setFormData] = useState({
@@ -21,7 +21,7 @@ export const Register: React.FC = () => {
   const [showPassword, setShowPassword] = useState(false)
   const [showConfirmPassword, setShowConfirmPassword] = useState(false)
   const [validationErrors, setValidationErrors] = useState<Record<string, string>>({})
-  const [isSuccess, setIsSuccess] = useState(false)
+  const [isSuccess] = useState(false)
 
   const validateForm = () => {
     const errors: Record<string, string> = {}

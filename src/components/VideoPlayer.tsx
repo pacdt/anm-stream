@@ -53,8 +53,7 @@ export function VideoPlayer({
     isMuted,
     isFullscreen,
     playbackRate,
-    // currentQuality,
-    // availableQualities,
+
     isLoading,
     isBuffering,
     error,
@@ -96,9 +95,9 @@ export function VideoPlayer({
     console.log('VideoPlayer - URL type check:', typeof currentSource.src)
     console.log('VideoPlayer - URL validity check:', currentSource.src && currentSource.src.length > 0)
     
-    const qualities = availableSources.map(source => ({ label: source.label, value: source.label }))
+    const qualities = availableSources.map(source => ({ label: source.label, src: source.src }))
     setAvailableQualities(qualities)
-    setCurrentQuality({ label: currentSource.label, value: currentSource.label })
+    setCurrentQuality({ label: currentSource.label, src: currentSource.src })
   }, [availableSources, currentSource, setAvailableQualities, setCurrentQuality])
 
   // Video event handlers

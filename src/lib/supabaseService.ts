@@ -1,4 +1,4 @@
-import { supabase, isSupabaseConfigured, checkSupabaseAvailable } from './supabase'
+import { supabase, /* isSupabaseConfigured, */ checkSupabaseAvailable } from './supabase'
 import { UserFavorite, WatchHistoryItem } from '@/types'
 
 // Serviços do Supabase
@@ -531,6 +531,104 @@ export class SupabaseService {
     
     if (error) throw error
   }
+
+  // Upload de avatar
+  static async uploadAvatar(userId: string, file: File) {
+    if (!checkSupabaseAvailable() || !supabase) {
+      throw new Error('Upload não disponível - Supabase não configurado')
+    }
+
+    const fileExt = file.name.split('.').pop()
+    const fileName = `${userId}-${Math.random()}.${fileExt}`
+    const filePath = `avatars/${fileName}`
+
+    const { error: uploadError } = await supabase.storage
+      .from('avatars')
+      .upload(filePath, file)
+
+    if (uploadError) throw uploadError
+
+    const { data } = supabase.storage
+      .from('avatars')
+      .getPublicUrl(filePath)
+
+    return { url: data.publicUrl }
+  }
+
+  // Deletar conta do usuário
+  static async deleteUserAccount(userId: string) {
+    if (!checkSupabaseAvailable() || !supabase) {
+      throw new Error('Funcionalidade não disponível - Supabase não configurado')
+    }
+
+    // Deletar dados relacionados primeiro
+    await Promise.all([
+      supabase.from('user_favorites').delete().eq('user_id', userId),
+      supabase.from('watch_history').delete().eq('user_id', userId),
+      supabase.from('user_profiles').delete().eq('user_id', userId)
+    ])
+
+    // Note: Deletar o usuário da auth requer privilégios de admin
+    // Por enquanto, apenas limpar os dados relacionados
+    return { success: true }
+  }
+
+  // Obter preferências do usuário
+  static async getUserPreferences(userId: string) {
+    if (!checkSupabaseAvailable() || !supabase) {
+      return null
+    }
+
+    const { data, error } = await supabase
+      .from('user_profiles')
+      .select('favorite_genres')
+      .eq('user_id', userId)
+      .single()
+
+    if (error && error.code !== 'PGRST116') throw error
+    return data?.favorite_genres || []
+  }
+
+  // Atualizar preferências do usuário
+   static async updateUserPreferences(userId: string, preferences: any) {
+     if (!checkSupabaseAvailable() || !supabase) {
+       throw new Error('Funcionalidade não disponível - Supabase não configurado')
+     }
+ 
+     const { data, error } = await supabase
+       .from('user_profiles')
+       .update({ favorite_genres: preferences.favoriteGenres })
+       .eq('user_id', userId)
+ 
+     if (error) throw error
+     return data
+   }
+
+   // Obter estatísticas do usuário
+   static async getUserStats(userId: string) {
+     if (!checkSupabaseAvailable() || !supabase) {
+       return {
+         totalWatched: 0,
+         totalFavorites: 0,
+         totalWatchTime: 0
+       }
+     }
+
+     const [watchHistory, favorites] = await Promise.all([
+       supabase.from('watch_history').select('*').eq('user_id', userId),
+       supabase.from('user_favorites').select('*').eq('user_id', userId)
+     ])
+
+     const totalWatched = watchHistory.data?.length || 0
+     const totalFavorites = favorites.data?.length || 0
+     const totalWatchTime = watchHistory.data?.reduce((acc, item) => acc + (item.progress_seconds || 0), 0) || 0
+
+     return {
+       totalWatched,
+       totalFavorites,
+       totalWatchTime
+     }
+   }
 }
 
 // Exportar instância do serviço

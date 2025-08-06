@@ -2,10 +2,10 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import { Play, TrendingUp, Star, Clock } from 'lucide-react'
 import { useAnimesBySection, useRandomRecommendations } from '@/hooks/useAnimes'
-import { useWatchHistory } from '@/hooks/useAnimes'
+import { useWatchHistory } from '@/hooks/useHistory'
 import { useAuth } from '@/hooks/useAuth'
 import { Carousel, PageLoading, LoadingError } from '@/components'
-import { cn } from '@/lib/utils'
+// import { cn } from '@/lib/utils' // Removido temporariamente
 
 export const Home: React.FC = () => {
   const { isAuthenticated } = useAuth()
@@ -30,15 +30,15 @@ export const Home: React.FC = () => {
   
   // Calcular progresso dos animes no histórico
   const progressData = React.useMemo(() => {
-    if (!watchHistory?.history) return {}
+    if (!watchHistory?.entries || !Array.isArray(watchHistory.entries)) return {}
     
-    return watchHistory.history.reduce((acc, item) => {
+    return watchHistory.entries.reduce((acc: Record<number, number>, item: any) => {
       const progress = item.total_duration_seconds 
         ? (item.progress_seconds / item.total_duration_seconds) * 100
         : 0
       acc[item.anime_id] = Math.min(progress, 100)
       return acc
-    }, {} as Record<number, number>)
+    }, {})
   }, [watchHistory])
 
   // Loading state
@@ -84,7 +84,7 @@ export const Home: React.FC = () => {
                   <div className="flex items-center gap-1 bg-black/50 px-3 py-1 rounded-full">
                     <Star className="w-4 h-4 text-yellow-400 fill-current" />
                     <span className="text-white text-sm font-medium">
-                      {featuredAnime.rating.toFixed(1)}
+                      {typeof featuredAnime.rating === 'number' ? featuredAnime.rating.toFixed(1) : featuredAnime.rating}
                     </span>
                   </div>
                 )}
@@ -96,9 +96,9 @@ export const Home: React.FC = () => {
               </h1>
 
               {/* Description */}
-              {featuredAnime.synopsis && (
+              {featuredAnime.nome && (
                 <p className="text-gray-200 text-lg mb-6 line-clamp-3">
-                  {featuredAnime.synopsis}
+                  Assista {featuredAnime.nome} e descubra uma nova aventura!
                 </p>
               )}
 
@@ -143,17 +143,22 @@ export const Home: React.FC = () => {
       {/* Content Sections */}
       <div className="container mx-auto px-4 py-12 space-y-12">
         {/* Continue Assistindo (apenas para usuários logados) */}
-        {isAuthenticated && watchHistory?.history && watchHistory.history.length > 0 && (
+        {isAuthenticated && watchHistory?.entries && Array.isArray(watchHistory.entries) && watchHistory.entries.length > 0 && (
           <Carousel
             title="Continue Assistindo"
-            animes={watchHistory.history.map(item => ({
+            animes={watchHistory.entries.map((item: any) => ({
               id: item.anime_id,
               name: item.anime_name,
-              image: '', // Será preenchido pela API se necessário
+              nome: item.anime_name,
+              link: '',
+              rating: 0,
+              classificacao_etaria: '',
+              imagem_original: '',
+              image: '',
+              secao: 'dublados' as const,
+              total_episodios: 0,
               episodes_count: 0,
               year: 0,
-              rating: 0,
-              synopsis: '',
               genres: []
             }))}
             showProgress
@@ -174,7 +179,7 @@ export const Home: React.FC = () => {
         {/* Talvez você Goste */}
         <Carousel
           title="Talvez você Goste"
-          animes={randomRecommendations?.data || []}
+          animes={(randomRecommendations as any)?.data || []}
           isLoading={recommendationsLoading}
           cardSize="md"
         />

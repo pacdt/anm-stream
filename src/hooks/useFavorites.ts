@@ -2,16 +2,6 @@ import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query'
 import { SupabaseService } from '@/lib/supabaseService'
 import { Anime, FavoritesResponse } from '@/types'
 
-interface FavoritesParams {
-  userId: string
-  genre?: string
-  status?: string
-  type?: string
-  search?: string
-  page?: number
-  limit?: number
-}
-
 // Hook para buscar favoritos com filtros
 export const useFavorites = (params: {
   search?: string
@@ -20,7 +10,7 @@ export const useFavorites = (params: {
   type?: string
   page?: number
   limit?: number
-}): { data?: FavoritesResponse; isLoading: boolean; error: any } => {
+}) => {
   return useQuery({
     queryKey: ['favorites', params],
     queryFn: async (): Promise<FavoritesResponse> => {
@@ -59,13 +49,15 @@ export const useFavorites = (params: {
       }))
       
       return {
-        animes,
-        total: filteredFavorites.length,
-        totalPages: Math.ceil(filteredFavorites.length / limit),
-        currentPage: page,
-        totalItems: filteredFavorites.length,
-        hasNext: endIndex < filteredFavorites.length,
-        hasPrev: page > 1
+        data: animes,
+        pagination: {
+          total_items: filteredFavorites.length,
+          total_pages: Math.ceil(filteredFavorites.length / limit),
+          current_page: page,
+          per_page: limit,
+          has_next: endIndex < filteredFavorites.length,
+          has_prev: page > 1
+        }
       }
     },
     staleTime: 2 * 60 * 1000

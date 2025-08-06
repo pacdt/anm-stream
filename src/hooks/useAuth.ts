@@ -7,7 +7,7 @@ import { useQueryClient } from '@tanstack/react-query'
 export const useAuth = () => {
   const {
     user,
-    isLoading,
+    loading,
     error,
     signIn,
     signUp,
@@ -34,11 +34,7 @@ export const useAuth = () => {
 
     const { data: { subscription } } = SupabaseService.onAuthStateChange((event, session) => {
       if (event === 'SIGNED_IN' && session?.user) {
-        setUser({
-          id: session.user.id,
-          email: session.user.email || '',
-          created_at: session.user.created_at || new Date().toISOString(),
-        })
+        setUser(session.user)
         setLoading(false)
       } else if (event === 'SIGNED_OUT') {
         setUser(null)
@@ -54,7 +50,7 @@ export const useAuth = () => {
         setLoading(true)
         
         // Primeiro verificar se há uma sessão ativa
-        const { data: { session }, error: sessionError } = await supabase.auth.getSession()
+        const { data: { session }, error: sessionError } = await supabase!.auth.getSession()
         
         if (sessionError) {
           console.warn('Erro ao verificar sessão:', sessionError.message)
@@ -64,11 +60,7 @@ export const useAuth = () => {
         
         if (session?.user) {
           // Se há sessão, obter dados do usuário
-          setUser({
-            id: session.user.id,
-            email: session.user.email || '',
-            created_at: session.user.created_at || new Date().toISOString(),
-          })
+          setUser(session.user)
         } else {
           // Sem sessão ativa - modo visitante
           setUser(null)
@@ -107,11 +99,11 @@ export const useAuth = () => {
   }
 
   // Função de cadastro personalizada
-  const handleSignUp = async (email: string, password: string) => {
+  const handleSignUp = async (email: string, password: string, displayName: string = 'Usuário') => {
     try {
       clearError()
       setLoading(true)
-      await signUp(email, password)
+      await signUp(email, password, displayName)
     } catch (error: any) {
       setError(error.message || 'Erro ao criar conta')
       throw error
@@ -166,7 +158,7 @@ export const useAuth = () => {
 
   return {
     user,
-    isLoading,
+    isLoading: loading,
     error,
     isAuthenticated: !!user,
     signIn: handleSignIn,

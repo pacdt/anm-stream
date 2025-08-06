@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
 import { useAnime } from '@/hooks/useAnimes'
 import { useEpisodes, useEpisodeStream } from '@/hooks/useEpisodes'
@@ -31,7 +31,7 @@ export function Player() {
   // Debug logs
   console.log('🎬 Player Debug Info:')
   console.log('  - Anime Query:', { loading: animeQuery.isLoading, error: animeQuery.error, data: !!animeQuery.data })
-  console.log('  - Episodes Query:', { loading: episodesQuery.isLoading, error: episodesQuery.error, data: episodesQuery.data?.length })
+  console.log('  - Episodes Query:', { loading: episodesQuery.isLoading, error: episodesQuery.error, data: episodesQuery.data?.episodes?.length })
   console.log('  - Stream Query:', { loading: streamQuery.isLoading, error: streamQuery.error, data: !!streamQuery.data })
   console.log('  - Video Sources:', videoSources.length, videoSources)
   console.log('  - Selected Source:', selectedSource)
@@ -222,7 +222,7 @@ export function Player() {
                 <ChevronLeft className="w-6 h-6" />
               </button>
               <div className="text-white">
-                <h1 className="text-lg font-medium">{anime?.nome}</h1>
+                <h1 className="text-lg font-medium">{anime?.data?.nome}</h1>
                 <p className="text-sm text-gray-300">
                   Episódio {episodeNum}
                 </p>
@@ -337,7 +337,7 @@ export function Player() {
                       {/* Thumbnail */}
                       <div className="relative flex-shrink-0">
                         <img
-                          src={anime?.imagem_original || '/placeholder-episode.jpg'}
+                          src={anime?.data?.imagem_original || '/placeholder-episode.jpg'}
                           alt={`Episódio ${episode.episode_number}`}
                           className="w-16 h-9 object-cover rounded bg-gray-700"
                           onError={(e) => {
@@ -363,7 +363,7 @@ export function Player() {
                           Episódio {episode.episode_number}
                         </h3>
                         <p className="text-gray-400 text-xs">
-                          {anime?.nome}
+                          {anime?.data?.nome}
                         </p>
                       </div>
                     </div>
