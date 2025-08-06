@@ -52,17 +52,34 @@ export const useAuth = () => {
     const checkUser = async () => {
       try {
         setLoading(true)
-        const currentUser = await SupabaseService.getCurrentUser()
-        if (currentUser) {
-          setUser({
-            id: currentUser.id,
-            email: currentUser.email || '',
-            created_at: currentUser.created_at || new Date().toISOString(),
-          })
+        
+        // Primeiro verificar se há uma sessão ativa
+        const { data: { session }, error: sessionError } = await supabase.auth.getSession()
+        
+        if (sessionError) {
+          console.warn('Erro ao verificar sessão:', sessionError.message)
+          setUser(null)
+          return
         }
-      } catch (error) {
-        console.error('Erro ao verificar usuário:', error)
-        setError('Erro ao verificar autenticação')
+        
+        if (session?.user) {
+          // Se há sessão, obter dados do usuário
+          setUser({
+            id: session.user.id,
+            email: session.user.email || '',
+            created_at: session.user.created_at || new Date().toISOString(),
+          })
+        } else {
+          // Sem sessão ativa - modo visitante
+          setUser(null)
+        }
+      } catch (error: any) {
+        // Só logar erros que não sejam relacionados à ausência de sessão
+        if (!error.message?.includes('Auth session missing')) {
+          console.error('Erro ao verificar usuário:', error)
+          setError('Erro ao verificar autenticação')
+        }
+        setUser(null)
       } finally {
         setLoading(false)
       }

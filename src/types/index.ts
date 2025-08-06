@@ -133,10 +133,17 @@ export interface User {
 export interface UserProfile {
   id: string;
   user_id: string;
-  display_name?: string;
+  display_name: string;
   avatar_url?: string;
   created_at: string;
   updated_at: string;
+}
+
+// Tipo para dados de cadastro
+export interface SignUpData {
+  email: string;
+  password: string;
+  displayName: string;
 }
 
 // Tipo dos Favoritos
@@ -158,7 +165,21 @@ export interface WatchHistoryItem {
   episode_number: number;
   progress_seconds: number;
   total_duration_seconds?: number;
-  last_watched: string;
+  last_position_seconds: number;  // NOVO: Posição exata onde parou
+  is_completed: boolean;           // NOVO: Se o episódio foi completado
+  last_watched_at: string;         // NOVO: Timestamp da última visualização
+  last_watched: string;            // Mantido para compatibilidade
+}
+
+// Tipo para progresso de anime
+export interface AnimeProgress {
+  anime_id: number;
+  anime_name: string;
+  last_episode: number;
+  last_position_seconds: number;
+  total_episodes_watched: number;
+  completion_percentage: number;
+  last_watched_at: string;
 }
 
 // Tipo para Sessão do Supabase
@@ -174,6 +195,11 @@ export interface SupabaseSession {
 export interface Database {
   public: {
     Tables: {
+      user_profiles: {
+        Row: UserProfile;
+        Insert: Omit<UserProfile, 'id' | 'created_at' | 'updated_at'>;
+        Update: Partial<Omit<UserProfile, 'id' | 'user_id'>>;
+      };
       user_favorites: {
         Row: UserFavorite;
         Insert: Omit<UserFavorite, 'id' | 'created_at'>;
@@ -181,7 +207,7 @@ export interface Database {
       };
       watch_history: {
         Row: WatchHistoryItem;
-        Insert: Omit<WatchHistoryItem, 'id' | 'last_watched'>;
+        Insert: Omit<WatchHistoryItem, 'id' | 'last_watched' | 'last_watched_at'>;
         Update: Partial<Omit<WatchHistoryItem, 'id' | 'user_id'>>;
       };
     };

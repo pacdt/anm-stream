@@ -1,15 +1,19 @@
 import React, { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
-import { Eye, EyeOff, Mail, Lock, AlertCircle, CheckCircle } from 'lucide-react'
+import { Eye, EyeOff, Mail, Lock, AlertCircle, CheckCircle, User as UserIcon } from 'lucide-react'
 import { useAuth } from '@/hooks/useAuth'
+import { useAuthStore } from '@/store/authStore'
 import { ButtonLoading } from '@/components/Loading'
 import { cn, isValidEmail, isValidPassword } from '@/lib/utils'
+import { toast } from 'sonner'
 
 export const Register: React.FC = () => {
   const navigate = useNavigate()
   const { signUp, isLoading, error, clearError } = useAuth()
+  const { signUp: authStoreSignUp } = useAuthStore()
   
   const [formData, setFormData] = useState({
+    displayName: '',
     email: '',
     password: '',
     confirmPassword: ''
@@ -21,6 +25,12 @@ export const Register: React.FC = () => {
 
   const validateForm = () => {
     const errors: Record<string, string> = {}
+    
+    if (!formData.displayName.trim()) {
+      errors.displayName = 'Nome é obrigatório'
+    } else if (formData.displayName.trim().length < 2) {
+      errors.displayName = 'Nome deve ter pelo menos 2 caracteres'
+    }
     
     if (!formData.email) {
       errors.email = 'Email é obrigatório'
@@ -51,20 +61,12 @@ export const Register: React.FC = () => {
     if (!validateForm()) return
     
     try {
-      await signUp(formData.email, formData.password)
-      setIsSuccess(true)
-      
-      // Redirecionar após 2 segundos
-      setTimeout(() => {
-        navigate('/login', { 
-          state: { 
-            message: 'Conta criada com sucesso! Verifique seu email para confirmar.' 
-          } 
-        })
-      }, 2000)
-    } catch (error) {
-      // Erro já é tratado pelo hook useAuth
+      await authStoreSignUp(formData.email, formData.password, formData.displayName.trim())
+      toast.success('Cadastro realizado com sucesso!')
+      navigate('/')
+    } catch (error: any) {
       console.error('Erro no cadastro:', error)
+      toast.error(error.message || 'Erro ao realizar cadastro. Tente novamente.')
     }
   }
 
@@ -134,6 +136,34 @@ export const Register: React.FC = () => {
           )}
 
           <form onSubmit={handleSubmit} className="space-y-6">
+            {/* Display Name */}
+            <div>
+              <label htmlFor="displayName" className="block text-sm font-medium text-gray-300 mb-2">
+                Nome
+              </label>
+              <div className="relative">
+                <input
+                  id="displayName"
+                  name="displayName"
+                  type="text"
+                  value={formData.displayName}
+                  onChange={handleInputChange}
+                  className={cn(
+                    'w-full px-4 py-3 pl-12 bg-gray-700 text-white rounded-lg border transition-colors duration-300 focus:outline-none',
+                    validationErrors.displayName
+                      ? 'border-red-500 focus:border-red-400'
+                      : 'border-gray-600 focus:border-red-500'
+                  )}
+                  placeholder="Seu nome ou nick"
+                  disabled={isLoading}
+                />
+                <UserIcon className="absolute left-4 top-1/2 transform -translate-y-1/2 w-5 h-5 text-gray-400" />
+              </div>
+              {validationErrors.displayName && (
+                <p className="mt-1 text-sm text-red-400">{validationErrors.displayName}</p>
+              )}
+            </div>
+
             {/* Email */}
             <div>
               <label htmlFor="email" className="block text-sm font-medium text-gray-300 mb-2">

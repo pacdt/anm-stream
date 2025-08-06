@@ -508,23 +508,23 @@ export function VideoPlayer({
           {/* Progress Bar */}
           <div 
             ref={progressRef}
-            className="w-full h-1 bg-white/30 rounded-full mb-4 cursor-pointer group/progress"
+            className="w-full h-0.5 bg-white/30 rounded-full mb-6 cursor-pointer group/progress"
             onClick={handleProgressClick}
             onMouseDown={() => setIsDragging(true)}
           >
             {/* Buffered */}
             <div 
-              className="absolute h-full bg-white/50 rounded-full"
+              className="absolute h-0.5 bg-white/50 rounded-full"
               style={{ width: `${bufferedPercentage}%` }}
             />
             {/* Progress */}
             <div 
-              className="absolute h-full bg-red-600 rounded-full"
+              className="absolute h-0.5 bg-red-600 rounded-full"
               style={{ width: `${progressPercentage}%` }}
             />
             {/* Thumb */}
             <div 
-              className="absolute w-3 h-3 bg-red-600 rounded-full -mt-1 opacity-0 group-hover/progress:opacity-100 transition-opacity"
+              className="absolute w-2 h-2 bg-red-600 rounded-full -mt-0.5 opacity-0 group-hover/progress:opacity-100 transition-opacity"
               style={{ left: `${progressPercentage}%`, transform: 'translateX(-50%)' }}
             />
           </div>
