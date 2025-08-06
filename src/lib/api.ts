@@ -38,9 +38,25 @@ const createMockResponse = (data: any[] = mockAnimes, page: number = 1, limit: n
   }
 })
 
+// Função para detectar o ambiente e retornar a URL base apropriada
+const getApiBaseUrl = (): string => {
+  // Se estiver em desenvolvimento (localhost)
+  if (import.meta.env.DEV || window.location.hostname === 'localhost') {
+    return '/api-proxy' // Usa o proxy do Vite em desenvolvimento
+  }
+  
+  // Se estiver em produção no Netlify
+  if (window.location.hostname.includes('netlify.app')) {
+    return '/api-proxy' // Usa o proxy configurado no netlify.toml
+  }
+  
+  // Fallback para outras situações
+  return import.meta.env.VITE_API_URL || '/api-proxy'
+}
+
 // Configuração base da API
 const apiClient = axios.create({
-  baseURL: import.meta.env.VITE_API_URL || '/api-proxy',
+  baseURL: getApiBaseUrl(),
   timeout: 10000,
   headers: {
     'Content-Type': 'application/json',
