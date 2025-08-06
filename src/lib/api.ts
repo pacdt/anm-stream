@@ -1,9 +1,40 @@
 import axios from 'axios'
 import { Anime, Episode, EpisodeStreamResponse, ApiResponse } from '@/types'
 
+// Dados mock para fallback quando a API estiver indisponível
+const mockAnimes: Anime[] = [
+  {
+    id: 1,
+    title: 'Anime em Manutenção',
+    synopsis: 'O serviço está temporariamente indisponível. Tente novamente em alguns minutos.',
+    image: 'https://via.placeholder.com/300x400/4A90E2/FFFFFF?text=Em+Manutenção',
+    rating: 0,
+    year: new Date().getFullYear(),
+    status: 'Em manutenção',
+    genres: ['Sistema'],
+    episodes_count: 0,
+    duration: '0 min',
+    studio: 'Sistema',
+    age_rating: 'L'
+  }
+]
+
+const createMockResponse = (data: any[] = mockAnimes, page: number = 1, limit: number = 20): ApiResponse<any[]> => ({
+  message: 'Serviço temporariamente indisponível',
+  data,
+  pagination: {
+    current_page: page,
+    per_page: limit,
+    total_items: data.length,
+    total_pages: Math.ceil(data.length / limit),
+    has_next: false,
+    has_prev: false
+  }
+})
+
 // Configuração base da API
 const apiClient = axios.create({
-  baseURL: import.meta.env.VITE_API_URL || 'http://152.67.40.213:3000/api',
+  baseURL: import.meta.env.VITE_API_URL || 'https://152.67.40.213:3000/api',
   timeout: 10000,
   headers: {
     'Content-Type': 'application/json',
@@ -15,6 +46,30 @@ apiClient.interceptors.response.use(
   (response) => response,
   (error) => {
     console.error('API Error:', error)
+    
+    // Tratamento específico para erros de rede
+    if (error.code === 'ERR_NETWORK' || error.code === 'ECONNREFUSED') {
+      console.warn('🚨 [API] Erro de conectividade detectado. API pode estar indisponível.')
+      
+      // Criar erro customizado com informações úteis
+      const customError = new Error('Serviço temporariamente indisponível. Tente novamente em alguns minutos.')
+      customError.name = 'NetworkError'
+      customError.originalError = error
+      
+      return Promise.reject(customError)
+    }
+    
+    // Tratamento para erros de CORS
+    if (error.message?.includes('CORS') || error.code === 'ERR_BLOCKED_BY_CLIENT') {
+      console.warn('🚨 [API] Erro de CORS detectado.')
+      
+      const customError = new Error('Erro de conectividade. Verifique sua conexão com a internet.')
+      customError.name = 'CORSError'
+      customError.originalError = error
+      
+      return Promise.reject(customError)
+    }
+    
     return Promise.reject(error)
   }
 )
@@ -23,10 +78,21 @@ apiClient.interceptors.response.use(
 export class AnimeService {
   // Listar animes com paginação
   static async getAnimes(page: number = 1, limit: number = 20): Promise<ApiResponse<Anime[]>> {
-    const response = await apiClient.get('/animes', {
-      params: { page, limit }
-    })
-    return response.data
+    try {
+      const response = await apiClient.get('/animes', {
+        params: { page, limit }
+      })
+      return response.data
+    } catch (error: any) {
+      console.warn(`⚠️ [API] Erro ao buscar animes, usando fallback:`, error.message)
+      
+      // Se for erro de rede, retornar dados mock
+      if (error.name === 'NetworkError' || error.code === 'ERR_NETWORK') {
+        return createMockResponse(mockAnimes, page, limit)
+      }
+      
+      throw error
+    }
   }
 
   // Buscar anime por ID
@@ -53,32 +119,54 @@ export class AnimeService {
 
   // Filtrar animes por seção
   static async getAnimesBySection(section: string, page: number = 1, limit: number = 20): Promise<ApiResponse<Anime[]>> {
-    // Mapear seção do frontend para seção válida da API
-    const mappedSection = this.sectionMapping[section] || section
-    
-    console.log(`🌐 [API] Chamando /animes/section/${mappedSection} (original: ${section})`)
-    console.log(`🔧 [API] Mapeamento de seções:`, this.sectionMapping)
-    
-    const response = await apiClient.get(`/animes/section/${mappedSection}`, {
-      params: { page, limit }
-    })
-    
-    console.log(`📡 [API] Resposta HTTP status: ${response.status}`)
-    console.log(`📦 [API] Dados recebidos:`, response.data)
-    
-    return response.data
+    try {
+      // Mapear seção do frontend para seção válida da API
+      const mappedSection = this.sectionMapping[section] || section
+      
+      console.log(`🌐 [API] Chamando /animes/section/${mappedSection} (original: ${section})`)
+      console.log(`🔧 [API] Mapeamento de seções:`, this.sectionMapping)
+      
+      const response = await apiClient.get(`/animes/section/${mappedSection}`, {
+        params: { page, limit }
+      })
+      
+      console.log(`📡 [API] Resposta HTTP status: ${response.status}`)
+      console.log(`📦 [API] Dados recebidos:`, response.data)
+      
+      return response.data
+    } catch (error: any) {
+      console.warn(`⚠️ [API] Erro ao buscar seção ${section}, usando fallback:`, error.message)
+      
+      // Se for erro de rede, retornar dados mock
+      if (error.name === 'NetworkError' || error.code === 'ERR_NETWORK') {
+        return createMockResponse(mockAnimes, page, limit)
+      }
+      
+      throw error
+    }
   }
 
   // Buscar top animes por rating
   static async getTopAnimes(limit: number = 20): Promise<ApiResponse<Anime[]>> {
-    console.log(`🏆 [API] Chamando /animes/top/${limit}`)
-    
-    const response = await apiClient.get(`/animes/top/${limit}`)
-    
-    console.log(`📡 [API] Resposta HTTP status: ${response.status}`)
-    console.log(`📦 [API] Top animes recebidos:`, response.data)
-    
-    return response.data
+    try {
+      console.log(`🏆 [API] Chamando /animes/top/${limit}`)
+      
+      const response = await apiClient.get(`/animes/top/${limit}`)
+      
+      console.log(`📡 [API] Resposta HTTP status: ${response.status}`)
+      console.log(`📦 [API] Top animes recebidos:`, response.data)
+      
+      return response.data
+    } catch (error: any) {
+      console.warn(`⚠️ [API] Erro ao buscar top animes, usando fallback:`, error.message)
+      
+      // Se for erro de rede, retornar dados mock
+      if (error.name === 'NetworkError' || error.code === 'ERR_NETWORK') {
+        return createMockResponse(mockAnimes, 1, limit)
+      }
+      
+      throw error
+    }
   }
 
   // Filtrar animes por rating
@@ -235,7 +323,7 @@ export const processEpisodeStreamData = (streamResponse: any) => {
   console.log('🎬 [STREAM DEBUG] Dados recebidos da API externa:', JSON.stringify(streamResponse, null, 2))
   
   const options = []
-  const baseURL = import.meta.env.VITE_API_URL || 'http://152.67.40.213:3000/api'
+  const baseURL = import.meta.env.VITE_API_URL || 'https://152.67.40.213:3000/api'
   
   // Função para criar URL do proxy usando a API externa
   const createProxyUrl = (originalUrl: string) => {
