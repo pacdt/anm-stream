@@ -2,7 +2,7 @@ import { useState, useMemo } from 'react'
 import { useSearchParams } from 'react-router-dom'
 import { useInfiniteAnimes } from '@/hooks/useAnimes'
 import { useAnimeSearch } from '@/hooks/useAnime'
-import { AnimeCard, Loading, LoadingError } from '@/components'
+import { AnimeCard, Loading } from '@/components'
 import { Search, Filter, Grid, List, ChevronDown } from 'lucide-react'
 // Tipos locais para filtros
 type AnimeGenre = 'Action' | 'Adventure' | 'Comedy' | 'Drama' | 'Fantasy' | 'Horror' | 'Mystery' | 'Romance' | 'Sci-Fi' | 'Slice of Life' | 'Sports' | 'Supernatural'

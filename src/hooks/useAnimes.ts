@@ -8,10 +8,7 @@ export const useAnimes = (page: number = 1, limit: number = 20) => {
     queryKey: ['animes', page, limit],
     queryFn: () => AnimeService.getAnimes(page, limit),
     staleTime: 5 * 60 * 1000, // 5 minutos
-    retry: 1, // Tentar apenas 1 vez antes de usar fallback
-    onError: (error) => {
-      console.warn('🚨 [useAnimes] Erro ao carregar animes:', error)
-    }
+    retry: 1 // Tentar apenas 1 vez antes de usar fallback
   })
 }
 
@@ -67,7 +64,7 @@ export const useSearchAnimes = (query: string, page: number = 1, limit: number =
         console.log(`✅ [DEBUG] Resultados da busca:`, result)
         console.log(`📊 [DEBUG] Animes encontrados: ${result?.data?.length || 0}`)
         return result
-      } catch (error) {
+      } catch (error: unknown) {
         console.error(`❌ [DEBUG] Erro na busca:`, error)
         throw error
       }
@@ -100,17 +97,14 @@ export const useAnimesBySection = (section: string, page: number = 1, limit: num
         console.log(`📊 [DEBUG] Dados encontrados: ${result?.data?.length || 0} animes`)
         
         return result
-      } catch (error) {
+      } catch (error: unknown) {
         console.error(`❌ [DEBUG] Erro ao buscar seção ${section}:`, error)
         throw error
       }
     },
     enabled: !!section,
     staleTime: 5 * 60 * 1000,
-    retry: 1, // Tentar apenas 1 vez antes de usar fallback
-    onError: (error) => {
-      console.warn(`🚨 [useAnimesBySection] Erro ao carregar seção ${section}:`, error)
-    }
+    retry: 1 // Tentar apenas 1 vez antes de usar fallback
   })
 }
 
@@ -120,10 +114,7 @@ export const useTopAnimes = (limit: number = 20) => {
     queryKey: ['top-animes', limit],
     queryFn: () => AnimeService.getTopAnimes(limit),
     staleTime: 10 * 60 * 1000, // 10 minutos
-    retry: 1, // Tentar apenas 1 vez antes de usar fallback
-    onError: (error) => {
-      console.warn('🚨 [useTopAnimes] Erro ao carregar top animes:', error)
-    }
+    retry: 1 // Tentar apenas 1 vez antes de usar fallback
   })
 }
 
@@ -335,14 +326,14 @@ export const useRandomRecommendations = (limit: number = 12) => {
         const topResult = await AnimeService.getTopAnimes(limit)
         return topResult
         
-      } catch (error) {
+      } catch (error: unknown) {
         console.error(`❌ [DEBUG] Erro ao buscar recomendações aleatórias:`, error)
         
         // Fallback em caso de erro: usar top animes
         try {
           console.log(`🔄 [DEBUG] Tentando fallback com top animes`)
           return await AnimeService.getTopAnimes(limit)
-        } catch (fallbackError) {
+        } catch (fallbackError: unknown) {
           console.error(`❌ [DEBUG] Erro no fallback:`, fallbackError)
           throw fallbackError
         }
@@ -351,9 +342,6 @@ export const useRandomRecommendations = (limit: number = 12) => {
     staleTime: 2 * 60 * 1000, // 2 minutos (menor que outros para mais variedade)
     gcTime: 5 * 60 * 1000, // 5 minutos
     refetchOnWindowFocus: false,
-    retry: 1, // Tentar apenas 1 vez antes de usar fallback
-    onError: (error) => {
-      console.warn('🚨 [useRandomRecommendations] Erro ao carregar recomendações:', error)
-    }
+    retry: 1 // Tentar apenas 1 vez antes de usar fallback
   })
 }

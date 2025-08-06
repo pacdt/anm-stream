@@ -4,21 +4,21 @@ import { Play, TrendingUp, Star, Clock } from 'lucide-react'
 import { useAnimesBySection, useRandomRecommendations } from '@/hooks/useAnimes'
 import { useWatchHistory } from '@/hooks/useHistory'
 import { useAuth } from '@/hooks/useAuth'
-import { Carousel, PageLoading, LoadingError } from '@/components'
+import { Carousel, PageLoading } from '@/components'
 // import { cn } from '@/lib/utils' // Removido temporariamente
 
 export const Home: React.FC = () => {
   const { isAuthenticated } = useAuth()
   
   // Buscar diferentes seções de animes
-  const { data: latestAnimes, isLoading: latestLoading, error: latestError } = useAnimesBySection('latest', 1, 20)
-  const { data: popularAnimes, isLoading: popularLoading, error: popularError } = useAnimesBySection('popular', 1, 20)
-  const { data: topRatedAnimes, isLoading: topRatedLoading, error: topRatedError } = useAnimesBySection('top-rated', 1, 20)
-  const { data: dubladosAnimes, isLoading: dubladosLoading, error: dubladosError } = useAnimesBySection('dublados', 1, 20)
-  const { data: legendadosAnimes, isLoading: legendadosLoading, error: legendadosError } = useAnimesBySection('legendados', 1, 20)
+  const { data: latestAnimes, isLoading: latestLoading } = useAnimesBySection('latest', 1, 20)
+  const { data: popularAnimes, isLoading: popularLoading } = useAnimesBySection('popular', 1, 20)
+  const { data: topRatedAnimes, isLoading: topRatedLoading } = useAnimesBySection('top-rated', 1, 20)
+  const { data: dubladosAnimes, isLoading: dubladosLoading } = useAnimesBySection('dublados', 1, 20)
+  const { data: legendadosAnimes, isLoading: legendadosLoading } = useAnimesBySection('legendados', 1, 20)
   
   // Recomendações aleatórias
-  const { data: randomRecommendations, isLoading: recommendationsLoading, error: recommendationsError } = useRandomRecommendations(12)
+  const { data: randomRecommendations, isLoading: recommendationsLoading } = useRandomRecommendations(12)
   
 
   
