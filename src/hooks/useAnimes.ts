@@ -8,6 +8,10 @@ export const useAnimes = (page: number = 1, limit: number = 20) => {
     queryKey: ['animes', page, limit],
     queryFn: () => AnimeService.getAnimes(page, limit),
     staleTime: 5 * 60 * 1000, // 5 minutos
+    retry: 1, // Tentar apenas 1 vez antes de usar fallback
+    onError: (error) => {
+      console.warn('🚨 [useAnimes] Erro ao carregar animes:', error)
+    }
   })
 }
 
@@ -103,6 +107,10 @@ export const useAnimesBySection = (section: string, page: number = 1, limit: num
     },
     enabled: !!section,
     staleTime: 5 * 60 * 1000,
+    retry: 1, // Tentar apenas 1 vez antes de usar fallback
+    onError: (error) => {
+      console.warn(`🚨 [useAnimesBySection] Erro ao carregar seção ${section}:`, error)
+    }
   })
 }
 
@@ -112,6 +120,10 @@ export const useTopAnimes = (limit: number = 20) => {
     queryKey: ['top-animes', limit],
     queryFn: () => AnimeService.getTopAnimes(limit),
     staleTime: 10 * 60 * 1000, // 10 minutos
+    retry: 1, // Tentar apenas 1 vez antes de usar fallback
+    onError: (error) => {
+      console.warn('🚨 [useTopAnimes] Erro ao carregar top animes:', error)
+    }
   })
 }
 
@@ -338,6 +350,10 @@ export const useRandomRecommendations = (limit: number = 12) => {
     },
     staleTime: 2 * 60 * 1000, // 2 minutos (menor que outros para mais variedade)
     gcTime: 5 * 60 * 1000, // 5 minutos
-    refetchOnWindowFocus: false
+    refetchOnWindowFocus: false,
+    retry: 1, // Tentar apenas 1 vez antes de usar fallback
+    onError: (error) => {
+      console.warn('🚨 [useRandomRecommendations] Erro ao carregar recomendações:', error)
+    }
   })
 }

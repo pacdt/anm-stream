@@ -15,8 +15,8 @@ const mockAnimes: Anime[] = [
     link: '/anime/manutencao',
     rating: 0,
     classificacao_etaria: 'L',
-    imagem_original: 'https://via.placeholder.com/300x400/4A90E2/FFFFFF?text=Em+Manutenção',
-    image: 'https://via.placeholder.com/300x400/4A90E2/FFFFFF?text=Em+Manutenção',
+    imagem_original: 'https://picsum.photos/300/400?random=1',
+    image: 'https://picsum.photos/300/400?random=1',
     secao: 'lancamentos' as const,
     total_episodios: 0,
     episodes_count: 0,
@@ -92,12 +92,8 @@ export class AnimeService {
     } catch (error: any) {
       console.warn(`⚠️ [API] Erro ao buscar animes, usando fallback:`, error.message)
       
-      // Se for erro de rede, retornar dados mock
-      if (error.name === 'NetworkError' || error.code === 'ERR_NETWORK') {
-        return createMockResponse(mockAnimes, page, limit)
-      }
-      
-      throw error
+      // Sempre retornar dados mock em caso de qualquer erro
+      return createMockResponse(mockAnimes, page, limit)
     }
   }
 
@@ -143,12 +139,8 @@ export class AnimeService {
     } catch (error: any) {
       console.warn(`⚠️ [API] Erro ao buscar seção ${section}, usando fallback:`, error.message)
       
-      // Se for erro de rede, retornar dados mock
-      if (error.name === 'NetworkError' || error.code === 'ERR_NETWORK') {
-        return createMockResponse(mockAnimes, page, limit)
-      }
-      
-      throw error
+      // Sempre retornar dados mock em caso de qualquer erro
+      return createMockResponse(mockAnimes, page, limit)
     }
   }
 
@@ -166,12 +158,8 @@ export class AnimeService {
     } catch (error: any) {
       console.warn(`⚠️ [API] Erro ao buscar top animes, usando fallback:`, error.message)
       
-      // Se for erro de rede, retornar dados mock
-      if (error.name === 'NetworkError' || error.code === 'ERR_NETWORK') {
-        return createMockResponse(mockAnimes, 1, limit)
-      }
-      
-      throw error
+      // Sempre retornar dados mock em caso de qualquer erro
+      return createMockResponse(mockAnimes, 1, limit)
     }
   }
 

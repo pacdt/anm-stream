@@ -128,16 +128,9 @@ export function Catalog() {
 
 
 
-  if (isError) {
-    return (
-      <div className="container mx-auto px-4 py-8">
-        <LoadingError 
-          message="Erro ao carregar catálogo" 
-          onRetry={() => searchTerm ? searchQuery.refetch() : catalogQuery.refetch()}
-        />
-      </div>
-    )
-  }
+  // Não bloquear a página por erros - mostrar uma mensagem mais suave
+  const hasError = isError
+  const showErrorMessage = hasError && animes.length === 0
 
   return (
     <div className="container mx-auto px-4 py-8">
@@ -299,6 +292,17 @@ export function Catalog() {
       {/* Results */}
       {isLoading ? (
         <Loading />
+      ) : showErrorMessage ? (
+        <div className="text-center py-12">
+          <p className="text-red-400 text-lg mb-2">Erro ao carregar animes</p>
+          <p className="text-gray-500 mb-4">Verifique sua conexão e tente novamente</p>
+          <button
+            onClick={() => searchTerm ? searchQuery.refetch() : catalogQuery.refetch()}
+            className="bg-red-600 text-white px-4 py-2 rounded-lg hover:bg-red-700 transition-colors"
+          >
+            Tentar novamente
+          </button>
+        </div>
       ) : animes.length === 0 ? (
         <div className="text-center py-12">
           <p className="text-gray-400 text-lg">Nenhum anime encontrado</p>

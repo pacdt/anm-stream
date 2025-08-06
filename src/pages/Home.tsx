@@ -41,20 +41,13 @@ export const Home: React.FC = () => {
     }, {})
   }, [watchHistory])
 
-  // Loading state
+  // Loading state - só mostra loading se TODAS as seções estão carregando
   if (latestLoading && popularLoading && topRatedLoading && dubladosLoading && legendadosLoading && recommendationsLoading) {
     return <PageLoading text="Carregando página inicial..." />
   }
 
-  // Error state
-  if (latestError || popularError || topRatedError || dubladosError || legendadosError || recommendationsError) {
-    return (
-      <LoadingError 
-        message="Erro ao carregar conteúdo da página inicial"
-        onRetry={() => window.location.reload()}
-      />
-    )
-  }
+  // Não bloquear a página por erros - deixar que as seções individuais lidem com seus erros
+  // e mostrem dados mock quando disponíveis
 
   return (
     <div className="min-h-screen">
