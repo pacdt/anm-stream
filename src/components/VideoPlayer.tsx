@@ -53,8 +53,8 @@ export function VideoPlayer({
     isMuted,
     isFullscreen,
     playbackRate,
-    currentQuality,
-    availableQualities,
+    // currentQuality,
+    // availableQualities,
     isLoading,
     isBuffering,
     error,
@@ -96,9 +96,9 @@ export function VideoPlayer({
     console.log('VideoPlayer - URL type check:', typeof currentSource.src)
     console.log('VideoPlayer - URL validity check:', currentSource.src && currentSource.src.length > 0)
     
-    const qualities = availableSources.map(source => source.label)
+    const qualities = availableSources.map(source => ({ label: source.label, value: source.label }))
     setAvailableQualities(qualities)
-    setCurrentQuality(currentSource.label)
+    setCurrentQuality({ label: currentSource.label, value: currentSource.label })
   }, [availableSources, currentSource, setAvailableQualities, setCurrentQuality])
 
   // Video event handlers
@@ -332,7 +332,7 @@ export function VideoPlayer({
           break
         case 'KeyF':
           e.preventDefault()
-          toggleFullscreen(containerRef.current!)
+          toggleFullscreen()
           break
       }
     }
@@ -412,7 +412,7 @@ export function VideoPlayer({
   }, [reset])
 
   const progressPercentage = duration > 0 ? (currentTime / duration) * 100 : 0
-  const bufferedPercentage = videoRef.current?.buffered.length > 0 
+  const bufferedPercentage = videoRef.current?.buffered && videoRef.current.buffered.length > 0 && duration > 0
     ? (videoRef.current.buffered.end(0) / duration) * 100 
     : 0
 
@@ -662,7 +662,7 @@ export function VideoPlayer({
             <div className="flex items-center gap-2">
               {/* Fullscreen */}
               <button
-                onClick={() => toggleFullscreen(containerRef.current!)}
+                onClick={() => toggleFullscreen()}
                 className="p-2 text-white hover:bg-white/20 rounded transition-colors"
               >
                 {isFullscreen ? <Minimize className="w-5 h-5" /> : <Maximize className="w-5 h-5" />}

@@ -227,7 +227,7 @@ export const Search: React.FC = () => {
             </h2>
             {searchResults && (
               <p className="text-gray-400 mt-1">
-                {searchResults.totalItems} resultado(s) encontrado(s)
+                {searchResults.pagination?.total || 0} resultado(s) encontrado(s)
               </p>
             )}
           </div>
@@ -251,7 +251,7 @@ export const Search: React.FC = () => {
           </div>
         )}
 
-        {searchResults && searchResults.animes.length === 0 && !isLoading && query && (
+        {searchResults && searchResults.data.length === 0 && !isLoading && query && (
           <div className="text-center py-12">
             <SearchIcon className="w-16 h-16 text-gray-600 mx-auto mb-4" />
             <h3 className="text-xl font-semibold text-gray-400 mb-2">
@@ -278,14 +278,14 @@ export const Search: React.FC = () => {
           </div>
         )}
 
-        {searchResults && searchResults.animes.length > 0 && (
+        {searchResults && searchResults.data.length > 0 && (
           <>
             <div className={`grid gap-6 ${
               viewMode === 'grid'
                 ? 'grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5'
                 : 'grid-cols-1'
             }`}>
-              {searchResults.animes.map((anime) => (
+              {searchResults.data.map((anime) => (
                 <AnimeCard
                   key={anime.id}
                   anime={anime}
@@ -295,7 +295,7 @@ export const Search: React.FC = () => {
             </div>
 
             {/* Pagination */}
-            {searchResults.totalPages > 1 && (
+            {(searchResults.pagination?.totalPages || 0) > 1 && (
               <div className="flex justify-center mt-12">
                 <div className="flex items-center gap-2">
                   <button
@@ -307,12 +307,12 @@ export const Search: React.FC = () => {
                   </button>
                   
                   <span className="px-4 py-2 text-gray-300">
-                    Página {page} de {searchResults.totalPages}
+                    Página {page} de {searchResults.pagination?.totalPages || 0}
                   </span>
                   
                   <button
                     onClick={() => setPage(page + 1)}
-                    disabled={page === searchResults.totalPages}
+                    disabled={page === (searchResults.pagination?.totalPages || 0)}
                     className="px-4 py-2 bg-gray-700 text-white rounded-lg disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-600 transition-colors"
                   >
                     Próxima

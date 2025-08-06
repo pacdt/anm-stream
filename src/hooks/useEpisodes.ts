@@ -1,4 +1,4 @@
-import { useQuery, useMutation } from '@tanstack/react-query'
+import { useQuery } from '@tanstack/react-query'
 import { EpisodeService } from '@/lib/api'
 import { SupabaseService } from '@/lib/supabaseService'
 
@@ -9,7 +9,6 @@ export const useEpisodes = (animeId: number) => {
     queryFn: () => EpisodeService.getEpisodes(animeId),
     enabled: !!animeId,
     staleTime: 10 * 60 * 1000, // 10 minutos
-    cacheTime: 30 * 60 * 1000, // 30 minutos
   })
 }
 
@@ -20,7 +19,6 @@ export const useEpisodeStream = (animeId: number, episodeNumber: number) => {
     queryFn: () => EpisodeService.getEpisodeStream(animeId, episodeNumber),
     enabled: !!animeId && !!episodeNumber,
     staleTime: 5 * 60 * 1000, // 5 minutos
-    cacheTime: 15 * 60 * 1000, // 15 minutos
     retry: 3,
     retryDelay: (attemptIndex) => Math.min(1000 * 2 ** attemptIndex, 30000),
   })

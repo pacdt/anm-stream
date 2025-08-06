@@ -1,4 +1,4 @@
-import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query'
+import { useQuery } from '@tanstack/react-query'
 import { AnimeService } from '@/lib/api'
 import { AnimeGenre, AnimeStatus, AnimeType, Anime, AnimeSearchResponse, PaginatedResponse } from '@/types'
 
@@ -42,17 +42,14 @@ export const useAnimeSearch = (params: AnimeSearchParams): { data?: AnimeSearchR
     queryFn: async (): Promise<AnimeSearchResponse> => {
       const response = await AnimeService.searchAnimes(params)
       return {
-        animes: response.data.map(anime => ({
-          ...anime,
-          name: anime.nome,
-          image: anime.imagem_original,
-          episodes_count: anime.total_episodios
-        })),
-        totalPages: response.pagination?.total_pages || 1,
-        currentPage: response.pagination?.current_page || 1,
-        totalItems: response.pagination?.total_items || 0,
-        hasNext: response.pagination?.has_next || false,
-        hasPrev: response.pagination?.has_prev || false
+        data: response.data,
+        pagination: {
+          total: response.pagination?.total || 0,
+          totalPages: response.pagination?.totalPages || 1,
+          current_page: response.pagination?.current_page || 1,
+          has_next: response.pagination?.has_next || false,
+          has_prev: response.pagination?.has_prev || false
+        }
       }
     },
     enabled: !!params.query && params.query.length >= 2,
@@ -67,17 +64,14 @@ export const useCatalogAnimes = (params: CatalogParams): { data?: PaginatedRespo
     queryFn: async (): Promise<PaginatedResponse<Anime>> => {
       const response = await AnimeService.getCatalogAnimes(params)
       return {
-        animes: response.data.map(anime => ({
-          ...anime,
-          name: anime.nome,
-          image: anime.imagem_original,
-          episodes_count: anime.total_episodios
-        })),
-        totalPages: response.pagination?.total_pages || 1,
-        currentPage: response.pagination?.current_page || 1,
-        totalItems: response.pagination?.total_items || 0,
-        hasNext: response.pagination?.has_next || false,
-        hasPrev: response.pagination?.has_prev || false
+        data: response.data,
+        pagination: {
+          total: response.pagination?.total || 0,
+          totalPages: response.pagination?.totalPages || 1,
+          current_page: response.pagination?.current_page || 1,
+          has_next: response.pagination?.has_next || false,
+          has_prev: response.pagination?.has_prev || false
+        }
       }
     },
     staleTime: 5 * 60 * 1000, // 5 minutos

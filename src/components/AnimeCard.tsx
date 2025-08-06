@@ -105,10 +105,10 @@ export const AnimeCard: React.FC<AnimeCardProps> = ({
           
           <div className="flex items-center gap-2 text-gray-400 text-sm mb-2">
             {anime.year && <span>{anime.year}</span>}
-            {anime.episodes_count && (
+            {anime.total_episodios && (
               <>
                 <span>•</span>
-                <span>{anime.episodes_count} episódios</span>
+                <span>{anime.total_episodios} episódios</span>
               </>
             )}
           </div>

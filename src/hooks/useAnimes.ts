@@ -9,7 +9,6 @@ export const useAnimes = (page: number = 1, limit: number = 20) => {
     queryKey: ['animes', page, limit],
     queryFn: () => AnimeService.getAnimes(page, limit),
     staleTime: 5 * 60 * 1000, // 5 minutos
-    cacheTime: 10 * 60 * 1000, // 10 minutos
   })
 }
 
