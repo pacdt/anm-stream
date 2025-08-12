@@ -102,7 +102,7 @@ export const AnimeCard: React.FC<AnimeCardProps> = ({
         
         {/* Content */}
         <div className="flex-1 min-w-0">
-          <h3 className="font-semibold text-white text-lg mb-2 line-clamp-1">{anime.nome}</h3>
+          <h3 className="font-semibold text-white text-lg mb-2">{anime.nome}</h3>
           
           <div className="flex items-center gap-2 text-gray-400 text-sm mb-2">
             {anime.year && <span>{anime.year}</span>}
@@ -255,7 +255,7 @@ export const AnimeCard: React.FC<AnimeCardProps> = ({
       {/* Informações sempre visíveis */}
       <div className="absolute bottom-0 left-0 right-0 p-2 sm:p-3 text-white">
         <h3 className={cn(
-          'font-semibold mb-1 line-clamp-2',
+          'font-semibold mb-1',
           textSizeClasses[size]
         )}>
           {anime.nome}

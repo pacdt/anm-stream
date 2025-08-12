@@ -62,8 +62,8 @@ const createMockResponse = (data: any[] = mockAnimes, page: number = 1, limit: n
 
 // Função para detectar o ambiente e retornar a URL base apropriada
 const getApiBaseUrl = (): string => {
-  // Usar sempre a API externa do Render para evitar erros de conectividade
-  return 'https://anime-api-netf.onrender.com/api'
+  // Usar API local na porta 3000 conforme solicitado
+  return 'http://localhost:3000/api'
 }
 
 // Configuração base da API
@@ -156,8 +156,34 @@ export class AnimeService {
 
   // Buscar anime por ID
   static async getAnimeById(id: number): Promise<ApiResponse<Anime>> {
-    const response = await apiClient.get(`/animes/${id}`)
-    return response.data
+    try {
+      return await retryRequest(async () => {
+        const response = await apiClient.get(`/animes/${id}`)
+        return response.data
+      })
+    } catch (error) {
+      console.error('❌ [API] Erro ao buscar anime por ID após retries:', error)
+      
+      // Fallback para dados mock
+      const mockAnime = mockAnimes.find(anime => anime.id === id)
+      if (mockAnime) {
+        console.log('📦 [API] Usando dados mock para anime:', id)
+        return {
+          message: 'Dados mock utilizados',
+          data: mockAnime,
+          pagination: {
+            current_page: 1,
+            per_page: 1,
+            total_items: 1,
+            total_pages: 1,
+            has_next: false,
+            has_prev: false
+          }
+        }
+      }
+      
+      throw error
+    }
   }
 
   // Buscar animes por nome
@@ -420,38 +446,42 @@ export class EpisodeService {
   static async getEpisodeStream(animeId: number, episodeNumber: number): Promise<EpisodeStreamResponse> {
     console.log(`🎬 [API] Buscando stream para anime ${animeId}, episódio ${episodeNumber}`)
     
-    // Primeiro, tentar o endpoint de external-stream
+    // Primeiro, tentar o endpoint de external-stream com retry
     try {
       console.log(`🔄 [API] Tentando endpoint external-stream para anime ${animeId}, episódio ${episodeNumber}`)
-      const response = await apiClient.get(`/episodes/${animeId}/${episodeNumber}/external-stream`)
-      console.log(`✅ [API] Stream encontrado via external-stream para anime ${animeId}, episódio ${episodeNumber}`)
-      return response.data
+      return await retryRequest(async () => {
+        const response = await apiClient.get(`/episodes/${animeId}/${episodeNumber}/external-stream`)
+        console.log(`✅ [API] Stream encontrado via external-stream para anime ${animeId}, episódio ${episodeNumber}`)
+        return response.data
+      })
     } catch (error: any) {
       console.warn(`⚠️ [API] Falha no endpoint external-stream para anime ${animeId}, episódio ${episodeNumber}:`, error.message)
       
-      // Se for erro 500, tentar fallback para endpoint básico
+      // Se for erro 500, tentar fallback para endpoint básico com retry
       if (error.response?.status >= 500) {
         console.log(`🔄 [API] Tentando fallback para endpoint básico para anime ${animeId}, episódio ${episodeNumber}`)
         try {
-          const fallbackResponse = await apiClient.get(`/episodes/${animeId}/${episodeNumber}/`)
-          console.log(`✅ [API] Dados do episódio encontrados via endpoint básico para anime ${animeId}, episódio ${episodeNumber}`)
-          
-          // Processar resposta do endpoint básico para formato de stream
-          const episodeData = fallbackResponse.data
-          if (episodeData && episodeData.data) {
-            // Criar resposta no formato esperado pelo processEpisodeStreamData
-            const streamResponse = {
-              message: 'Stream encontrado via fallback',
-              data: {
-                token: episodeData.data.video_url || null,
-                stream_data: episodeData.data.streams || []
+          return await retryRequest(async () => {
+            const fallbackResponse = await apiClient.get(`/episodes/${animeId}/${episodeNumber}/`)
+            console.log(`✅ [API] Dados do episódio encontrados via endpoint básico para anime ${animeId}, episódio ${episodeNumber}`)
+            
+            // Processar resposta do endpoint básico para formato de stream
+            const episodeData = fallbackResponse.data
+            if (episodeData && episodeData.data) {
+              // Criar resposta no formato esperado pelo processEpisodeStreamData
+              const streamResponse = {
+                message: 'Stream encontrado via fallback',
+                data: {
+                  token: episodeData.data.video_url || null,
+                  stream_data: episodeData.data.streams || []
+                }
               }
+              console.log(`🎯 [API] Stream processado via fallback:`, streamResponse)
+              return streamResponse
+            } else {
+              throw new Error('Dados do episódio não encontrados no endpoint básico.')
             }
-            console.log(`🎯 [API] Stream processado via fallback:`, streamResponse)
-            return streamResponse
-          } else {
-            throw new Error('Dados do episódio não encontrados no endpoint básico.')
-          }
+          })
         } catch (fallbackError: any) {
           console.error(`❌ [API] Fallback também falhou para anime ${animeId}, episódio ${episodeNumber}:`, fallbackError.message)
           throw new Error('Episódio temporariamente indisponível. Tente novamente em alguns minutos.')
