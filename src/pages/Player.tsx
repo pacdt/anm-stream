@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
 import { useAnime } from '@/hooks/useAnimes'
 import { useEpisodes, useEpisodeStream } from '@/hooks/useEpisodes'
+import { useEpisodeProgress } from '@/hooks/useHistory'
 import { VideoPlayer } from '@/components/VideoPlayer'
 import { Loading, LoadingError } from '@/components'
 import { ChevronLeft, List, X } from 'lucide-react'
@@ -20,10 +21,28 @@ export function Player() {
   const animeQuery = useAnime(animeIdNum)
   const episodesQuery = useEpisodes(animeIdNum)
   const streamQuery = useEpisodeStream(animeIdNum, episodeNum)
+  const episodeProgress = useEpisodeProgress(animeIdNum, episodeNum)
   
   const anime = animeQuery.data
   const episodes = episodesQuery.data?.episodes || []
   const streamData = streamQuery.data
+  
+  // Log para debug do progresso
+  useEffect(() => {
+    if (episodeProgress) {
+      console.log('🎯 Progresso carregado para episódio:', {
+        animeId: animeIdNum,
+        episodeNumber: episodeNum,
+        currentTime: episodeProgress.currentTime,
+        duration: episodeProgress.duration,
+        percentage: episodeProgress.currentTime && episodeProgress.duration 
+          ? (episodeProgress.currentTime / episodeProgress.duration) * 100 
+          : 0
+      })
+    } else {
+      console.log('🎯 Nenhum progresso encontrado para episódio:', { animeId: animeIdNum, episodeNumber: episodeNum })
+    }
+  }, [episodeProgress, animeIdNum, episodeNum])
   
   // Processar dados de stream para obter opções de qualidade
   const videoSources: VideoQualityOption[] = streamData ? processEpisodeStreamData(streamData) : []
@@ -274,6 +293,7 @@ export function Player() {
               episodeNumber={episodeNum}
               currentSource={selectedSource}
               availableSources={videoSources}
+              savedProgress={episodeProgress}
               onSourceChange={handleSourceChange}
               onNext={nextEpisode ? handleNext : undefined}
               onPrevious={previousEpisode ? handlePrevious : undefined}

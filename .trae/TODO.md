@@ -1,7 +1,7 @@
 # TODO:
 
-- [x] api-error-1: Investigar erros ECONNABORTED na API externa anime-api-netf.onrender.com (priority: High)
-- [x] api-error-2: Verificar se a API externa está funcionando e acessível (priority: High)
-- [x] api-error-4: Corrigir erro 500 no endpoint external-stream (priority: High)
-- [x] api-error-3: Analisar timeout nas requisições de animes e episódios (priority: High)
-- [x] api-error-5: Implementar fallback ou aumentar timeout para requisições da API (priority: Medium)
+- [x] 7: Reescrever VideoPlayer.tsx com implementação correta do Vidstack (priority: High)
+- [x] 8: Implementar MediaProvider dentro do MediaPlayer (priority: High)
+- [x] 9: Corrigir eventos e API do Vidstack para reprodução (priority: High)
+- [x] 10: Implementar fullscreen usando useMediaState do Vidstack (priority: High)
+- [x] 11: Testar todas as funcionalidades corrigidas (priority: Medium)

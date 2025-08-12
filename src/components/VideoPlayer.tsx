@@ -1,78 +1,78 @@
-import React, { useRef, useEffect, useState, useCallback } from 'react'
-import { usePlayerStore } from '@/store/playerStore'
-import { useUpdateDetailedWatchProgress } from '@/hooks/useAnimes'
-import { useAuth } from '@/hooks/useAuth'
-import { localStorageService } from '@/lib/localStorageService'
-import { 
-  Play, 
-  Pause, 
-  Volume2, 
-  VolumeX, 
-  Maximize, 
-  Minimize, 
-  Settings,
+import React, { useEffect, useRef, useState } from 'react'
+import {
+  MediaPlayer,
+  MediaOutlet
+} from '@vidstack/react'
+import {
+  Play,
+  Pause,
+  Volume2,
+  VolumeX,
+  Maximize,
+  Minimize,
   SkipBack,
   SkipForward,
   RotateCcw,
+  Settings,
   Loader2
 } from 'lucide-react'
-import { formatDuration } from '@/lib/utils'
-import { VideoQualityOption } from '@/types'
+import { useAuth } from '../hooks/useAuth'
+import { usePlayerStore } from '../store/playerStore'
+import { useUpdateWatchProgress } from '../hooks/useHistory'
+import { localStorageService } from '../lib/localStorageService'
+
+interface VideoSource {
+  src: string
+  label: string
+  isAlternative?: boolean
+}
 
 interface VideoPlayerProps {
   animeId: string
   episodeNumber: number
-  currentSource: VideoQualityOption
-  availableSources: VideoQualityOption[]
-  onSourceChange: (source: VideoQualityOption) => void
+  currentSource: VideoSource
+  availableSources: VideoSource[]
+  savedProgress?: {
+    currentTime?: number
+    duration?: number
+    progress_seconds?: number
+  }
+  onSourceChange: (source: VideoSource) => void
   onNext?: () => void
   onPrevious?: () => void
   onEpisodeEnd?: () => void
 }
 
-export function VideoPlayer({ 
-  animeId, 
-  episodeNumber, 
+export const VideoPlayer: React.FC<VideoPlayerProps> = ({
+  animeId,
+  episodeNumber,
   currentSource,
   availableSources,
+  savedProgress,
   onSourceChange,
-  onNext, 
-  onPrevious, 
-  onEpisodeEnd 
-}: VideoPlayerProps) {
-  const videoRef = useRef<HTMLVideoElement>(null)
+  onNext,
+  onPrevious,
+  onEpisodeEnd
+}) => {
+  const { user, isAuthenticated } = useAuth()
+  const playerRef = useRef<any>(null)
   const containerRef = useRef<HTMLDivElement>(null)
-  const progressRef = useRef<HTMLDivElement>(null)
-  const { isAuthenticated, user } = useAuth()
   
   const {
     isPlaying,
-    currentTime,
-    duration,
     volume,
     isMuted,
-    isFullscreen,
     playbackRate,
-
-    isLoading,
-    isBuffering,
-    error,
-    showControls,
-    controlsTimeout,
+    currentTime,
+    duration,
+    isFullscreen,
     setPlaying,
-    setCurrentTime,
-    setDuration,
     setVolume,
     setMuted,
-    setFullscreen,
     setPlaybackRate,
-    setCurrentQuality,
-    setAvailableQualities,
-    setLoading,
-    setBuffering,
-    setError,
-    setShowControls,
-    setControlsTimeout,
+    setCurrentTime,
+    setDuration,
+    setFullscreen,
     togglePlay,
     toggleMute,
     toggleFullscreen,
@@ -81,232 +81,193 @@ export function VideoPlayer({
   } = usePlayerStore()
 
   const [showSettings, setShowSettings] = useState(false)
+  const [showControls, setShowControls] = useState(true)
   const [isDragging, setIsDragging] = useState(false)
+  const [hasLoadedProgress, setHasLoadedProgress] = useState(false)
+  const [isLoading, setLoading] = useState(true)
+  const [isBuffering, setBuffering] = useState(false)
+  const [error, setError] = useState<string | null>(null)
   
-  const updateProgressMutation = useUpdateDetailedWatchProgress()
+  const updateProgressMutation = useUpdateWatchProgress()
   const [lastAutoSave, setLastAutoSave] = useState(0)
-
-  // Initialize available qualities
+  
+  // Player states
+  const [canPlay, setCanPlay] = useState(false)
+  const [playerPlaying, setPlayerPlaying] = useState(false)
+  const [playerPaused, setPlayerPaused] = useState(false)
+  const [playerEnded, setPlayerEnded] = useState(false)
+  const [playerWaiting, setPlayerWaiting] = useState(false)
+  
+  // Log do progresso recebido via props
   useEffect(() => {
-    console.log('VideoPlayer - Available sources received:', availableSources)
-    console.log('VideoPlayer - Available sources length:', availableSources.length)
-    console.log('VideoPlayer - Current source:', currentSource)
-    console.log('VideoPlayer - Current source URL:', currentSource.src)
-    console.log('VideoPlayer - URL type check:', typeof currentSource.src)
-    console.log('VideoPlayer - URL validity check:', currentSource.src && currentSource.src.length > 0)
-    
-    const qualities = availableSources.map(source => ({ label: source.label, src: source.src }))
-    setAvailableQualities(qualities)
-    setCurrentQuality({ label: currentSource.label, src: currentSource.src })
-  }, [availableSources, currentSource, setAvailableQualities, setCurrentQuality])
-
-  // Video event handlers
-  const handleLoadStart = () => {
-    console.log('VideoPlayer - Load start for URL:', videoRef.current?.src)
-    console.log('VideoPlayer - Current source object:', currentSource)
-    setLoading(true)
-    setError(null)
-  }
-  const handleCanPlay = () => setLoading(false)
-  const handleWaiting = () => setBuffering(true)
-  const handlePlaying = () => setBuffering(false)
-  const handleError = (e: React.SyntheticEvent<HTMLVideoElement>) => {
-    const video = e.currentTarget
-    const error = video.error
-    
-    console.log('VideoPlayer - Error occurred:', error)
-    console.log('VideoPlayer - Current video src:', video.src)
-    console.log('VideoPlayer - Video readyState:', video.readyState)
-    console.log('VideoPlayer - Video networkState:', video.networkState)
-    
-    if (error) {
-      console.log('VideoPlayer - Error code:', error.code)
-      console.log('VideoPlayer - Error message:', error.message)
-      
-      let errorMessage = 'Erro ao carregar o vídeo'
-      
-      switch (error.code) {
-        case MediaError.MEDIA_ERR_ABORTED:
-          errorMessage = 'Reprodução abortada'
-          console.log('VideoPlayer - Error: MEDIA_ERR_ABORTED')
-          break
-        case MediaError.MEDIA_ERR_NETWORK:
-          errorMessage = 'Erro de rede'
-          console.log('VideoPlayer - Error: MEDIA_ERR_NETWORK')
-          break
-        case MediaError.MEDIA_ERR_DECODE:
-          errorMessage = 'Erro de decodificação'
-          console.log('VideoPlayer - Error: MEDIA_ERR_DECODE')
-          break
-        case MediaError.MEDIA_ERR_SRC_NOT_SUPPORTED:
-          errorMessage = 'Formato não suportado'
-          console.log('VideoPlayer - Error: MEDIA_ERR_SRC_NOT_SUPPORTED')
-          console.log('VideoPlayer - Unsupported source URL:', video.src)
-          break
-      }
-      
-      setError(errorMessage)
-    }
-    
-    setLoading(false)
-    setBuffering(false)
-  }
-
-  const handleLoadedMetadata = () => {
-    if (videoRef.current) {
-      setDuration(videoRef.current.duration)
-    }
-  }
-
-  const handleTimeUpdate = () => {
-    if (videoRef.current && !isDragging) {
-      const time = videoRef.current.currentTime
-      setCurrentTime(time)
-      
-      // Auto-save progress every 30 seconds
-      if (isAuthenticated && time - lastAutoSave > 30) {
-        // Salvar primeiro no localStorage
-        if (user?.id) {
-          localStorageService.saveWatchProgress({
-            userId: user.id,
-            animeId,
-            episodeNumber,
-            currentTime: time,
-            duration: videoRef.current.duration,
-            lastWatchedAt: new Date().toISOString(),
-            animeName: `Anime ${animeId}` // TODO: Get actual anime name
-          })
-        }
-        
-        // Tentar sincronizar com Supabase em background
-        if (user?.id) {
-          updateProgressMutation.mutate({
-            animeId: parseInt(animeId),
-            animeName: `Anime ${animeId}`, // TODO: Get actual anime name
-            episodeNumber,
-            currentTimeSeconds: time,
-            totalDurationSeconds: videoRef.current.duration,
-            isCompleted: false
-          })
-        }
-        setLastAutoSave(time)
-      }
-    }
-  }
-
-  const handleEnded = () => {
-    setPlaying(false)
-    
-    // Mark episode as completed
-    if (isAuthenticated && user?.id && videoRef.current) {
-      // Salvar primeiro no localStorage
-      localStorageService.saveWatchProgress({
-        userId: user.id,
-        animeId,
-        episodeNumber,
-        currentTime: videoRef.current.duration,
-        duration: videoRef.current.duration,
-        lastWatchedAt: new Date().toISOString(),
-        animeName: `Anime ${animeId}` // TODO: Get actual anime name
-      })
-      
-      // Tentar sincronizar com Supabase
-      updateProgressMutation.mutate({
-        animeId: parseInt(animeId),
-        animeName: `Anime ${animeId}`, // TODO: Get actual anime name
-        episodeNumber,
-        currentTimeSeconds: videoRef.current.duration,
-        totalDurationSeconds: videoRef.current.duration,
-        isCompleted: true
+    if (savedProgress) {
+      console.log('VideoPlayer - Progresso recebido via props:', {
+        currentTime: savedProgress.currentTime,
+        duration: savedProgress.duration,
+        progress_seconds: savedProgress.progress_seconds
       })
     }
-    
-    onEpisodeEnd?.()
-  }
+  }, [savedProgress])
 
-  // Sync video element with store
+  // Sync player states with store
   useEffect(() => {
-    if (!videoRef.current) return
-    
-    if (isPlaying) {
-      videoRef.current.play().catch(console.error)
-    } else {
-      videoRef.current.pause()
+    setPlaying(playerPlaying)
+  }, [playerPlaying, setPlaying])
+
+  // Carregar progresso salvo quando o vídeo estiver pronto
+  useEffect(() => {
+    if (savedProgress && canPlay && !hasLoadedProgress && playerRef.current) {
+      const savedTime = savedProgress.progress_seconds || savedProgress.currentTime || 0
+      console.log('VideoPlayer - Carregando progresso salvo:', savedTime, 'segundos')
       
-      // Save progress when pausing
-      if (isAuthenticated && user?.id && videoRef.current.currentTime > 0) {
+      if (savedTime > 0) {
+        try {
+          playerRef.current.currentTime = savedTime
+          setHasLoadedProgress(true)
+          console.log('VideoPlayer - Progresso carregado com sucesso:', savedTime)
+        } catch (error) {
+          console.error('VideoPlayer - Erro ao definir currentTime:', error)
+          setHasLoadedProgress(true)
+        }
+      } else {
+        setHasLoadedProgress(true)
+        console.log('VideoPlayer - Nenhum progresso para carregar (tempo = 0)')
+      }
+    }
+  }, [savedProgress, canPlay, hasLoadedProgress, setCurrentTime])
+
+  // Reset hasLoadedProgress when episode changes
+  useEffect(() => {
+    setHasLoadedProgress(false)
+    setCanPlay(false)
+    setPlayerPlaying(false)
+    setPlayerPaused(false)
+    setPlayerEnded(false)
+    setPlayerWaiting(false)
+  }, [animeId, episodeNumber])
+
+  // Handle loading states
+  useEffect(() => {
+    if (canPlay) {
+      setLoading(false)
+    }
+  }, [canPlay])
+
+  useEffect(() => {
+    setBuffering(playerWaiting)
+  }, [playerWaiting])
+
+  // Handle pause for progress saving
+  useEffect(() => {
+    if (playerPaused && !playerEnded && isAuthenticated && user?.id && playerRef.current) {
+      const currentTimeValue = playerRef.current.currentTime
+      const durationValue = playerRef.current.duration
+      
+      if (currentTimeValue > 0) {
         // Salvar primeiro no localStorage
         localStorageService.saveWatchProgress({
           userId: user.id,
           animeId,
           episodeNumber,
-          currentTime: videoRef.current.currentTime,
-          duration: videoRef.current.duration,
+          currentTime: currentTimeValue,
+          duration: durationValue,
           lastWatchedAt: new Date().toISOString(),
-          animeName: `Anime ${animeId}` // TODO: Get actual anime name
+          animeName: `Anime ${animeId}`
         })
         
         // Tentar sincronizar com Supabase
         updateProgressMutation.mutate({
           animeId: parseInt(animeId),
-          animeName: `Anime ${animeId}`, // TODO: Get actual anime name
+          animeName: `Anime ${animeId}`,
           episodeNumber,
-          currentTimeSeconds: videoRef.current.currentTime,
-          totalDurationSeconds: videoRef.current.duration,
+          currentTimeSeconds: currentTimeValue,
+          totalDurationSeconds: durationValue,
           isCompleted: false
         })
       }
     }
-  }, [isPlaying, isAuthenticated, animeId, episodeNumber, updateProgressMutation])
+  }, [playerPaused, playerEnded, isAuthenticated, user, animeId, episodeNumber, updateProgressMutation])
 
+  // Handle episode end
   useEffect(() => {
-    if (videoRef.current) {
-      videoRef.current.volume = isMuted ? 0 : volume
+    if (playerEnded && isAuthenticated && user?.id && playerRef.current) {
+      console.log('VideoPlayer - Episode ended')
+      
+      // Mark episode as completed
+      localStorageService.saveWatchProgress({
+        userId: user.id,
+        animeId,
+        episodeNumber,
+        currentTime: playerRef.current.duration,
+        duration: playerRef.current.duration,
+        lastWatchedAt: new Date().toISOString(),
+        animeName: `Anime ${animeId}`
+      })
+      
+      // Tentar sincronizar com Supabase
+      updateProgressMutation.mutate({
+        animeId: parseInt(animeId),
+        animeName: `Anime ${animeId}`,
+        episodeNumber,
+        currentTimeSeconds: playerRef.current.duration,
+        totalDurationSeconds: playerRef.current.duration,
+        isCompleted: true
+      })
+      
+      onEpisodeEnd?.()
+    }
+  }, [playerEnded, isAuthenticated, user, animeId, episodeNumber, updateProgressMutation, onEpisodeEnd])
+
+  // Auto-save progress
+  useEffect(() => {
+    if (isAuthenticated && currentTime - lastAutoSave > 30 && playerRef.current) {
+      const time = currentTime
+      
+      // Salvar primeiro no localStorage
+      if (user?.id) {
+        localStorageService.saveWatchProgress({
+          userId: user.id,
+          animeId,
+          episodeNumber,
+          currentTime: time,
+          duration: playerRef.current.duration,
+          lastWatchedAt: new Date().toISOString(),
+          animeName: `Anime ${animeId}`
+        })
+      }
+      
+      // Tentar sincronizar com Supabase em background
+      if (user?.id) {
+        updateProgressMutation.mutate({
+          animeId: parseInt(animeId),
+          animeName: `Anime ${animeId}`,
+          episodeNumber,
+          currentTimeSeconds: time,
+          totalDurationSeconds: playerRef.current.duration,
+          isCompleted: false
+        })
+      }
+      setLastAutoSave(time)
+    }
+  }, [currentTime, lastAutoSave, isAuthenticated, user, animeId, episodeNumber, updateProgressMutation])
+
+  // Sync player controls with store
+  useEffect(() => {
+    if (playerRef.current) {
+      playerRef.current.volume = isMuted ? 0 : volume
     }
   }, [volume, isMuted])
 
   useEffect(() => {
-    if (videoRef.current) {
-      videoRef.current.playbackRate = playbackRate
+    if (playerRef.current) {
+      playerRef.current.playbackRate = playbackRate
     }
   }, [playbackRate])
-
-  // Fullscreen handling
-  useEffect(() => {
-    const handleFullscreenChange = () => {
-      setFullscreen(!!document.fullscreenElement)
-    }
-    
-    document.addEventListener('fullscreenchange', handleFullscreenChange)
-    return () => document.removeEventListener('fullscreenchange', handleFullscreenChange)
-  }, [setFullscreen])
-
-  // Controls auto-hide
-  useEffect(() => {
-    if (controlsTimeout) {
-      clearTimeout(controlsTimeout)
-    }
-    
-    if (showControls) {
-      const timeout = setTimeout(() => {
-        if (isPlaying) {
-          setShowControls(false)
-        }
-      }, 3000)
-      setControlsTimeout(timeout)
-    }
-    
-    return () => {
-      if (controlsTimeout) {
-        clearTimeout(controlsTimeout)
-      }
-    }
-  }, [showControls, isPlaying, setShowControls, setControlsTimeout])
 
   // Keyboard shortcuts
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
-      if (!containerRef.current?.contains(document.activeElement)) return
+      if (!playerRef.current) return
       
       switch (e.code) {
         case 'Space':
@@ -339,63 +300,24 @@ export function VideoPlayer({
           break
       }
     }
-    
+
     document.addEventListener('keydown', handleKeyDown)
     return () => document.removeEventListener('keydown', handleKeyDown)
-  }, [currentTime, duration, volume, togglePlay, seekTo, setVolume, toggleMute, toggleFullscreen])
+  }, [togglePlay, seekTo, currentTime, duration, setVolume, volume, toggleMute, toggleFullscreen])
 
-  // Progress bar handling
-  const handleProgressClick = (e: React.MouseEvent) => {
-    if (!progressRef.current || !duration) return
-    
-    const rect = progressRef.current.getBoundingClientRect()
-    const percent = (e.clientX - rect.left) / rect.width
-    const time = percent * duration
-    seekTo(time)
-  }
-
-  const handleProgressDrag = useCallback((e: MouseEvent) => {
-    if (!progressRef.current || !duration || !isDragging) return
-    
-    const rect = progressRef.current.getBoundingClientRect()
-    const percent = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width))
-    const time = percent * duration
-    setCurrentTime(time)
-    
-    if (videoRef.current) {
-      videoRef.current.currentTime = time
-    }
-  }, [duration, isDragging, setCurrentTime])
-
-  const handleProgressDragEnd = useCallback(() => {
-    setIsDragging(false)
-  }, [])
-
-  useEffect(() => {
-    if (isDragging) {
-      document.addEventListener('mousemove', handleProgressDrag)
-      document.addEventListener('mouseup', handleProgressDragEnd)
-    }
-    
-    return () => {
-      document.removeEventListener('mousemove', handleProgressDrag)
-      document.removeEventListener('mouseup', handleProgressDragEnd)
-    }
-  }, [isDragging, handleProgressDrag, handleProgressDragEnd])
-
-  // Source change
+  // Handle source change
   const handleSourceChange = (sourceLabel: string) => {
-    const newSource = availableSources.find(source => source.label === sourceLabel)
-    if (newSource && newSource !== currentSource) {
+    const newSource = availableSources.find(s => s.label === sourceLabel)
+    if (newSource && newSource.src !== currentSource.src) {
       const currentTimeBackup = currentTime
       onSourceChange(newSource)
       
       // Restore time after source change
       setTimeout(() => {
-        if (videoRef.current) {
-          videoRef.current.currentTime = currentTimeBackup
+        if (playerRef.current) {
+          playerRef.current.currentTime = currentTimeBackup
           if (isPlaying) {
-            videoRef.current.play()
+            playerRef.current.play()
           }
         }
       }, 100)
@@ -407,40 +329,25 @@ export function VideoPlayer({
     setShowControls(true)
   }
 
-  // Auto fullscreen on mount
+  // Fullscreen handling
   useEffect(() => {
-    const enterFullscreen = async () => {
-      try {
-        console.log('VideoPlayer - Tentando entrar em tela cheia automaticamente')
-        
-        // Verificar se a API de tela cheia é suportada
-        if (!document.fullscreenEnabled) {
-          console.log('VideoPlayer - Tela cheia não é suportada neste navegador')
-          return
-        }
-        
-        // Verificar se já não está em tela cheia
-        if (document.fullscreenElement) {
-          console.log('VideoPlayer - Já está em tela cheia')
-          return
-        }
-        
-        // Tentar entrar em tela cheia
-        if (containerRef.current) {
-          await containerRef.current.requestFullscreen()
-          console.log('VideoPlayer - Entrou em tela cheia automaticamente')
-        }
-      } catch (error) {
-        console.log('VideoPlayer - Erro ao entrar em tela cheia automaticamente:', error)
-        // Não mostrar erro para o usuário, apenas log para debug
-      }
+    const handleFullscreenChange = () => {
+      setFullscreen(!!document.fullscreenElement)
     }
     
-    // Delay pequeno para garantir que o componente está totalmente montado
-    const timer = setTimeout(enterFullscreen, 500)
-    
-    return () => clearTimeout(timer)
-  }, []) // Executar apenas uma vez na montagem
+    document.addEventListener('fullscreenchange', handleFullscreenChange)
+    return () => document.removeEventListener('fullscreenchange', handleFullscreenChange)
+  }, [setFullscreen])
+
+  // Auto-hide controls
+  useEffect(() => {
+    if (showControls && isPlaying) {
+      const timer = setTimeout(() => {
+        setShowControls(false)
+      }, 3000)
+      return () => clearTimeout(timer)
+    }
+  }, [showControls, isPlaying])
 
   // Cleanup on unmount
   useEffect(() => {
@@ -450,9 +357,17 @@ export function VideoPlayer({
   }, [reset])
 
   const progressPercentage = duration > 0 ? (currentTime / duration) * 100 : 0
-  const bufferedPercentage = videoRef.current?.buffered && videoRef.current.buffered.length > 0 && duration > 0
-    ? (videoRef.current.buffered.end(0) / duration) * 100 
-    : 0
+
+  const formatDuration = (seconds: number) => {
+    const hours = Math.floor(seconds / 3600)
+    const minutes = Math.floor((seconds % 3600) / 60)
+    const secs = Math.floor(seconds % 60)
+    
+    if (hours > 0) {
+      return `${hours}:${minutes.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`
+    }
+    return `${minutes}:${secs.toString().padStart(2, '0')}`
+  }
 
   return (
     <div 
@@ -462,39 +377,85 @@ export function VideoPlayer({
       onMouseLeave={() => setShowControls(false)}
       tabIndex={0}
     >
-      {/* Video Element */}
-      <video
-        ref={videoRef}
+      {/* Vidstack Media Player */}
+      <MediaPlayer
+        ref={playerRef}
         className="w-full h-full"
         src={currentSource.src}
-        onLoadStart={handleLoadStart}
-        onCanPlay={handleCanPlay}
-        onWaiting={handleWaiting}
-        onPlaying={handlePlaying}
-        onError={handleError}
-        onLoadedMetadata={handleLoadedMetadata}
-        onTimeUpdate={handleTimeUpdate}
-        onEnded={handleEnded}
-        onClick={togglePlay}
-      />
+        volume={isMuted ? 0 : volume}
+        playbackRate={playbackRate}
+        onLoadStart={() => {
+          console.log('VideoPlayer - Load start')
+          setLoading(true)
+          setError(null)
+        }}
+        onCanPlay={() => {
+          console.log('VideoPlayer - Can play')
+          setLoading(false)
+          setCanPlay(true)
+        }}
+        onWaiting={() => {
+          console.log('VideoPlayer - Waiting/Buffering')
+          setPlayerWaiting(true)
+          setBuffering(true)
+        }}
+        onPlaying={() => {
+          console.log('VideoPlayer - Playing')
+          setPlayerWaiting(false)
+          setBuffering(false)
+          setPlayerPlaying(true)
+          setPlayerPaused(false)
+        }}
+        onPause={() => {
+          console.log('VideoPlayer - Paused')
+          setPlayerPlaying(false)
+          setPlayerPaused(true)
+        }}
+        onEnded={() => {
+          console.log('VideoPlayer - Ended')
+          setPlayerPlaying(false)
+          setPlayerEnded(true)
+        }}
+        onTimeUpdate={() => {
+          if (playerRef.current && !isDragging) {
+            const time = playerRef.current.currentTime
+            setCurrentTime(time)
+          }
+        }}
+        onLoadedMetadata={() => {
+          if (playerRef.current) {
+            const durationValue = playerRef.current.duration
+            console.log('VideoPlayer - Metadata loaded, duration:', durationValue)
+            setDuration(durationValue)
+          }
+        }}
+        onError={(error) => {
+          console.log('VideoPlayer - Error occurred:', error)
+          setError('Erro ao carregar o vídeo')
+          setLoading(false)
+          setBuffering(false)
+        }}
+      >
+        <MediaOutlet />
+      </MediaPlayer>
 
       {/* Loading Overlay */}
       {(isLoading || isBuffering) && (
-        <div className="absolute inset-0 flex items-center justify-center bg-black/50">
+        <div className="absolute inset-0 flex items-center justify-center bg-black/50 z-10">
           <Loader2 className="w-12 h-12 text-white animate-spin" />
         </div>
       )}
 
       {/* Error Overlay */}
       {error && (
-        <div className="absolute inset-0 flex items-center justify-center bg-black/80">
+        <div className="absolute inset-0 flex items-center justify-center bg-black/80 z-10">
           <div className="text-center text-white">
             <p className="text-lg mb-4">{error}</p>
             <button
               onClick={() => {
                 setError(null)
-                if (videoRef.current) {
-                  videoRef.current.load()
+                if (playerRef.current) {
+                  playerRef.current.load()
                 }
               }}
               className="bg-red-600 hover:bg-red-700 px-4 py-2 rounded transition-colors"
@@ -505,10 +466,8 @@ export function VideoPlayer({
         </div>
       )}
 
-      {/* Controls */}
-      <div className={`absolute inset-0 transition-opacity duration-300 ${
-        showControls || !isPlaying ? 'opacity-100' : 'opacity-0'
-      }`}>
+      {/* Custom Controls Overlay */}
+      <div className={`absolute inset-0 transition-opacity duration-300 z-20 ${showControls || !isPlaying ? 'opacity-100' : 'opacity-0'}`}>
         {/* Gradient Overlay */}
         <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-black/40" />
         
@@ -597,16 +556,14 @@ export function VideoPlayer({
         <div className="absolute bottom-0 left-0 right-0 p-4">
           {/* Progress Bar */}
           <div 
-            ref={progressRef}
             className="w-full h-0.5 bg-white/30 rounded-full mb-6 cursor-pointer group/progress"
-            onClick={handleProgressClick}
-            onMouseDown={() => setIsDragging(true)}
+            onClick={(e) => {
+              const rect = e.currentTarget.getBoundingClientRect()
+              const percent = (e.clientX - rect.left) / rect.width
+              const newTime = percent * duration
+              seekTo(newTime)
+            }}
           >
-            {/* Buffered */}
-            <div 
-              className="absolute h-0.5 bg-white/50 rounded-full"
-              style={{ width: `${bufferedPercentage}%` }}
-            />
             {/* Progress */}
             <div 
               className="absolute h-0.5 bg-red-600 rounded-full"
@@ -700,7 +657,15 @@ export function VideoPlayer({
             <div className="flex items-center gap-2">
               {/* Fullscreen */}
               <button
-                onClick={() => toggleFullscreen()}
+                onClick={() => {
+                  if (containerRef.current) {
+                    if (isFullscreen) {
+                      document.exitFullscreen()
+                    } else {
+                      containerRef.current.requestFullscreen()
+                    }
+                  }
+                }}
                 className="p-2 text-white hover:bg-white/20 rounded transition-colors"
               >
                 {isFullscreen ? <Minimize className="w-5 h-5" /> : <Maximize className="w-5 h-5" />}
