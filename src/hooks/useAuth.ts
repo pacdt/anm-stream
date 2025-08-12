@@ -22,137 +22,125 @@ export const useAuth = () => {
   
   const queryClient = useQueryClient()
 
-  // Monitorar mudanças de autenticação
+  // Verificação simples de autenticação na inicialização
   useEffect(() => {
-    // Se o Supabase não estiver configurado, definir como modo visitante
-    if (!isSupabaseConfigured || !supabase) {
-      setUser(null)
-      setLoading(false)
-      console.log('Rodando em modo visitante - Supabase não configurado')
-      return
-    }
-
-    const { data: { subscription } } = SupabaseService.onAuthStateChange((event, session) => {
-      if (event === 'SIGNED_IN' && session?.user) {
-        setUser(session.user)
-        setLoading(false)
-      } else if (event === 'SIGNED_OUT') {
+    const initAuth = async () => {
+      // Se Supabase não estiver configurado, ativar modo visitante
+      if (!isSupabaseConfigured || !supabase) {
+        console.log('🔧 Supabase não configurado - modo visitante ativo')
         setUser(null)
         setLoading(false)
-        // Limpar cache quando usuário faz logout
-        queryClient.clear()
+        return
       }
-    })
 
-    // Verificar se há usuário logado na inicialização
-    const checkUser = async () => {
       try {
-        setLoading(true)
-        
-        // Primeiro verificar se há uma sessão ativa
-        const { data: { session }, error: sessionError } = await supabase!.auth.getSession()
-        
-        if (sessionError) {
-          console.warn('Erro ao verificar sessão:', sessionError.message)
-          setUser(null)
-          return
-        }
+        // Verificação simples de sessão
+        const { data: { session } } = await supabase.auth.getSession()
         
         if (session?.user) {
-          // Se há sessão, obter dados do usuário
+          console.log('✅ Usuário logado encontrado')
           setUser(session.user)
         } else {
-          // Sem sessão ativa - modo visitante
+          console.log('👤 Nenhuma sessão ativa - modo visitante')
           setUser(null)
         }
-      } catch (error: any) {
-        // Só logar erros que não sejam relacionados à ausência de sessão
-        if (!error.message?.includes('Auth session missing')) {
-          console.error('Erro ao verificar usuário:', error)
-          setError('Erro ao verificar autenticação')
-        }
+      } catch (error) {
+        console.log('⚠️ Erro na verificação - modo visitante ativo')
         setUser(null)
       } finally {
         setLoading(false)
       }
     }
 
-    checkUser()
+    // Configurar listener de mudanças de auth
+    let subscription: any = null
+    if (isSupabaseConfigured && supabase) {
+      try {
+        const { data } = SupabaseService.onAuthStateChange((event, session) => {
+          console.log('🔐 Auth state change:', event)
+          if (event === 'SIGNED_IN' && session?.user) {
+            setUser(session.user)
+          } else if (event === 'SIGNED_OUT') {
+            setUser(null)
+            queryClient.clear()
+          }
+        })
+        subscription = data.subscription
+      } catch (error) {
+        console.warn('⚠️ Erro ao configurar listener de auth')
+      }
+    }
+
+    initAuth()
 
     return () => {
-      subscription.unsubscribe()
+      if (subscription) {
+        subscription.unsubscribe()
+      }
     }
-  }, [setUser, setLoading, setError, queryClient])
+  }, [])
 
-  // Função de login personalizada
+  // Função de login
   const handleSignIn = async (email: string, password: string) => {
     try {
       clearError()
-      setLoading(true)
       await signIn(email, password)
     } catch (error: any) {
-      setError(error.message || 'Erro ao fazer login')
+      console.error('Erro no login:', error.message)
       throw error
-    } finally {
-      setLoading(false)
     }
   }
+  
+  // Função para entrar como visitante
+  const enterAsGuest = () => {
+    console.log('👤 Entrando como visitante')
+    setUser(null)
+    setLoading(false)
+    clearError()
+  }
 
-  // Função de cadastro personalizada
+  // Função de cadastro
   const handleSignUp = async (email: string, password: string, displayName: string = 'Usuário') => {
     try {
       clearError()
-      setLoading(true)
       await signUp(email, password, displayName)
     } catch (error: any) {
-      setError(error.message || 'Erro ao criar conta')
+      console.error('Erro no cadastro:', error.message)
       throw error
-    } finally {
-      setLoading(false)
     }
   }
 
-  // Função de logout personalizada
+  // Função de logout
   const handleSignOut = async () => {
     try {
       clearError()
-      setLoading(true)
       await signOut()
-      // Limpar cache após logout
       queryClient.clear()
     } catch (error: any) {
-      setError(error.message || 'Erro ao fazer logout')
+      console.error('Erro no logout:', error.message)
       throw error
-    } finally {
-      setLoading(false)
     }
   }
 
-  // Função de redefinição de senha personalizada
+  // Função de redefinição de senha
   const handleResetPassword = async (email: string) => {
     try {
       clearError()
-      setLoading(true)
       await resetPassword(email)
     } catch (error: any) {
-      setError(error.message || 'Erro ao redefinir senha')
+      console.error('Erro ao redefinir senha:', error.message)
       throw error
-    } finally {
-      setLoading(false)
     }
   }
 
-  // Função de atualização de senha personalizada
+  // Função de atualização de senha
   const handleUpdatePassword = async (newPassword: string) => {
     try {
       clearError()
-      setLoading(true)
       await updatePassword(newPassword)
     } catch (error: any) {
-      setError(error.message || 'Erro ao atualizar senha')
+      console.error('Erro ao atualizar senha:', error.message)
       throw error
-    } finally {
-      setLoading(false)
     }
   }
 
@@ -166,6 +154,7 @@ export const useAuth = () => {
     signOut: handleSignOut,
     resetPassword: handleResetPassword,
     updatePassword: handleUpdatePassword,
+    enterAsGuest,
     clearError,
   }
 }

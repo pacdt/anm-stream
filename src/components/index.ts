@@ -8,6 +8,7 @@ export { ProtectedRoute } from './ProtectedRoute'
 export { AnimeCard } from './AnimeCard'
 export { Carousel } from './Carousel'
 export { VideoPlayer } from './VideoPlayer'
+export { ImageWithFallback } from './ImageWithFallback'
 
 // UI Components
 export { 

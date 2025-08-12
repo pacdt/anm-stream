@@ -11,13 +11,28 @@ interface UpdateProfileParams {
   avatarUrl?: string
 }
 
-// Hook para buscar perfil do usuário
+// Hook para buscar perfil do usuário com estatísticas
 export const useUserProfile = (userId: string) => {
   return useQuery({
     queryKey: ['user-profile', userId],
-    queryFn: () => SupabaseService.getUserProfile(userId),
+    queryFn: async () => {
+      const [profile, stats] = await Promise.all([
+        SupabaseService.getUserProfile(userId),
+        SupabaseService.getUserStats(userId)
+      ])
+      
+      return {
+        ...profile,
+        stats: {
+          totalWatched: stats.totalWatched,
+          totalEpisodes: stats.totalWatched, // Por enquanto, usar o mesmo valor
+          totalHours: Math.round(stats.totalWatchTime / 3600), // Converter segundos para horas
+          totalFavorites: stats.totalFavorites
+        }
+      }
+    },
     enabled: !!userId,
-    staleTime: 5 * 60 * 1000, // 5 minutos
+    staleTime: 2 * 60 * 1000, // 2 minutos para atualizar mais frequentemente
   })
 }
 

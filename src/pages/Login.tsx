@@ -8,7 +8,7 @@ import { cn, isValidEmail } from '@/lib/utils'
 export const Login: React.FC = () => {
   const navigate = useNavigate()
   const location = useLocation()
-  const { signIn, isLoading, error, clearError } = useAuth()
+  const { signIn, isLoading, error, clearError, enterAsGuest } = useAuth()
   
   const [formData, setFormData] = useState({
     email: '',
@@ -51,6 +51,19 @@ export const Login: React.FC = () => {
       console.error('Erro no login:', error)
     }
   }
+  
+  const handleGuestMode = () => {
+    enterAsGuest()
+    navigate(from, { replace: true })
+  }
+  
+  // Verificar se é erro de conectividade
+  const isConnectivityError = error && (
+    error.includes('indisponível') || 
+    error.includes('Timeout') || 
+    error.includes('conectividade') ||
+    error.includes('Visitante')
+  )
 
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target
@@ -87,9 +100,19 @@ export const Login: React.FC = () => {
         <div className="bg-gray-800 rounded-lg p-8 shadow-xl">
           {/* Error Alert */}
           {error && (
-            <div className="mb-6 p-4 bg-red-900/50 border border-red-700 rounded-lg flex items-center gap-3">
-              <AlertCircle className="w-5 h-5 text-red-400 flex-shrink-0" />
-              <p className="text-red-300 text-sm">{error}</p>
+            <div className="mb-6 p-4 bg-red-900/50 border border-red-700 rounded-lg">
+              <div className="flex items-center gap-3 mb-3">
+                <AlertCircle className="w-5 h-5 text-red-400 flex-shrink-0" />
+                <p className="text-red-300 text-sm">{error}</p>
+              </div>
+              {isConnectivityError && (
+                <button
+                  onClick={handleGuestMode}
+                  className="w-full mt-3 bg-gray-600 text-white py-2 px-4 rounded-lg font-medium hover:bg-gray-500 transition-colors duration-300 text-sm"
+                >
+                  Continuar como Visitante
+                </button>
+              )}
             </div>
           )}
 

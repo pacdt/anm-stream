@@ -1,5 +1,80 @@
-import { supabase, /* isSupabaseConfigured, */ checkSupabaseAvailable } from './supabase'
+import { supabase, /* isSupabaseConfigured, */ checkSupabaseAvailable, checkSupabaseConnectivity } from './supabase'
 import { UserFavorite, WatchHistoryItem } from '@/types'
+
+// Sistema de throttling para evitar muitas requisições simultâneas
+class RequestThrottler {
+  private static instance: RequestThrottler
+  private requestQueue: Array<() => Promise<any>> = []
+  private isProcessing = false
+  private readonly maxConcurrent = 3
+  private readonly delayBetweenRequests = 100 // ms
+
+  static getInstance(): RequestThrottler {
+    if (!RequestThrottler.instance) {
+      RequestThrottler.instance = new RequestThrottler()
+    }
+    return RequestThrottler.instance
+  }
+
+  async execute<T>(request: () => Promise<T>): Promise<T> {
+    return new Promise((resolve, reject) => {
+      this.requestQueue.push(async () => {
+        try {
+          const result = await this.executeWithRetry(request)
+          resolve(result)
+        } catch (error) {
+          reject(error)
+        }
+      })
+      this.processQueue()
+    })
+  }
+
+  private async executeWithRetry<T>(request: () => Promise<T>, maxRetries = 3): Promise<T> {
+    for (let attempt = 1; attempt <= maxRetries; attempt++) {
+      try {
+        return await request()
+      } catch (error: any) {
+        if (attempt === maxRetries) throw error
+        
+        // Se for erro de recursos insuficientes, aguardar mais tempo
+        if (error.message?.includes('insufficient_resources') || error.code === 'PGRST301') {
+          await new Promise(resolve => setTimeout(resolve, attempt * 1000))
+          continue
+        }
+        
+        throw error
+      }
+    }
+    throw new Error('Max retries exceeded')
+  }
+
+  private async processQueue() {
+    if (this.isProcessing || this.requestQueue.length === 0) return
+    
+    this.isProcessing = true
+    
+    while (this.requestQueue.length > 0) {
+      const request = this.requestQueue.shift()
+      if (request) {
+        try {
+          await request()
+        } catch (error) {
+          console.error('Erro na fila de requisições:', error)
+        }
+        
+        // Delay entre requisições
+        if (this.requestQueue.length > 0) {
+          await new Promise(resolve => setTimeout(resolve, this.delayBetweenRequests))
+        }
+      }
+    }
+    
+    this.isProcessing = false
+  }
+}
+
+const throttler = RequestThrottler.getInstance()
 
 // Serviços do Supabase
 export class SupabaseService {
@@ -96,23 +171,29 @@ export class SupabaseService {
       return null
     }
     
-    const { data: { session } } = await supabase.auth.getSession()
-    if (!session?.user) throw new Error('Usuário não autenticado')
-    const user = session.user
-    
-    const { data, error } = await supabase
-      .from('watch_history')
-      .upsert({
-        user_id: user.id,
-        anime_id: animeId,
-        anime_name: animeName,
-        episode_number: episodeNumber,
-        progress_seconds: progressSeconds,
-        total_duration_seconds: totalDurationSeconds
-      })
-    
-    if (error) throw error
-    return data
+    return throttler.execute(async () => {
+      const { data: { session } } = await supabase.auth.getSession()
+      if (!session?.user) throw new Error('Usuário não autenticado')
+      const user = session.user
+      
+      const { data, error } = await supabase
+        .from('watch_history')
+        .upsert({
+          user_id: user.id,
+          anime_id: animeId,
+          anime_name: animeName,
+          episode_number: episodeNumber,
+          progress_seconds: Math.floor(progressSeconds),
+          total_duration_seconds: Math.floor(totalDurationSeconds || 0),
+          last_position_seconds: Math.floor(progressSeconds),
+          last_watched_at: new Date().toISOString()
+        }, {
+          onConflict: 'user_id,anime_id,episode_number'
+        })
+      
+      if (error) throw error
+      return data
+    })
   }
   
   static async getWatchHistory(): Promise<WatchHistoryItem[]> {
@@ -120,18 +201,20 @@ export class SupabaseService {
       return []
     }
     
-    const { data: { session } } = await supabase.auth.getSession()
-    if (!session?.user) return []
-    const user = session.user
-    
-    const { data, error } = await supabase
-      .from('watch_history')
-      .select('*')
-      .eq('user_id', user.id)
-      .order('last_watched_at', { ascending: false })
-    
-    if (error) throw error
-    return data || []
+    return throttler.execute(async () => {
+      const { data: { session } } = await supabase.auth.getSession()
+      if (!session?.user) return []
+      const user = session.user
+      
+      const { data, error } = await supabase
+        .from('watch_history')
+        .select('*')
+        .eq('user_id', user.id)
+        .order('last_watched_at', { ascending: false })
+      
+      if (error) throw error
+      return data || []
+    })
   }
   
   static async getEpisodeProgress(animeId: number, episodeNumber: number) {
@@ -209,33 +292,35 @@ export class SupabaseService {
       return null
     }
     
-    let targetUserId = params.userId
-    
-    // Se não foi fornecido userId, usar o da sessão atual
-    if (!targetUserId) {
-      const { data: { session } } = await supabase.auth.getSession()
-      if (!session?.user) throw new Error('Usuário não autenticado')
-      targetUserId = session.user.id
-    }
-    
-    const { data, error } = await supabase
-      .from('watch_history')
-      .upsert({
-        user_id: targetUserId,
-        anime_id: params.animeId,
-        anime_name: params.animeName,
-        episode_number: params.episodeNumber,
-        progress_seconds: params.currentTimeSeconds,
-        total_duration_seconds: params.totalDurationSeconds,
-        last_position_seconds: params.currentTimeSeconds,
-        is_completed: params.isCompleted || false,
-        last_watched_at: params.lastWatchedAt || new Date().toISOString()
-      }, {
-        onConflict: 'user_id,anime_id,episode_number'
-      })
-    
-    if (error) throw error
-    return data
+    return throttler.execute(async () => {
+      let targetUserId = params.userId
+      
+      // Se não foi fornecido userId, usar o da sessão atual
+      if (!targetUserId) {
+        const { data: { session } } = await supabase.auth.getSession()
+        if (!session?.user) throw new Error('Usuário não autenticado')
+        targetUserId = session.user.id
+      }
+      
+      const { data, error } = await supabase
+        .from('watch_history')
+        .upsert({
+          user_id: targetUserId,
+          anime_id: params.animeId,
+          anime_name: params.animeName,
+          episode_number: params.episodeNumber,
+          progress_seconds: Math.floor(params.currentTimeSeconds),
+          total_duration_seconds: Math.floor(params.totalDurationSeconds),
+          last_position_seconds: Math.floor(params.currentTimeSeconds),
+          is_completed: params.isCompleted || false,
+          last_watched_at: params.lastWatchedAt || new Date().toISOString()
+        }, {
+          onConflict: 'user_id,anime_id,episode_number'
+        })
+      
+      if (error) throw error
+      return data
+    })
   }
   
   // Autenticação
@@ -427,13 +512,30 @@ export class SupabaseService {
     if (!checkSupabaseAvailable() || !supabase) {
       throw new Error('Autenticação não disponível - Supabase não configurado')
     }
-    const { data, error } = await supabase.auth.signInWithPassword({
-      email,
-      password
-    })
     
-    if (error) throw error
-    return data
+    try {
+      const { data, error } = await supabase.auth.signInWithPassword({
+        email,
+        password
+      })
+      
+      if (error) {
+        // Mensagens de erro mais específicas
+        if (error.message.includes('Invalid login credentials')) {
+          throw new Error('Email ou senha incorretos')
+        } else if (error.message.includes('Email not confirmed')) {
+          throw new Error('Email não confirmado. Verifique sua caixa de entrada.')
+        } else if (error.message.includes('Too many requests')) {
+          throw new Error('Muitas tentativas de login. Tente novamente em alguns minutos.')
+        } else {
+          throw new Error(`Erro no login: ${error.message}`)
+        }
+      }
+      
+      return data
+    } catch (error: any) {
+      throw error
+    }
   }
   
   static async signOut() {
@@ -441,8 +543,24 @@ export class SupabaseService {
       console.log('Logout não necessário - modo visitante')
       return
     }
-    const { error } = await supabase.auth.signOut()
-    if (error) throw error
+    
+    try {
+      // Usar logout local ao invés de global para evitar ERR_ABORTED
+      const { error } = await supabase.auth.signOut({ scope: 'local' })
+      if (error) {
+        console.warn('Erro no logout:', error.message)
+        // Em caso de erro, limpar sessão localmente
+        await supabase.auth.signOut({ scope: 'local' })
+      }
+    } catch (error: any) {
+      console.warn('Erro no logout, limpando sessão local:', error.message)
+      // Fallback: tentar limpar apenas localmente
+      try {
+        await supabase.auth.signOut({ scope: 'local' })
+      } catch (fallbackError) {
+        console.error('Erro crítico no logout:', fallbackError)
+      }
+    }
   }
   
   static async resetPassword(email: string) {

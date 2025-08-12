@@ -5,6 +5,7 @@ import { Anime } from '@/types'
 import { useAddToFavorites, useRemoveFromFavorites, useIsFavorite, useAnimeWatchStatus } from '@/hooks/useAnimes'
 import { useAuth } from '@/hooks/useAuth'
 import { cn } from '@/lib/utils'
+import { ImageWithFallback } from './ImageWithFallback'
 
 interface AnimeCardProps {
   anime: Anime
@@ -168,13 +169,13 @@ export const AnimeCard: React.FC<AnimeCardProps> = ({
     >
       {/* Imagem do anime */}
       <div className="relative w-full h-4/5"> {/* Reduzir altura da imagem para 80% */}
-        <img
-          src={anime.imagem_original || '/placeholder-anime.jpg'}
+        <ImageWithFallback
+          src={anime.imagem_original || anime.image || ''}
+          fallbackSrc="/placeholder-anime.jpg"
           alt={anime.nome}
           className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
-          loading="lazy"
-          onError={(e) => {
-            e.currentTarget.src = '/placeholder-anime.jpg';
+          onLoadError={() => {
+            console.warn(`🖼️ [AnimeCard] Erro ao carregar imagem do anime: ${anime.nome}`)
           }}
         />
         

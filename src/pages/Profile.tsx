@@ -1,8 +1,9 @@
-import React, { useState } from 'react'
-import { User, Edit3, Save, X, Camera, Mail, Calendar, MapPin } from 'lucide-react'
+import React, { useState, useEffect } from 'react'
+import { User, Edit, Save, X, Mail, MapPin, Calendar, Camera, RefreshCw, Database } from 'lucide-react'
 import { useAuth } from '@/hooks/useAuth'
 import { useUserProfile, useUpdateProfile } from '@/hooks/useUser'
 import { toast } from 'sonner'
+import { forceSyncLocalStorageToSupabase, checkSupabaseData, checkLocalStorageData } from '@/utils/forceSyncLocalStorage'
 
 interface ProfileFormData {
   displayName: string
@@ -73,6 +74,42 @@ export const Profile: React.FC = () => {
     }))
   }
 
+  // Funções de debug para sincronização
+  const handleForceSync = async () => {
+    try {
+      toast.loading('Sincronizando dados...', { id: 'sync' })
+      const result = await forceSyncLocalStorageToSupabase()
+      
+      if (result.success) {
+        toast.success(`Sincronização concluída! ${result.synced} itens sincronizados`, { id: 'sync' })
+        // Recarregar dados do perfil
+        window.location.reload()
+      } else {
+        toast.error(`Erro na sincronização: ${result.error}`, { id: 'sync' })
+      }
+    } catch (error) {
+      toast.error('Erro ao sincronizar dados', { id: 'sync' })
+    }
+  }
+
+  const handleCheckData = async () => {
+    console.log('=== DEBUG DADOS PERFIL ===')
+    
+    // Verificar localStorage
+    const localData = checkLocalStorageData()
+    console.log('LocalStorage:', localData)
+    
+    // Verificar Supabase
+    const supabaseData = await checkSupabaseData()
+    console.log('Supabase:', supabaseData)
+    
+    // Verificar dados do perfil atual
+    console.log('Profile data:', profile)
+    console.log('Profile stats:', profile?.stats)
+    
+    toast.info('Dados verificados! Veja o console para detalhes')
+  }
+
   const availableGenres = [
     'action', 'adventure', 'comedy', 'drama', 'fantasy',
     'romance', 'sci-fi', 'thriller', 'horror', 'mystery'
@@ -111,7 +148,7 @@ export const Profile: React.FC = () => {
                 onClick={() => setIsEditing(true)}
                 className="flex items-center gap-2 px-4 py-2 bg-red-600 text-white rounded-lg hover:bg-red-700 transition-colors"
               >
-                <Edit3 className="w-4 h-4" />
+                <Edit className="w-4 h-4" />
                 Editar
               </button>
             ) : (
@@ -133,6 +170,24 @@ export const Profile: React.FC = () => {
                 </button>
               </div>
             )}
+          </div>
+
+          {/* Botões de Debug */}
+          <div className="flex gap-2 mb-6">
+            <button
+              onClick={handleForceSync}
+              className="flex items-center gap-2 px-3 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg text-sm transition-colors"
+            >
+              <RefreshCw className="w-4 h-4" />
+              Forçar Sincronização
+            </button>
+            <button
+              onClick={handleCheckData}
+              className="flex items-center gap-2 px-3 py-2 bg-purple-600 hover:bg-purple-700 text-white rounded-lg text-sm transition-colors"
+            >
+              <Database className="w-4 h-4" />
+              Verificar Dados
+            </button>
           </div>
 
           <div className="flex items-start gap-6">

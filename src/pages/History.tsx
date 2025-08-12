@@ -1,12 +1,12 @@
 import React, { useState } from 'react'
-import { Clock, Play, Trash2, Filter, Search, X, Calendar } from 'lucide-react'
-// import { AnimeCard } from '@/components'
+import { Clock, Play, Trash2, Filter, Search, X, Calendar, RefreshCw, Database } from 'lucide-react'
 import { useAuth } from '@/hooks/useAuth'
-import { useWatchHistory, useClearHistory, useRemoveFromHistory } from '@/hooks/useHistory'
+import { useWatchHistory, useClearHistory, useRemoveFromHistory, EnhancedWatchHistoryItem } from '@/hooks/useHistory'
 import { formatDistanceToNow } from 'date-fns'
 import { ptBR } from 'date-fns/locale'
 import { toast } from 'sonner'
 import { Link } from 'react-router-dom'
+import { forceSyncLocalStorageToSupabase, checkSupabaseData, checkLocalStorageData } from '@/utils/forceSyncLocalStorage'
 
 interface HistoryFilters {
   search?: string
@@ -23,7 +23,8 @@ export const History: React.FC = () => {
   const {
     data: historyData,
     isLoading,
-    error
+    error,
+    isFetching
   } = useWatchHistory({
     period: filters.dateRange,
     search: filters.search,
@@ -40,6 +41,38 @@ export const History: React.FC = () => {
       [key]: value === '' ? undefined : value
     }))
     setPage(1)
+  }
+
+  // Funções de debug para sincronização
+  const handleForceSync = async () => {
+    try {
+      toast.loading('Sincronizando dados...', { id: 'sync' })
+      const result = await forceSyncLocalStorageToSupabase()
+      
+      if (result.success) {
+        toast.success(`Sincronização concluída! ${result.synced} itens sincronizados`, { id: 'sync' })
+        // Recarregar dados
+        window.location.reload()
+      } else {
+        toast.error(`Erro na sincronização: ${result.error}`, { id: 'sync' })
+      }
+    } catch (error) {
+      toast.error('Erro ao sincronizar dados', { id: 'sync' })
+    }
+  }
+
+  const handleCheckData = async () => {
+    console.log('=== DEBUG DADOS ===')
+    
+    // Verificar localStorage
+    const localData = checkLocalStorageData()
+    console.log('LocalStorage:', localData)
+    
+    // Verificar Supabase
+    const supabaseData = await checkSupabaseData()
+    console.log('Supabase:', supabaseData)
+    
+    toast.info('Dados verificados! Veja o console para detalhes')
   }
 
   const clearFilters = () => {
@@ -98,6 +131,24 @@ export const History: React.FC = () => {
             )}
           </div>
 
+          {/* Botões de Debug */}
+          <div className="flex gap-2 mb-4">
+            <button
+              onClick={handleForceSync}
+              className="flex items-center gap-2 px-3 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg text-sm transition-colors"
+            >
+              <RefreshCw className="w-4 h-4" />
+              Forçar Sincronização
+            </button>
+            <button
+              onClick={handleCheckData}
+              className="flex items-center gap-2 px-3 py-2 bg-purple-600 hover:bg-purple-700 text-white rounded-lg text-sm transition-colors"
+            >
+              <Database className="w-4 h-4" />
+              Verificar Dados
+            </button>
+          </div>
+
           {/* Search */}
           <div className="mb-4">
             <div className="relative max-w-md">
@@ -138,9 +189,17 @@ export const History: React.FC = () => {
               )}
 
               {historyData && (
-                <span className="text-gray-400">
-                  {historyData.total} item(s) no histórico
-                </span>
+                <div className="flex items-center gap-2">
+                  <span className="text-gray-400">
+                    {historyData.total} item(s) no histórico
+                  </span>
+                  {isFetching && (
+                    <div className="flex items-center gap-1 text-blue-400">
+                      <div className="animate-spin rounded-full h-3 w-3 border border-blue-400 border-t-transparent"></div>
+                      <span className="text-xs">Carregando informações...</span>
+                    </div>
+                  )}
+                </div>
               )}
             </div>
           </div>
@@ -177,7 +236,8 @@ export const History: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 py-8">
         {error && (
           <div className="text-center py-12">
-            <p className="text-red-400 mb-4">Erro ao carregar histórico</p>
+            <h2 className="text-2xl font-bold mb-4">Erro ao carregar histórico</h2>
+            <p className="text-red-400 mb-4">{error.message || 'Erro desconhecido'}</p>
             <button
               onClick={() => window.location.reload()}
               className="px-4 py-2 bg-red-600 text-white rounded-lg hover:bg-red-700 transition-colors"
@@ -214,23 +274,45 @@ export const History: React.FC = () => {
           <>
             {/* History List */}
             <div className="space-y-6">
-              {historyData.entries.map((entry) => {
-                const progressPercentage = entry.last_position_seconds && entry.episode_duration 
-                  ? Math.min((entry.last_position_seconds / entry.episode_duration) * 100, 100)
+              {historyData.entries.map((entry: EnhancedWatchHistoryItem) => {
+                // Calcular progresso corretamente usando episode_duration
+                const episodeDuration = entry.episode_duration || entry.total_duration_seconds || (24 * 60) // 24 min fallback
+                const lastPosition = entry.last_position_seconds || 0
+                const progressPercentage = episodeDuration > 0 
+                  ? Math.min((lastPosition / episodeDuration) * 100, 100)
                   : 0
+                
                 const watchedAt = entry.last_watched_at || entry.last_watched
                 
+                // Usar informações do anime da API se disponível
+                const animeInfo = entry.anime_info
+                const animeName = animeInfo?.nome || animeInfo?.name || entry.anime_name
+                const animeImage = animeInfo?.imagem_original || animeInfo?.image || '/placeholder-anime.jpg'
+                
                 return (
-                  <div key={`${entry.anime_id}-${entry.episode_id}-${watchedAt}`} className="bg-gray-800 rounded-lg p-4">
+                  <div key={`${entry.anime_id}-${entry.episode_number}-${watchedAt}`} className="bg-gray-800 rounded-lg p-4">
                     <div className="flex items-start gap-4">
                       {/* Anime Poster */}
                       <div className="flex-shrink-0">
                         <Link to={`/anime/${entry.anime_id}`}>
-                          <img
-                            src={'/placeholder-anime.jpg'}
-                            alt={entry.anime_name}
-                            className="w-20 h-28 object-cover rounded-lg hover:opacity-80 transition-opacity"
-                          />
+                          {!animeInfo && isFetching ? (
+                            <div className="w-20 h-28 bg-gray-700 rounded-lg animate-pulse"></div>
+                          ) : (
+                            <div className="relative">
+                              <img
+                                src={animeImage}
+                                alt={animeName}
+                                className="w-20 h-28 object-cover rounded-lg hover:opacity-80 transition-opacity"
+                                onError={(e) => {
+                                  const target = e.target as HTMLImageElement
+                                  target.src = '/placeholder-anime.jpg'
+                                }}
+                              />
+                              {!animeInfo && !isFetching && (
+                                <div className="absolute top-1 right-1 w-3 h-3 bg-yellow-500 rounded-full" title="Informações do anime não disponíveis"></div>
+                              )}
+                            </div>
+                          )}
                         </Link>
                       </div>
 
@@ -238,14 +320,33 @@ export const History: React.FC = () => {
                       <div className="flex-1 min-w-0">
                         <div className="flex items-start justify-between mb-2">
                           <div>
-                            <Link to={`/anime/${entry.anime_id}`}>
-                              <h3 className="text-lg font-semibold text-white truncate hover:text-red-400 transition-colors">
-                                {entry.anime_name}
-                              </h3>
-                            </Link>
+                            {!animeInfo && isFetching ? (
+                              <div className="h-6 bg-gray-700 rounded animate-pulse w-48 mb-1"></div>
+                            ) : (
+                              <Link to={`/anime/${entry.anime_id}`}>
+                                <h3 className="text-lg font-semibold text-white truncate hover:text-red-400 transition-colors">
+                                  {animeName}
+                                </h3>
+                              </Link>
+                            )}
                             <p className="text-gray-400">
                               Episódio {entry.episode_number}
                             </p>
+                            {!animeInfo && isFetching ? (
+                              <div className="flex gap-1 mt-1">
+                                <div className="h-5 bg-gray-700 rounded animate-pulse w-16"></div>
+                                <div className="h-5 bg-gray-700 rounded animate-pulse w-20"></div>
+                                <div className="h-5 bg-gray-700 rounded animate-pulse w-14"></div>
+                              </div>
+                            ) : animeInfo?.genres && animeInfo.genres.length > 0 && (
+                              <div className="flex flex-wrap gap-1 mt-1">
+                                {animeInfo.genres.slice(0, 3).map((genre, index) => (
+                                  <span key={index} className="text-xs bg-gray-700 text-gray-300 px-2 py-1 rounded">
+                                    {genre}
+                                  </span>
+                                ))}
+                              </div>
+                            )}
                           </div>
                           <div className="flex items-center gap-2">
                             <div className="flex items-center gap-2 text-sm text-gray-400">
@@ -289,10 +390,15 @@ export const History: React.FC = () => {
                               style={{ width: `${progressPercentage}%` }}
                             />
                           </div>
-                          {entry.last_position_seconds && entry.episode_duration && (
+                          {lastPosition > 0 && episodeDuration > 0 && (
                             <div className="flex justify-between text-xs text-gray-500 mt-1">
-                              <span>{Math.floor(entry.last_position_seconds / 60)}:{String(Math.floor(entry.last_position_seconds % 60)).padStart(2, '0')}</span>
-                              <span>{Math.floor(entry.episode_duration / 60)}:{String(Math.floor(entry.episode_duration % 60)).padStart(2, '0')}</span>
+                              <span>{Math.floor(lastPosition / 60)}:{String(Math.floor(lastPosition % 60)).padStart(2, '0')}</span>
+                              <span>{Math.floor(episodeDuration / 60)}:{String(Math.floor(episodeDuration % 60)).padStart(2, '0')}</span>
+                            </div>
+                          )}
+                          {entry.is_completed && (
+                            <div className="text-xs text-green-400 mt-1">
+                              ✓ Episódio completo
                             </div>
                           )}
                         </div>
@@ -300,7 +406,7 @@ export const History: React.FC = () => {
                         {/* Actions */}
                         <div className="flex items-center gap-3">
                           <Link
-                            to={`/watch/${entry.anime_id}/${entry.episode_number}${entry.last_position_seconds ? `?t=${Math.floor(entry.last_position_seconds)}` : ''}`}
+                            to={`/watch/${entry.anime_id}/${entry.episode_number}${lastPosition > 0 ? `?t=${Math.floor(lastPosition)}` : ''}`}
                             className="flex items-center gap-2 px-4 py-2 bg-red-600 text-white rounded-lg hover:bg-red-700 transition-colors"
                           >
                             <Play className="w-4 h-4" />

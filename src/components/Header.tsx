@@ -2,6 +2,7 @@ import React, { useState, useRef, useEffect } from 'react'
 import { Link, useNavigate, useLocation } from 'react-router-dom'
 import { Search, Menu, X, User, Heart, History, LogOut, Settings } from 'lucide-react'
 import { useAuth } from '@/hooks/useAuth'
+import { useUserProfile } from '@/hooks/useUser'
 import { useSearchAnimes } from '@/hooks/useAnimes'
 import { cn, debounce } from '@/lib/utils'
 import { Anime } from '@/types'
@@ -10,6 +11,7 @@ export const Header: React.FC = () => {
   const navigate = useNavigate()
   const location = useLocation()
   const { user, isAuthenticated, signOut } = useAuth()
+  const { data: profile } = useUserProfile(user?.id || '')
   
   const [isMenuOpen, setIsMenuOpen] = useState(false)
   const [isSearchOpen, setIsSearchOpen] = useState(false)
@@ -235,7 +237,7 @@ export const Header: React.FC = () => {
                   className="flex items-center gap-2 p-2 text-gray-300 hover:text-white transition-colors duration-300"
                 >
                   <User className="w-5 h-5" />
-                  <span className="hidden sm:block">{user?.email}</span>
+                  <span className="hidden sm:block">{profile?.displayName || user?.email || 'Usuário'}</span>
                 </button>
 
                 {isUserMenuOpen && (

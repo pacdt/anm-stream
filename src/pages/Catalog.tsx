@@ -1,8 +1,7 @@
-import { useState, useMemo } from 'react'
+import React, { useState, useMemo } from 'react'
 import { useSearchParams } from 'react-router-dom'
-import { useInfiniteAnimes } from '@/hooks/useAnimes'
-import { useAnimeSearch } from '@/hooks/useAnime'
-import { AnimeCard, Loading } from '@/components'
+import { useInfiniteAnimes, useSearchAnimes } from '@/hooks/useAnimes'
+import { AnimeCard, Loading, LoadingError } from '@/components'
 import { Search, Filter, Grid, List, ChevronDown } from 'lucide-react'
 // Tipos locais para filtros
 type AnimeGenre = 'Action' | 'Adventure' | 'Comedy' | 'Drama' | 'Fantasy' | 'Horror' | 'Mystery' | 'Romance' | 'Sci-Fi' | 'Slice of Life' | 'Sports' | 'Supernatural'
@@ -67,20 +66,26 @@ export function Catalog() {
   )
 
   // Queries
-  const searchQuery = useAnimeSearch({
-    query: searchTerm,
-    page: 1,
-    limit: 20
+  const searchQuery = useSearchAnimes(searchTerm, {
+    enabled: !!searchTerm.trim()
   })
 
-  const catalogQuery = useInfiniteAnimes(20)
+  const catalogQuery = useInfiniteAnimes({
+    genres: selectedGenres,
+    status: selectedStatus || undefined,
+    type: selectedType || undefined,
+    year: selectedYear || undefined,
+    sort: sortBy
+  }, {
+    enabled: !searchTerm.trim()
+  })
 
   const isLoading = searchTerm ? searchQuery.isLoading : catalogQuery.isLoading
   const isError = searchTerm ? searchQuery.isError : catalogQuery.isError
-  // const error = searchTerm ? searchQuery.error : catalogQuery.error
+  const error = searchTerm ? searchQuery.error : catalogQuery.error
   const animes = searchTerm 
-    ? searchQuery.data?.data || []
-    : catalogQuery.data?.pages.flatMap((page: any) => page.data) || []
+    ? searchQuery.data || []
+    : catalogQuery.data?.pages.flatMap(page => page.data) || []
 
   const handleSearchChange = (value: string) => {
     setSearchTerm(value)
@@ -126,11 +131,22 @@ export function Catalog() {
     setSearchParams({})
   }
 
+  const loadMore = () => {
+    if (!searchTerm && catalogQuery.hasNextPage && !catalogQuery.isFetchingNextPage) {
+      catalogQuery.fetchNextPage()
+    }
+  }
 
-
-  // Não bloquear a página por erros - mostrar uma mensagem mais suave
-  const hasError = isError
-  const showErrorMessage = hasError && animes.length === 0
+  if (isError) {
+    return (
+      <div className="container mx-auto px-4 py-8">
+        <LoadingError 
+          message="Erro ao carregar catálogo" 
+          onRetry={() => searchTerm ? searchQuery.refetch() : catalogQuery.refetch()}
+        />
+      </div>
+    )
+  }
 
   return (
     <div className="container mx-auto px-4 py-8">
@@ -292,17 +308,6 @@ export function Catalog() {
       {/* Results */}
       {isLoading ? (
         <Loading />
-      ) : showErrorMessage ? (
-        <div className="text-center py-12">
-          <p className="text-red-400 text-lg mb-2">Erro ao carregar animes</p>
-          <p className="text-gray-500 mb-4">Verifique sua conexão e tente novamente</p>
-          <button
-            onClick={() => searchTerm ? searchQuery.refetch() : catalogQuery.refetch()}
-            className="bg-red-600 text-white px-4 py-2 rounded-lg hover:bg-red-700 transition-colors"
-          >
-            Tentar novamente
-          </button>
-        </div>
       ) : animes.length === 0 ? (
         <div className="text-center py-12">
           <p className="text-gray-400 text-lg">Nenhum anime encontrado</p>
@@ -337,7 +342,7 @@ export function Catalog() {
           {!searchTerm && catalogQuery.hasNextPage && (
             <div className="text-center mt-8">
               <button
-                onClick={() => catalogQuery.fetchNextPage()}
+                onClick={loadMore}
                 disabled={catalogQuery.isFetchingNextPage}
                 className="bg-red-600 text-white px-6 py-3 rounded-lg hover:bg-red-700 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
               >

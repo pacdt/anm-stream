@@ -17,13 +17,23 @@ export const ProtectedRoute: React.FC<ProtectedRouteProps> = ({
   const { isAuthenticated, isLoading } = useAuth()
   const location = useLocation()
 
+  console.log('🛡️ [ProtectedRoute] Estado atual:', {
+    pathname: location.pathname,
+    requireAuth,
+    isAuthenticated,
+    isLoading,
+    redirectTo
+  })
+
   // Mostrar loading enquanto verifica autenticação
   if (isLoading) {
+    console.log('⏳ [ProtectedRoute] Mostrando loading - verificando autenticação...')
     return <Loading fullScreen text="Verificando autenticação..." />
   }
 
   // Se requer autenticação e usuário não está logado
   if (requireAuth && !isAuthenticated) {
+    console.log(`🔒 [ProtectedRoute] Redirecionando para ${redirectTo} - autenticação necessária`)
     return (
       <Navigate 
         to={redirectTo} 
@@ -36,8 +46,10 @@ export const ProtectedRoute: React.FC<ProtectedRouteProps> = ({
   // Se não requer autenticação e usuário está logado (ex: páginas de login)
   if (!requireAuth && isAuthenticated) {
     const from = location.state?.from || '/'
+    console.log(`🏠 [ProtectedRoute] Usuário logado, redirecionando para ${from}`)
     return <Navigate to={from} replace />
   }
 
+  console.log('✅ [ProtectedRoute] Renderizando children - acesso permitido')
   return <>{children}</>
 }

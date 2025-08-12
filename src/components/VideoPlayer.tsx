@@ -43,7 +43,7 @@ export function VideoPlayer({
   const videoRef = useRef<HTMLVideoElement>(null)
   const containerRef = useRef<HTMLDivElement>(null)
   const progressRef = useRef<HTMLDivElement>(null)
-  const { isAuthenticated } = useAuth()
+  const { isAuthenticated, user } = useAuth()
   
   const {
     isPlaying,
@@ -166,25 +166,29 @@ export function VideoPlayer({
       // Auto-save progress every 30 seconds
       if (isAuthenticated && time - lastAutoSave > 30) {
         // Salvar primeiro no localStorage
-        localStorageService.saveWatchProgress({
-          userId: 'current-user', // TODO: Get actual user ID
-          animeId,
-          episodeNumber,
-          currentTime: time,
-          duration: videoRef.current.duration,
-          lastWatchedAt: new Date().toISOString(),
-          animeName: `Anime ${animeId}` // TODO: Get actual anime name
-        })
+        if (user?.id) {
+          localStorageService.saveWatchProgress({
+            userId: user.id,
+            animeId,
+            episodeNumber,
+            currentTime: time,
+            duration: videoRef.current.duration,
+            lastWatchedAt: new Date().toISOString(),
+            animeName: `Anime ${animeId}` // TODO: Get actual anime name
+          })
+        }
         
         // Tentar sincronizar com Supabase em background
-        updateProgressMutation.mutate({
-          animeId: parseInt(animeId),
-          animeName: `Anime ${animeId}`, // TODO: Get actual anime name
-          episodeNumber,
-          currentTimeSeconds: time,
-          totalDurationSeconds: videoRef.current.duration,
-          isCompleted: false
-        })
+        if (user?.id) {
+          updateProgressMutation.mutate({
+            animeId: parseInt(animeId),
+            animeName: `Anime ${animeId}`, // TODO: Get actual anime name
+            episodeNumber,
+            currentTimeSeconds: time,
+            totalDurationSeconds: videoRef.current.duration,
+            isCompleted: false
+          })
+        }
         setLastAutoSave(time)
       }
     }
@@ -194,10 +198,10 @@ export function VideoPlayer({
     setPlaying(false)
     
     // Mark episode as completed
-    if (isAuthenticated && videoRef.current) {
+    if (isAuthenticated && user?.id && videoRef.current) {
       // Salvar primeiro no localStorage
       localStorageService.saveWatchProgress({
-        userId: 'current-user', // TODO: Get actual user ID
+        userId: user.id,
         animeId,
         episodeNumber,
         currentTime: videoRef.current.duration,
@@ -230,10 +234,10 @@ export function VideoPlayer({
       videoRef.current.pause()
       
       // Save progress when pausing
-      if (isAuthenticated && videoRef.current.currentTime > 0) {
+      if (isAuthenticated && user?.id && videoRef.current.currentTime > 0) {
         // Salvar primeiro no localStorage
         localStorageService.saveWatchProgress({
-          userId: 'current-user', // TODO: Get actual user ID
+          userId: user.id,
           animeId,
           episodeNumber,
           currentTime: videoRef.current.currentTime,
@@ -402,6 +406,41 @@ export function VideoPlayer({
   const handleMouseMove = () => {
     setShowControls(true)
   }
+
+  // Auto fullscreen on mount
+  useEffect(() => {
+    const enterFullscreen = async () => {
+      try {
+        console.log('VideoPlayer - Tentando entrar em tela cheia automaticamente')
+        
+        // Verificar se a API de tela cheia é suportada
+        if (!document.fullscreenEnabled) {
+          console.log('VideoPlayer - Tela cheia não é suportada neste navegador')
+          return
+        }
+        
+        // Verificar se já não está em tela cheia
+        if (document.fullscreenElement) {
+          console.log('VideoPlayer - Já está em tela cheia')
+          return
+        }
+        
+        // Tentar entrar em tela cheia
+        if (containerRef.current) {
+          await containerRef.current.requestFullscreen()
+          console.log('VideoPlayer - Entrou em tela cheia automaticamente')
+        }
+      } catch (error) {
+        console.log('VideoPlayer - Erro ao entrar em tela cheia automaticamente:', error)
+        // Não mostrar erro para o usuário, apenas log para debug
+      }
+    }
+    
+    // Delay pequeno para garantir que o componente está totalmente montado
+    const timer = setTimeout(enterFullscreen, 500)
+    
+    return () => clearTimeout(timer)
+  }, []) // Executar apenas uma vez na montagem
 
   // Cleanup on unmount
   useEffect(() => {

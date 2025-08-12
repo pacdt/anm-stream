@@ -89,9 +89,9 @@ export interface FavoritesResponse {
   pagination: PaginationInfo;
 }
 
-// Tipo para Histórico
-export interface HistoryResponse {
-  entries: WatchHistoryItem[];
+// Tipo para Histórico (genérico para suportar diferentes tipos de entradas)
+export interface HistoryResponse<T = WatchHistoryItem> {
+  entries: T[];
   total: number;
   totalPages: number;
   currentPage: number;

@@ -1,8 +1,15 @@
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query'
 import { SupabaseService } from '@/lib/supabaseService'
 import { localStorageService } from '@/lib/localStorageService'
+import { AnimeService } from '@/lib/api'
 import { useAuth } from '@/hooks/useAuth'
-import { WatchHistoryItem, HistoryResponse } from '@/types'
+import { WatchHistoryItem, HistoryResponse, Anime } from '@/types'
+
+// Tipo estendido para histórico com informações do anime
+export interface EnhancedWatchHistoryItem extends WatchHistoryItem {
+  anime_info?: Anime
+  episode_duration?: number
+}
 
 // Hook para buscar histórico com filtros (híbrido: Supabase + localStorage)
 export const useWatchHistory = (params: {
@@ -15,7 +22,7 @@ export const useWatchHistory = (params: {
   
   return useQuery({
     queryKey: ['watch-history', params, user?.id],
-    queryFn: async (): Promise<HistoryResponse> => {
+    queryFn: async (): Promise<HistoryResponse<EnhancedWatchHistoryItem>> => {
       let supabaseHistory: WatchHistoryItem[] = []
       let localHistory: WatchHistoryItem[] = []
       
@@ -66,19 +73,52 @@ export const useWatchHistory = (params: {
       let filteredHistory = Array.from(combinedHistory.values())
       console.log('useWatchHistory - Histórico combinado:', filteredHistory.length, 'itens')
       
+      // Buscar informações dos animes da API
+      const animeIds = [...new Set(filteredHistory.map(item => item.anime_id))]
+      let animeInfoMap: Record<number, Anime> = {}
+      
+      if (animeIds.length > 0) {
+        try {
+          animeInfoMap = await AnimeService.getAnimesByIds(animeIds)
+          console.log('useWatchHistory - Informações dos animes carregadas:', Object.keys(animeInfoMap).length, 'animes')
+        } catch (error) {
+          console.warn('useWatchHistory - Erro ao buscar informações dos animes:', error)
+        }
+      }
+      
+      // Enriquecer histórico com informações dos animes e corrigir duração
+      const enhancedHistory: EnhancedWatchHistoryItem[] = filteredHistory.map(item => {
+        const animeInfo = animeInfoMap[item.anime_id]
+        
+        // Calcular duração do episódio (usar total_duration_seconds ou fallback para 24 minutos)
+        const episodeDuration = item.total_duration_seconds || (24 * 60) // 24 minutos em segundos
+        
+        return {
+          ...item,
+          anime_info: animeInfo,
+          episode_duration: episodeDuration,
+          // Garantir que last_position_seconds seja válido
+          last_position_seconds: item.last_position_seconds || item.progress_seconds || 0
+        }
+      })
+      
+      let filteredEnhancedHistory = enhancedHistory
+      
       // Aplicar filtros
       // Filtro de busca
       if (params.search) {
         const searchLower = params.search.toLowerCase()
-        filteredHistory = filteredHistory.filter(item => 
-          item.anime_name.toLowerCase().includes(searchLower)
-        )
+        filteredEnhancedHistory = filteredEnhancedHistory.filter(item => {
+          // Buscar no nome do anime (tanto do banco quanto da API)
+          const animeName = item.anime_info?.nome || item.anime_info?.name || item.anime_name
+          return animeName.toLowerCase().includes(searchLower)
+        })
       }
       
       // Filtro de período
       if (params.period && params.period !== 'all') {
         const now = new Date()
-        filteredHistory = filteredHistory.filter(item => {
+        filteredEnhancedHistory = filteredEnhancedHistory.filter(item => {
           const itemDate = new Date(item.last_watched_at || item.last_watched)
           
           switch (params.period) {
@@ -97,7 +137,7 @@ export const useWatchHistory = (params: {
       }
       
       // Ordenar por data mais recente
-      filteredHistory.sort((a, b) => 
+      filteredEnhancedHistory.sort((a, b) => 
         new Date(b.last_watched_at || b.last_watched).getTime() - 
         new Date(a.last_watched_at || a.last_watched).getTime()
       )
@@ -107,14 +147,14 @@ export const useWatchHistory = (params: {
       const limit = params.limit || 20
       const startIndex = (page - 1) * limit
       const endIndex = startIndex + limit
-      const paginatedHistory = filteredHistory.slice(startIndex, endIndex)
+      const paginatedHistory = filteredEnhancedHistory.slice(startIndex, endIndex)
       
       return {
         entries: paginatedHistory,
-        total: filteredHistory.length,
-        totalPages: Math.ceil(filteredHistory.length / limit),
+        total: filteredEnhancedHistory.length,
+        totalPages: Math.ceil(filteredEnhancedHistory.length / limit),
         currentPage: page,
-        hasNext: endIndex < filteredHistory.length,
+        hasNext: endIndex < filteredEnhancedHistory.length,
         hasPrev: page > 1
       }
     },
