@@ -477,25 +477,47 @@ setInterval(() => {
 export class StaticEpisodeService {
   // Converter URL externa para usar o proxy correto baseado no ambiente
   private static convertToProxyUrl(originalUrl: string): string {
+    console.log(`🔄 [PROXY] Convertendo URL: ${originalUrl}`)
+    
     // Converter URLs do animefire.plus para usar o proxy correto baseado no ambiente
     if (originalUrl.startsWith('https://animefire.plus')) {
       const path = originalUrl.replace('https://animefire.plus', '');
-      
-      // Em desenvolvimento, usa o proxy do Vite
-      // Em produção (Netlify), usa o proxy configurado no netlify.toml
-      return `/api/external${path}`;
+      const proxyUrl = `/api/external${path}`;
+      console.log(`🔄 [PROXY] URL animefire.plus convertida: ${proxyUrl}`)
+      return proxyUrl;
     }
     
     // Converter URLs do lightspeedst.net para usar o proxy de vídeo
     if (originalUrl.startsWith('https://lightspeedst.net')) {
       const path = originalUrl.replace('https://lightspeedst.net', '');
-      
-      // Em desenvolvimento, usa o proxy de vídeo do Vite
-      // Em produção, precisa ser configurado no netlify.toml
-      return `/api/video${path}`;
+      const proxyUrl = `/api/video${path}`;
+      console.log(`🔄 [PROXY] URL lightspeedst.net convertida: ${proxyUrl}`)
+      return proxyUrl;
     }
     
-    // Para outras URLs externas, retornar a URL original (pode ser expandido no futuro)
+    // Verificar se é uma URL de vídeo de outros domínios conhecidos
+    if (originalUrl.includes('.mp4') || originalUrl.includes('.m3u8') || originalUrl.includes('/video/') || originalUrl.includes('/stream/')) {
+      // Se contém lightspeedst.net no meio da URL (tokens podem ter formato diferente)
+      if (originalUrl.includes('lightspeedst.net')) {
+        const urlObj = new URL(originalUrl)
+        const proxyUrl = `/api/video${urlObj.pathname}${urlObj.search || ''}`;
+        console.log(`🔄 [PROXY] Token lightspeedst.net convertido: ${proxyUrl}`)
+        return proxyUrl;
+      }
+      
+      // Para outros domínios de vídeo, tentar usar proxy de vídeo genérico
+      try {
+        const urlObj = new URL(originalUrl)
+        const proxyUrl = `/api/video${urlObj.pathname}${urlObj.search || ''}`;
+        console.log(`🔄 [PROXY] URL de vídeo genérica convertida: ${proxyUrl}`)
+        return proxyUrl;
+      } catch (error) {
+        console.warn(`⚠️ [PROXY] Erro ao processar URL como vídeo: ${originalUrl}`, error)
+      }
+    }
+    
+    // Para outras URLs externas, retornar a URL original
+    console.log(`🔄 [PROXY] URL mantida original: ${originalUrl}`)
     return originalUrl
   }
   // Listar episódios de um anime
