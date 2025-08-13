@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Saki Zenkoku-hen",
+  "anime": {
+    "id": 3230,
+    "nome": "Saki Zenkoku-hen",
+    "link": "https://animefire.plus/animes/saki-zenkoku-hen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/saki-zenkoku-hen",
+    "rating": "7.45",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/saki-zenkoku-hen/1",
+      "anime_id": 3230,
+      "anime_name": "Saki Zenkoku-hen"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/saki-zenkoku-hen/2",
+      "anime_id": 3230,
+      "anime_name": "Saki Zenkoku-hen"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/saki-zenkoku-hen/3",
+      "anime_id": 3230,
+      "anime_name": "Saki Zenkoku-hen"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/saki-zenkoku-hen/4",
+      "anime_id": 3230,
+      "anime_name": "Saki Zenkoku-hen"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/saki-zenkoku-hen/5",
+      "anime_id": 3230,
+      "anime_name": "Saki Zenkoku-hen"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/saki-zenkoku-hen/6",
+      "anime_id": 3230,
+      "anime_name": "Saki Zenkoku-hen"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/saki-zenkoku-hen/7",
+      "anime_id": 3230,
+      "anime_name": "Saki Zenkoku-hen"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/saki-zenkoku-hen/8",
+      "anime_id": 3230,
+      "anime_name": "Saki Zenkoku-hen"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/saki-zenkoku-hen/9",
+      "anime_id": 3230,
+      "anime_name": "Saki Zenkoku-hen"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/saki-zenkoku-hen/10",
+      "anime_id": 3230,
+      "anime_name": "Saki Zenkoku-hen"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/saki-zenkoku-hen/11",
+      "anime_id": 3230,
+      "anime_name": "Saki Zenkoku-hen"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/saki-zenkoku-hen/12",
+      "anime_id": 3230,
+      "anime_name": "Saki Zenkoku-hen"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/saki-zenkoku-hen/13",
+      "anime_id": 3230,
+      "anime_name": "Saki Zenkoku-hen"
+    }
+  ],
+  "total_episodes": 13
+}

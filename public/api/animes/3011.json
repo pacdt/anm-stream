@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3011,
+    "nome": "Pon no Michi",
+    "link": "https://animefire.plus/animes/pon-no-michi-todos-os-episodios",
+    "texto_original": "Pon no Michi",
+    "rating": 6.48,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/pon-no-michi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/pon-no-michi/",
+    "secao": "legendados",
+    "pagina": 17,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/pon-no-michi"
+  }
+}

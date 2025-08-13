@@ -1,0 +1,68 @@
+{
+  "message": "Lista de episódios do anime: Night Wizard",
+  "anime": {
+    "id": 2733,
+    "nome": "Night Wizard",
+    "link": "https://animefire.plus/animes/night-wizard-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/night-wizard",
+    "rating": "6.75",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/night-wizard/1",
+      "anime_id": 2733,
+      "anime_name": "Night Wizard"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/night-wizard/2",
+      "anime_id": 2733,
+      "anime_name": "Night Wizard"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/night-wizard/3",
+      "anime_id": 2733,
+      "anime_name": "Night Wizard"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/night-wizard/4",
+      "anime_id": 2733,
+      "anime_name": "Night Wizard"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/night-wizard/5",
+      "anime_id": 2733,
+      "anime_name": "Night Wizard"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/night-wizard/6",
+      "anime_id": 2733,
+      "anime_name": "Night Wizard"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/night-wizard/7",
+      "anime_id": 2733,
+      "anime_name": "Night Wizard"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/night-wizard/8",
+      "anime_id": 2733,
+      "anime_name": "Night Wizard"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/night-wizard/9",
+      "anime_id": 2733,
+      "anime_name": "Night Wizard"
+    }
+  ],
+  "total_episodes": 9
+}

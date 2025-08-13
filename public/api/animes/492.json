@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 492,
+    "nome": "Boys Be...",
+    "link": "https://animefire.plus/animes/boys-be-todos-os-episodios",
+    "texto_original": "Boys Be...",
+    "rating": 6.46,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/boys-be.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/boys-be/",
+    "secao": "legendados",
+    "pagina": 54,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/boys-be"
+  }
+}

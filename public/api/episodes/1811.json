@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Kaijuu 8-gou: Hoshina no Kyuujitsu",
+  "anime": {
+    "id": 1811,
+    "nome": "Kaijuu 8-gou: Hoshina no Kyuujitsu",
+    "link": "https://animefire.plus/animes/kaijuu-8-gou-hoshina-no-kyuujitsu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kaijuu-8-gou-hoshina-no-kyuujitsu",
+    "rating": "6.77",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kaijuu-8-gou-hoshina-no-kyuujitsu/1",
+      "anime_id": 1811,
+      "anime_name": "Kaijuu 8-gou: Hoshina no Kyuujitsu"
+    }
+  ],
+  "total_episodes": 1
+}

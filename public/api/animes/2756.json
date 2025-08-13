@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2756,
+    "nome": "No.6",
+    "link": "https://animefire.plus/animes/no-6-todos-os-episodios",
+    "texto_original": "No.6",
+    "rating": 7.69,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/no-6.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/no-6/",
+    "secao": "legendados",
+    "pagina": 161,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/no-6"
+  }
+}

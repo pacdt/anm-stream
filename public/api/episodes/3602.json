@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Soutai Sekai",
+  "anime": {
+    "id": 3602,
+    "nome": "Soutai Sekai",
+    "link": "https://animefire.plus/animes/soutai-sekai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/soutai-sekai",
+    "rating": "5.89",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/soutai-sekai/1",
+      "anime_id": 3602,
+      "anime_name": "Soutai Sekai"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/soutai-sekai/2",
+      "anime_id": 3602,
+      "anime_name": "Soutai Sekai"
+    }
+  ],
+  "total_episodes": 2
+}

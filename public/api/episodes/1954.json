@@ -1,0 +1,104 @@
+{
+  "message": "Lista de episódios do anime: Key the Metal Idol",
+  "anime": {
+    "id": 1954,
+    "nome": "Key the Metal Idol",
+    "link": "https://animefire.plus/animes/key-the-metal-idol-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/key-the-metal-idol",
+    "rating": "6.91",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/key-the-metal-idol/1",
+      "anime_id": 1954,
+      "anime_name": "Key the Metal Idol"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/key-the-metal-idol/2",
+      "anime_id": 1954,
+      "anime_name": "Key the Metal Idol"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/key-the-metal-idol/3",
+      "anime_id": 1954,
+      "anime_name": "Key the Metal Idol"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/key-the-metal-idol/4",
+      "anime_id": 1954,
+      "anime_name": "Key the Metal Idol"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/key-the-metal-idol/5",
+      "anime_id": 1954,
+      "anime_name": "Key the Metal Idol"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/key-the-metal-idol/6",
+      "anime_id": 1954,
+      "anime_name": "Key the Metal Idol"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/key-the-metal-idol/7",
+      "anime_id": 1954,
+      "anime_name": "Key the Metal Idol"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/key-the-metal-idol/8",
+      "anime_id": 1954,
+      "anime_name": "Key the Metal Idol"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/key-the-metal-idol/9",
+      "anime_id": 1954,
+      "anime_name": "Key the Metal Idol"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/key-the-metal-idol/10",
+      "anime_id": 1954,
+      "anime_name": "Key the Metal Idol"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/key-the-metal-idol/11",
+      "anime_id": 1954,
+      "anime_name": "Key the Metal Idol"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/key-the-metal-idol/12",
+      "anime_id": 1954,
+      "anime_name": "Key the Metal Idol"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/key-the-metal-idol/13",
+      "anime_id": 1954,
+      "anime_name": "Key the Metal Idol"
+    },
+    {
+      "episode_number": 14,
+      "episode_url": "https://animefire.plus/video/key-the-metal-idol/14",
+      "anime_id": 1954,
+      "anime_name": "Key the Metal Idol"
+    },
+    {
+      "episode_number": 15,
+      "episode_url": "https://animefire.plus/video/key-the-metal-idol/15",
+      "anime_id": 1954,
+      "anime_name": "Key the Metal Idol"
+    }
+  ],
+  "total_episodes": 15
+}

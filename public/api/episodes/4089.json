@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Vlad Love",
+  "anime": {
+    "id": 4089,
+    "nome": "Vlad Love",
+    "link": "https://animefire.plus/animes/vlad-love-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/vlad-love",
+    "rating": "N/A",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/vlad-love/1",
+      "anime_id": 4089,
+      "anime_name": "Vlad Love"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/vlad-love/2",
+      "anime_id": 4089,
+      "anime_name": "Vlad Love"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/vlad-love/3",
+      "anime_id": 4089,
+      "anime_name": "Vlad Love"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/vlad-love/4",
+      "anime_id": 4089,
+      "anime_name": "Vlad Love"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/vlad-love/5",
+      "anime_id": 4089,
+      "anime_name": "Vlad Love"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/vlad-love/6",
+      "anime_id": 4089,
+      "anime_name": "Vlad Love"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/vlad-love/7",
+      "anime_id": 4089,
+      "anime_name": "Vlad Love"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/vlad-love/8",
+      "anime_id": 4089,
+      "anime_name": "Vlad Love"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/vlad-love/9",
+      "anime_id": 4089,
+      "anime_name": "Vlad Love"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/vlad-love/10",
+      "anime_id": 4089,
+      "anime_name": "Vlad Love"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/vlad-love/11",
+      "anime_id": 4089,
+      "anime_name": "Vlad Love"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/vlad-love/12",
+      "anime_id": 4089,
+      "anime_name": "Vlad Love"
+    }
+  ],
+  "total_episodes": 12
+}

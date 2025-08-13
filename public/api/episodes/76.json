@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Aharen-san wa Hakarenai",
+  "anime": {
+    "id": 76,
+    "nome": "Aharen-san wa Hakarenai",
+    "link": "https://animefire.plus/animes/aharen-san-wa-hakarenai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/aharen-san-wa-hakarenai",
+    "rating": "7.28",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/aharen-san-wa-hakarenai/1",
+      "anime_id": 76,
+      "anime_name": "Aharen-san wa Hakarenai"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/aharen-san-wa-hakarenai/2",
+      "anime_id": 76,
+      "anime_name": "Aharen-san wa Hakarenai"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/aharen-san-wa-hakarenai/3",
+      "anime_id": 76,
+      "anime_name": "Aharen-san wa Hakarenai"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/aharen-san-wa-hakarenai/4",
+      "anime_id": 76,
+      "anime_name": "Aharen-san wa Hakarenai"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/aharen-san-wa-hakarenai/5",
+      "anime_id": 76,
+      "anime_name": "Aharen-san wa Hakarenai"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/aharen-san-wa-hakarenai/6",
+      "anime_id": 76,
+      "anime_name": "Aharen-san wa Hakarenai"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/aharen-san-wa-hakarenai/7",
+      "anime_id": 76,
+      "anime_name": "Aharen-san wa Hakarenai"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/aharen-san-wa-hakarenai/8",
+      "anime_id": 76,
+      "anime_name": "Aharen-san wa Hakarenai"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/aharen-san-wa-hakarenai/9",
+      "anime_id": 76,
+      "anime_name": "Aharen-san wa Hakarenai"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/aharen-san-wa-hakarenai/10",
+      "anime_id": 76,
+      "anime_name": "Aharen-san wa Hakarenai"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/aharen-san-wa-hakarenai/11",
+      "anime_id": 76,
+      "anime_name": "Aharen-san wa Hakarenai"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/aharen-san-wa-hakarenai/12",
+      "anime_id": 76,
+      "anime_name": "Aharen-san wa Hakarenai"
+    }
+  ],
+  "total_episodes": 12
+}

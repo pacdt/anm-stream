@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 788,
+    "nome": "Deltora Quest",
+    "link": "https://animefire.plus/animes/deltora-quest-todos-os-episodios",
+    "texto_original": "Deltora Quest",
+    "rating": 7.11,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/deltora-quest.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/deltora-quest/",
+    "secao": "legendados",
+    "pagina": 168,
+    "total_episodios": 65,
+    "link_video": "https://animefire.plus/video/deltora-quest"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Yuukai Anna",
+  "anime": {
+    "id": 4311,
+    "nome": "Yuukai Anna",
+    "link": "https://animefire.plus/animes/yuukai-anna-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yuukai-anna",
+    "rating": "5.09",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yuukai-anna/1",
+      "anime_id": 4311,
+      "anime_name": "Yuukai Anna"
+    }
+  ],
+  "total_episodes": 1
+}

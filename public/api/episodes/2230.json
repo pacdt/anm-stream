@@ -1,0 +1,68 @@
+{
+  "message": "Lista de episódios do anime: Little Busters!: EX",
+  "anime": {
+    "id": 2230,
+    "nome": "Little Busters!: EX",
+    "link": "https://animefire.plus/animes/little-busters-ex-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/little-busters-ex",
+    "rating": "7.79",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/little-busters-ex/1",
+      "anime_id": 2230,
+      "anime_name": "Little Busters!: EX"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/little-busters-ex/2",
+      "anime_id": 2230,
+      "anime_name": "Little Busters!: EX"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/little-busters-ex/3",
+      "anime_id": 2230,
+      "anime_name": "Little Busters!: EX"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/little-busters-ex/4",
+      "anime_id": 2230,
+      "anime_name": "Little Busters!: EX"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/little-busters-ex/5",
+      "anime_id": 2230,
+      "anime_name": "Little Busters!: EX"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/little-busters-ex/6",
+      "anime_id": 2230,
+      "anime_name": "Little Busters!: EX"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/little-busters-ex/7",
+      "anime_id": 2230,
+      "anime_name": "Little Busters!: EX"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/little-busters-ex/8",
+      "anime_id": 2230,
+      "anime_name": "Little Busters!: EX"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/little-busters-ex/9",
+      "anime_id": 2230,
+      "anime_name": "Little Busters!: EX"
+    }
+  ],
+  "total_episodes": 9
+}

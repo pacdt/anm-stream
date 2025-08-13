@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Tenka Hyakken: Meiji-kan e Youkoso!",
+  "anime": {
+    "id": 3781,
+    "nome": "Tenka Hyakken: Meiji-kan e Youkoso!",
+    "link": "https://animefire.plus/animes/tenka-hyakken-meiji-kan-e-youkoso-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tenka-hyakken-meiji-kan-e-youkoso",
+    "rating": "5.06",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tenka-hyakken-meiji-kan-e-youkoso/1",
+      "anime_id": 3781,
+      "anime_name": "Tenka Hyakken: Meiji-kan e Youkoso!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tenka-hyakken-meiji-kan-e-youkoso/2",
+      "anime_id": 3781,
+      "anime_name": "Tenka Hyakken: Meiji-kan e Youkoso!"
+    }
+  ],
+  "total_episodes": 2
+}

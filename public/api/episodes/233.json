@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Aria The Origination",
+  "anime": {
+    "id": 233,
+    "nome": "Aria The Origination",
+    "link": "https://animefire.plus/animes/aria-the-origination-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/aria-the-origination",
+    "rating": "8.53",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/aria-the-origination/1",
+      "anime_id": 233,
+      "anime_name": "Aria The Origination"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/aria-the-origination/2",
+      "anime_id": 233,
+      "anime_name": "Aria The Origination"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/aria-the-origination/3",
+      "anime_id": 233,
+      "anime_name": "Aria The Origination"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/aria-the-origination/4",
+      "anime_id": 233,
+      "anime_name": "Aria The Origination"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/aria-the-origination/5",
+      "anime_id": 233,
+      "anime_name": "Aria The Origination"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/aria-the-origination/6",
+      "anime_id": 233,
+      "anime_name": "Aria The Origination"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/aria-the-origination/7",
+      "anime_id": 233,
+      "anime_name": "Aria The Origination"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/aria-the-origination/8",
+      "anime_id": 233,
+      "anime_name": "Aria The Origination"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/aria-the-origination/9",
+      "anime_id": 233,
+      "anime_name": "Aria The Origination"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/aria-the-origination/10",
+      "anime_id": 233,
+      "anime_name": "Aria The Origination"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/aria-the-origination/11",
+      "anime_id": 233,
+      "anime_name": "Aria The Origination"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/aria-the-origination/12",
+      "anime_id": 233,
+      "anime_name": "Aria The Origination"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/aria-the-origination/13",
+      "anime_id": 233,
+      "anime_name": "Aria The Origination"
+    }
+  ],
+  "total_episodes": 13
+}

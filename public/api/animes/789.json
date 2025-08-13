@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 789,
+    "nome": "Demi-chan wa Kataritai (Dublado)",
+    "link": "https://animefire.plus/animes/demi-chan-wa-kataritai-dublado-todos-os-episodios",
+    "texto_original": "Demi-chan wa Kataritai (Dublado)",
+    "rating": 7.7,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/demi-chan-wa-kataritai.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/demi-chan-wa-kataritai/",
+    "secao": "dublados,legendados",
+    "pagina": 24,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/demi-chan-wa-kataritai-dublado"
+  }
+}

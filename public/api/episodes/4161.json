@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Wotaku ni Koi wa Muzukashii: Youth",
+  "anime": {
+    "id": 4161,
+    "nome": "Wotaku ni Koi wa Muzukashii: Youth",
+    "link": "https://animefire.plus/animes/wotaku-ni-koi-wa-muzukashii-youth-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/wotaku-ni-koi-wa-muzukashii-youth",
+    "rating": "7.86",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/wotaku-ni-koi-wa-muzukashii-youth/1",
+      "anime_id": 4161,
+      "anime_name": "Wotaku ni Koi wa Muzukashii: Youth"
+    }
+  ],
+  "total_episodes": 1
+}

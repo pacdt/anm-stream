@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2289,
+    "nome": "Machikado Mazoku",
+    "link": "https://animefire.plus/animes/machikado-mazoku-todos-os-episodios",
+    "texto_original": "Machikado Mazoku",
+    "rating": 7.68,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/machikado-mazoku.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/machikado-mazoku/",
+    "secao": "legendados",
+    "pagina": 119,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/machikado-mazoku"
+  }
+}

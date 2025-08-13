@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 736,
+    "nome": "Dance In The Vampire Bund",
+    "link": "https://animefire.plus/animes/dance-in-the-vampire-bund-todos-os-episodios",
+    "texto_original": "Dance In The Vampire Bund",
+    "rating": 7.13,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/dance-in-the-vampire-bund.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dance-in-the-vampire-bund/",
+    "secao": "legendados",
+    "pagina": 101,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/dance-in-the-vampire-bund"
+  }
+}

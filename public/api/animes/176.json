@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 176,
+    "nome": "Anima Yell!",
+    "link": "https://animefire.plus/animes/anima-yell-todos-os-episodios",
+    "texto_original": "Anima Yell!",
+    "rating": 7.08,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/anima-yell.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/anima-yell/",
+    "secao": "legendados",
+    "pagina": 161,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/anima-yell"
+  }
+}

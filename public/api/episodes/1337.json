@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Hakuouki Reimeiroku",
+  "anime": {
+    "id": 1337,
+    "nome": "Hakuouki Reimeiroku",
+    "link": "https://animefire.plus/animes/hakuouki-reimeiroku-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hakuouki-reimeiroku",
+    "rating": "7.58",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hakuouki-reimeiroku/1",
+      "anime_id": 1337,
+      "anime_name": "Hakuouki Reimeiroku"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hakuouki-reimeiroku/2",
+      "anime_id": 1337,
+      "anime_name": "Hakuouki Reimeiroku"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hakuouki-reimeiroku/3",
+      "anime_id": 1337,
+      "anime_name": "Hakuouki Reimeiroku"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hakuouki-reimeiroku/4",
+      "anime_id": 1337,
+      "anime_name": "Hakuouki Reimeiroku"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hakuouki-reimeiroku/5",
+      "anime_id": 1337,
+      "anime_name": "Hakuouki Reimeiroku"
+    }
+  ],
+  "total_episodes": 5
+}

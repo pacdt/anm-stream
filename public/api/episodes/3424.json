@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Shin Sakura Taisen the Animation",
+  "anime": {
+    "id": 3424,
+    "nome": "Shin Sakura Taisen the Animation",
+    "link": "https://animefire.plus/animes/shin-sakura-taisen-the-animation-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shin-sakura-taisen-the-animation",
+    "rating": "5.81",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shin-sakura-taisen-the-animation/1",
+      "anime_id": 3424,
+      "anime_name": "Shin Sakura Taisen the Animation"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Beyblade Burst Dynamite Battle",
+  "anime": {
+    "id": 380,
+    "nome": "Beyblade Burst Dynamite Battle",
+    "link": "https://animefire.plus/animes/beyblade-burst-dynamite-battle-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/beyblade-burst-dynamite-battle",
+    "rating": "6.23",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/beyblade-burst-dynamite-battle/1",
+      "anime_id": 380,
+      "anime_name": "Beyblade Burst Dynamite Battle"
+    }
+  ],
+  "total_episodes": 1
+}

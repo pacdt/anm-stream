@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1991,
+    "nome": "Kimi to Boku.",
+    "link": "https://animefire.plus/animes/kimi-to-boku-todos-os-episodios",
+    "texto_original": "Kimi to Boku.",
+    "rating": 7.78,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kimi-to-boku.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kimi-to-boku/",
+    "secao": "legendados",
+    "pagina": 159,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/kimi-to-boku"
+  }
+}

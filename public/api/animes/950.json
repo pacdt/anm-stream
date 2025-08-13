@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 950,
+    "nome": "Ensemble Stars!",
+    "link": "https://animefire.plus/animes/ensemble-stars-todos-os-episodios",
+    "texto_original": "Ensemble Stars!",
+    "rating": 6.83,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ensemble-stars.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ensemble-stars/",
+    "secao": "legendados",
+    "pagina": 159,
+    "total_episodios": 8,
+    "link_video": "https://animefire.plus/video/ensemble-stars"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Masamune-kun no Revenge OVA",
+  "anime": {
+    "id": 2433,
+    "nome": "Masamune-kun no Revenge OVA",
+    "link": "https://animefire.plus/animes/masamune-kun-no-revenge-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/masamune-kun-no-revenge-ova",
+    "rating": "6.60",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/masamune-kun-no-revenge-ova/1",
+      "anime_id": 2433,
+      "anime_name": "Masamune-kun no Revenge OVA"
+    }
+  ],
+  "total_episodes": 1
+}

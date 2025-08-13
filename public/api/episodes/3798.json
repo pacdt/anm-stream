@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
+  "anime": {
+    "id": 3798,
+    "nome": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
+    "link": "https://animefire.plus/animes/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season",
+    "rating": "7.63",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season/1",
+      "anime_id": 3798,
+      "anime_name": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season/2",
+      "anime_id": 3798,
+      "anime_name": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season/3",
+      "anime_id": 3798,
+      "anime_name": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season/4",
+      "anime_id": 3798,
+      "anime_name": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season"
+    }
+  ],
+  "total_episodes": 4
+}

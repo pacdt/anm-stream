@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Hibike! Euphonium: Suisougaku-bu no Nichijou",
+  "anime": {
+    "id": 1442,
+    "nome": "Hibike! Euphonium: Suisougaku-bu no Nichijou",
+    "link": "https://animefire.plus/animes/hibike-euphonium-suisougaku-bu-no-nichijou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hibike-euphonium-suisougaku-bu-no-nichijou",
+    "rating": "6.76",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hibike-euphonium-suisougaku-bu-no-nichijou/1",
+      "anime_id": 1442,
+      "anime_name": "Hibike! Euphonium: Suisougaku-bu no Nichijou"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hibike-euphonium-suisougaku-bu-no-nichijou/2",
+      "anime_id": 1442,
+      "anime_name": "Hibike! Euphonium: Suisougaku-bu no Nichijou"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hibike-euphonium-suisougaku-bu-no-nichijou/3",
+      "anime_id": 1442,
+      "anime_name": "Hibike! Euphonium: Suisougaku-bu no Nichijou"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hibike-euphonium-suisougaku-bu-no-nichijou/4",
+      "anime_id": 1442,
+      "anime_name": "Hibike! Euphonium: Suisougaku-bu no Nichijou"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hibike-euphonium-suisougaku-bu-no-nichijou/5",
+      "anime_id": 1442,
+      "anime_name": "Hibike! Euphonium: Suisougaku-bu no Nichijou"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hibike-euphonium-suisougaku-bu-no-nichijou/6",
+      "anime_id": 1442,
+      "anime_name": "Hibike! Euphonium: Suisougaku-bu no Nichijou"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/hibike-euphonium-suisougaku-bu-no-nichijou/7",
+      "anime_id": 1442,
+      "anime_name": "Hibike! Euphonium: Suisougaku-bu no Nichijou"
+    }
+  ],
+  "total_episodes": 7
+}

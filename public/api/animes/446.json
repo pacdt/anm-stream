@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 446,
+    "nome": "Bocchi the Rock!",
+    "link": "https://animefire.plus/animes/bocchi-the-rock-todos-os-episodios",
+    "texto_original": "Bocchi the Rock!",
+    "rating": 8.75,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/bocchi-the-rock.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bocchi-the-rock/",
+    "secao": "legendados",
+    "pagina": 29,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/bocchi-the-rock"
+  }
+}

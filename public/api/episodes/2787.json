@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Nozo x Kimi",
+  "anime": {
+    "id": 2787,
+    "nome": "Nozo x Kimi",
+    "link": "https://animefire.plus/animes/nozo-x-kimi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nozo-x-kimi",
+    "rating": "6.49",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nozo-x-kimi/1",
+      "anime_id": 2787,
+      "anime_name": "Nozo x Kimi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/nozo-x-kimi/2",
+      "anime_id": 2787,
+      "anime_name": "Nozo x Kimi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/nozo-x-kimi/3",
+      "anime_id": 2787,
+      "anime_name": "Nozo x Kimi"
+    }
+  ],
+  "total_episodes": 3
+}

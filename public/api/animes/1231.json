@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1231,
+    "nome": "Gosenzo-sama Banbanzai!",
+    "link": "https://animefire.plus/animes/gosenzo-sama-banbanzai-todos-os-episodios",
+    "texto_original": "Gosenzo-sama Banbanzai!",
+    "rating": 7.33,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/gosenzo-sama-banbanzai.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gosenzo-sama-banbanzai/",
+    "secao": "legendados",
+    "pagina": 173,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/gosenzo-sama-banbanzai"
+  }
+}

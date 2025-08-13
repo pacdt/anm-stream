@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3560,
+    "nome": "Snack Basue",
+    "link": "https://animefire.plus/animes/snack-basue-todos-os-episodios",
+    "texto_original": "Snack Basue",
+    "rating": 6.5,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/snack-basue.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/snack-basue/",
+    "secao": "legendados",
+    "pagina": 16,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/snack-basue"
+  }
+}

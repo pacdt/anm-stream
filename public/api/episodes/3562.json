@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Softenni",
+  "anime": {
+    "id": 3562,
+    "nome": "Softenni",
+    "link": "https://animefire.plus/animes/softenni-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/softenni",
+    "rating": "6.57",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/softenni/1",
+      "anime_id": 3562,
+      "anime_name": "Softenni"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/softenni/2",
+      "anime_id": 3562,
+      "anime_name": "Softenni"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/softenni/3",
+      "anime_id": 3562,
+      "anime_name": "Softenni"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/softenni/4",
+      "anime_id": 3562,
+      "anime_name": "Softenni"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/softenni/5",
+      "anime_id": 3562,
+      "anime_name": "Softenni"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/softenni/6",
+      "anime_id": 3562,
+      "anime_name": "Softenni"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/softenni/7",
+      "anime_id": 3562,
+      "anime_name": "Softenni"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/softenni/8",
+      "anime_id": 3562,
+      "anime_name": "Softenni"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/softenni/9",
+      "anime_id": 3562,
+      "anime_name": "Softenni"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/softenni/10",
+      "anime_id": 3562,
+      "anime_name": "Softenni"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/softenni/11",
+      "anime_id": 3562,
+      "anime_name": "Softenni"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/softenni/12",
+      "anime_id": 3562,
+      "anime_name": "Softenni"
+    }
+  ],
+  "total_episodes": 12
+}

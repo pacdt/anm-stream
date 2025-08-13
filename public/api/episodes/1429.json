@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Hetalia Axis Powers Fan Disc",
+  "anime": {
+    "id": 1429,
+    "nome": "Hetalia Axis Powers Fan Disc",
+    "link": "https://animefire.plus/animes/hetalia-axis-powers-fan-disc-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hetalia-axis-powers-fan-disc",
+    "rating": "7.43",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hetalia-axis-powers-fan-disc/1",
+      "anime_id": 1429,
+      "anime_name": "Hetalia Axis Powers Fan Disc"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hetalia-axis-powers-fan-disc/2",
+      "anime_id": 1429,
+      "anime_name": "Hetalia Axis Powers Fan Disc"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hetalia-axis-powers-fan-disc/3",
+      "anime_id": 1429,
+      "anime_name": "Hetalia Axis Powers Fan Disc"
+    }
+  ],
+  "total_episodes": 3
+}

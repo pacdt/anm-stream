@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Hello Harinezumi: Satsui no Ryoubun",
+  "anime": {
+    "id": 1412,
+    "nome": "Hello Harinezumi: Satsui no Ryoubun",
+    "link": "https://animefire.plus/animes/hello-harinezumi-satsui-no-ryoubun-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hello-harinezumi-satsui-no-ryoubun",
+    "rating": "6.45",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hello-harinezumi-satsui-no-ryoubun/1",
+      "anime_id": 1412,
+      "anime_name": "Hello Harinezumi: Satsui no Ryoubun"
+    }
+  ],
+  "total_episodes": 1
+}

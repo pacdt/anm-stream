@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3002,
+    "nome": "Pokemon Diamond & Pearl",
+    "link": "https://animefire.plus/animes/pokemon-diamond-pearl-todos-os-episodios",
+    "texto_original": "Pokemon Diamond & Pearl",
+    "rating": 7.24,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/pokemon-diamond-pearl.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/pokemon-diamond-pearl/",
+    "secao": "legendados",
+    "pagina": 126,
+    "total_episodios": 186,
+    "link_video": "https://animefire.plus/video/pokemon-diamond-pearl"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 151,
+    "nome": "Amagami SS+ Plus",
+    "link": "https://animefire.plus/animes/amagami-ss-plus-todos-os-episodios",
+    "texto_original": "Amagami SS+ Plus",
+    "rating": 7.53,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/amagami-ss-plus.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/amagami-ss-plus/",
+    "secao": "legendados",
+    "pagina": 158,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/amagami-ss-plus"
+  }
+}

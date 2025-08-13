@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1716,
+    "nome": "Jibaku-kun",
+    "link": "https://animefire.plus/animes/jibaku-kun-todos-os-episodios",
+    "texto_original": "Jibaku-kun",
+    "rating": 7.49,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/jibaku-kun.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/jibaku-kun/",
+    "secao": "legendados",
+    "pagina": 179,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/jibaku-kun"
+  }
+}

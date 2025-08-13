@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Futakoi",
+  "anime": {
+    "id": 1056,
+    "nome": "Futakoi",
+    "link": "https://animefire.plus/animes/futakoi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/futakoi",
+    "rating": "6.56",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/futakoi/1",
+      "anime_id": 1056,
+      "anime_name": "Futakoi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/futakoi/2",
+      "anime_id": 1056,
+      "anime_name": "Futakoi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/futakoi/3",
+      "anime_id": 1056,
+      "anime_name": "Futakoi"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/futakoi/4",
+      "anime_id": 1056,
+      "anime_name": "Futakoi"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/futakoi/5",
+      "anime_id": 1056,
+      "anime_name": "Futakoi"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/futakoi/6",
+      "anime_id": 1056,
+      "anime_name": "Futakoi"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/futakoi/7",
+      "anime_id": 1056,
+      "anime_name": "Futakoi"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/futakoi/8",
+      "anime_id": 1056,
+      "anime_name": "Futakoi"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/futakoi/9",
+      "anime_id": 1056,
+      "anime_name": "Futakoi"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/futakoi/10",
+      "anime_id": 1056,
+      "anime_name": "Futakoi"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/futakoi/11",
+      "anime_id": 1056,
+      "anime_name": "Futakoi"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/futakoi/12",
+      "anime_id": 1056,
+      "anime_name": "Futakoi"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/futakoi/13",
+      "anime_id": 1056,
+      "anime_name": "Futakoi"
+    }
+  ],
+  "total_episodes": 13
+}

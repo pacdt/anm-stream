@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Hotarubi no Mori e",
+  "anime": {
+    "id": 1536,
+    "nome": "Hotarubi no Mori e",
+    "link": "https://animefire.plus/animes/hotarubi-no-mori-e-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hotarubi-no-mori-e",
+    "rating": "8.49",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hotarubi-no-mori-e/1",
+      "anime_id": 1536,
+      "anime_name": "Hotarubi no Mori e"
+    }
+  ],
+  "total_episodes": 1
+}

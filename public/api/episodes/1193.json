@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Girly Air Force",
+  "anime": {
+    "id": 1193,
+    "nome": "Girly Air Force",
+    "link": "https://animefire.plus/animes/girly-air-force-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/girly-air-force",
+    "rating": "6.18",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/girly-air-force/1",
+      "anime_id": 1193,
+      "anime_name": "Girly Air Force"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/girly-air-force/2",
+      "anime_id": 1193,
+      "anime_name": "Girly Air Force"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/girly-air-force/3",
+      "anime_id": 1193,
+      "anime_name": "Girly Air Force"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/girly-air-force/4",
+      "anime_id": 1193,
+      "anime_name": "Girly Air Force"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/girly-air-force/5",
+      "anime_id": 1193,
+      "anime_name": "Girly Air Force"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/girly-air-force/6",
+      "anime_id": 1193,
+      "anime_name": "Girly Air Force"
+    }
+  ],
+  "total_episodes": 6
+}

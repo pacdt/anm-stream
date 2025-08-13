@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1113,
+    "nome": "Gasaraki",
+    "link": "https://animefire.plus/animes/gasaraki-todos-os-episodios",
+    "texto_original": "Gasaraki",
+    "rating": 6.69,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/gasaraki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gasaraki/",
+    "secao": "legendados",
+    "pagina": 156,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/gasaraki"
+  }
+}

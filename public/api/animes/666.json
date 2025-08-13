@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 666,
+    "nome": "Cleopatra D.C.",
+    "link": "https://animefire.plus/animes/cleopatra-d-c-todos-os-episodios",
+    "texto_original": "Cleopatra D.C.",
+    "rating": 5.95,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/cleopatra-d-c.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/cleopatra-d-c/",
+    "secao": "legendados",
+    "pagina": 117,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/cleopatra-d-c"
+  }
+}

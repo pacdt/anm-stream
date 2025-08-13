@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Ro-Kyu-Bu! SS",
+  "anime": {
+    "id": 3138,
+    "nome": "Ro-Kyu-Bu! SS",
+    "link": "https://animefire.plus/animes/ro-kyu-bu-ss-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ro-kyu-bu-ss",
+    "rating": "7.22",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ro-kyu-bu-ss/1",
+      "anime_id": 3138,
+      "anime_name": "Ro-Kyu-Bu! SS"
+    }
+  ],
+  "total_episodes": 1
+}

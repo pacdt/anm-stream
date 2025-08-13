@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2474,
+    "nome": "Meiji Tokyo Renka",
+    "link": "https://animefire.plus/animes/meiji-tokyo-renka-todos-os-episodios",
+    "texto_original": "Meiji Tokyo Renka",
+    "rating": 6.93,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/meiji-tokyo-renka.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/meiji-tokyo-renka/",
+    "secao": "legendados",
+    "pagina": 100,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/meiji-tokyo-renka"
+  }
+}

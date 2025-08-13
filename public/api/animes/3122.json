@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3122,
+    "nome": "Riding Bean",
+    "link": "https://animefire.plus/animes/riding-bean-todos-os-episodios",
+    "texto_original": "Riding Bean",
+    "rating": 7.09,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/riding-bean.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/riding-bean/",
+    "secao": "legendados",
+    "pagina": 67,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/riding-bean"
+  }
+}

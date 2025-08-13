@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1397,
+    "nome": "Hayate no Gotoku!",
+    "link": "https://animefire.plus/animes/hayate-no-gotoku-todos-os-episodios",
+    "texto_original": "Hayate no Gotoku!",
+    "rating": 7.62,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hayate-no-gotoku.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hayate-no-gotoku/",
+    "secao": "legendados",
+    "pagina": 66,
+    "total_episodios": 46,
+    "link_video": "https://animefire.plus/video/hayate-no-gotoku"
+  }
+}

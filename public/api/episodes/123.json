@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Aki-Sora",
+  "anime": {
+    "id": 123,
+    "nome": "Aki-Sora",
+    "link": "https://animefire.plus/animes/aki-sora-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/aki-sora",
+    "rating": "6.20",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/aki-sora/1",
+      "anime_id": 123,
+      "anime_name": "Aki-Sora"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/aki-sora/2",
+      "anime_id": 123,
+      "anime_name": "Aki-Sora"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/aki-sora/3",
+      "anime_id": 123,
+      "anime_name": "Aki-Sora"
+    }
+  ],
+  "total_episodes": 3
+}

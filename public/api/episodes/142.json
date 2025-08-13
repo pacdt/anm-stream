@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Alice to Zouroku",
+  "anime": {
+    "id": 142,
+    "nome": "Alice to Zouroku",
+    "link": "https://animefire.plus/animes/alice-to-zouroku-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/alice-to-zouroku",
+    "rating": "7.18",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/alice-to-zouroku/1",
+      "anime_id": 142,
+      "anime_name": "Alice to Zouroku"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/alice-to-zouroku/2",
+      "anime_id": 142,
+      "anime_name": "Alice to Zouroku"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/alice-to-zouroku/3",
+      "anime_id": 142,
+      "anime_name": "Alice to Zouroku"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/alice-to-zouroku/4",
+      "anime_id": 142,
+      "anime_name": "Alice to Zouroku"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/alice-to-zouroku/5",
+      "anime_id": 142,
+      "anime_name": "Alice to Zouroku"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/alice-to-zouroku/6",
+      "anime_id": 142,
+      "anime_name": "Alice to Zouroku"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/alice-to-zouroku/7",
+      "anime_id": 142,
+      "anime_name": "Alice to Zouroku"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/alice-to-zouroku/8",
+      "anime_id": 142,
+      "anime_name": "Alice to Zouroku"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/alice-to-zouroku/9",
+      "anime_id": 142,
+      "anime_name": "Alice to Zouroku"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/alice-to-zouroku/10",
+      "anime_id": 142,
+      "anime_name": "Alice to Zouroku"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/alice-to-zouroku/11",
+      "anime_id": 142,
+      "anime_name": "Alice to Zouroku"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/alice-to-zouroku/12",
+      "anime_id": 142,
+      "anime_name": "Alice to Zouroku"
+    }
+  ],
+  "total_episodes": 12
+}

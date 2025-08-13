@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 723,
+    "nome": "D4DJ: First Mix",
+    "link": "https://animefire.plus/animes/d4dj-first-mix-todos-os-episodios",
+    "texto_original": "D4DJ: First Mix",
+    "rating": null,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/d4dj-first-mix.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/d4dj-first-mix/",
+    "secao": "legendados",
+    "pagina": 50,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/d4dj-first-mix"
+  }
+}

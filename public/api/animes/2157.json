@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2157,
+    "nome": "Kuroshitsuji (Dublado)",
+    "link": "https://animefire.plus/animes/kuroshitsuji-dublado-todos-os-episodios",
+    "texto_original": "Kuroshitsuji (Dublado)",
+    "rating": 7.71,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/kuroshitsuji.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kuroshitsuji/",
+    "secao": "dublados,legendados",
+    "pagina": 16,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/kuroshitsuji-dublado"
+  }
+}

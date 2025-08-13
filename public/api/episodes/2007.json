@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Kiniro Mosaic",
+  "anime": {
+    "id": 2007,
+    "nome": "Kiniro Mosaic",
+    "link": "https://animefire.plus/animes/kiniro-mosaic-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kiniro-mosaic",
+    "rating": "7.33",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kiniro-mosaic/1",
+      "anime_id": 2007,
+      "anime_name": "Kiniro Mosaic"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kiniro-mosaic/2",
+      "anime_id": 2007,
+      "anime_name": "Kiniro Mosaic"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kiniro-mosaic/3",
+      "anime_id": 2007,
+      "anime_name": "Kiniro Mosaic"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kiniro-mosaic/4",
+      "anime_id": 2007,
+      "anime_name": "Kiniro Mosaic"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kiniro-mosaic/5",
+      "anime_id": 2007,
+      "anime_name": "Kiniro Mosaic"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kiniro-mosaic/6",
+      "anime_id": 2007,
+      "anime_name": "Kiniro Mosaic"
+    }
+  ],
+  "total_episodes": 6
+}

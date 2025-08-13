@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Free! (Dublado)",
+  "anime": {
+    "id": 1023,
+    "nome": "Free! (Dublado)",
+    "link": "https://animefire.plus/animes/free-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/free-dublado",
+    "rating": "7.48",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/free-dublado/1",
+      "anime_id": 1023,
+      "anime_name": "Free! (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/free-dublado/2",
+      "anime_id": 1023,
+      "anime_name": "Free! (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/free-dublado/3",
+      "anime_id": 1023,
+      "anime_name": "Free! (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/free-dublado/4",
+      "anime_id": 1023,
+      "anime_name": "Free! (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/free-dublado/5",
+      "anime_id": 1023,
+      "anime_name": "Free! (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/free-dublado/6",
+      "anime_id": 1023,
+      "anime_name": "Free! (Dublado)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/free-dublado/7",
+      "anime_id": 1023,
+      "anime_name": "Free! (Dublado)"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/free-dublado/8",
+      "anime_id": 1023,
+      "anime_name": "Free! (Dublado)"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/free-dublado/9",
+      "anime_id": 1023,
+      "anime_name": "Free! (Dublado)"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/free-dublado/10",
+      "anime_id": 1023,
+      "anime_name": "Free! (Dublado)"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/free-dublado/11",
+      "anime_id": 1023,
+      "anime_name": "Free! (Dublado)"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/free-dublado/12",
+      "anime_id": 1023,
+      "anime_name": "Free! (Dublado)"
+    }
+  ],
+  "total_episodes": 12
+}

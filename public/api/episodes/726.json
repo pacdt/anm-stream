@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Dagashi Kashi 2",
+  "anime": {
+    "id": 726,
+    "nome": "Dagashi Kashi 2",
+    "link": "https://animefire.plus/animes/dagashi-kashi-2-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/dagashi-kashi-2",
+    "rating": "6.99",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/dagashi-kashi-2/1",
+      "anime_id": 726,
+      "anime_name": "Dagashi Kashi 2"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/dagashi-kashi-2/2",
+      "anime_id": 726,
+      "anime_name": "Dagashi Kashi 2"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/dagashi-kashi-2/3",
+      "anime_id": 726,
+      "anime_name": "Dagashi Kashi 2"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/dagashi-kashi-2/4",
+      "anime_id": 726,
+      "anime_name": "Dagashi Kashi 2"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/dagashi-kashi-2/5",
+      "anime_id": 726,
+      "anime_name": "Dagashi Kashi 2"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/dagashi-kashi-2/6",
+      "anime_id": 726,
+      "anime_name": "Dagashi Kashi 2"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/dagashi-kashi-2/7",
+      "anime_id": 726,
+      "anime_name": "Dagashi Kashi 2"
+    }
+  ],
+  "total_episodes": 7
+}

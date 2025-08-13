@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Sora no Otoshimono: Forte",
+  "anime": {
+    "id": 3576,
+    "nome": "Sora no Otoshimono: Forte",
+    "link": "https://animefire.plus/animes/sora-no-otoshimono-forte-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sora-no-otoshimono-forte",
+    "rating": "7.69",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sora-no-otoshimono-forte/1",
+      "anime_id": 3576,
+      "anime_name": "Sora no Otoshimono: Forte"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/sora-no-otoshimono-forte/2",
+      "anime_id": 3576,
+      "anime_name": "Sora no Otoshimono: Forte"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/sora-no-otoshimono-forte/3",
+      "anime_id": 3576,
+      "anime_name": "Sora no Otoshimono: Forte"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/sora-no-otoshimono-forte/4",
+      "anime_id": 3576,
+      "anime_name": "Sora no Otoshimono: Forte"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/sora-no-otoshimono-forte/5",
+      "anime_id": 3576,
+      "anime_name": "Sora no Otoshimono: Forte"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/sora-no-otoshimono-forte/6",
+      "anime_id": 3576,
+      "anime_name": "Sora no Otoshimono: Forte"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/sora-no-otoshimono-forte/7",
+      "anime_id": 3576,
+      "anime_name": "Sora no Otoshimono: Forte"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/sora-no-otoshimono-forte/8",
+      "anime_id": 3576,
+      "anime_name": "Sora no Otoshimono: Forte"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/sora-no-otoshimono-forte/9",
+      "anime_id": 3576,
+      "anime_name": "Sora no Otoshimono: Forte"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/sora-no-otoshimono-forte/10",
+      "anime_id": 3576,
+      "anime_name": "Sora no Otoshimono: Forte"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/sora-no-otoshimono-forte/11",
+      "anime_id": 3576,
+      "anime_name": "Sora no Otoshimono: Forte"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/sora-no-otoshimono-forte/12",
+      "anime_id": 3576,
+      "anime_name": "Sora no Otoshimono: Forte"
+    }
+  ],
+  "total_episodes": 12
+}

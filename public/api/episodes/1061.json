@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Futari Wa Precure",
+  "anime": {
+    "id": 1061,
+    "nome": "Futari Wa Precure",
+    "link": "https://animefire.plus/animes/futari-wa-precure-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/futari-wa-precure",
+    "rating": "7.01",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/futari-wa-precure/1",
+      "anime_id": 1061,
+      "anime_name": "Futari Wa Precure"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/futari-wa-precure/2",
+      "anime_id": 1061,
+      "anime_name": "Futari Wa Precure"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/futari-wa-precure/3",
+      "anime_id": 1061,
+      "anime_name": "Futari Wa Precure"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/futari-wa-precure/4",
+      "anime_id": 1061,
+      "anime_name": "Futari Wa Precure"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/futari-wa-precure/5",
+      "anime_id": 1061,
+      "anime_name": "Futari Wa Precure"
+    }
+  ],
+  "total_episodes": 5
+}

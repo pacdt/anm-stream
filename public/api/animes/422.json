@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 422,
+    "nome": "BlazBlue: Alter Memory",
+    "link": "https://animefire.plus/animes/blazblue-alter-memory-todos-os-episodios",
+    "texto_original": "BlazBlue: Alter Memory",
+    "rating": 6.21,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/blazblue-alter-memory.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/blazblue-alter-memory/",
+    "secao": "legendados",
+    "pagina": 122,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/blazblue-alter-memory"
+  }
+}

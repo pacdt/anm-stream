@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2470,
+    "nome": "Meganebu!",
+    "link": "https://animefire.plus/animes/meganebu-todos-os-episodios",
+    "texto_original": "Meganebu!",
+    "rating": 6.35,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/meganebu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/meganebu/",
+    "secao": "legendados",
+    "pagina": 172,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/meganebu"
+  }
+}

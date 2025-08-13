@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Gintama: Shiroyasha Koutan",
+  "anime": {
+    "id": 1176,
+    "nome": "Gintama: Shiroyasha Koutan",
+    "link": "https://animefire.plus/animes/gintama-shiroyasha-koutan-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gintama-shiroyasha-koutan",
+    "rating": "8.34",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gintama-shiroyasha-koutan/1",
+      "anime_id": 1176,
+      "anime_name": "Gintama: Shiroyasha Koutan"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4097,
+    "nome": "Wake Up, Girls!",
+    "link": "https://animefire.plus/animes/wake-up-girls-todos-os-episodios",
+    "texto_original": "Wake Up, Girls!",
+    "rating": 7.01,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/wake-up-girls.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/wake-up-girls/",
+    "secao": "legendados",
+    "pagina": 75,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/wake-up-girls"
+  }
+}

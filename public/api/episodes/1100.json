@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Game Center Shoujo to Ibunka Kouryuu",
+  "anime": {
+    "id": 1100,
+    "nome": "Game Center Shoujo to Ibunka Kouryuu",
+    "link": "https://animefire.plus/animes/game-center-shoujo-to-ibunka-kouryuu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/game-center-shoujo-to-ibunka-kouryuu",
+    "rating": "6.84",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/game-center-shoujo-to-ibunka-kouryuu/1",
+      "anime_id": 1100,
+      "anime_name": "Game Center Shoujo to Ibunka Kouryuu"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/game-center-shoujo-to-ibunka-kouryuu/2",
+      "anime_id": 1100,
+      "anime_name": "Game Center Shoujo to Ibunka Kouryuu"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/game-center-shoujo-to-ibunka-kouryuu/3",
+      "anime_id": 1100,
+      "anime_name": "Game Center Shoujo to Ibunka Kouryuu"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/game-center-shoujo-to-ibunka-kouryuu/4",
+      "anime_id": 1100,
+      "anime_name": "Game Center Shoujo to Ibunka Kouryuu"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/game-center-shoujo-to-ibunka-kouryuu/5",
+      "anime_id": 1100,
+      "anime_name": "Game Center Shoujo to Ibunka Kouryuu"
+    }
+  ],
+  "total_episodes": 5
+}

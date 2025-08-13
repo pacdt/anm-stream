@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: .hack//Quantum",
+  "anime": {
+    "id": 2,
+    "nome": ".hack//Quantum",
+    "link": "https://animefire.plus/animes/hack-quantum-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hack-quantum",
+    "rating": "7.25",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hack-quantum/1",
+      "anime_id": 2,
+      "anime_name": ".hack//Quantum"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hack-quantum/2",
+      "anime_id": 2,
+      "anime_name": ".hack//Quantum"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hack-quantum/3",
+      "anime_id": 2,
+      "anime_name": ".hack//Quantum"
+    }
+  ],
+  "total_episodes": 3
+}

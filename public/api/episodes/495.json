@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Brave Beats",
+  "anime": {
+    "id": 495,
+    "nome": "Brave Beats",
+    "link": "https://animefire.plus/animes/brave-beats-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/brave-beats",
+    "rating": "6.57",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/brave-beats/1",
+      "anime_id": 495,
+      "anime_name": "Brave Beats"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/brave-beats/2",
+      "anime_id": 495,
+      "anime_name": "Brave Beats"
+    }
+  ],
+  "total_episodes": 2
+}

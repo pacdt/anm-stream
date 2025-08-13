@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Ikkitousen: Extravaganza Epoch",
+  "anime": {
+    "id": 1605,
+    "nome": "Ikkitousen: Extravaganza Epoch",
+    "link": "https://animefire.plus/animes/ikkitousen-extravaganza-epoch-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ikkitousen-extravaganza-epoch",
+    "rating": "6.67",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ikkitousen-extravaganza-epoch/1",
+      "anime_id": 1605,
+      "anime_name": "Ikkitousen: Extravaganza Epoch"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ikkitousen-extravaganza-epoch/2",
+      "anime_id": 1605,
+      "anime_name": "Ikkitousen: Extravaganza Epoch"
+    }
+  ],
+  "total_episodes": 2
+}

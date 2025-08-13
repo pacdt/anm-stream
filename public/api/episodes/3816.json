@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: Terminator 0",
+  "anime": {
+    "id": 3816,
+    "nome": "Terminator 0",
+    "link": "https://animefire.plus/animes/terminator-0-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/terminator-0",
+    "rating": "7.10",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/terminator-0/1",
+      "anime_id": 3816,
+      "anime_name": "Terminator 0"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/terminator-0/2",
+      "anime_id": 3816,
+      "anime_name": "Terminator 0"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/terminator-0/3",
+      "anime_id": 3816,
+      "anime_name": "Terminator 0"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/terminator-0/4",
+      "anime_id": 3816,
+      "anime_name": "Terminator 0"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/terminator-0/5",
+      "anime_id": 3816,
+      "anime_name": "Terminator 0"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/terminator-0/6",
+      "anime_id": 3816,
+      "anime_name": "Terminator 0"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/terminator-0/7",
+      "anime_id": 3816,
+      "anime_name": "Terminator 0"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/terminator-0/8",
+      "anime_id": 3816,
+      "anime_name": "Terminator 0"
+    }
+  ],
+  "total_episodes": 8
+}

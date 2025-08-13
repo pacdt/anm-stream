@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Shakunetsu Kabaddi",
+  "anime": {
+    "id": 3381,
+    "nome": "Shakunetsu Kabaddi",
+    "link": "https://animefire.plus/animes/shakunetsu-kabaddi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shakunetsu-kabaddi",
+    "rating": "7.01",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shakunetsu-kabaddi/1",
+      "anime_id": 3381,
+      "anime_name": "Shakunetsu Kabaddi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shakunetsu-kabaddi/2",
+      "anime_id": 3381,
+      "anime_name": "Shakunetsu Kabaddi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/shakunetsu-kabaddi/3",
+      "anime_id": 3381,
+      "anime_name": "Shakunetsu Kabaddi"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/shakunetsu-kabaddi/4",
+      "anime_id": 3381,
+      "anime_name": "Shakunetsu Kabaddi"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/shakunetsu-kabaddi/5",
+      "anime_id": 3381,
+      "anime_name": "Shakunetsu Kabaddi"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/shakunetsu-kabaddi/6",
+      "anime_id": 3381,
+      "anime_name": "Shakunetsu Kabaddi"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/shakunetsu-kabaddi/7",
+      "anime_id": 3381,
+      "anime_name": "Shakunetsu Kabaddi"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/shakunetsu-kabaddi/8",
+      "anime_id": 3381,
+      "anime_name": "Shakunetsu Kabaddi"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/shakunetsu-kabaddi/9",
+      "anime_id": 3381,
+      "anime_name": "Shakunetsu Kabaddi"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/shakunetsu-kabaddi/10",
+      "anime_id": 3381,
+      "anime_name": "Shakunetsu Kabaddi"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/shakunetsu-kabaddi/11",
+      "anime_id": 3381,
+      "anime_name": "Shakunetsu Kabaddi"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/shakunetsu-kabaddi/12",
+      "anime_id": 3381,
+      "anime_name": "Shakunetsu Kabaddi"
+    }
+  ],
+  "total_episodes": 12
+}

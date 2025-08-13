@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 435,
+    "nome": "Blue Dragon (Dublado)",
+    "link": "https://animefire.plus/animes/blue-dragon-dublado-todos-os-episodios",
+    "texto_original": "Blue Dragon (Dublado)",
+    "rating": 6.43,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/blue-dragon.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/blue-dragon/",
+    "secao": "dublados",
+    "pagina": 21,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/blue-dragon-dublado"
+  }
+}

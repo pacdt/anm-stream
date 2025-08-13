@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Rinne no Lagrange: Kamogawa Days",
+  "anime": {
+    "id": 3132,
+    "nome": "Rinne no Lagrange: Kamogawa Days",
+    "link": "https://animefire.plus/animes/rinne-no-lagrange-kamogawa-days-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/rinne-no-lagrange-kamogawa-days",
+    "rating": "6.82",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/rinne-no-lagrange-kamogawa-days/1",
+      "anime_id": 3132,
+      "anime_name": "Rinne no Lagrange: Kamogawa Days"
+    }
+  ],
+  "total_episodes": 1
+}

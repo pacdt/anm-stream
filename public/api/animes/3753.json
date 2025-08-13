@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3753,
+    "nome": "Tasokare Hotel",
+    "link": "https://animefire.plus/animes/tasokare-hotel-todos-os-episodios",
+    "texto_original": "Tasokare Hotel",
+    "rating": 7.2,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/tasokare-hotel.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tasokare-hotel/",
+    "secao": "legendados",
+    "pagina": 7,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/tasokare-hotel"
+  }
+}

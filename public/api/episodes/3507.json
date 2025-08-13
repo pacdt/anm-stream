@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Shounen to Sakura",
+  "anime": {
+    "id": 3507,
+    "nome": "Shounen to Sakura",
+    "link": "https://animefire.plus/animes/shounen-to-sakura-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shounen-to-sakura",
+    "rating": "5.85",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shounen-to-sakura/1",
+      "anime_id": 3507,
+      "anime_name": "Shounen to Sakura"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Daimajuu Gekitou: Hagane no Oni",
+  "anime": {
+    "id": 728,
+    "nome": "Daimajuu Gekitou: Hagane no Oni",
+    "link": "https://animefire.plus/animes/daimajuu-gekitou-hagane-no-oni-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/daimajuu-gekitou-hagane-no-oni",
+    "rating": "5.29",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/daimajuu-gekitou-hagane-no-oni/1",
+      "anime_id": 728,
+      "anime_name": "Daimajuu Gekitou: Hagane no Oni"
+    }
+  ],
+  "total_episodes": 1
+}

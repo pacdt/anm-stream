@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 737,
+    "nome": "Dance with Devils",
+    "link": "https://animefire.plus/animes/dance-with-devils-todos-os-episodios",
+    "texto_original": "Dance with Devils",
+    "rating": 6.64,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/dance-with-devils.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dance-with-devils/",
+    "secao": "legendados",
+    "pagina": 118,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/dance-with-devils"
+  }
+}

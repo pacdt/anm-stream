@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Black Blood Brothers",
+  "anime": {
+    "id": 407,
+    "nome": "Black Blood Brothers",
+    "link": "https://animefire.plus/animes/black-blood-brothers-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/black-blood-brothers",
+    "rating": "7.21",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/black-blood-brothers/1",
+      "anime_id": 407,
+      "anime_name": "Black Blood Brothers"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/black-blood-brothers/2",
+      "anime_id": 407,
+      "anime_name": "Black Blood Brothers"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/black-blood-brothers/3",
+      "anime_id": 407,
+      "anime_name": "Black Blood Brothers"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/black-blood-brothers/4",
+      "anime_id": 407,
+      "anime_name": "Black Blood Brothers"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/black-blood-brothers/5",
+      "anime_id": 407,
+      "anime_name": "Black Blood Brothers"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/black-blood-brothers/6",
+      "anime_id": 407,
+      "anime_name": "Black Blood Brothers"
+    }
+  ],
+  "total_episodes": 6
+}

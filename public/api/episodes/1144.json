@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Gensoumaden Saiyuuki OVA",
+  "anime": {
+    "id": 1144,
+    "nome": "Gensoumaden Saiyuuki OVA",
+    "link": "https://animefire.plus/animes/gensoumaden-saiyuuki-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gensoumaden-saiyuuki-ova",
+    "rating": "7.13",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gensoumaden-saiyuuki-ova/1",
+      "anime_id": 1144,
+      "anime_name": "Gensoumaden Saiyuuki OVA"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/gensoumaden-saiyuuki-ova/2",
+      "anime_id": 1144,
+      "anime_name": "Gensoumaden Saiyuuki OVA"
+    }
+  ],
+  "total_episodes": 2
+}

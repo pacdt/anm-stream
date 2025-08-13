@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3326,
+    "nome": "Selection Project",
+    "link": "https://animefire.plus/animes/selection-project-todos-os-episodios",
+    "texto_original": "Selection Project",
+    "rating": 7.26,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/selection-project.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/selection-project/",
+    "secao": "legendados",
+    "pagina": 38,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/selection-project"
+  }
+}

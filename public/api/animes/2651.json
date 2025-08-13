@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2651,
+    "nome": "Nana",
+    "link": "https://animefire.plus/animes/nana-todos-os-episodios",
+    "texto_original": "Nana",
+    "rating": 8.48,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/nana.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/nana/",
+    "secao": "legendados",
+    "pagina": 150,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/nana"
+  }
+}

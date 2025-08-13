@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Minna Atsumare! Falcom Gakuen",
+  "anime": {
+    "id": 2518,
+    "nome": "Minna Atsumare! Falcom Gakuen",
+    "link": "https://animefire.plus/animes/minna-atsumare-falcom-gakuen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/minna-atsumare-falcom-gakuen",
+    "rating": "5.89",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/minna-atsumare-falcom-gakuen/1",
+      "anime_id": 2518,
+      "anime_name": "Minna Atsumare! Falcom Gakuen"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/minna-atsumare-falcom-gakuen/2",
+      "anime_id": 2518,
+      "anime_name": "Minna Atsumare! Falcom Gakuen"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/minna-atsumare-falcom-gakuen/3",
+      "anime_id": 2518,
+      "anime_name": "Minna Atsumare! Falcom Gakuen"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/minna-atsumare-falcom-gakuen/4",
+      "anime_id": 2518,
+      "anime_name": "Minna Atsumare! Falcom Gakuen"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/minna-atsumare-falcom-gakuen/5",
+      "anime_id": 2518,
+      "anime_name": "Minna Atsumare! Falcom Gakuen"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/minna-atsumare-falcom-gakuen/6",
+      "anime_id": 2518,
+      "anime_name": "Minna Atsumare! Falcom Gakuen"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/minna-atsumare-falcom-gakuen/7",
+      "anime_id": 2518,
+      "anime_name": "Minna Atsumare! Falcom Gakuen"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/minna-atsumare-falcom-gakuen/8",
+      "anime_id": 2518,
+      "anime_name": "Minna Atsumare! Falcom Gakuen"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/minna-atsumare-falcom-gakuen/9",
+      "anime_id": 2518,
+      "anime_name": "Minna Atsumare! Falcom Gakuen"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/minna-atsumare-falcom-gakuen/10",
+      "anime_id": 2518,
+      "anime_name": "Minna Atsumare! Falcom Gakuen"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/minna-atsumare-falcom-gakuen/11",
+      "anime_id": 2518,
+      "anime_name": "Minna Atsumare! Falcom Gakuen"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/minna-atsumare-falcom-gakuen/12",
+      "anime_id": 2518,
+      "anime_name": "Minna Atsumare! Falcom Gakuen"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/minna-atsumare-falcom-gakuen/13",
+      "anime_id": 2518,
+      "anime_name": "Minna Atsumare! Falcom Gakuen"
+    }
+  ],
+  "total_episodes": 13
+}

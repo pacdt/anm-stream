@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2586,
+    "nome": "Monster Strike",
+    "link": "https://animefire.plus/animes/monster-strike-todos-os-episodios",
+    "texto_original": "Monster Strike",
+    "rating": 6.52,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/monster-strike.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/monster-strike/",
+    "secao": "legendados",
+    "pagina": 64,
+    "total_episodios": 51,
+    "link_video": "https://animefire.plus/video/monster-strike"
+  }
+}

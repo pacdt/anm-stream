@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Kuzu no Honkai",
+  "anime": {
+    "id": 2172,
+    "nome": "Kuzu no Honkai",
+    "link": "https://animefire.plus/animes/kuzu-no-honkai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kuzu-no-honkai",
+    "rating": "7.48",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kuzu-no-honkai/1",
+      "anime_id": 2172,
+      "anime_name": "Kuzu no Honkai"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kuzu-no-honkai/2",
+      "anime_id": 2172,
+      "anime_name": "Kuzu no Honkai"
+    }
+  ],
+  "total_episodes": 2
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 690,
+    "nome": "Cop Craft",
+    "link": "https://animefire.plus/animes/cop-craft-todos-os-episodios",
+    "texto_original": "Cop Craft",
+    "rating": 6.74,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/cop-craft.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/cop-craft/",
+    "secao": "legendados",
+    "pagina": 129,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/cop-craft"
+  }
+}

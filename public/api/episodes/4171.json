@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Xian Wang de Richang Shenghuo 2nd Season",
+  "anime": {
+    "id": 4171,
+    "nome": "Xian Wang de Richang Shenghuo 2nd Season",
+    "link": "https://animefire.plus/animes/xian-wang-de-richang-shenghuo-2nd-season-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/xian-wang-de-richang-shenghuo-2nd-season",
+    "rating": "7.38",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/xian-wang-de-richang-shenghuo-2nd-season/1",
+      "anime_id": 4171,
+      "anime_name": "Xian Wang de Richang Shenghuo 2nd Season"
+    }
+  ],
+  "total_episodes": 1
+}

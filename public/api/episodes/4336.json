@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Zatsu Tabi: That's Journey",
+  "anime": {
+    "id": 4336,
+    "nome": "Zatsu Tabi: That's Journey",
+    "link": "https://animefire.plus/animes/zatsu-tabi-that-s-journey-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/zatsu-tabi-that-s-journey",
+    "rating": "6.93",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/zatsu-tabi-that-s-journey/1",
+      "anime_id": 4336,
+      "anime_name": "Zatsu Tabi: That's Journey"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/zatsu-tabi-that-s-journey/2",
+      "anime_id": 4336,
+      "anime_name": "Zatsu Tabi: That's Journey"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/zatsu-tabi-that-s-journey/3",
+      "anime_id": 4336,
+      "anime_name": "Zatsu Tabi: That's Journey"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/zatsu-tabi-that-s-journey/4",
+      "anime_id": 4336,
+      "anime_name": "Zatsu Tabi: That's Journey"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/zatsu-tabi-that-s-journey/5",
+      "anime_id": 4336,
+      "anime_name": "Zatsu Tabi: That's Journey"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/zatsu-tabi-that-s-journey/6",
+      "anime_id": 4336,
+      "anime_name": "Zatsu Tabi: That's Journey"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/zatsu-tabi-that-s-journey/7",
+      "anime_id": 4336,
+      "anime_name": "Zatsu Tabi: That's Journey"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/zatsu-tabi-that-s-journey/8",
+      "anime_id": 4336,
+      "anime_name": "Zatsu Tabi: That's Journey"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/zatsu-tabi-that-s-journey/9",
+      "anime_id": 4336,
+      "anime_name": "Zatsu Tabi: That's Journey"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/zatsu-tabi-that-s-journey/10",
+      "anime_id": 4336,
+      "anime_name": "Zatsu Tabi: That's Journey"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/zatsu-tabi-that-s-journey/11",
+      "anime_id": 4336,
+      "anime_name": "Zatsu Tabi: That's Journey"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/zatsu-tabi-that-s-journey/12",
+      "anime_id": 4336,
+      "anime_name": "Zatsu Tabi: That's Journey"
+    }
+  ],
+  "total_episodes": 12
+}

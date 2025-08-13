@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3411,
+    "nome": "Shikizakura",
+    "link": "https://animefire.plus/animes/shikizakura-todos-os-episodios",
+    "texto_original": "Shikizakura",
+    "rating": 5.83,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/shikizakura.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shikizakura/",
+    "secao": "legendados",
+    "pagina": 37,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/shikizakura"
+  }
+}

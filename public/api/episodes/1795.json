@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
+  "anime": {
+    "id": 1795,
+    "nome": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
+    "link": "https://animefire.plus/animes/kaguya-sama-love-is-war-season-2-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kaguya-sama-love-is-war-season-2",
+    "rating": "8.74",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kaguya-sama-love-is-war-season-2/1",
+      "anime_id": 1795,
+      "anime_name": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kaguya-sama-love-is-war-season-2/2",
+      "anime_id": 1795,
+      "anime_name": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kaguya-sama-love-is-war-season-2/3",
+      "anime_id": 1795,
+      "anime_name": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kaguya-sama-love-is-war-season-2/4",
+      "anime_id": 1795,
+      "anime_name": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kaguya-sama-love-is-war-season-2/5",
+      "anime_id": 1795,
+      "anime_name": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kaguya-sama-love-is-war-season-2/6",
+      "anime_id": 1795,
+      "anime_name": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen"
+    }
+  ],
+  "total_episodes": 6
+}

@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Golden Time",
+  "anime": {
+    "id": 1226,
+    "nome": "Golden Time",
+    "link": "https://animefire.plus/animes/golden-time-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/golden-time",
+    "rating": "7.87",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/golden-time/1",
+      "anime_id": 1226,
+      "anime_name": "Golden Time"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/golden-time/2",
+      "anime_id": 1226,
+      "anime_name": "Golden Time"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/golden-time/3",
+      "anime_id": 1226,
+      "anime_name": "Golden Time"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/golden-time/4",
+      "anime_id": 1226,
+      "anime_name": "Golden Time"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/golden-time/5",
+      "anime_id": 1226,
+      "anime_name": "Golden Time"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/golden-time/6",
+      "anime_id": 1226,
+      "anime_name": "Golden Time"
+    }
+  ],
+  "total_episodes": 6
+}

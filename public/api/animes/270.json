@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 270,
+    "nome": "Asu no Yoichi!",
+    "link": "https://animefire.plus/animes/asu-no-yoichi-todos-os-episodios",
+    "texto_original": "Asu no Yoichi!",
+    "rating": 6.91,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/asu-no-yoichi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/asu-no-yoichi/",
+    "secao": "legendados",
+    "pagina": 150,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/asu-no-yoichi"
+  }
+}

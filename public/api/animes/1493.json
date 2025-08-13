@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1493,
+    "nome": "Hinamatsuri",
+    "link": "https://animefire.plus/animes/hinamatsuri-todos-os-episodios",
+    "texto_original": "Hinamatsuri",
+    "rating": 8.31,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hinamatsuri.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hinamatsuri/",
+    "secao": "legendados",
+    "pagina": 143,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/hinamatsuri"
+  }
+}

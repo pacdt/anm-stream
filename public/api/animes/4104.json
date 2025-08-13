@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4104,
+    "nome": "Wangan Midnight",
+    "link": "https://animefire.plus/animes/wangan-midnight-todos-os-episodios",
+    "texto_original": "Wangan Midnight",
+    "rating": 7.5,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/wangan-midnight.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/wangan-midnight/",
+    "secao": "legendados",
+    "pagina": 174,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/wangan-midnight"
+  }
+}

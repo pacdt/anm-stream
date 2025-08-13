@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Monkey Punch no Sekai: Alice",
+  "anime": {
+    "id": 2571,
+    "nome": "Monkey Punch no Sekai: Alice",
+    "link": "https://animefire.plus/animes/monkey-punch-no-sekai-alice-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/monkey-punch-no-sekai-alice",
+    "rating": "5.45",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/monkey-punch-no-sekai-alice/1",
+      "anime_id": 2571,
+      "anime_name": "Monkey Punch no Sekai: Alice"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,21 @@
+{
+  "message": "1 animes aleatórios",
+  "data": [
+    {
+      "id": 611,
+      "nome": "Chio-chan no Tsuugakuro",
+      "link": "https://animefire.plus/animes/chio-chan-no-tsuugakuro-todos-os-episodios",
+      "texto_original": "Chio-chan no Tsuugakuro",
+      "rating": 7.5,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/chio-chan-no-tsuugakuro.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/chio-chan-no-tsuugakuro/",
+      "secao": "legendados",
+      "pagina": 146,
+      "total_episodios": 12,
+      "link_video": "https://animefire.plus/video/chio-chan-no-tsuugakuro"
+    }
+  ],
+  "total": 1,
+  "version": 2
+}

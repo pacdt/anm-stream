@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1256,
+    "nome": "Grimms Notes The Animation",
+    "link": "https://animefire.plus/animes/grimms-notes-the-animation-todos-os-episodios",
+    "texto_original": "Grimms Notes The Animation",
+    "rating": 5.99,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/grimms-notes-the-animation.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/grimms-notes-the-animation/",
+    "secao": "legendados",
+    "pagina": 101,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/grimms-notes-the-animation"
+  }
+}

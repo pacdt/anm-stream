@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2850,
+    "nome": "Onigiri",
+    "link": "https://animefire.plus/animes/onigiri-todos-os-episodios",
+    "texto_original": "Onigiri",
+    "rating": 5.42,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/onigiri.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/onigiri/",
+    "secao": "legendados",
+    "pagina": 127,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/onigiri"
+  }
+}

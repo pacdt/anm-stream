@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2444,
+    "nome": "Master Keaton OVA",
+    "link": "https://animefire.plus/animes/master-keaton-ova-todos-os-episodios",
+    "texto_original": "Master Keaton OVA",
+    "rating": 7.84,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/master-keaton-ova.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/master-keaton-ova/",
+    "secao": "legendados",
+    "pagina": 166,
+    "total_episodios": 15,
+    "link_video": "https://animefire.plus/video/master-keaton-ova"
+  }
+}

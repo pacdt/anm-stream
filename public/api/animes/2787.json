@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2787,
+    "nome": "Nozo x Kimi",
+    "link": "https://animefire.plus/animes/nozo-x-kimi-todos-os-episodios",
+    "texto_original": "Nozo x Kimi",
+    "rating": 6.49,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/nozo-x-kimi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/nozo-x-kimi/",
+    "secao": "legendados",
+    "pagina": 61,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/nozo-x-kimi"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Gintama: Monster Strike-hen",
+  "anime": {
+    "id": 1173,
+    "nome": "Gintama: Monster Strike-hen",
+    "link": "https://animefire.plus/animes/gintama-monster-strike-hen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gintama-monster-strike-hen",
+    "rating": "7.35",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gintama-monster-strike-hen/1",
+      "anime_id": 1173,
+      "anime_name": "Gintama: Monster Strike-hen"
+    }
+  ],
+  "total_episodes": 1
+}

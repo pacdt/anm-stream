@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Another",
+  "anime": {
+    "id": 187,
+    "nome": "Another",
+    "link": "https://animefire.plus/animes/another-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/another",
+    "rating": "7.68",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/another/1",
+      "anime_id": 187,
+      "anime_name": "Another"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/another/2",
+      "anime_id": 187,
+      "anime_name": "Another"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/another/3",
+      "anime_id": 187,
+      "anime_name": "Another"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/another/4",
+      "anime_id": 187,
+      "anime_name": "Another"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/another/5",
+      "anime_id": 187,
+      "anime_name": "Another"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/another/6",
+      "anime_id": 187,
+      "anime_name": "Another"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/another/7",
+      "anime_id": 187,
+      "anime_name": "Another"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/another/8",
+      "anime_id": 187,
+      "anime_name": "Another"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/another/9",
+      "anime_id": 187,
+      "anime_name": "Another"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/another/10",
+      "anime_id": 187,
+      "anime_name": "Another"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/another/11",
+      "anime_id": 187,
+      "anime_name": "Another"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/another/12",
+      "anime_id": 187,
+      "anime_name": "Another"
+    }
+  ],
+  "total_episodes": 12
+}

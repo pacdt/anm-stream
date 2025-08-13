@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1683,
+    "nome": "Isshuukan Friends.",
+    "link": "https://animefire.plus/animes/isshuukan-friends-todos-os-episodios",
+    "texto_original": "Isshuukan Friends.",
+    "rating": 7.63,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/isshuukan-friends.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/isshuukan-friends/",
+    "secao": "legendados",
+    "pagina": 126,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/isshuukan-friends"
+  }
+}

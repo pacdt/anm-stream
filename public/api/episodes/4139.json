@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: WIXOSS Diva(A)Live",
+  "anime": {
+    "id": 4139,
+    "nome": "WIXOSS Diva(A)Live",
+    "link": "https://animefire.plus/animes/wixoss-diva-a-live-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/wixoss-diva-a-live",
+    "rating": "5.60",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/wixoss-diva-a-live/1",
+      "anime_id": 4139,
+      "anime_name": "WIXOSS Diva(A)Live"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/wixoss-diva-a-live/2",
+      "anime_id": 4139,
+      "anime_name": "WIXOSS Diva(A)Live"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/wixoss-diva-a-live/3",
+      "anime_id": 4139,
+      "anime_name": "WIXOSS Diva(A)Live"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/wixoss-diva-a-live/4",
+      "anime_id": 4139,
+      "anime_name": "WIXOSS Diva(A)Live"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/wixoss-diva-a-live/5",
+      "anime_id": 4139,
+      "anime_name": "WIXOSS Diva(A)Live"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/wixoss-diva-a-live/6",
+      "anime_id": 4139,
+      "anime_name": "WIXOSS Diva(A)Live"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/wixoss-diva-a-live/7",
+      "anime_id": 4139,
+      "anime_name": "WIXOSS Diva(A)Live"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/wixoss-diva-a-live/8",
+      "anime_id": 4139,
+      "anime_name": "WIXOSS Diva(A)Live"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/wixoss-diva-a-live/9",
+      "anime_id": 4139,
+      "anime_name": "WIXOSS Diva(A)Live"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/wixoss-diva-a-live/10",
+      "anime_id": 4139,
+      "anime_name": "WIXOSS Diva(A)Live"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/wixoss-diva-a-live/11",
+      "anime_id": 4139,
+      "anime_name": "WIXOSS Diva(A)Live"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/wixoss-diva-a-live/12",
+      "anime_id": 4139,
+      "anime_name": "WIXOSS Diva(A)Live"
+    }
+  ],
+  "total_episodes": 12
+}

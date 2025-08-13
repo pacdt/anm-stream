@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2561,
+    "nome": "Mobile Suit Zeta Gundam",
+    "link": "https://animefire.plus/animes/mobile-suit-zeta-gundam-todos-os-episodios",
+    "texto_original": "Mobile Suit Zeta Gundam",
+    "rating": 7.93,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/mobile-suit-zeta-gundam.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mobile-suit-zeta-gundam/",
+    "secao": "legendados",
+    "pagina": 55,
+    "total_episodios": 50,
+    "link_video": "https://animefire.plus/video/mobile-suit-zeta-gundam"
+  }
+}

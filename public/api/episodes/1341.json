@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: Halo Legends",
+  "anime": {
+    "id": 1341,
+    "nome": "Halo Legends",
+    "link": "https://animefire.plus/animes/halo-legends-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/halo-legends",
+    "rating": "7.11",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/halo-legends/1",
+      "anime_id": 1341,
+      "anime_name": "Halo Legends"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/halo-legends/2",
+      "anime_id": 1341,
+      "anime_name": "Halo Legends"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/halo-legends/3",
+      "anime_id": 1341,
+      "anime_name": "Halo Legends"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/halo-legends/4",
+      "anime_id": 1341,
+      "anime_name": "Halo Legends"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/halo-legends/5",
+      "anime_id": 1341,
+      "anime_name": "Halo Legends"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/halo-legends/6",
+      "anime_id": 1341,
+      "anime_name": "Halo Legends"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/halo-legends/7",
+      "anime_id": 1341,
+      "anime_name": "Halo Legends"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/halo-legends/8",
+      "anime_id": 1341,
+      "anime_name": "Halo Legends"
+    }
+  ],
+  "total_episodes": 8
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1199,
+    "nome": "Glasslip",
+    "link": "https://animefire.plus/animes/glasslip-todos-os-episodios",
+    "texto_original": "Glasslip",
+    "rating": 5.53,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/glasslip.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/glasslip/",
+    "secao": "legendados",
+    "pagina": 129,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/glasslip"
+  }
+}

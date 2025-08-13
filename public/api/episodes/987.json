@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Fate/Grand Order: First Order",
+  "anime": {
+    "id": 987,
+    "nome": "Fate/Grand Order: First Order",
+    "link": "https://animefire.plus/animes/fate-grand-order-first-order-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/fate-grand-order-first-order",
+    "rating": "6.85",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/fate-grand-order-first-order/1",
+      "anime_id": 987,
+      "anime_name": "Fate/Grand Order: First Order"
+    }
+  ],
+  "total_episodes": 1
+}

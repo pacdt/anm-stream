@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4029,
+    "nome": "Upotte!!",
+    "link": "https://animefire.plus/animes/upotte-todos-os-episodios",
+    "texto_original": "Upotte!!",
+    "rating": 6.55,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/upotte.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/upotte/",
+    "secao": "legendados",
+    "pagina": 91,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/upotte"
+  }
+}

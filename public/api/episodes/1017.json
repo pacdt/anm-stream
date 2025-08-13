@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Food Court de, Mata Ashita.",
+  "anime": {
+    "id": 1017,
+    "nome": "Food Court de, Mata Ashita.",
+    "link": "https://animefire.plus/animes/food-court-de-mata-ashita-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/food-court-de-mata-ashita",
+    "rating": "7.01",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/food-court-de-mata-ashita/1",
+      "anime_id": 1017,
+      "anime_name": "Food Court de, Mata Ashita."
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/food-court-de-mata-ashita/2",
+      "anime_id": 1017,
+      "anime_name": "Food Court de, Mata Ashita."
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/food-court-de-mata-ashita/3",
+      "anime_id": 1017,
+      "anime_name": "Food Court de, Mata Ashita."
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/food-court-de-mata-ashita/4",
+      "anime_id": 1017,
+      "anime_name": "Food Court de, Mata Ashita."
+    }
+  ],
+  "total_episodes": 4
+}

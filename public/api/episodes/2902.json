@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Osake wa Fuufu ni Natte kara: Yuzu Atsukan",
+  "anime": {
+    "id": 2902,
+    "nome": "Osake wa Fuufu ni Natte kara: Yuzu Atsukan",
+    "link": "https://animefire.plus/animes/osake-wa-fuufu-ni-natte-kara-yuzu-atsukan-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/osake-wa-fuufu-ni-natte-kara-yuzu-atsukan",
+    "rating": "7.03",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/osake-wa-fuufu-ni-natte-kara-yuzu-atsukan/1",
+      "anime_id": 2902,
+      "anime_name": "Osake wa Fuufu ni Natte kara: Yuzu Atsukan"
+    }
+  ],
+  "total_episodes": 1
+}

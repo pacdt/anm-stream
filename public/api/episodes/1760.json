@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Junjou Romantica 3",
+  "anime": {
+    "id": 1760,
+    "nome": "Junjou Romantica 3",
+    "link": "https://animefire.plus/animes/junjou-romantica-3-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/junjou-romantica-3",
+    "rating": "8.03",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/junjou-romantica-3/1",
+      "anime_id": 1760,
+      "anime_name": "Junjou Romantica 3"
+    }
+  ],
+  "total_episodes": 1
+}

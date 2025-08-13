@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1528,
+    "nome": "Hortensia Saga (TV)",
+    "link": "https://animefire.plus/animes/hortensia-saga-tv-todos-os-episodios",
+    "texto_original": "Hortensia Saga (TV)",
+    "rating": 5.84,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hortensia-saga-tv.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hortensia-saga-tv/",
+    "secao": "legendados",
+    "pagina": 49,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/hortensia-saga-tv"
+  }
+}

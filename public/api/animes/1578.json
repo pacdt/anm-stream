@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1578,
+    "nome": "Ichigo 100%",
+    "link": "https://animefire.plus/animes/ichigo-100-todos-os-episodios",
+    "texto_original": "Ichigo 100%",
+    "rating": 6.75,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ichigo-100.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ichigo-100/",
+    "secao": "legendados",
+    "pagina": 156,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/ichigo-100"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Koukyoushihen Eureka Seven: New Order",
+  "anime": {
+    "id": 2111,
+    "nome": "Koukyoushihen Eureka Seven: New Order",
+    "link": "https://animefire.plus/animes/koukyoushihen-eureka-seven-new-order-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/koukyoushihen-eureka-seven-new-order",
+    "rating": "6.64",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/koukyoushihen-eureka-seven-new-order/1",
+      "anime_id": 2111,
+      "anime_name": "Koukyoushihen Eureka Seven: New Order"
+    }
+  ],
+  "total_episodes": 1
+}

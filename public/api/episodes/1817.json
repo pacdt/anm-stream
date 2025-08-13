@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Kakegurui (Dublado)",
+  "anime": {
+    "id": 1817,
+    "nome": "Kakegurui (Dublado)",
+    "link": "https://animefire.plus/animes/kakegurui-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kakegurui-dublado",
+    "rating": "7.55",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kakegurui-dublado/1",
+      "anime_id": 1817,
+      "anime_name": "Kakegurui (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kakegurui-dublado/2",
+      "anime_id": 1817,
+      "anime_name": "Kakegurui (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kakegurui-dublado/3",
+      "anime_id": 1817,
+      "anime_name": "Kakegurui (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kakegurui-dublado/4",
+      "anime_id": 1817,
+      "anime_name": "Kakegurui (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kakegurui-dublado/5",
+      "anime_id": 1817,
+      "anime_name": "Kakegurui (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kakegurui-dublado/6",
+      "anime_id": 1817,
+      "anime_name": "Kakegurui (Dublado)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/kakegurui-dublado/7",
+      "anime_id": 1817,
+      "anime_name": "Kakegurui (Dublado)"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/kakegurui-dublado/8",
+      "anime_id": 1817,
+      "anime_name": "Kakegurui (Dublado)"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/kakegurui-dublado/9",
+      "anime_id": 1817,
+      "anime_name": "Kakegurui (Dublado)"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/kakegurui-dublado/10",
+      "anime_id": 1817,
+      "anime_name": "Kakegurui (Dublado)"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/kakegurui-dublado/11",
+      "anime_id": 1817,
+      "anime_name": "Kakegurui (Dublado)"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/kakegurui-dublado/12",
+      "anime_id": 1817,
+      "anime_name": "Kakegurui (Dublado)"
+    }
+  ],
+  "total_episodes": 12
+}

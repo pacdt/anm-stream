@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4276,
+    "nome": "Yu☆Gi☆Oh!",
+    "link": "https://animefire.plus/animes/yu-gi-oh-todos-os-episodios",
+    "texto_original": "Yu☆Gi☆Oh!",
+    "rating": 7.29,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/yu-gi-oh.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/yu-gi-oh/",
+    "secao": "legendados",
+    "pagina": 131,
+    "total_episodios": 16,
+    "link_video": "https://animefire.plus/video/yu-gi-oh"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Selector Spread WIXOSS",
+  "anime": {
+    "id": 3328,
+    "nome": "Selector Spread WIXOSS",
+    "link": "https://animefire.plus/animes/selector-spread-wixoss-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/selector-spread-wixoss",
+    "rating": "7.46",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/selector-spread-wixoss/1",
+      "anime_id": 3328,
+      "anime_name": "Selector Spread WIXOSS"
+    }
+  ],
+  "total_episodes": 1
+}

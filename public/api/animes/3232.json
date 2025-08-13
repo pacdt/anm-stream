@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3232,
+    "nome": "Sakugan (Dublado)",
+    "link": "https://animefire.plus/animes/sakugan-dublado-todos-os-episodios",
+    "texto_original": "Sakugan (Dublado)",
+    "rating": 6.51,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/sakugan.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sakugan/",
+    "secao": "dublados,legendados",
+    "pagina": 14,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/sakugan-dublado"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1160,
+    "nome": "Gin no Saji",
+    "link": "https://animefire.plus/animes/gin-no-saji-todos-os-episodios",
+    "texto_original": "Gin no Saji",
+    "rating": 8.14,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/gin-no-saji.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gin-no-saji/",
+    "secao": "legendados",
+    "pagina": 177,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/gin-no-saji"
+  }
+}

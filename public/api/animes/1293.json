@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1293,
+    "nome": "Guraburu!",
+    "link": "https://animefire.plus/animes/guraburu-todos-os-episodios",
+    "texto_original": "Guraburu!",
+    "rating": null,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/guraburu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/guraburu/",
+    "secao": "legendados",
+    "pagina": 51,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/guraburu"
+  }
+}

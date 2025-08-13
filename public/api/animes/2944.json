@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2944,
+    "nome": "Ozma",
+    "link": "https://animefire.plus/animes/ozma-todos-os-episodios",
+    "texto_original": "Ozma",
+    "rating": 6.13,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ozma.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ozma/",
+    "secao": "legendados",
+    "pagina": 139,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/ozma"
+  }
+}

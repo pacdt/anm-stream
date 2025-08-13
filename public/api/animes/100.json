@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 100,
+    "nome": "Air Master",
+    "link": "https://animefire.plus/animes/air-master-todos-os-episodios",
+    "texto_original": "Air Master",
+    "rating": 7.04,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/air-master.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/air-master/",
+    "secao": "legendados",
+    "pagina": 59,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/air-master"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1185,
+    "nome": "Gintama°",
+    "link": "https://animefire.plus/animes/gintama-season-4-todos-os-episodios",
+    "texto_original": "Gintama°",
+    "rating": 9.11,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/gintama-season-4.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gintama-season-4/",
+    "secao": "legendados",
+    "pagina": 53,
+    "total_episodios": 51,
+    "link_video": "https://animefire.plus/video/gintama-season-4"
+  }
+}

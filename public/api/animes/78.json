@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 78,
+    "nome": "Ahiru no Sora",
+    "link": "https://animefire.plus/animes/ahiru-no-sora-todos-os-episodios",
+    "texto_original": "Ahiru no Sora",
+    "rating": 7.36,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ahiru-no-sora.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ahiru-no-sora/",
+    "secao": "legendados",
+    "pagina": 111,
+    "total_episodios": 15,
+    "link_video": "https://animefire.plus/video/ahiru-no-sora"
+  }
+}

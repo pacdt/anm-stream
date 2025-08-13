@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Fermat no Ryouri",
+  "anime": {
+    "id": 1005,
+    "nome": "Fermat no Ryouri",
+    "link": "https://animefire.plus/animes/fermat-no-ryouri-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/fermat-no-ryouri",
+    "rating": "6.65",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/fermat-no-ryouri/1",
+      "anime_id": 1005,
+      "anime_name": "Fermat no Ryouri"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/fermat-no-ryouri/2",
+      "anime_id": 1005,
+      "anime_name": "Fermat no Ryouri"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/fermat-no-ryouri/3",
+      "anime_id": 1005,
+      "anime_name": "Fermat no Ryouri"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/fermat-no-ryouri/4",
+      "anime_id": 1005,
+      "anime_name": "Fermat no Ryouri"
+    }
+  ],
+  "total_episodes": 4
+}

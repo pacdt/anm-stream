@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2418,
+    "nome": "Maoujou de Oyasumi",
+    "link": "https://animefire.plus/animes/maoujou-de-oyasumi-todos-os-episodios",
+    "texto_original": "Maoujou de Oyasumi",
+    "rating": null,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/maoujou-de-oyasumi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/maoujou-de-oyasumi/",
+    "secao": "legendados",
+    "pagina": 52,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/maoujou-de-oyasumi"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Chou Kousoku Gran Doll",
+  "anime": {
+    "id": 623,
+    "nome": "Chou Kousoku Gran Doll",
+    "link": "https://animefire.plus/animes/chou-kousoku-gran-doll-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/chou-kousoku-gran-doll",
+    "rating": "5.56",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/chou-kousoku-gran-doll/1",
+      "anime_id": 623,
+      "anime_name": "Chou Kousoku Gran Doll"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/chou-kousoku-gran-doll/2",
+      "anime_id": 623,
+      "anime_name": "Chou Kousoku Gran Doll"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/chou-kousoku-gran-doll/3",
+      "anime_id": 623,
+      "anime_name": "Chou Kousoku Gran Doll"
+    }
+  ],
+  "total_episodes": 3
+}

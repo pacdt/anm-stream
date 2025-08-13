@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3235,
+    "nome": "Sakura Taisen",
+    "link": "https://animefire.plus/animes/sakura-taisen-todos-os-episodios",
+    "texto_original": "Sakura Taisen",
+    "rating": 6.95,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/sakura-taisen.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sakura-taisen/",
+    "secao": "legendados",
+    "pagina": 176,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/sakura-taisen"
+  }
+}

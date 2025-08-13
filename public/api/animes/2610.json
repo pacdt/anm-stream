@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2610,
+    "nome": "Munou na Nana",
+    "link": "https://animefire.plus/animes/munou-na-nana-todos-os-episodios",
+    "texto_original": "Munou na Nana",
+    "rating": null,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/munou-na-nana.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/munou-na-nana/",
+    "secao": "legendados",
+    "pagina": 52,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/munou-na-nana"
+  }
+}

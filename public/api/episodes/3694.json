@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Sword Art Online II: Sword Art Offline II",
+  "anime": {
+    "id": 3694,
+    "nome": "Sword Art Online II: Sword Art Offline II",
+    "link": "https://animefire.plus/animes/sword-art-online-ii-sword-art-offline-ii-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sword-art-online-ii-sword-art-offline-ii",
+    "rating": "6.56",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sword-art-online-ii-sword-art-offline-ii/1",
+      "anime_id": 3694,
+      "anime_name": "Sword Art Online II: Sword Art Offline II"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2453,
+    "nome": "Mayoiga",
+    "link": "https://animefire.plus/animes/mayoiga-todos-os-episodios",
+    "texto_original": "Mayoiga",
+    "rating": 5.62,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/mayoiga.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mayoiga/",
+    "secao": "legendados",
+    "pagina": 101,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/mayoiga"
+  }
+}

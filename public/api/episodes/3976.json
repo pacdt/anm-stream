@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Turnover",
+  "anime": {
+    "id": 3976,
+    "nome": "Turnover",
+    "link": "https://animefire.plus/animes/turnover-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/turnover",
+    "rating": "5.73",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/turnover/1",
+      "anime_id": 3976,
+      "anime_name": "Turnover"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3562,
+    "nome": "Softenni",
+    "link": "https://animefire.plus/animes/softenni-todos-os-episodios",
+    "texto_original": "Softenni",
+    "rating": 6.57,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/softenni.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/softenni/",
+    "secao": "legendados",
+    "pagina": 179,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/softenni"
+  }
+}

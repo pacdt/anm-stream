@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3045,
+    "nome": "Pumpkin Scissors",
+    "link": "https://animefire.plus/animes/pumpkin-scissors-todos-os-episodios",
+    "texto_original": "Pumpkin Scissors",
+    "rating": 7.21,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/pumpkin-scissors.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/pumpkin-scissors/",
+    "secao": "legendados",
+    "pagina": 115,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/pumpkin-scissors"
+  }
+}

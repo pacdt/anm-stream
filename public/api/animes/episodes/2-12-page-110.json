@@ -1,0 +1,143 @@
+{
+  "message": "Animes com 2 a 12 episódios",
+  "episode_range": {
+    "min": 2,
+    "max": 12
+  },
+  "data": [
+    {
+      "id": 4352,
+      "nome": "Zetsumetsu Kigu Shoujo: Amazing Twins",
+      "link": "https://animefire.plus/animes/zetsumetsu-kigu-shoujo-amazing-twins-todos-os-episodios",
+      "texto_original": "Zetsumetsu Kigu Shoujo: Amazing Twins",
+      "rating": 6.42,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/zetsumetsu-kigu-shoujo-amazing-twins.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zetsumetsu-kigu-shoujo-amazing-twins/",
+      "secao": "legendados",
+      "pagina": 114,
+      "total_episodios": 2,
+      "link_video": "https://animefire.plus/video/zetsumetsu-kigu-shoujo-amazing-twins"
+    },
+    {
+      "id": 4355,
+      "nome": "Zettai Shougeki: Platonic Heart",
+      "link": "https://animefire.plus/animes/zettai-shougeki-platonic-heart-todos-os-episodios",
+      "texto_original": "Zettai Shougeki: Platonic Heart",
+      "rating": 4.69,
+      "classificacao_etaria": "A18",
+      "imagem_original": "https://animefire.plus/img/animes/zettai-shougeki-platonic-heart.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zettai-shougeki-platonic-heart/",
+      "secao": "legendados",
+      "pagina": 68,
+      "total_episodios": 5,
+      "link_video": "https://animefire.plus/video/zettai-shougeki-platonic-heart"
+    },
+    {
+      "id": 4359,
+      "nome": "Zoku Owarimonogatari",
+      "link": "https://animefire.plus/animes/zoku-owarimonogatari-todos-os-episodios",
+      "texto_original": "Zoku Owarimonogatari",
+      "rating": 8.58,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/zoku-owarimonogatari.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zoku-owarimonogatari/",
+      "secao": "legendados",
+      "pagina": 102,
+      "total_episodios": 6,
+      "link_video": "https://animefire.plus/video/zoku-owarimonogatari"
+    },
+    {
+      "id": 4361,
+      "nome": "Zoku Touken Ranbu: Hanamaru",
+      "link": "https://animefire.plus/animes/zoku-touken-ranbu-hanamaru-todos-os-episodios",
+      "texto_original": "Zoku Touken Ranbu: Hanamaru",
+      "rating": 7.4,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/zoku-touken-ranbu-hanamaru.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zoku-touken-ranbu-hanamaru/",
+      "secao": "legendados",
+      "pagina": 102,
+      "total_episodios": 12,
+      "link_video": "https://animefire.plus/video/zoku-touken-ranbu-hanamaru"
+    },
+    {
+      "id": 4362,
+      "nome": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto (Dublado)",
+      "link": "https://animefire.plus/animes/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-dublado-todos-os-episodios",
+      "texto_original": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto (Dublado)",
+      "rating": 7.73,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto/",
+      "secao": "dublados,legendados",
+      "pagina": 6,
+      "total_episodios": 12,
+      "link_video": "https://animefire.plus/video/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto-dublado"
+    },
+    {
+      "id": 4364,
+      "nome": "Zombieland Saga",
+      "link": "https://animefire.plus/animes/zombieland-saga-todos-os-episodios",
+      "texto_original": "Zombieland Saga",
+      "rating": 7.69,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/zombieland-saga.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zombieland-saga/",
+      "secao": "legendados",
+      "pagina": 139,
+      "total_episodios": 12,
+      "link_video": "https://animefire.plus/video/zombieland-saga"
+    },
+    {
+      "id": 4365,
+      "nome": "Zombieland Saga: Revenge",
+      "link": "https://animefire.plus/animes/zombieland-saga-revenge-todos-os-episodios",
+      "texto_original": "Zombieland Saga: Revenge",
+      "rating": 7.99,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/zombieland-saga-revenge.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zombieland-saga-revenge/",
+      "secao": "legendados",
+      "pagina": 47,
+      "total_episodios": 12,
+      "link_video": "https://animefire.plus/video/zombieland-saga-revenge"
+    },
+    {
+      "id": 4367,
+      "nome": "Zuoshou Shanglan",
+      "link": "https://animefire.plus/animes/zuoshou-shanglan-todos-os-episodios",
+      "texto_original": "Zuoshou Shanglan",
+      "rating": 7.18,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/zuoshou-shanglan.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zuoshou-shanglan/",
+      "secao": "legendados",
+      "pagina": 18,
+      "total_episodios": 3,
+      "link_video": "https://animefire.plus/video/zuoshou-shanglan"
+    },
+    {
+      "id": 4368,
+      "nome": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
+      "link": "https://animefire.plus/animes/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru-todos-os-episodios",
+      "texto_original": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
+      "rating": 7.21,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru/",
+      "secao": "legendados,lancamentos",
+      "pagina": 2,
+      "total_episodios": 5,
+      "link_video": "https://animefire.plus/video/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru"
+    }
+  ],
+  "pagination": {
+    "current_page": 110,
+    "per_page": 20,
+    "total_items": 2189,
+    "total_pages": 110,
+    "has_next": false,
+    "has_prev": true
+  }
+}

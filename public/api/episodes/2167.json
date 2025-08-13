@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Kuttsukiboshi",
+  "anime": {
+    "id": 2167,
+    "nome": "Kuttsukiboshi",
+    "link": "https://animefire.plus/animes/kuttsukiboshi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kuttsukiboshi",
+    "rating": "6.10",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kuttsukiboshi/1",
+      "anime_id": 2167,
+      "anime_name": "Kuttsukiboshi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kuttsukiboshi/2",
+      "anime_id": 2167,
+      "anime_name": "Kuttsukiboshi"
+    }
+  ],
+  "total_episodes": 2
+}

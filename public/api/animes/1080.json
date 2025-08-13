@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1080,
+    "nome": "Gakkou no Kaidan (Dublado)",
+    "link": "https://animefire.plus/animes/gakkou-no-kaidan-dublado-todos-os-episodios",
+    "texto_original": "Gakkou no Kaidan (Dublado)",
+    "rating": 7.7,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/gakkou-no-kaidan.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gakkou-no-kaidan/",
+    "secao": "dublados",
+    "pagina": 22,
+    "total_episodios": 20,
+    "link_video": "https://animefire.plus/video/gakkou-no-kaidan-dublado"
+  }
+}

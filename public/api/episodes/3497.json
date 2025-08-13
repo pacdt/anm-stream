@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Shoot! Goal to the Future",
+  "anime": {
+    "id": 3497,
+    "nome": "Shoot! Goal to the Future",
+    "link": "https://animefire.plus/animes/shoot-goal-to-the-future-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shoot-goal-to-the-future",
+    "rating": "5.29",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shoot-goal-to-the-future/1",
+      "anime_id": 3497,
+      "anime_name": "Shoot! Goal to the Future"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shoot-goal-to-the-future/2",
+      "anime_id": 3497,
+      "anime_name": "Shoot! Goal to the Future"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/shoot-goal-to-the-future/3",
+      "anime_id": 3497,
+      "anime_name": "Shoot! Goal to the Future"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/shoot-goal-to-the-future/4",
+      "anime_id": 3497,
+      "anime_name": "Shoot! Goal to the Future"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/shoot-goal-to-the-future/5",
+      "anime_id": 3497,
+      "anime_name": "Shoot! Goal to the Future"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/shoot-goal-to-the-future/6",
+      "anime_id": 3497,
+      "anime_name": "Shoot! Goal to the Future"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/shoot-goal-to-the-future/7",
+      "anime_id": 3497,
+      "anime_name": "Shoot! Goal to the Future"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/shoot-goal-to-the-future/8",
+      "anime_id": 3497,
+      "anime_name": "Shoot! Goal to the Future"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/shoot-goal-to-the-future/9",
+      "anime_id": 3497,
+      "anime_name": "Shoot! Goal to the Future"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/shoot-goal-to-the-future/10",
+      "anime_id": 3497,
+      "anime_name": "Shoot! Goal to the Future"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/shoot-goal-to-the-future/11",
+      "anime_id": 3497,
+      "anime_name": "Shoot! Goal to the Future"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/shoot-goal-to-the-future/12",
+      "anime_id": 3497,
+      "anime_name": "Shoot! Goal to the Future"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/shoot-goal-to-the-future/13",
+      "anime_id": 3497,
+      "anime_name": "Shoot! Goal to the Future"
+    }
+  ],
+  "total_episodes": 13
+}

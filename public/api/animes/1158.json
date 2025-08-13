@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1158,
+    "nome": "Gin no Guardian",
+    "link": "https://animefire.plus/animes/gin-no-guardian-todos-os-episodios",
+    "texto_original": "Gin no Guardian",
+    "rating": 6.35,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/gin-no-guardian.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gin-no-guardian/",
+    "secao": "legendados",
+    "pagina": 135,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/gin-no-guardian"
+  }
+}

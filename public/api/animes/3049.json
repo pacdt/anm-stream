@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3049,
+    "nome": "Pupa",
+    "link": "https://animefire.plus/animes/pupa-todos-os-episodios",
+    "texto_original": "Pupa",
+    "rating": 3.63,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/pupa.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/pupa/",
+    "secao": "legendados",
+    "pagina": 173,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/pupa"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 534,
+    "nome": "Busou Renkin",
+    "link": "https://animefire.plus/animes/busou-renkin-todos-os-episodios",
+    "texto_original": "Busou Renkin",
+    "rating": 7.43,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/busou-renkin.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/busou-renkin/",
+    "secao": "legendados",
+    "pagina": 132,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/busou-renkin"
+  }
+}

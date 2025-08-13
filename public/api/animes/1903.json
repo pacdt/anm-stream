@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1903,
+    "nome": "Karneval",
+    "link": "https://animefire.plus/animes/karneval-todos-os-episodios",
+    "texto_original": "Karneval",
+    "rating": 7.27,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/karneval.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/karneval/",
+    "secao": "legendados",
+    "pagina": 161,
+    "total_episodios": 9,
+    "link_video": "https://animefire.plus/video/karneval"
+  }
+}

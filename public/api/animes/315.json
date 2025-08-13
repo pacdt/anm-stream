@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 315,
+    "nome": "Bakumatsu",
+    "link": "https://animefire.plus/animes/bakumatsu-todos-os-episodios",
+    "texto_original": "Bakumatsu",
+    "rating": 5.89,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/bakumatsu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bakumatsu/",
+    "secao": "legendados",
+    "pagina": 152,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/bakumatsu"
+  }
+}

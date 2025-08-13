@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1443,
+    "nome": "Hidamari Sketch",
+    "link": "https://animefire.plus/animes/hidamari-sketch-todos-os-episodios",
+    "texto_original": "Hidamari Sketch",
+    "rating": 7.48,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hidamari-sketch.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hidamari-sketch/",
+    "secao": "legendados",
+    "pagina": 101,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/hidamari-sketch"
+  }
+}

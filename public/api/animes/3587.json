@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3587,
+    "nome": "Soukou Musume Senki",
+    "link": "https://animefire.plus/animes/soukou-musume-senki-todos-os-episodios",
+    "texto_original": "Soukou Musume Senki",
+    "rating": 5.78,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/soukou-musume-senki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/soukou-musume-senki/",
+    "secao": "legendados",
+    "pagina": 48,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/soukou-musume-senki"
+  }
+}

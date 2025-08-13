@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3502,
+    "nome": "Shoukoku no Altair",
+    "link": "https://animefire.plus/animes/shoukoku-no-altair-todos-os-episodios",
+    "texto_original": "Shoukoku no Altair",
+    "rating": 7.57,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/shoukoku-no-altair.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shoukoku-no-altair/",
+    "secao": "legendados",
+    "pagina": 149,
+    "total_episodios": 21,
+    "link_video": "https://animefire.plus/video/shoukoku-no-altair"
+  }
+}

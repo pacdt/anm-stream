@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2420,
+    "nome": "Märchen Mädchen",
+    "link": "https://animefire.plus/animes/maerchen-maedchen-todos-os-episodios",
+    "texto_original": "Märchen Mädchen",
+    "rating": 5.45,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/maerchen-maedchen.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/maerchen-maedchen/",
+    "secao": "legendados",
+    "pagina": 113,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/maerchen-maedchen"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4189,
+    "nome": "Yakusoku no Neverland",
+    "link": "https://animefire.plus/animes/yakusoku-no-neverland-todos-os-episodios",
+    "texto_original": "Yakusoku no Neverland",
+    "rating": 8.65,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/yakusoku-no-neverland.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/yakusoku-no-neverland/",
+    "secao": "legendados",
+    "pagina": 165,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/yakusoku-no-neverland"
+  }
+}

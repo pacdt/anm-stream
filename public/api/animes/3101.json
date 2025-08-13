@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3101,
+    "nome": "Red Garden",
+    "link": "https://animefire.plus/animes/red-garden-todos-os-episodios",
+    "texto_original": "Red Garden",
+    "rating": 7.15,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/red-garden.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/red-garden/",
+    "secao": "legendados",
+    "pagina": 131,
+    "total_episodios": 22,
+    "link_video": "https://animefire.plus/video/red-garden"
+  }
+}

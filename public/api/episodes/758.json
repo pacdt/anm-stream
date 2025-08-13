@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Date A Live II (Dublado)",
+  "anime": {
+    "id": 758,
+    "nome": "Date A Live II (Dublado)",
+    "link": "https://animefire.plus/animes/date-a-live-ii-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/date-a-live-ii-dublado",
+    "rating": "7.20",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/date-a-live-ii-dublado/1",
+      "anime_id": 758,
+      "anime_name": "Date A Live II (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/date-a-live-ii-dublado/2",
+      "anime_id": 758,
+      "anime_name": "Date A Live II (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/date-a-live-ii-dublado/3",
+      "anime_id": 758,
+      "anime_name": "Date A Live II (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/date-a-live-ii-dublado/4",
+      "anime_id": 758,
+      "anime_name": "Date A Live II (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/date-a-live-ii-dublado/5",
+      "anime_id": 758,
+      "anime_name": "Date A Live II (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/date-a-live-ii-dublado/6",
+      "anime_id": 758,
+      "anime_name": "Date A Live II (Dublado)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/date-a-live-ii-dublado/7",
+      "anime_id": 758,
+      "anime_name": "Date A Live II (Dublado)"
+    }
+  ],
+  "total_episodes": 7
+}

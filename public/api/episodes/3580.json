@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Sorairo Utility (TV)",
+  "anime": {
+    "id": 3580,
+    "nome": "Sorairo Utility (TV)",
+    "link": "https://animefire.plus/animes/sorairo-utility-tv-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sorairo-utility-tv",
+    "rating": "7.13",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sorairo-utility-tv/1",
+      "anime_id": 3580,
+      "anime_name": "Sorairo Utility (TV)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/sorairo-utility-tv/2",
+      "anime_id": 3580,
+      "anime_name": "Sorairo Utility (TV)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/sorairo-utility-tv/3",
+      "anime_id": 3580,
+      "anime_name": "Sorairo Utility (TV)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/sorairo-utility-tv/4",
+      "anime_id": 3580,
+      "anime_name": "Sorairo Utility (TV)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/sorairo-utility-tv/5",
+      "anime_id": 3580,
+      "anime_name": "Sorairo Utility (TV)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/sorairo-utility-tv/6",
+      "anime_id": 3580,
+      "anime_name": "Sorairo Utility (TV)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/sorairo-utility-tv/7",
+      "anime_id": 3580,
+      "anime_name": "Sorairo Utility (TV)"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/sorairo-utility-tv/8",
+      "anime_id": 3580,
+      "anime_name": "Sorairo Utility (TV)"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/sorairo-utility-tv/9",
+      "anime_id": 3580,
+      "anime_name": "Sorairo Utility (TV)"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/sorairo-utility-tv/10",
+      "anime_id": 3580,
+      "anime_name": "Sorairo Utility (TV)"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/sorairo-utility-tv/11",
+      "anime_id": 3580,
+      "anime_name": "Sorairo Utility (TV)"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/sorairo-utility-tv/12",
+      "anime_id": 3580,
+      "anime_name": "Sorairo Utility (TV)"
+    }
+  ],
+  "total_episodes": 12
+}

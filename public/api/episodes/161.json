@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Ame-iro Cocoa in Hawaii",
+  "anime": {
+    "id": 161,
+    "nome": "Ame-iro Cocoa in Hawaii",
+    "link": "https://animefire.plus/animes/ame-iro-cocoa-in-hawaii-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ame-iro-cocoa-in-hawaii",
+    "rating": "4.83",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ame-iro-cocoa-in-hawaii/1",
+      "anime_id": 161,
+      "anime_name": "Ame-iro Cocoa in Hawaii"
+    }
+  ],
+  "total_episodes": 1
+}

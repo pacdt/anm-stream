@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Diamond no Ace: Second Season OVA",
+  "anime": {
+    "id": 813,
+    "nome": "Diamond no Ace: Second Season OVA",
+    "link": "https://animefire.plus/animes/diamond-no-ace-second-season-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/diamond-no-ace-second-season-ova",
+    "rating": "7.57",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/diamond-no-ace-second-season-ova/1",
+      "anime_id": 813,
+      "anime_name": "Diamond no Ace: Second Season OVA"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/diamond-no-ace-second-season-ova/2",
+      "anime_id": 813,
+      "anime_name": "Diamond no Ace: Second Season OVA"
+    }
+  ],
+  "total_episodes": 2
+}

@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: AIKa Zero Picture Drama",
+  "anime": {
+    "id": 92,
+    "nome": "AIKa Zero Picture Drama",
+    "link": "https://animefire.plus/animes/aika-zero-picture-drama-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/aika-zero-picture-drama",
+    "rating": "5.57",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/aika-zero-picture-drama/1",
+      "anime_id": 92,
+      "anime_name": "AIKa Zero Picture Drama"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/aika-zero-picture-drama/2",
+      "anime_id": 92,
+      "anime_name": "AIKa Zero Picture Drama"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/aika-zero-picture-drama/3",
+      "anime_id": 92,
+      "anime_name": "AIKa Zero Picture Drama"
+    }
+  ],
+  "total_episodes": 3
+}

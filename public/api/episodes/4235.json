@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: Yi Nian Yong Heng",
+  "anime": {
+    "id": 4235,
+    "nome": "Yi Nian Yong Heng",
+    "link": "https://animefire.plus/animes/yi-nian-yong-heng-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yi-nian-yong-heng",
+    "rating": "6.90",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yi-nian-yong-heng/1",
+      "anime_id": 4235,
+      "anime_name": "Yi Nian Yong Heng"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yi-nian-yong-heng/2",
+      "anime_id": 4235,
+      "anime_name": "Yi Nian Yong Heng"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/yi-nian-yong-heng/3",
+      "anime_id": 4235,
+      "anime_name": "Yi Nian Yong Heng"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/yi-nian-yong-heng/4",
+      "anime_id": 4235,
+      "anime_name": "Yi Nian Yong Heng"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/yi-nian-yong-heng/5",
+      "anime_id": 4235,
+      "anime_name": "Yi Nian Yong Heng"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/yi-nian-yong-heng/6",
+      "anime_id": 4235,
+      "anime_name": "Yi Nian Yong Heng"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/yi-nian-yong-heng/7",
+      "anime_id": 4235,
+      "anime_name": "Yi Nian Yong Heng"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/yi-nian-yong-heng/8",
+      "anime_id": 4235,
+      "anime_name": "Yi Nian Yong Heng"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/yi-nian-yong-heng/9",
+      "anime_id": 4235,
+      "anime_name": "Yi Nian Yong Heng"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/yi-nian-yong-heng/10",
+      "anime_id": 4235,
+      "anime_name": "Yi Nian Yong Heng"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/yi-nian-yong-heng/11",
+      "anime_id": 4235,
+      "anime_name": "Yi Nian Yong Heng"
+    }
+  ],
+  "total_episodes": 11
+}

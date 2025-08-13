@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Ushinawareta Mirai wo Motomete",
+  "anime": {
+    "id": 4044,
+    "nome": "Ushinawareta Mirai wo Motomete",
+    "link": "https://animefire.plus/animes/ushinawareta-mirai-wo-motomete-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ushinawareta-mirai-wo-motomete",
+    "rating": "6.83",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ushinawareta-mirai-wo-motomete/1",
+      "anime_id": 4044,
+      "anime_name": "Ushinawareta Mirai wo Motomete"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ushinawareta-mirai-wo-motomete/2",
+      "anime_id": 4044,
+      "anime_name": "Ushinawareta Mirai wo Motomete"
+    }
+  ],
+  "total_episodes": 2
+}

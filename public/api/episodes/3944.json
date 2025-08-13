@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Tsubasa: Tokyo Revelations",
+  "anime": {
+    "id": 3944,
+    "nome": "Tsubasa: Tokyo Revelations",
+    "link": "https://animefire.plus/animes/tsubasa-tokyo-revelations-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tsubasa-tokyo-revelations",
+    "rating": "8.34",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tsubasa-tokyo-revelations/1",
+      "anime_id": 3944,
+      "anime_name": "Tsubasa: Tokyo Revelations"
+    }
+  ],
+  "total_episodes": 1
+}

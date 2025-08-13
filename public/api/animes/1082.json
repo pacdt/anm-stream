@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1082,
+    "nome": "Gakuen Alice",
+    "link": "https://animefire.plus/animes/gakuen-alice-todos-os-episodios",
+    "texto_original": "Gakuen Alice",
+    "rating": 7.75,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/gakuen-alice.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gakuen-alice/",
+    "secao": "legendados",
+    "pagina": 176,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/gakuen-alice"
+  }
+}

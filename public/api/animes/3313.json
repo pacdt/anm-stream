@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3313,
+    "nome": "Seitokai Yakuindomo",
+    "link": "https://animefire.plus/animes/seitokai-yakuindomo-todos-os-episodios",
+    "texto_original": "Seitokai Yakuindomo",
+    "rating": 7.66,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/seitokai-yakuindomo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/seitokai-yakuindomo/",
+    "secao": "legendados",
+    "pagina": 162,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/seitokai-yakuindomo"
+  }
+}

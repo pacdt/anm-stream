@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3564,
+    "nome": "Sol Levante",
+    "link": "https://animefire.plus/animes/sol-levante-todos-os-episodios",
+    "texto_original": "Sol Levante",
+    "rating": 5.14,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/sol-levante.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sol-levante/",
+    "secao": "legendados",
+    "pagina": 53,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/sol-levante"
+  }
+}

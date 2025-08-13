@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3135,
+    "nome": "Ristorante Paradiso",
+    "link": "https://animefire.plus/animes/ristorante-paradiso-todos-os-episodios",
+    "texto_original": "Ristorante Paradiso",
+    "rating": 7.42,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ristorante-paradiso.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ristorante-paradiso/",
+    "secao": "legendados",
+    "pagina": 150,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/ristorante-paradiso"
+  }
+}

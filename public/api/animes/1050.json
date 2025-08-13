@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1050,
+    "nome": "Fumikiri Jikan",
+    "link": "https://animefire.plus/animes/fumikiri-jikan-todos-os-episodios",
+    "texto_original": "Fumikiri Jikan",
+    "rating": 6.45,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/fumikiri-jikan.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/fumikiri-jikan/",
+    "secao": "legendados",
+    "pagina": 142,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/fumikiri-jikan"
+  }
+}

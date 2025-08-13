@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Absolute Duo",
+  "anime": {
+    "id": 56,
+    "nome": "Absolute Duo",
+    "link": "https://animefire.plus/animes/absolute-duo-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/absolute-duo",
+    "rating": "6.71",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/absolute-duo/1",
+      "anime_id": 56,
+      "anime_name": "Absolute Duo"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/absolute-duo/2",
+      "anime_id": 56,
+      "anime_name": "Absolute Duo"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/absolute-duo/3",
+      "anime_id": 56,
+      "anime_name": "Absolute Duo"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/absolute-duo/4",
+      "anime_id": 56,
+      "anime_name": "Absolute Duo"
+    }
+  ],
+  "total_episodes": 4
+}

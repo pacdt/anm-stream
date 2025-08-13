@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3551,
+    "nome": "Slayers Next",
+    "link": "https://animefire.plus/animes/slayers-next-todos-os-episodios",
+    "texto_original": "Slayers Next",
+    "rating": 8.1,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/slayers-next.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/slayers-next/",
+    "secao": "legendados",
+    "pagina": 171,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/slayers-next"
+  }
+}

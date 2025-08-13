@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Witchblade",
+  "anime": {
+    "id": 4138,
+    "nome": "Witchblade",
+    "link": "https://animefire.plus/animes/witchblade-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/witchblade",
+    "rating": "7.34",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/witchblade/1",
+      "anime_id": 4138,
+      "anime_name": "Witchblade"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/witchblade/2",
+      "anime_id": 4138,
+      "anime_name": "Witchblade"
+    }
+  ],
+  "total_episodes": 2
+}

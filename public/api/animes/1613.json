@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1613,
+    "nome": "Inazuma Eleven",
+    "link": "https://animefire.plus/animes/inazuma-eleven-todos-os-episodios",
+    "texto_original": "Inazuma Eleven",
+    "rating": 7.67,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/inazuma-eleven.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/inazuma-eleven/",
+    "secao": "legendados",
+    "pagina": 152,
+    "total_episodios": 40,
+    "link_video": "https://animefire.plus/video/inazuma-eleven"
+  }
+}

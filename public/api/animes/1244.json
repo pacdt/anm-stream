@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1244,
+    "nome": "Grappler Baki",
+    "link": "https://animefire.plus/animes/grappler-baki-todos-os-episodios",
+    "texto_original": "Grappler Baki",
+    "rating": 6.81,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/grappler-baki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/grappler-baki/",
+    "secao": "legendados",
+    "pagina": 62,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/grappler-baki"
+  }
+}

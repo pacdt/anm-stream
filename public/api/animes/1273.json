@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1273,
+    "nome": "Gun X Sword",
+    "link": "https://animefire.plus/animes/gun-x-sword-todos-os-episodios",
+    "texto_original": "Gun X Sword",
+    "rating": 7.33,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/gun-x-sword.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gun-x-sword/",
+    "secao": "legendados",
+    "pagina": 105,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/gun-x-sword"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 333,
+    "nome": "BanG Dream!",
+    "link": "https://animefire.plus/animes/bang-dream-todos-os-episodios",
+    "texto_original": "BanG Dream!",
+    "rating": 7.02,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/bang-dream.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bang-dream/",
+    "secao": "legendados",
+    "pagina": 132,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/bang-dream"
+  }
+}

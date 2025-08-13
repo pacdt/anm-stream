@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1857,
+    "nome": "Kamisama Kazoku",
+    "link": "https://animefire.plus/animes/kamisama-kazoku-todos-os-episodios",
+    "texto_original": "Kamisama Kazoku",
+    "rating": 7.2,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kamisama-kazoku.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kamisama-kazoku/",
+    "secao": "legendados",
+    "pagina": 144,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/kamisama-kazoku"
+  }
+}

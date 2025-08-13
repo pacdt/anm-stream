@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 127,
+    "nome": "Akikan!",
+    "link": "https://animefire.plus/animes/akikan-todos-os-episodios",
+    "texto_original": "Akikan!",
+    "rating": 6.29,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/akikan.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/akikan/",
+    "secao": "legendados",
+    "pagina": 169,
+    "total_episodios": 9,
+    "link_video": "https://animefire.plus/video/akikan"
+  }
+}

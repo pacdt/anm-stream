@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 804,
+    "nome": "Devilman Lady",
+    "link": "https://animefire.plus/animes/devilman-lady-todos-os-episodios",
+    "texto_original": "Devilman Lady",
+    "rating": 6.76,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/devilman-lady.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/devilman-lady/",
+    "secao": "legendados",
+    "pagina": 98,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/devilman-lady"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3014,
+    "nome": "Popotan",
+    "link": "https://animefire.plus/animes/popotan-todos-os-episodios",
+    "texto_original": "Popotan",
+    "rating": 6.36,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/popotan.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/popotan/",
+    "secao": "legendados",
+    "pagina": 132,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/popotan"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Mobile Suit Gundam AGE",
+  "anime": {
+    "id": 2546,
+    "nome": "Mobile Suit Gundam AGE",
+    "link": "https://animefire.plus/animes/mobile-suit-gundam-age-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mobile-suit-gundam-age",
+    "rating": "6.55",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-age/1",
+      "anime_id": 2546,
+      "anime_name": "Mobile Suit Gundam AGE"
+    }
+  ],
+  "total_episodes": 1
+}

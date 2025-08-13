@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2015,
+    "nome": "Kiratto Pri☆chan",
+    "link": "https://animefire.plus/animes/kiratto-pri-chan-todos-os-episodios",
+    "texto_original": "Kiratto Pri☆chan",
+    "rating": 6.87,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/kiratto-pri-chan.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kiratto-pri-chan/",
+    "secao": "legendados",
+    "pagina": 124,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/kiratto-pri-chan"
+  }
+}

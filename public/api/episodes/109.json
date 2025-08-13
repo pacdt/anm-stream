@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page",
+  "anime": {
+    "id": 109,
+    "nome": "Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page",
+    "link": "https://animefire.plus/animes/akagami-no-shirayuki-hime-nandemonai-takaramono-kono-page-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/akagami-no-shirayuki-hime-nandemonai-takaramono-kono-page",
+    "rating": "7.74",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/akagami-no-shirayuki-hime-nandemonai-takaramono-kono-page/1",
+      "anime_id": 109,
+      "anime_name": "Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page"
+    }
+  ],
+  "total_episodes": 1
+}

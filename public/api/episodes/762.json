@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Days (TV): Touin Gakuen-sen!",
+  "anime": {
+    "id": 762,
+    "nome": "Days (TV): Touin Gakuen-sen!",
+    "link": "https://animefire.plus/animes/days-tv-touin-gakuen-sen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/days-tv-touin-gakuen-sen",
+    "rating": "7.63",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/days-tv-touin-gakuen-sen/1",
+      "anime_id": 762,
+      "anime_name": "Days (TV): Touin Gakuen-sen!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/days-tv-touin-gakuen-sen/2",
+      "anime_id": 762,
+      "anime_name": "Days (TV): Touin Gakuen-sen!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/days-tv-touin-gakuen-sen/3",
+      "anime_id": 762,
+      "anime_name": "Days (TV): Touin Gakuen-sen!"
+    }
+  ],
+  "total_episodes": 3
+}

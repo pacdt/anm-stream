@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1011,
+    "nome": "Final Fantasy: Unlimited",
+    "link": "https://animefire.plus/animes/final-fantasy-unlimited-todos-os-episodios",
+    "texto_original": "Final Fantasy: Unlimited",
+    "rating": 6.27,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/final-fantasy-unlimited.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/final-fantasy-unlimited/",
+    "secao": "legendados",
+    "pagina": 162,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/final-fantasy-unlimited"
+  }
+}

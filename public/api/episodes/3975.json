@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Turkey!",
+  "anime": {
+    "id": 3975,
+    "nome": "Turkey!",
+    "link": "https://animefire.plus/animes/turkey-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/turkey",
+    "rating": "6.29",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/turkey/1",
+      "anime_id": 3975,
+      "anime_name": "Turkey!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/turkey/2",
+      "anime_id": 3975,
+      "anime_name": "Turkey!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/turkey/3",
+      "anime_id": 3975,
+      "anime_name": "Turkey!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/turkey/4",
+      "anime_id": 3975,
+      "anime_name": "Turkey!"
+    }
+  ],
+  "total_episodes": 4
+}

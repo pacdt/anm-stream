@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3112,
+    "nome": "Renai Flops",
+    "link": "https://animefire.plus/animes/renai-flops-todos-os-episodios",
+    "texto_original": "Renai Flops",
+    "rating": 6.7,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/renai-flops.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/renai-flops/",
+    "secao": "legendados",
+    "pagina": 29,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/renai-flops"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3257,
+    "nome": "Sarazanmai",
+    "link": "https://animefire.plus/animes/sarazanmai-todos-os-episodios",
+    "texto_original": "Sarazanmai",
+    "rating": 7.54,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/sarazanmai.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sarazanmai/",
+    "secao": "legendados",
+    "pagina": 157,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/sarazanmai"
+  }
+}

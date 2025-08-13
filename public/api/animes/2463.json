@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2463,
+    "nome": "Medarot (Dublado)",
+    "link": "https://animefire.plus/animes/medarot-dublado-todos-os-episodios",
+    "texto_original": "Medarot (Dublado)",
+    "rating": 7.12,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/medarot.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/medarot/",
+    "secao": "dublados",
+    "pagina": 26,
+    "total_episodios": 52,
+    "link_video": "https://animefire.plus/video/medarot-dublado"
+  }
+}

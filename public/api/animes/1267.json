@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1267,
+    "nome": "Guilty Crown",
+    "link": "https://animefire.plus/animes/guilty-crown-todos-os-episodios",
+    "texto_original": "Guilty Crown",
+    "rating": 7.68,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/guilty-crown.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/guilty-crown/",
+    "secao": "legendados",
+    "pagina": 127,
+    "total_episodios": 22,
+    "link_video": "https://animefire.plus/video/guilty-crown"
+  }
+}

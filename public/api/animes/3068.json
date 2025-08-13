@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3068,
+    "nome": "RahXephon",
+    "link": "https://animefire.plus/animes/rahxephon-todos-os-episodios",
+    "texto_original": "RahXephon",
+    "rating": 7.48,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/rahxephon.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/rahxephon/",
+    "secao": "legendados",
+    "pagina": 115,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/rahxephon"
+  }
+}

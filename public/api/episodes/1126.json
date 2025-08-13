@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Genei wo Kakeru Taiyou",
+  "anime": {
+    "id": 1126,
+    "nome": "Genei wo Kakeru Taiyou",
+    "link": "https://animefire.plus/animes/genei-wo-kakeru-taiyou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/genei-wo-kakeru-taiyou",
+    "rating": "6.48",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/genei-wo-kakeru-taiyou/1",
+      "anime_id": 1126,
+      "anime_name": "Genei wo Kakeru Taiyou"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/genei-wo-kakeru-taiyou/2",
+      "anime_id": 1126,
+      "anime_name": "Genei wo Kakeru Taiyou"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/genei-wo-kakeru-taiyou/3",
+      "anime_id": 1126,
+      "anime_name": "Genei wo Kakeru Taiyou"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/genei-wo-kakeru-taiyou/4",
+      "anime_id": 1126,
+      "anime_name": "Genei wo Kakeru Taiyou"
+    }
+  ],
+  "total_episodes": 4
+}

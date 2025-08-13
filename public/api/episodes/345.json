@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Bartender",
+  "anime": {
+    "id": 345,
+    "nome": "Bartender",
+    "link": "https://animefire.plus/animes/bartender-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/bartender",
+    "rating": "7.40",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/bartender/1",
+      "anime_id": 345,
+      "anime_name": "Bartender"
+    }
+  ],
+  "total_episodes": 1
+}

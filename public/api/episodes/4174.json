@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Xiaoke de Huatu Xie Hua",
+  "anime": {
+    "id": 4174,
+    "nome": "Xiaoke de Huatu Xie Hua",
+    "link": "https://animefire.plus/animes/xiaoke-de-huatu-xie-hua-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/xiaoke-de-huatu-xie-hua",
+    "rating": "6.84",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/xiaoke-de-huatu-xie-hua/1",
+      "anime_id": 4174,
+      "anime_name": "Xiaoke de Huatu Xie Hua"
+    }
+  ],
+  "total_episodes": 1
+}

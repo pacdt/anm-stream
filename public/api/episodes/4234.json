@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Yesterday wo Utatte Haishin-ban Episode",
+  "anime": {
+    "id": 4234,
+    "nome": "Yesterday wo Utatte Haishin-ban Episode",
+    "link": "https://animefire.plus/animes/yesterday-wo-utatte-haishin-ban-episode-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yesterday-wo-utatte-haishin-ban-episode",
+    "rating": "6.66",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yesterday-wo-utatte-haishin-ban-episode/1",
+      "anime_id": 4234,
+      "anime_name": "Yesterday wo Utatte Haishin-ban Episode"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yesterday-wo-utatte-haishin-ban-episode/2",
+      "anime_id": 4234,
+      "anime_name": "Yesterday wo Utatte Haishin-ban Episode"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/yesterday-wo-utatte-haishin-ban-episode/3",
+      "anime_id": 4234,
+      "anime_name": "Yesterday wo Utatte Haishin-ban Episode"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/yesterday-wo-utatte-haishin-ban-episode/4",
+      "anime_id": 4234,
+      "anime_name": "Yesterday wo Utatte Haishin-ban Episode"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/yesterday-wo-utatte-haishin-ban-episode/5",
+      "anime_id": 4234,
+      "anime_name": "Yesterday wo Utatte Haishin-ban Episode"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/yesterday-wo-utatte-haishin-ban-episode/6",
+      "anime_id": 4234,
+      "anime_name": "Yesterday wo Utatte Haishin-ban Episode"
+    }
+  ],
+  "total_episodes": 6
+}

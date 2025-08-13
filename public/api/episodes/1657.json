@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω",
+  "anime": {
+    "id": 1657,
+    "nome": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω",
+    "link": "https://animefire.plus/animes/how-not-to-summon-a-demon-lord-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/how-not-to-summon-a-demon-lord",
+    "rating": "6.69",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/how-not-to-summon-a-demon-lord/1",
+      "anime_id": 1657,
+      "anime_name": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/how-not-to-summon-a-demon-lord/2",
+      "anime_id": 1657,
+      "anime_name": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω"
+    }
+  ],
+  "total_episodes": 2
+}

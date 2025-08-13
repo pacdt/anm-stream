@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Kemonozume",
+  "anime": {
+    "id": 1939,
+    "nome": "Kemonozume",
+    "link": "https://animefire.plus/animes/kemonozume-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kemonozume",
+    "rating": "7.46",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kemonozume/1",
+      "anime_id": 1939,
+      "anime_name": "Kemonozume"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kemonozume/2",
+      "anime_id": 1939,
+      "anime_name": "Kemonozume"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kemonozume/3",
+      "anime_id": 1939,
+      "anime_name": "Kemonozume"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kemonozume/4",
+      "anime_id": 1939,
+      "anime_name": "Kemonozume"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kemonozume/5",
+      "anime_id": 1939,
+      "anime_name": "Kemonozume"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kemonozume/6",
+      "anime_id": 1939,
+      "anime_name": "Kemonozume"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/kemonozume/7",
+      "anime_id": 1939,
+      "anime_name": "Kemonozume"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/kemonozume/8",
+      "anime_id": 1939,
+      "anime_name": "Kemonozume"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/kemonozume/9",
+      "anime_id": 1939,
+      "anime_name": "Kemonozume"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/kemonozume/10",
+      "anime_id": 1939,
+      "anime_name": "Kemonozume"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/kemonozume/11",
+      "anime_id": 1939,
+      "anime_name": "Kemonozume"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/kemonozume/12",
+      "anime_id": 1939,
+      "anime_name": "Kemonozume"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/kemonozume/13",
+      "anime_id": 1939,
+      "anime_name": "Kemonozume"
+    }
+  ],
+  "total_episodes": 13
+}

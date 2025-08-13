@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Hitorijime My Hero",
+  "anime": {
+    "id": 1508,
+    "nome": "Hitorijime My Hero",
+    "link": "https://animefire.plus/animes/hitorijime-my-hero-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hitorijime-my-hero",
+    "rating": "7.60",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hitorijime-my-hero/1",
+      "anime_id": 1508,
+      "anime_name": "Hitorijime My Hero"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hitorijime-my-hero/2",
+      "anime_id": 1508,
+      "anime_name": "Hitorijime My Hero"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hitorijime-my-hero/3",
+      "anime_id": 1508,
+      "anime_name": "Hitorijime My Hero"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hitorijime-my-hero/4",
+      "anime_id": 1508,
+      "anime_name": "Hitorijime My Hero"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hitorijime-my-hero/5",
+      "anime_id": 1508,
+      "anime_name": "Hitorijime My Hero"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hitorijime-my-hero/6",
+      "anime_id": 1508,
+      "anime_name": "Hitorijime My Hero"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/hitorijime-my-hero/7",
+      "anime_id": 1508,
+      "anime_name": "Hitorijime My Hero"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/hitorijime-my-hero/8",
+      "anime_id": 1508,
+      "anime_name": "Hitorijime My Hero"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/hitorijime-my-hero/9",
+      "anime_id": 1508,
+      "anime_name": "Hitorijime My Hero"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/hitorijime-my-hero/10",
+      "anime_id": 1508,
+      "anime_name": "Hitorijime My Hero"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/hitorijime-my-hero/11",
+      "anime_id": 1508,
+      "anime_name": "Hitorijime My Hero"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/hitorijime-my-hero/12",
+      "anime_id": 1508,
+      "anime_name": "Hitorijime My Hero"
+    }
+  ],
+  "total_episodes": 12
+}

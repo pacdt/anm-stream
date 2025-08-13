@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1904,
+    "nome": "Karneval (TV)",
+    "link": "https://animefire.plus/animes/karneval-tv-todos-os-episodios",
+    "texto_original": "Karneval (TV)",
+    "rating": 7.19,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/karneval-tv.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/karneval-tv/",
+    "secao": "legendados",
+    "pagina": 72,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/karneval-tv"
+  }
+}

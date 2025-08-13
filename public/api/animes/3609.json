@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3609,
+    "nome": "Spectral Force",
+    "link": "https://animefire.plus/animes/spectral-force-todos-os-episodios",
+    "texto_original": "Spectral Force",
+    "rating": 3.97,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/spectral-force.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/spectral-force/",
+    "secao": "legendados",
+    "pagina": 69,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/spectral-force"
+  }
+}

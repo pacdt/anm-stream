@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 874,
+    "nome": "Dragon Ball (Dublado)",
+    "link": "https://animefire.plus/animes/dragon-ball-dublado-todos-os-episodios",
+    "texto_original": "Dragon Ball (Dublado)",
+    "rating": 7.98,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/dragon-ball.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dragon-ball/",
+    "secao": "dublados",
+    "pagina": 17,
+    "total_episodios": 153,
+    "link_video": "https://animefire.plus/video/dragon-ball-dublado"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 713,
+    "nome": "D.C.: Da Capo",
+    "link": "https://animefire.plus/animes/d-c-da-capo-todos-os-episodios",
+    "texto_original": "D.C.: Da Capo",
+    "rating": 6.84,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/d-c-da-capo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/d-c-da-capo/",
+    "secao": "legendados",
+    "pagina": 127,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/d-c-da-capo"
+  }
+}

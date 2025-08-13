@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1059,
+    "nome": "Futari Solo Camp",
+    "link": "https://animefire.plus/animes/futari-solo-camp-todos-os-episodios",
+    "texto_original": "Futari Solo Camp",
+    "rating": 6.52,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/futari-solo-camp.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/futari-solo-camp/",
+    "secao": "legendados,lancamentos",
+    "pagina": 1,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/futari-solo-camp"
+  }
+}

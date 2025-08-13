@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1584,
+    "nome": "ID:Invaded (Dublado)",
+    "link": "https://animefire.plus/animes/id-invaded-dublado-todos-os-episodios",
+    "texto_original": "ID:Invaded (Dublado)",
+    "rating": 7.87,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/id-invaded.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/id-invaded/",
+    "secao": "dublados,legendados",
+    "pagina": 15,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/id-invaded-dublado"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Chain Chronicle: Haecceitas no Hikari",
+  "anime": {
+    "id": 589,
+    "nome": "Chain Chronicle: Haecceitas no Hikari",
+    "link": "https://animefire.plus/animes/chain-chronicle-haecceitas-no-hikari-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/chain-chronicle-haecceitas-no-hikari",
+    "rating": "6.79",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/chain-chronicle-haecceitas-no-hikari/1",
+      "anime_id": 589,
+      "anime_name": "Chain Chronicle: Haecceitas no Hikari"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/chain-chronicle-haecceitas-no-hikari/2",
+      "anime_id": 589,
+      "anime_name": "Chain Chronicle: Haecceitas no Hikari"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/chain-chronicle-haecceitas-no-hikari/3",
+      "anime_id": 589,
+      "anime_name": "Chain Chronicle: Haecceitas no Hikari"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/chain-chronicle-haecceitas-no-hikari/4",
+      "anime_id": 589,
+      "anime_name": "Chain Chronicle: Haecceitas no Hikari"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/chain-chronicle-haecceitas-no-hikari/5",
+      "anime_id": 589,
+      "anime_name": "Chain Chronicle: Haecceitas no Hikari"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/chain-chronicle-haecceitas-no-hikari/6",
+      "anime_id": 589,
+      "anime_name": "Chain Chronicle: Haecceitas no Hikari"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/chain-chronicle-haecceitas-no-hikari/7",
+      "anime_id": 589,
+      "anime_name": "Chain Chronicle: Haecceitas no Hikari"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/chain-chronicle-haecceitas-no-hikari/8",
+      "anime_id": 589,
+      "anime_name": "Chain Chronicle: Haecceitas no Hikari"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/chain-chronicle-haecceitas-no-hikari/9",
+      "anime_id": 589,
+      "anime_name": "Chain Chronicle: Haecceitas no Hikari"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/chain-chronicle-haecceitas-no-hikari/10",
+      "anime_id": 589,
+      "anime_name": "Chain Chronicle: Haecceitas no Hikari"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/chain-chronicle-haecceitas-no-hikari/11",
+      "anime_id": 589,
+      "anime_name": "Chain Chronicle: Haecceitas no Hikari"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/chain-chronicle-haecceitas-no-hikari/12",
+      "anime_id": 589,
+      "anime_name": "Chain Chronicle: Haecceitas no Hikari"
+    }
+  ],
+  "total_episodes": 12
+}

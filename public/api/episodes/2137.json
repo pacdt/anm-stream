@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Kurage no Shokudou",
+  "anime": {
+    "id": 2137,
+    "nome": "Kurage no Shokudou",
+    "link": "https://animefire.plus/animes/kurage-no-shokudou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kurage-no-shokudou",
+    "rating": "6.27",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kurage-no-shokudou/1",
+      "anime_id": 2137,
+      "anime_name": "Kurage no Shokudou"
+    }
+  ],
+  "total_episodes": 1
+}

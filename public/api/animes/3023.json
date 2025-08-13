@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3023,
+    "nome": "Prima Doll",
+    "link": "https://animefire.plus/animes/prima-doll-todos-os-episodios",
+    "texto_original": "Prima Doll",
+    "rating": 7.08,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/prima-doll.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/prima-doll/",
+    "secao": "legendados",
+    "pagina": 31,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/prima-doll"
+  }
+}

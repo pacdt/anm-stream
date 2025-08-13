@@ -1,0 +1,42 @@
+{
+  "message": "Resultados da busca por: \"fullmetal\"",
+  "query": "fullmetal",
+  "data": [
+    {
+      "id": 1046,
+      "nome": "Fullmetal Alchemist (Dublado)",
+      "link": "https://animefire.plus/animes/fullmetal-alchemist-dublado-todos-os-episodios",
+      "texto_original": "Fullmetal Alchemist (Dublado)",
+      "rating": 8.22,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/fullmetal-alchemist.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/fullmetal-alchemist/",
+      "secao": "dublados,legendados",
+      "pagina": 21,
+      "total_episodios": 51,
+      "link_video": "https://animefire.plus/video/fullmetal-alchemist-dublado"
+    },
+    {
+      "id": 1047,
+      "nome": "Fullmetal Alchemist: Brotherhood (Dublado)",
+      "link": "https://animefire.plus/animes/fullmetal-alchemist-brotherhood-dublado-todos-os-episodios",
+      "texto_original": "Fullmetal Alchemist: Brotherhood (Dublado)",
+      "rating": 9.23,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/fullmetal-alchemist-brotherhood.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/fullmetal-alchemist-brotherhood/",
+      "secao": "dublados",
+      "pagina": 25,
+      "total_episodios": 64,
+      "link_video": "https://animefire.plus/video/fullmetal-alchemist-brotherhood-dublado"
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "per_page": 20,
+    "total_items": 2,
+    "total_pages": 1,
+    "has_next": false,
+    "has_prev": false
+  }
+}

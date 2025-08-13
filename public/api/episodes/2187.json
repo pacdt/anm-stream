@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Kyoukai Senki: Kyokkou no Souki",
+  "anime": {
+    "id": 2187,
+    "nome": "Kyoukai Senki: Kyokkou no Souki",
+    "link": "https://animefire.plus/animes/kyoukai-senki-kyokkou-no-souki-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kyoukai-senki-kyokkou-no-souki",
+    "rating": "5.72",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kyoukai-senki-kyokkou-no-souki/1",
+      "anime_id": 2187,
+      "anime_name": "Kyoukai Senki: Kyokkou no Souki"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kyoukai-senki-kyokkou-no-souki/2",
+      "anime_id": 2187,
+      "anime_name": "Kyoukai Senki: Kyokkou no Souki"
+    }
+  ],
+  "total_episodes": 2
+}

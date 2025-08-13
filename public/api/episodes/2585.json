@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Monster Musume no Oishasan",
+  "anime": {
+    "id": 2585,
+    "nome": "Monster Musume no Oishasan",
+    "link": "https://animefire.plus/animes/monster-musume-no-oishasan-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/monster-musume-no-oishasan",
+    "rating": "N/A",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/monster-musume-no-oishasan/1",
+      "anime_id": 2585,
+      "anime_name": "Monster Musume no Oishasan"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/monster-musume-no-oishasan/2",
+      "anime_id": 2585,
+      "anime_name": "Monster Musume no Oishasan"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/monster-musume-no-oishasan/3",
+      "anime_id": 2585,
+      "anime_name": "Monster Musume no Oishasan"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/monster-musume-no-oishasan/4",
+      "anime_id": 2585,
+      "anime_name": "Monster Musume no Oishasan"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/monster-musume-no-oishasan/5",
+      "anime_id": 2585,
+      "anime_name": "Monster Musume no Oishasan"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/monster-musume-no-oishasan/6",
+      "anime_id": 2585,
+      "anime_name": "Monster Musume no Oishasan"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/monster-musume-no-oishasan/7",
+      "anime_id": 2585,
+      "anime_name": "Monster Musume no Oishasan"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/monster-musume-no-oishasan/8",
+      "anime_id": 2585,
+      "anime_name": "Monster Musume no Oishasan"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/monster-musume-no-oishasan/9",
+      "anime_id": 2585,
+      "anime_name": "Monster Musume no Oishasan"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/monster-musume-no-oishasan/10",
+      "anime_id": 2585,
+      "anime_name": "Monster Musume no Oishasan"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/monster-musume-no-oishasan/11",
+      "anime_id": 2585,
+      "anime_name": "Monster Musume no Oishasan"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/monster-musume-no-oishasan/12",
+      "anime_id": 2585,
+      "anime_name": "Monster Musume no Oishasan"
+    }
+  ],
+  "total_episodes": 12
+}

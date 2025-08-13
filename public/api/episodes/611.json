@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Chio-chan no Tsuugakuro",
+  "anime": {
+    "id": 611,
+    "nome": "Chio-chan no Tsuugakuro",
+    "link": "https://animefire.plus/animes/chio-chan-no-tsuugakuro-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/chio-chan-no-tsuugakuro",
+    "rating": "7.50",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/chio-chan-no-tsuugakuro/1",
+      "anime_id": 611,
+      "anime_name": "Chio-chan no Tsuugakuro"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/chio-chan-no-tsuugakuro/2",
+      "anime_id": 611,
+      "anime_name": "Chio-chan no Tsuugakuro"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/chio-chan-no-tsuugakuro/3",
+      "anime_id": 611,
+      "anime_name": "Chio-chan no Tsuugakuro"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/chio-chan-no-tsuugakuro/4",
+      "anime_id": 611,
+      "anime_name": "Chio-chan no Tsuugakuro"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/chio-chan-no-tsuugakuro/5",
+      "anime_id": 611,
+      "anime_name": "Chio-chan no Tsuugakuro"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/chio-chan-no-tsuugakuro/6",
+      "anime_id": 611,
+      "anime_name": "Chio-chan no Tsuugakuro"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/chio-chan-no-tsuugakuro/7",
+      "anime_id": 611,
+      "anime_name": "Chio-chan no Tsuugakuro"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/chio-chan-no-tsuugakuro/8",
+      "anime_id": 611,
+      "anime_name": "Chio-chan no Tsuugakuro"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/chio-chan-no-tsuugakuro/9",
+      "anime_id": 611,
+      "anime_name": "Chio-chan no Tsuugakuro"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/chio-chan-no-tsuugakuro/10",
+      "anime_id": 611,
+      "anime_name": "Chio-chan no Tsuugakuro"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/chio-chan-no-tsuugakuro/11",
+      "anime_id": 611,
+      "anime_name": "Chio-chan no Tsuugakuro"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/chio-chan-no-tsuugakuro/12",
+      "anime_id": 611,
+      "anime_name": "Chio-chan no Tsuugakuro"
+    }
+  ],
+  "total_episodes": 12
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Assault Lily: Bouquet",
+  "anime": {
+    "id": 267,
+    "nome": "Assault Lily: Bouquet",
+    "link": "https://animefire.plus/animes/assault-lily-bouquet-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/assault-lily-bouquet",
+    "rating": "N/A",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/assault-lily-bouquet/1",
+      "anime_id": 267,
+      "anime_name": "Assault Lily: Bouquet"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/assault-lily-bouquet/2",
+      "anime_id": 267,
+      "anime_name": "Assault Lily: Bouquet"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/assault-lily-bouquet/3",
+      "anime_id": 267,
+      "anime_name": "Assault Lily: Bouquet"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/assault-lily-bouquet/4",
+      "anime_id": 267,
+      "anime_name": "Assault Lily: Bouquet"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/assault-lily-bouquet/5",
+      "anime_id": 267,
+      "anime_name": "Assault Lily: Bouquet"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/assault-lily-bouquet/6",
+      "anime_id": 267,
+      "anime_name": "Assault Lily: Bouquet"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/assault-lily-bouquet/7",
+      "anime_id": 267,
+      "anime_name": "Assault Lily: Bouquet"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/assault-lily-bouquet/8",
+      "anime_id": 267,
+      "anime_name": "Assault Lily: Bouquet"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/assault-lily-bouquet/9",
+      "anime_id": 267,
+      "anime_name": "Assault Lily: Bouquet"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/assault-lily-bouquet/10",
+      "anime_id": 267,
+      "anime_name": "Assault Lily: Bouquet"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/assault-lily-bouquet/11",
+      "anime_id": 267,
+      "anime_name": "Assault Lily: Bouquet"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/assault-lily-bouquet/12",
+      "anime_id": 267,
+      "anime_name": "Assault Lily: Bouquet"
+    }
+  ],
+  "total_episodes": 12
+}

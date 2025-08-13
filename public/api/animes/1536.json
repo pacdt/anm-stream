@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1536,
+    "nome": "Hotarubi no Mori e",
+    "link": "https://animefire.plus/animes/hotarubi-no-mori-e-todos-os-episodios",
+    "texto_original": "Hotarubi no Mori e",
+    "rating": 8.49,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/hotarubi-no-mori-e.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hotarubi-no-mori-e/",
+    "secao": "legendados",
+    "pagina": 104,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/hotarubi-no-mori-e"
+  }
+}

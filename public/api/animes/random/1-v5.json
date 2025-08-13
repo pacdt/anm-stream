@@ -1,0 +1,21 @@
+{
+  "message": "1 animes aleatórios",
+  "data": [
+    {
+      "id": 4092,
+      "nome": "Waccha PriMagi!",
+      "link": "https://animefire.plus/animes/waccha-primagi-todos-os-episodios",
+      "texto_original": "Waccha PriMagi!",
+      "rating": 7.04,
+      "classificacao_etaria": null,
+      "imagem_original": "https://animefire.plus/img/animes/waccha-primagi.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/waccha-primagi/",
+      "secao": "legendados,lancamentos",
+      "pagina": 38,
+      "total_episodios": 12,
+      "link_video": "https://animefire.plus/video/waccha-primagi"
+    }
+  ],
+  "total": 1,
+  "version": 5
+}

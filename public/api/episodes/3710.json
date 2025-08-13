@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Taiho Shichau zo",
+  "anime": {
+    "id": 3710,
+    "nome": "Taiho Shichau zo",
+    "link": "https://animefire.plus/animes/taiho-shichau-zo-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/taiho-shichau-zo",
+    "rating": "7.46",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/taiho-shichau-zo/1",
+      "anime_id": 3710,
+      "anime_name": "Taiho Shichau zo"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/taiho-shichau-zo/2",
+      "anime_id": 3710,
+      "anime_name": "Taiho Shichau zo"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/taiho-shichau-zo/3",
+      "anime_id": 3710,
+      "anime_name": "Taiho Shichau zo"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/taiho-shichau-zo/4",
+      "anime_id": 3710,
+      "anime_name": "Taiho Shichau zo"
+    }
+  ],
+  "total_episodes": 4
+}

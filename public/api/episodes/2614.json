@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Musaigen no Phantom World",
+  "anime": {
+    "id": 2614,
+    "nome": "Musaigen no Phantom World",
+    "link": "https://animefire.plus/animes/musaigen-no-phantom-world-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/musaigen-no-phantom-world",
+    "rating": "6.98",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/musaigen-no-phantom-world/1",
+      "anime_id": 2614,
+      "anime_name": "Musaigen no Phantom World"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/musaigen-no-phantom-world/2",
+      "anime_id": 2614,
+      "anime_name": "Musaigen no Phantom World"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/musaigen-no-phantom-world/3",
+      "anime_id": 2614,
+      "anime_name": "Musaigen no Phantom World"
+    }
+  ],
+  "total_episodes": 3
+}

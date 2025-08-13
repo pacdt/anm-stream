@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Jigoku Shoujo: Yoi no Togi",
+  "anime": {
+    "id": 1726,
+    "nome": "Jigoku Shoujo: Yoi no Togi",
+    "link": "https://animefire.plus/animes/jigoku-shoujo-yoi-no-togi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/jigoku-shoujo-yoi-no-togi",
+    "rating": "6.61",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/jigoku-shoujo-yoi-no-togi/1",
+      "anime_id": 1726,
+      "anime_name": "Jigoku Shoujo: Yoi no Togi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/jigoku-shoujo-yoi-no-togi/2",
+      "anime_id": 1726,
+      "anime_name": "Jigoku Shoujo: Yoi no Togi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/jigoku-shoujo-yoi-no-togi/3",
+      "anime_id": 1726,
+      "anime_name": "Jigoku Shoujo: Yoi no Togi"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/jigoku-shoujo-yoi-no-togi/4",
+      "anime_id": 1726,
+      "anime_name": "Jigoku Shoujo: Yoi no Togi"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/jigoku-shoujo-yoi-no-togi/5",
+      "anime_id": 1726,
+      "anime_name": "Jigoku Shoujo: Yoi no Togi"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/jigoku-shoujo-yoi-no-togi/6",
+      "anime_id": 1726,
+      "anime_name": "Jigoku Shoujo: Yoi no Togi"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/jigoku-shoujo-yoi-no-togi/7",
+      "anime_id": 1726,
+      "anime_name": "Jigoku Shoujo: Yoi no Togi"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/jigoku-shoujo-yoi-no-togi/8",
+      "anime_id": 1726,
+      "anime_name": "Jigoku Shoujo: Yoi no Togi"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/jigoku-shoujo-yoi-no-togi/9",
+      "anime_id": 1726,
+      "anime_name": "Jigoku Shoujo: Yoi no Togi"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/jigoku-shoujo-yoi-no-togi/10",
+      "anime_id": 1726,
+      "anime_name": "Jigoku Shoujo: Yoi no Togi"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/jigoku-shoujo-yoi-no-togi/11",
+      "anime_id": 1726,
+      "anime_name": "Jigoku Shoujo: Yoi no Togi"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/jigoku-shoujo-yoi-no-togi/12",
+      "anime_id": 1726,
+      "anime_name": "Jigoku Shoujo: Yoi no Togi"
+    }
+  ],
+  "total_episodes": 12
+}

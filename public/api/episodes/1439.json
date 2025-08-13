@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Hibike! Euphonium",
+  "anime": {
+    "id": 1439,
+    "nome": "Hibike! Euphonium",
+    "link": "https://animefire.plus/animes/hibike-euphonium-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hibike-euphonium",
+    "rating": "8.02",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hibike-euphonium/1",
+      "anime_id": 1439,
+      "anime_name": "Hibike! Euphonium"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hibike-euphonium/2",
+      "anime_id": 1439,
+      "anime_name": "Hibike! Euphonium"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hibike-euphonium/3",
+      "anime_id": 1439,
+      "anime_name": "Hibike! Euphonium"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hibike-euphonium/4",
+      "anime_id": 1439,
+      "anime_name": "Hibike! Euphonium"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hibike-euphonium/5",
+      "anime_id": 1439,
+      "anime_name": "Hibike! Euphonium"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hibike-euphonium/6",
+      "anime_id": 1439,
+      "anime_name": "Hibike! Euphonium"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/hibike-euphonium/7",
+      "anime_id": 1439,
+      "anime_name": "Hibike! Euphonium"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/hibike-euphonium/8",
+      "anime_id": 1439,
+      "anime_name": "Hibike! Euphonium"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/hibike-euphonium/9",
+      "anime_id": 1439,
+      "anime_name": "Hibike! Euphonium"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/hibike-euphonium/10",
+      "anime_id": 1439,
+      "anime_name": "Hibike! Euphonium"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/hibike-euphonium/11",
+      "anime_id": 1439,
+      "anime_name": "Hibike! Euphonium"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/hibike-euphonium/12",
+      "anime_id": 1439,
+      "anime_name": "Hibike! Euphonium"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/hibike-euphonium/13",
+      "anime_id": 1439,
+      "anime_name": "Hibike! Euphonium"
+    }
+  ],
+  "total_episodes": 13
+}

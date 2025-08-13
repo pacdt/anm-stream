@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2319,
+    "nome": "Magikano",
+    "link": "https://animefire.plus/animes/magikano-todos-os-episodios",
+    "texto_original": "Magikano",
+    "rating": 6.46,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/magikano.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/magikano/",
+    "secao": "legendados",
+    "pagina": 118,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/magikano"
+  }
+}

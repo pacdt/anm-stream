@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1374,
+    "nome": "Happy Seven: The TV Manga",
+    "link": "https://animefire.plus/animes/happy-seven-the-tv-manga-todos-os-episodios",
+    "texto_original": "Happy Seven: The TV Manga",
+    "rating": 6.39,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/happy-seven-the-tv-manga.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/happy-seven-the-tv-manga/",
+    "secao": "legendados",
+    "pagina": 107,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/happy-seven-the-tv-manga"
+  }
+}

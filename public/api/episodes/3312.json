@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Seitokai no Ichizon Lv.2: Watasu Seitokai",
+  "anime": {
+    "id": 3312,
+    "nome": "Seitokai no Ichizon Lv.2: Watasu Seitokai",
+    "link": "https://animefire.plus/animes/seitokai-no-ichizon-lv-2-watasu-seitokai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/seitokai-no-ichizon-lv-2-watasu-seitokai",
+    "rating": "7.35",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/seitokai-no-ichizon-lv-2-watasu-seitokai/1",
+      "anime_id": 3312,
+      "anime_name": "Seitokai no Ichizon Lv.2: Watasu Seitokai"
+    }
+  ],
+  "total_episodes": 1
+}

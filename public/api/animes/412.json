@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 412,
+    "nome": "Black Lagoon",
+    "link": "https://animefire.plus/animes/black-lagoon-todos-os-episodios",
+    "texto_original": "Black Lagoon",
+    "rating": 8.11,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/black-lagoon.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/black-lagoon/",
+    "secao": "legendados",
+    "pagina": 112,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/black-lagoon"
+  }
+}

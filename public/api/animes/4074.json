@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4074,
+    "nome": "Vazzrock the Animation",
+    "link": "https://animefire.plus/animes/vazzrock-the-animation-todos-os-episodios",
+    "texto_original": "Vazzrock the Animation",
+    "rating": 5.45,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/vazzrock-the-animation.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/vazzrock-the-animation/",
+    "secao": "legendados",
+    "pagina": 28,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/vazzrock-the-animation"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Monster Musume no Iru Nichijou OVA",
+  "anime": {
+    "id": 2583,
+    "nome": "Monster Musume no Iru Nichijou OVA",
+    "link": "https://animefire.plus/animes/monster-musume-no-iru-nichijou-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/monster-musume-no-iru-nichijou-ova",
+    "rating": "7.26",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/monster-musume-no-iru-nichijou-ova/1",
+      "anime_id": 2583,
+      "anime_name": "Monster Musume no Iru Nichijou OVA"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/monster-musume-no-iru-nichijou-ova/2",
+      "anime_id": 2583,
+      "anime_name": "Monster Musume no Iru Nichijou OVA"
+    }
+  ],
+  "total_episodes": 2
+}

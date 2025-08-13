@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: Amanchu! Advance",
+  "anime": {
+    "id": 157,
+    "nome": "Amanchu! Advance",
+    "link": "https://animefire.plus/animes/amanchu-advance-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/amanchu-advance",
+    "rating": "7.18",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/amanchu-advance/1",
+      "anime_id": 157,
+      "anime_name": "Amanchu! Advance"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/amanchu-advance/2",
+      "anime_id": 157,
+      "anime_name": "Amanchu! Advance"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/amanchu-advance/3",
+      "anime_id": 157,
+      "anime_name": "Amanchu! Advance"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/amanchu-advance/4",
+      "anime_id": 157,
+      "anime_name": "Amanchu! Advance"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/amanchu-advance/5",
+      "anime_id": 157,
+      "anime_name": "Amanchu! Advance"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/amanchu-advance/6",
+      "anime_id": 157,
+      "anime_name": "Amanchu! Advance"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/amanchu-advance/7",
+      "anime_id": 157,
+      "anime_name": "Amanchu! Advance"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/amanchu-advance/8",
+      "anime_id": 157,
+      "anime_name": "Amanchu! Advance"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/amanchu-advance/9",
+      "anime_id": 157,
+      "anime_name": "Amanchu! Advance"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/amanchu-advance/10",
+      "anime_id": 157,
+      "anime_name": "Amanchu! Advance"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/amanchu-advance/11",
+      "anime_id": 157,
+      "anime_name": "Amanchu! Advance"
+    }
+  ],
+  "total_episodes": 11
+}

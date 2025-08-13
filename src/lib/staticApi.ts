@@ -2,7 +2,7 @@ import { Anime, Episode, EpisodeStreamResponse, ApiResponse } from '@/types'
 
 // Classe para gerenciar a API estática local
 export class StaticApiService {
-  private static baseUrl = '/src/static-api'
+  private static baseUrl = '/api'
   
   // Cache para armazenar dados já carregados
   private static cache = new Map<string, any>()

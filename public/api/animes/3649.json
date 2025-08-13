@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3649,
+    "nome": "Strike the Blood IV",
+    "link": "https://animefire.plus/animes/strike-the-blood-iv-todos-os-episodios",
+    "texto_original": "Strike the Blood IV",
+    "rating": 7.06,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/strike-the-blood-iv.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/strike-the-blood-iv/",
+    "secao": "legendados",
+    "pagina": 80,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/strike-the-blood-iv"
+  }
+}

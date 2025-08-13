@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2640,
+    "nome": "Nabari no Ou",
+    "link": "https://animefire.plus/animes/nabari-no-ou-todos-os-episodios",
+    "texto_original": "Nabari no Ou",
+    "rating": 7.37,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/nabari-no-ou.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/nabari-no-ou/",
+    "secao": "legendados",
+    "pagina": 159,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/nabari-no-ou"
+  }
+}

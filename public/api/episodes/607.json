@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Chiisana Eiyuu: Kani to Tamago to Toumei Ningen (Dublado)",
+  "anime": {
+    "id": 607,
+    "nome": "Chiisana Eiyuu: Kani to Tamago to Toumei Ningen (Dublado)",
+    "link": "https://animefire.plus/animes/chiisana-eiyuu-kani-to-tamago-to-toumei-ningen-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/chiisana-eiyuu-kani-to-tamago-to-toumei-ningen-dublado",
+    "rating": "7.06",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/chiisana-eiyuu-kani-to-tamago-to-toumei-ningen-dublado/1",
+      "anime_id": 607,
+      "anime_name": "Chiisana Eiyuu: Kani to Tamago to Toumei Ningen (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/chiisana-eiyuu-kani-to-tamago-to-toumei-ningen-dublado/2",
+      "anime_id": 607,
+      "anime_name": "Chiisana Eiyuu: Kani to Tamago to Toumei Ningen (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/chiisana-eiyuu-kani-to-tamago-to-toumei-ningen-dublado/3",
+      "anime_id": 607,
+      "anime_name": "Chiisana Eiyuu: Kani to Tamago to Toumei Ningen (Dublado)"
+    }
+  ],
+  "total_episodes": 3
+}

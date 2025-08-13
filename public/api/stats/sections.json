@@ -1,0 +1,52 @@
+{
+  "message": "Estatísticas por seção",
+  "sections": {
+    "legendados": {
+      "total_animes": 4269,
+      "total_episodes": 52148,
+      "avg_rating": "7.07",
+      "age_ratings": {
+        "A14": 2932,
+        "A16": 686,
+        "A18": 371,
+        "A10": 107
+      },
+      "animes_with_episodes": 3855,
+      "min_rating": 2.31,
+      "max_rating": 9.3,
+      "avg_episodes_per_anime": "13.53"
+    },
+    "lancamentos": {
+      "total_animes": 285,
+      "total_episodes": 3010,
+      "avg_rating": "7.03",
+      "age_ratings": {
+        "A14": 213,
+        "A16": 34,
+        "A10": 7,
+        "A18": 9
+      },
+      "animes_with_episodes": 227,
+      "min_rating": 5,
+      "max_rating": 8.99,
+      "avg_episodes_per_anime": "13.26"
+    },
+    "dublados": {
+      "total_animes": 656,
+      "total_episodes": 12820,
+      "avg_rating": "7.45",
+      "age_ratings": {
+        "A16": 177,
+        "A14": 421,
+        "A18": 22,
+        "A10": 19
+      },
+      "animes_with_episodes": 631,
+      "min_rating": 4.86,
+      "max_rating": 9.3,
+      "avg_episodes_per_anime": "20.32"
+    }
+  },
+  "total_sections": 3,
+  "generated_at": "2025-08-13T02:27:39.157Z"
+}

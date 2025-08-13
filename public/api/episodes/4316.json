@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou",
+  "anime": {
+    "id": 4316,
+    "nome": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou",
+    "link": "https://animefire.plus/animes/yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou",
+    "rating": "7.67",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou/1",
+      "anime_id": 4316,
+      "anime_name": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou/2",
+      "anime_id": 4316,
+      "anime_name": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou/3",
+      "anime_id": 4316,
+      "anime_name": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou/4",
+      "anime_id": 4316,
+      "anime_name": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou/5",
+      "anime_id": 4316,
+      "anime_name": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/yuuki-yuuna-wa-yuusha-de-aru-yuusha-no-shou/6",
+      "anime_id": 4316,
+      "anime_name": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou"
+    }
+  ],
+  "total_episodes": 6
+}

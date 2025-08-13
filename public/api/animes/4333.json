@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4333,
+    "nome": "Zankyou no Terror",
+    "link": "https://animefire.plus/animes/zankyou-no-terror-todos-os-episodios",
+    "texto_original": "Zankyou no Terror",
+    "rating": 8.18,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/zankyou-no-terror.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/zankyou-no-terror/",
+    "secao": "legendados",
+    "pagina": 149,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/zankyou-no-terror"
+  }
+}

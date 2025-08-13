@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Ikkitousen: Western Wolves",
+  "anime": {
+    "id": 1607,
+    "nome": "Ikkitousen: Western Wolves",
+    "link": "https://animefire.plus/animes/ikkitousen-western-wolves-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ikkitousen-western-wolves",
+    "rating": "6.37",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ikkitousen-western-wolves/1",
+      "anime_id": 1607,
+      "anime_name": "Ikkitousen: Western Wolves"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ikkitousen-western-wolves/2",
+      "anime_id": 1607,
+      "anime_name": "Ikkitousen: Western Wolves"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/ikkitousen-western-wolves/3",
+      "anime_id": 1607,
+      "anime_name": "Ikkitousen: Western Wolves"
+    }
+  ],
+  "total_episodes": 3
+}

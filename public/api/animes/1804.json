@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1804,
+    "nome": "Kaichuu!",
+    "link": "https://animefire.plus/animes/kaichuu-todos-os-episodios",
+    "texto_original": "Kaichuu!",
+    "rating": 5.88,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kaichuu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kaichuu/",
+    "secao": "legendados",
+    "pagina": 64,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/kaichuu"
+  }
+}

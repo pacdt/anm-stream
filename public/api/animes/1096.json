@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1096,
+    "nome": "Galaxy Angel Z",
+    "link": "https://animefire.plus/animes/galaxy-angel-z-todos-os-episodios",
+    "texto_original": "Galaxy Angel Z",
+    "rating": 7.24,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/galaxy-angel-z.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/galaxy-angel-z/",
+    "secao": "legendados",
+    "pagina": 151,
+    "total_episodios": 9,
+    "link_video": "https://animefire.plus/video/galaxy-angel-z"
+  }
+}

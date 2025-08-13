@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3005,
+    "nome": "Pokemon Sun & Moon",
+    "link": "https://animefire.plus/animes/pokemon-sun-moon-todos-os-episodios",
+    "texto_original": "Pokemon Sun & Moon",
+    "rating": 6.79,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/pokemon-sun-moon.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/pokemon-sun-moon/",
+    "secao": "legendados",
+    "pagina": 178,
+    "total_episodios": 108,
+    "link_video": "https://animefire.plus/video/pokemon-sun-moon"
+  }
+}

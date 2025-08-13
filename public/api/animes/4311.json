@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4311,
+    "nome": "Yuukai Anna",
+    "link": "https://animefire.plus/animes/yuukai-anna-todos-os-episodios",
+    "texto_original": "Yuukai Anna",
+    "rating": 5.09,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/yuukai-anna.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/yuukai-anna/",
+    "secao": "legendados",
+    "pagina": 89,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/yuukai-anna"
+  }
+}

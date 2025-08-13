@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1409,
+    "nome": "Heike Monogatari",
+    "link": "https://animefire.plus/animes/heike-monogatari-todos-os-episodios",
+    "texto_original": "Heike Monogatari",
+    "rating": 7.79,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/heike-monogatari.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/heike-monogatari/",
+    "secao": "legendados",
+    "pagina": 38,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/heike-monogatari"
+  }
+}

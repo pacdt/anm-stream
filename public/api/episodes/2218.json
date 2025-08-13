@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Li Shi Zhentan Shiwusuo: A Day in Lungmen",
+  "anime": {
+    "id": 2218,
+    "nome": "Li Shi Zhentan Shiwusuo: A Day in Lungmen",
+    "link": "https://animefire.plus/animes/li-shi-zhentan-shiwusuo-a-day-in-lungmen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/li-shi-zhentan-shiwusuo-a-day-in-lungmen",
+    "rating": "6.53",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/li-shi-zhentan-shiwusuo-a-day-in-lungmen/1",
+      "anime_id": 2218,
+      "anime_name": "Li Shi Zhentan Shiwusuo: A Day in Lungmen"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/li-shi-zhentan-shiwusuo-a-day-in-lungmen/2",
+      "anime_id": 2218,
+      "anime_name": "Li Shi Zhentan Shiwusuo: A Day in Lungmen"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/li-shi-zhentan-shiwusuo-a-day-in-lungmen/3",
+      "anime_id": 2218,
+      "anime_name": "Li Shi Zhentan Shiwusuo: A Day in Lungmen"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/li-shi-zhentan-shiwusuo-a-day-in-lungmen/4",
+      "anime_id": 2218,
+      "anime_name": "Li Shi Zhentan Shiwusuo: A Day in Lungmen"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/li-shi-zhentan-shiwusuo-a-day-in-lungmen/5",
+      "anime_id": 2218,
+      "anime_name": "Li Shi Zhentan Shiwusuo: A Day in Lungmen"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/li-shi-zhentan-shiwusuo-a-day-in-lungmen/6",
+      "anime_id": 2218,
+      "anime_name": "Li Shi Zhentan Shiwusuo: A Day in Lungmen"
+    }
+  ],
+  "total_episodes": 6
+}

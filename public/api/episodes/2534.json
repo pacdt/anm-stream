@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Mizuiro (2003)",
+  "anime": {
+    "id": 2534,
+    "nome": "Mizuiro (2003)",
+    "link": "https://animefire.plus/animes/mizuiro-2003-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mizuiro-2003",
+    "rating": "6.39",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mizuiro-2003/1",
+      "anime_id": 2534,
+      "anime_name": "Mizuiro (2003)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mizuiro-2003/2",
+      "anime_id": 2534,
+      "anime_name": "Mizuiro (2003)"
+    }
+  ],
+  "total_episodes": 2
+}

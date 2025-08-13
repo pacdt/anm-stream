@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 655,
+    "nome": "Citrus",
+    "link": "https://animefire.plus/animes/citrus-todos-os-episodios",
+    "texto_original": "Citrus",
+    "rating": 6.77,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/citrus.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/citrus/",
+    "secao": "legendados",
+    "pagina": 100,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/citrus"
+  }
+}

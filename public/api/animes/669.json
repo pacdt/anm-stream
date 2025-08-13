@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 669,
+    "nome": "Clockwork Planet",
+    "link": "https://animefire.plus/animes/clockwork-planet-todos-os-episodios",
+    "texto_original": "Clockwork Planet",
+    "rating": 6.51,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/clockwork-planet.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/clockwork-planet/",
+    "secao": "legendados",
+    "pagina": 74,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/clockwork-planet"
+  }
+}

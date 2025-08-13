@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1463,
+    "nome": "Highschool of the Dead",
+    "link": "https://animefire.plus/animes/highschool-of-the-dead-todos-os-episodios",
+    "texto_original": "Highschool of the Dead",
+    "rating": 7.3,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/highschool-of-the-dead.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/highschool-of-the-dead/",
+    "secao": "legendados",
+    "pagina": 140,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/highschool-of-the-dead"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4224,
+    "nome": "Yasuke (Dublado)",
+    "link": "https://animefire.plus/animes/yasuke-dublado-todos-os-episodios",
+    "texto_original": "Yasuke (Dublado)",
+    "rating": 5.75,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/yasuke.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/yasuke/",
+    "secao": "dublados,legendados",
+    "pagina": 18,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/yasuke-dublado"
+  }
+}

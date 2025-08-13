@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: Hunter x Hunter: Greed Island",
+  "anime": {
+    "id": 1552,
+    "nome": "Hunter x Hunter: Greed Island",
+    "link": "https://animefire.plus/animes/hunter-x-hunter-greed-island-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hunter-x-hunter-greed-island",
+    "rating": "8.20",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hunter-x-hunter-greed-island/1",
+      "anime_id": 1552,
+      "anime_name": "Hunter x Hunter: Greed Island"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hunter-x-hunter-greed-island/2",
+      "anime_id": 1552,
+      "anime_name": "Hunter x Hunter: Greed Island"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hunter-x-hunter-greed-island/3",
+      "anime_id": 1552,
+      "anime_name": "Hunter x Hunter: Greed Island"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hunter-x-hunter-greed-island/4",
+      "anime_id": 1552,
+      "anime_name": "Hunter x Hunter: Greed Island"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hunter-x-hunter-greed-island/5",
+      "anime_id": 1552,
+      "anime_name": "Hunter x Hunter: Greed Island"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hunter-x-hunter-greed-island/6",
+      "anime_id": 1552,
+      "anime_name": "Hunter x Hunter: Greed Island"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/hunter-x-hunter-greed-island/7",
+      "anime_id": 1552,
+      "anime_name": "Hunter x Hunter: Greed Island"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/hunter-x-hunter-greed-island/8",
+      "anime_id": 1552,
+      "anime_name": "Hunter x Hunter: Greed Island"
+    }
+  ],
+  "total_episodes": 8
+}

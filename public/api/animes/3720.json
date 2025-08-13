@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3720,
+    "nome": "Takopii no Genzai",
+    "link": "https://animefire.plus/animes/takopii-no-genzai-todos-os-episodios",
+    "texto_original": "Takopii no Genzai",
+    "rating": 8.99,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/takopii-no-genzai.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/takopii-no-genzai/",
+    "secao": "legendados,lancamentos",
+    "pagina": 1,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/takopii-no-genzai"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2501,
+    "nome": "Mikakunin de Shinkoukei",
+    "link": "https://animefire.plus/animes/mikakunin-de-shinkoukei-todos-os-episodios",
+    "texto_original": "Mikakunin de Shinkoukei",
+    "rating": 7.52,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/mikakunin-de-shinkoukei.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mikakunin-de-shinkoukei/",
+    "secao": "legendados",
+    "pagina": 167,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/mikakunin-de-shinkoukei"
+  }
+}

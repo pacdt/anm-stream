@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1935,
+    "nome": "Kemono Friends",
+    "link": "https://animefire.plus/animes/kemono-friends-todos-os-episodios",
+    "texto_original": "Kemono Friends",
+    "rating": 7.61,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/kemono-friends.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kemono-friends/",
+    "secao": "legendados",
+    "pagina": 63,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/kemono-friends"
+  }
+}

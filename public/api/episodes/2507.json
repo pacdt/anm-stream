@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Minami Kamakura Koukou Joshi Jitenshabu: Kita yo, Taiwan!",
+  "anime": {
+    "id": 2507,
+    "nome": "Minami Kamakura Koukou Joshi Jitenshabu: Kita yo, Taiwan!",
+    "link": "https://animefire.plus/animes/minami-kamakura-koukou-joshi-jitenshabu-kita-yo-taiwan-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/minami-kamakura-koukou-joshi-jitenshabu-kita-yo-taiwan",
+    "rating": "6.50",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/minami-kamakura-koukou-joshi-jitenshabu-kita-yo-taiwan/1",
+      "anime_id": 2507,
+      "anime_name": "Minami Kamakura Koukou Joshi Jitenshabu: Kita yo, Taiwan!"
+    }
+  ],
+  "total_episodes": 1
+}

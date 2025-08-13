@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3,
+    "nome": ".hack//Roots",
+    "link": "https://animefire.plus/animes/hack-roots-todos-os-episodios",
+    "texto_original": ".hack//Roots",
+    "rating": 7,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hack-roots.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hack-roots/",
+    "secao": "legendados",
+    "pagina": 152,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/hack-roots"
+  }
+}

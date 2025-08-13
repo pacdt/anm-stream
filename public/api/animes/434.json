@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 434,
+    "nome": "Blue Archive the Animation",
+    "link": "https://animefire.plus/animes/blue-archive-the-animation-todos-os-episodios",
+    "texto_original": "Blue Archive the Animation",
+    "rating": 7.36,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/blue-archive-the-animation.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/blue-archive-the-animation/",
+    "secao": "legendados",
+    "pagina": 15,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/blue-archive-the-animation"
+  }
+}

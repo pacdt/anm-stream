@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3117,
+    "nome": "Revenger",
+    "link": "https://animefire.plus/animes/revenger-todos-os-episodios",
+    "texto_original": "Revenger",
+    "rating": 6.67,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/revenger.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/revenger/",
+    "secao": "legendados",
+    "pagina": 27,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/revenger"
+  }
+}

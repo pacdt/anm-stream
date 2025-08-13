@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2327,
+    "nome": "Mahou Sensou",
+    "link": "https://animefire.plus/animes/mahou-sensou-todos-os-episodios",
+    "texto_original": "Mahou Sensou",
+    "rating": 6.14,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/mahou-sensou.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mahou-sensou/",
+    "secao": "legendados",
+    "pagina": 122,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/mahou-sensou"
+  }
+}

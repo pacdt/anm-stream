@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Hagure Yuusha no Aesthetica",
+  "anime": {
+    "id": 1304,
+    "nome": "Hagure Yuusha no Aesthetica",
+    "link": "https://animefire.plus/animes/hagure-yuusha-no-aesthetica-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hagure-yuusha-no-aesthetica",
+    "rating": "7.10",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hagure-yuusha-no-aesthetica/1",
+      "anime_id": 1304,
+      "anime_name": "Hagure Yuusha no Aesthetica"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hagure-yuusha-no-aesthetica/2",
+      "anime_id": 1304,
+      "anime_name": "Hagure Yuusha no Aesthetica"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hagure-yuusha-no-aesthetica/3",
+      "anime_id": 1304,
+      "anime_name": "Hagure Yuusha no Aesthetica"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hagure-yuusha-no-aesthetica/4",
+      "anime_id": 1304,
+      "anime_name": "Hagure Yuusha no Aesthetica"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hagure-yuusha-no-aesthetica/5",
+      "anime_id": 1304,
+      "anime_name": "Hagure Yuusha no Aesthetica"
+    }
+  ],
+  "total_episodes": 5
+}

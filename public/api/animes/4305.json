@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4305,
+    "nome": "Yuru Yuri San☆Hai!",
+    "link": "https://animefire.plus/animes/yuru-yuri-san-hai-todos-os-episodios",
+    "texto_original": "Yuru Yuri San☆Hai!",
+    "rating": 7.98,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/yuru-yuri-san-hai.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/yuru-yuri-san-hai/",
+    "secao": "legendados",
+    "pagina": 75,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/yuru-yuri-san-hai"
+  }
+}

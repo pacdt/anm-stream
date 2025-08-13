@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Figure 17: Tsubasa & Hikaru",
+  "anime": {
+    "id": 1008,
+    "nome": "Figure 17: Tsubasa & Hikaru",
+    "link": "https://animefire.plus/animes/figure-17-tsubasa-hikaru-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/figure-17-tsubasa-hikaru",
+    "rating": "7.25",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/figure-17-tsubasa-hikaru/1",
+      "anime_id": 1008,
+      "anime_name": "Figure 17: Tsubasa & Hikaru"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/figure-17-tsubasa-hikaru/2",
+      "anime_id": 1008,
+      "anime_name": "Figure 17: Tsubasa & Hikaru"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/figure-17-tsubasa-hikaru/3",
+      "anime_id": 1008,
+      "anime_name": "Figure 17: Tsubasa & Hikaru"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/figure-17-tsubasa-hikaru/4",
+      "anime_id": 1008,
+      "anime_name": "Figure 17: Tsubasa & Hikaru"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/figure-17-tsubasa-hikaru/5",
+      "anime_id": 1008,
+      "anime_name": "Figure 17: Tsubasa & Hikaru"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/figure-17-tsubasa-hikaru/6",
+      "anime_id": 1008,
+      "anime_name": "Figure 17: Tsubasa & Hikaru"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/figure-17-tsubasa-hikaru/7",
+      "anime_id": 1008,
+      "anime_name": "Figure 17: Tsubasa & Hikaru"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/figure-17-tsubasa-hikaru/8",
+      "anime_id": 1008,
+      "anime_name": "Figure 17: Tsubasa & Hikaru"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/figure-17-tsubasa-hikaru/9",
+      "anime_id": 1008,
+      "anime_name": "Figure 17: Tsubasa & Hikaru"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/figure-17-tsubasa-hikaru/10",
+      "anime_id": 1008,
+      "anime_name": "Figure 17: Tsubasa & Hikaru"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/figure-17-tsubasa-hikaru/11",
+      "anime_id": 1008,
+      "anime_name": "Figure 17: Tsubasa & Hikaru"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/figure-17-tsubasa-hikaru/12",
+      "anime_id": 1008,
+      "anime_name": "Figure 17: Tsubasa & Hikaru"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/figure-17-tsubasa-hikaru/13",
+      "anime_id": 1008,
+      "anime_name": "Figure 17: Tsubasa & Hikaru"
+    }
+  ],
+  "total_episodes": 13
+}

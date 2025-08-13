@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: Ristorante Paradiso",
+  "anime": {
+    "id": 3135,
+    "nome": "Ristorante Paradiso",
+    "link": "https://animefire.plus/animes/ristorante-paradiso-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ristorante-paradiso",
+    "rating": "7.42",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ristorante-paradiso/1",
+      "anime_id": 3135,
+      "anime_name": "Ristorante Paradiso"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ristorante-paradiso/2",
+      "anime_id": 3135,
+      "anime_name": "Ristorante Paradiso"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/ristorante-paradiso/3",
+      "anime_id": 3135,
+      "anime_name": "Ristorante Paradiso"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/ristorante-paradiso/4",
+      "anime_id": 3135,
+      "anime_name": "Ristorante Paradiso"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/ristorante-paradiso/5",
+      "anime_id": 3135,
+      "anime_name": "Ristorante Paradiso"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/ristorante-paradiso/6",
+      "anime_id": 3135,
+      "anime_name": "Ristorante Paradiso"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/ristorante-paradiso/7",
+      "anime_id": 3135,
+      "anime_name": "Ristorante Paradiso"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/ristorante-paradiso/8",
+      "anime_id": 3135,
+      "anime_name": "Ristorante Paradiso"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/ristorante-paradiso/9",
+      "anime_id": 3135,
+      "anime_name": "Ristorante Paradiso"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/ristorante-paradiso/10",
+      "anime_id": 3135,
+      "anime_name": "Ristorante Paradiso"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/ristorante-paradiso/11",
+      "anime_id": 3135,
+      "anime_name": "Ristorante Paradiso"
+    }
+  ],
+  "total_episodes": 11
+}

@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Sewayaki Kitsune no Senko-san",
+  "anime": {
+    "id": 3367,
+    "nome": "Sewayaki Kitsune no Senko-san",
+    "link": "https://animefire.plus/animes/sewayaki-kitsune-no-senko-san-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sewayaki-kitsune-no-senko-san",
+    "rating": "7.36",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sewayaki-kitsune-no-senko-san/1",
+      "anime_id": 3367,
+      "anime_name": "Sewayaki Kitsune no Senko-san"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/sewayaki-kitsune-no-senko-san/2",
+      "anime_id": 3367,
+      "anime_name": "Sewayaki Kitsune no Senko-san"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/sewayaki-kitsune-no-senko-san/3",
+      "anime_id": 3367,
+      "anime_name": "Sewayaki Kitsune no Senko-san"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/sewayaki-kitsune-no-senko-san/4",
+      "anime_id": 3367,
+      "anime_name": "Sewayaki Kitsune no Senko-san"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/sewayaki-kitsune-no-senko-san/5",
+      "anime_id": 3367,
+      "anime_name": "Sewayaki Kitsune no Senko-san"
+    }
+  ],
+  "total_episodes": 5
+}

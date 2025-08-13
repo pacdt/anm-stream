@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2485,
+    "nome": "Mezzo DSA",
+    "link": "https://animefire.plus/animes/mezzo-dsa-todos-os-episodios",
+    "texto_original": "Mezzo DSA",
+    "rating": 6.74,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/mezzo-dsa.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mezzo-dsa/",
+    "secao": "legendados",
+    "pagina": 166,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/mezzo-dsa"
+  }
+}

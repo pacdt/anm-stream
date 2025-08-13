@@ -1,0 +1,74 @@
+{
+  "message": "Lista de episódios do anime: Mini Toji",
+  "anime": {
+    "id": 2516,
+    "nome": "Mini Toji",
+    "link": "https://animefire.plus/animes/mini-toji-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mini-toji",
+    "rating": "6.14",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mini-toji/1",
+      "anime_id": 2516,
+      "anime_name": "Mini Toji"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mini-toji/2",
+      "anime_id": 2516,
+      "anime_name": "Mini Toji"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mini-toji/3",
+      "anime_id": 2516,
+      "anime_name": "Mini Toji"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/mini-toji/4",
+      "anime_id": 2516,
+      "anime_name": "Mini Toji"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/mini-toji/5",
+      "anime_id": 2516,
+      "anime_name": "Mini Toji"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/mini-toji/6",
+      "anime_id": 2516,
+      "anime_name": "Mini Toji"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/mini-toji/7",
+      "anime_id": 2516,
+      "anime_name": "Mini Toji"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/mini-toji/8",
+      "anime_id": 2516,
+      "anime_name": "Mini Toji"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/mini-toji/9",
+      "anime_id": 2516,
+      "anime_name": "Mini Toji"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/mini-toji/10",
+      "anime_id": 2516,
+      "anime_name": "Mini Toji"
+    }
+  ],
+  "total_episodes": 10
+}

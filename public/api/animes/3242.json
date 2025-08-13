@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3242,
+    "nome": "Samurai 7",
+    "link": "https://animefire.plus/animes/samurai-7-todos-os-episodios",
+    "texto_original": "Samurai 7",
+    "rating": 7.55,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/samurai-7.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/samurai-7/",
+    "secao": "legendados",
+    "pagina": 112,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/samurai-7"
+  }
+}

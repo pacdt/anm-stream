@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Zoku Owarimonogatari",
+  "anime": {
+    "id": 4359,
+    "nome": "Zoku Owarimonogatari",
+    "link": "https://animefire.plus/animes/zoku-owarimonogatari-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/zoku-owarimonogatari",
+    "rating": "8.58",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/zoku-owarimonogatari/1",
+      "anime_id": 4359,
+      "anime_name": "Zoku Owarimonogatari"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/zoku-owarimonogatari/2",
+      "anime_id": 4359,
+      "anime_name": "Zoku Owarimonogatari"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/zoku-owarimonogatari/3",
+      "anime_id": 4359,
+      "anime_name": "Zoku Owarimonogatari"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/zoku-owarimonogatari/4",
+      "anime_id": 4359,
+      "anime_name": "Zoku Owarimonogatari"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/zoku-owarimonogatari/5",
+      "anime_id": 4359,
+      "anime_name": "Zoku Owarimonogatari"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/zoku-owarimonogatari/6",
+      "anime_id": 4359,
+      "anime_name": "Zoku Owarimonogatari"
+    }
+  ],
+  "total_episodes": 6
+}

@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Kamitsubaki-shi Kensetsuchuu.",
+  "anime": {
+    "id": 1862,
+    "nome": "Kamitsubaki-shi Kensetsuchuu.",
+    "link": "https://animefire.plus/animes/kamitsubaki-shi-kensetsuchuu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kamitsubaki-shi-kensetsuchuu",
+    "rating": "5.50",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kamitsubaki-shi-kensetsuchuu/1",
+      "anime_id": 1862,
+      "anime_name": "Kamitsubaki-shi Kensetsuchuu."
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kamitsubaki-shi-kensetsuchuu/2",
+      "anime_id": 1862,
+      "anime_name": "Kamitsubaki-shi Kensetsuchuu."
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kamitsubaki-shi-kensetsuchuu/3",
+      "anime_id": 1862,
+      "anime_name": "Kamitsubaki-shi Kensetsuchuu."
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kamitsubaki-shi-kensetsuchuu/4",
+      "anime_id": 1862,
+      "anime_name": "Kamitsubaki-shi Kensetsuchuu."
+    }
+  ],
+  "total_episodes": 4
+}

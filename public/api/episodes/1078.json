@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Gaikotsu Shotenin Honda-san",
+  "anime": {
+    "id": 1078,
+    "nome": "Gaikotsu Shotenin Honda-san",
+    "link": "https://animefire.plus/animes/gaikotsu-shotenin-honda-san-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gaikotsu-shotenin-honda-san",
+    "rating": "7.40",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gaikotsu-shotenin-honda-san/1",
+      "anime_id": 1078,
+      "anime_name": "Gaikotsu Shotenin Honda-san"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/gaikotsu-shotenin-honda-san/2",
+      "anime_id": 1078,
+      "anime_name": "Gaikotsu Shotenin Honda-san"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/gaikotsu-shotenin-honda-san/3",
+      "anime_id": 1078,
+      "anime_name": "Gaikotsu Shotenin Honda-san"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/gaikotsu-shotenin-honda-san/4",
+      "anime_id": 1078,
+      "anime_name": "Gaikotsu Shotenin Honda-san"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/gaikotsu-shotenin-honda-san/5",
+      "anime_id": 1078,
+      "anime_name": "Gaikotsu Shotenin Honda-san"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/gaikotsu-shotenin-honda-san/6",
+      "anime_id": 1078,
+      "anime_name": "Gaikotsu Shotenin Honda-san"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/gaikotsu-shotenin-honda-san/7",
+      "anime_id": 1078,
+      "anime_name": "Gaikotsu Shotenin Honda-san"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/gaikotsu-shotenin-honda-san/8",
+      "anime_id": 1078,
+      "anime_name": "Gaikotsu Shotenin Honda-san"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/gaikotsu-shotenin-honda-san/9",
+      "anime_id": 1078,
+      "anime_name": "Gaikotsu Shotenin Honda-san"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/gaikotsu-shotenin-honda-san/10",
+      "anime_id": 1078,
+      "anime_name": "Gaikotsu Shotenin Honda-san"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/gaikotsu-shotenin-honda-san/11",
+      "anime_id": 1078,
+      "anime_name": "Gaikotsu Shotenin Honda-san"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/gaikotsu-shotenin-honda-san/12",
+      "anime_id": 1078,
+      "anime_name": "Gaikotsu Shotenin Honda-san"
+    }
+  ],
+  "total_episodes": 12
+}

@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Variable Geo",
+  "anime": {
+    "id": 4072,
+    "nome": "Variable Geo",
+    "link": "https://animefire.plus/animes/variable-geo-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/variable-geo",
+    "rating": "5.69",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/variable-geo/1",
+      "anime_id": 4072,
+      "anime_name": "Variable Geo"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/variable-geo/2",
+      "anime_id": 4072,
+      "anime_name": "Variable Geo"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/variable-geo/3",
+      "anime_id": 4072,
+      "anime_name": "Variable Geo"
+    }
+  ],
+  "total_episodes": 3
+}

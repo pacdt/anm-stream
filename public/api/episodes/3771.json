@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Tekken: Bloodline (Dublado)",
+  "anime": {
+    "id": 3771,
+    "nome": "Tekken: Bloodline (Dublado)",
+    "link": "https://animefire.plus/animes/tekken-bloodline-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tekken-bloodline-dublado",
+    "rating": "6.44",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tekken-bloodline-dublado/1",
+      "anime_id": 3771,
+      "anime_name": "Tekken: Bloodline (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tekken-bloodline-dublado/2",
+      "anime_id": 3771,
+      "anime_name": "Tekken: Bloodline (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tekken-bloodline-dublado/3",
+      "anime_id": 3771,
+      "anime_name": "Tekken: Bloodline (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tekken-bloodline-dublado/4",
+      "anime_id": 3771,
+      "anime_name": "Tekken: Bloodline (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/tekken-bloodline-dublado/5",
+      "anime_id": 3771,
+      "anime_name": "Tekken: Bloodline (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/tekken-bloodline-dublado/6",
+      "anime_id": 3771,
+      "anime_name": "Tekken: Bloodline (Dublado)"
+    }
+  ],
+  "total_episodes": 6
+}

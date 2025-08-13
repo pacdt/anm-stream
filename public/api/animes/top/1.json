@@ -1,0 +1,19 @@
+{
+  "message": "Top 1 anime por rating",
+  "data": [
+    {
+      "id": 3601,
+      "nome": "Sousou no Frieren (Dublado)",
+      "link": "https://animefire.plus/animes/sousou-no-frieren-dublado-todos-os-episodios",
+      "texto_original": "Sousou no Frieren (Dublado)",
+      "rating": 9.3,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/sousou-no-frieren.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/sousou-no-frieren/",
+      "secao": "dublados,legendados",
+      "pagina": 5,
+      "total_episodios": 28,
+      "link_video": "https://animefire.plus/video/sousou-no-frieren-dublado"
+    }
+  ]
+}

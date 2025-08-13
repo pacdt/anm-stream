@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 750,
+    "nome": "Dareka No Manazashi",
+    "link": "https://animefire.plus/animes/dareka-no-manazashi-todos-os-episodios",
+    "texto_original": "Dareka No Manazashi",
+    "rating": 7.45,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/dareka-no-manazashi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dareka-no-manazashi/",
+    "secao": "legendados",
+    "pagina": 101,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/dareka-no-manazashi"
+  }
+}

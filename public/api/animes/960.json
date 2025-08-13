@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 960,
+    "nome": "Eve no Jikan",
+    "link": "https://animefire.plus/animes/eve-no-jikan-todos-os-episodios",
+    "texto_original": "Eve no Jikan",
+    "rating": 8.1,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/eve-no-jikan.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/eve-no-jikan/",
+    "secao": "legendados",
+    "pagina": 53,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/eve-no-jikan"
+  }
+}

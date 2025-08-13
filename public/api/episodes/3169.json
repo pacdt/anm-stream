@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: RWBY: Hyousetsu Teikoku",
+  "anime": {
+    "id": 3169,
+    "nome": "RWBY: Hyousetsu Teikoku",
+    "link": "https://animefire.plus/animes/rwby-hyousetsu-teikoku-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/rwby-hyousetsu-teikoku",
+    "rating": "6.35",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/rwby-hyousetsu-teikoku/1",
+      "anime_id": 3169,
+      "anime_name": "RWBY: Hyousetsu Teikoku"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/rwby-hyousetsu-teikoku/2",
+      "anime_id": 3169,
+      "anime_name": "RWBY: Hyousetsu Teikoku"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/rwby-hyousetsu-teikoku/3",
+      "anime_id": 3169,
+      "anime_name": "RWBY: Hyousetsu Teikoku"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/rwby-hyousetsu-teikoku/4",
+      "anime_id": 3169,
+      "anime_name": "RWBY: Hyousetsu Teikoku"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/rwby-hyousetsu-teikoku/5",
+      "anime_id": 3169,
+      "anime_name": "RWBY: Hyousetsu Teikoku"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/rwby-hyousetsu-teikoku/6",
+      "anime_id": 3169,
+      "anime_name": "RWBY: Hyousetsu Teikoku"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/rwby-hyousetsu-teikoku/7",
+      "anime_id": 3169,
+      "anime_name": "RWBY: Hyousetsu Teikoku"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/rwby-hyousetsu-teikoku/8",
+      "anime_id": 3169,
+      "anime_name": "RWBY: Hyousetsu Teikoku"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/rwby-hyousetsu-teikoku/9",
+      "anime_id": 3169,
+      "anime_name": "RWBY: Hyousetsu Teikoku"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/rwby-hyousetsu-teikoku/10",
+      "anime_id": 3169,
+      "anime_name": "RWBY: Hyousetsu Teikoku"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/rwby-hyousetsu-teikoku/11",
+      "anime_id": 3169,
+      "anime_name": "RWBY: Hyousetsu Teikoku"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/rwby-hyousetsu-teikoku/12",
+      "anime_id": 3169,
+      "anime_name": "RWBY: Hyousetsu Teikoku"
+    }
+  ],
+  "total_episodes": 12
+}

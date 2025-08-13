@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3456,
+    "nome": "Shinigami no Ballad.",
+    "link": "https://animefire.plus/animes/shinigami-no-ballad-todos-os-episodios",
+    "texto_original": "Shinigami no Ballad.",
+    "rating": 6.98,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/shinigami-no-ballad.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shinigami-no-ballad/",
+    "secao": "legendados",
+    "pagina": 171,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/shinigami-no-ballad"
+  }
+}

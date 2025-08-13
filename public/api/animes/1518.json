@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1518,
+    "nome": "Honoo no Mirage",
+    "link": "https://animefire.plus/animes/honoo-no-mirage-todos-os-episodios",
+    "texto_original": "Honoo no Mirage",
+    "rating": 6.67,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/honoo-no-mirage.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/honoo-no-mirage/",
+    "secao": "legendados",
+    "pagina": 119,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/honoo-no-mirage"
+  }
+}

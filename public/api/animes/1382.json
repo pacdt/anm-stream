@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1382,
+    "nome": "Hataraki Man",
+    "link": "https://animefire.plus/animes/hataraki-man-todos-os-episodios",
+    "texto_original": "Hataraki Man",
+    "rating": 7.08,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hataraki-man.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hataraki-man/",
+    "secao": "legendados",
+    "pagina": 137,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/hataraki-man"
+  }
+}

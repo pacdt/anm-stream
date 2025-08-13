@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Full Metal Panic? Fumoffu",
+  "anime": {
+    "id": 1044,
+    "nome": "Full Metal Panic? Fumoffu",
+    "link": "https://animefire.plus/animes/full-metal-panic-fumoffu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/full-metal-panic-fumoffu",
+    "rating": "8.13",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-fumoffu/1",
+      "anime_id": 1044,
+      "anime_name": "Full Metal Panic? Fumoffu"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-fumoffu/2",
+      "anime_id": 1044,
+      "anime_name": "Full Metal Panic? Fumoffu"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-fumoffu/3",
+      "anime_id": 1044,
+      "anime_name": "Full Metal Panic? Fumoffu"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-fumoffu/4",
+      "anime_id": 1044,
+      "anime_name": "Full Metal Panic? Fumoffu"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-fumoffu/5",
+      "anime_id": 1044,
+      "anime_name": "Full Metal Panic? Fumoffu"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-fumoffu/6",
+      "anime_id": 1044,
+      "anime_name": "Full Metal Panic? Fumoffu"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-fumoffu/7",
+      "anime_id": 1044,
+      "anime_name": "Full Metal Panic? Fumoffu"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-fumoffu/8",
+      "anime_id": 1044,
+      "anime_name": "Full Metal Panic? Fumoffu"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-fumoffu/9",
+      "anime_id": 1044,
+      "anime_name": "Full Metal Panic? Fumoffu"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-fumoffu/10",
+      "anime_id": 1044,
+      "anime_name": "Full Metal Panic? Fumoffu"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-fumoffu/11",
+      "anime_id": 1044,
+      "anime_name": "Full Metal Panic? Fumoffu"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-fumoffu/12",
+      "anime_id": 1044,
+      "anime_name": "Full Metal Panic? Fumoffu"
+    }
+  ],
+  "total_episodes": 12
+}

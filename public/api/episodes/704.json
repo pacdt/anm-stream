@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Cross Road",
+  "anime": {
+    "id": 704,
+    "nome": "Cross Road",
+    "link": "https://animefire.plus/animes/cross-road-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/cross-road",
+    "rating": "7.46",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/cross-road/1",
+      "anime_id": 704,
+      "anime_name": "Cross Road"
+    }
+  ],
+  "total_episodes": 1
+}

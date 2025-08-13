@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Cosmic Break",
+  "anime": {
+    "id": 695,
+    "nome": "Cosmic Break",
+    "link": "https://animefire.plus/animes/cosmic-break-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/cosmic-break",
+    "rating": "6.09",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/cosmic-break/1",
+      "anime_id": 695,
+      "anime_name": "Cosmic Break"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/cosmic-break/2",
+      "anime_id": 695,
+      "anime_name": "Cosmic Break"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/cosmic-break/3",
+      "anime_id": 695,
+      "anime_name": "Cosmic Break"
+    }
+  ],
+  "total_episodes": 3
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 59,
+    "nome": "Accel World",
+    "link": "https://animefire.plus/animes/accel-world-todos-os-episodios",
+    "texto_original": "Accel World",
+    "rating": 7.47,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/accel-world.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/accel-world/",
+    "secao": "legendados",
+    "pagina": 164,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/accel-world"
+  }
+}

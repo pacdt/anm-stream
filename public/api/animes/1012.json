@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1012,
+    "nome": "Flag",
+    "link": "https://animefire.plus/animes/flag-todos-os-episodios",
+    "texto_original": "Flag",
+    "rating": 7.27,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/flag.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/flag/",
+    "secao": "legendados",
+    "pagina": 97,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/flag"
+  }
+}

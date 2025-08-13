@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Princess Minerva",
+  "anime": {
+    "id": 3028,
+    "nome": "Princess Minerva",
+    "link": "https://animefire.plus/animes/princess-minerva-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/princess-minerva",
+    "rating": "5.58",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/princess-minerva/1",
+      "anime_id": 3028,
+      "anime_name": "Princess Minerva"
+    }
+  ],
+  "total_episodes": 1
+}

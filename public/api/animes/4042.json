@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4042,
+    "nome": "Usagi-chan de Cue!!",
+    "link": "https://animefire.plus/animes/usagi-chan-de-cue-todos-os-episodios",
+    "texto_original": "Usagi-chan de Cue!!",
+    "rating": 5.7,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/usagi-chan-de-cue.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/usagi-chan-de-cue/",
+    "secao": "legendados",
+    "pagina": 69,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/usagi-chan-de-cue"
+  }
+}

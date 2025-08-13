@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1999,
+    "nome": "King of Fighters: Another Day (Dublado)",
+    "link": "https://animefire.plus/animes/king-of-fighters-another-day-dublado-todos-os-episodios",
+    "texto_original": "King of Fighters: Another Day (Dublado)",
+    "rating": 6.33,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/king-of-fighters-another-day.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/king-of-fighters-another-day/",
+    "secao": "dublados",
+    "pagina": 21,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/king-of-fighters-another-day-dublado"
+  }
+}

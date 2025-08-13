@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Mai-Otome Zwei",
+  "anime": {
+    "id": 2367,
+    "nome": "Mai-Otome Zwei",
+    "link": "https://animefire.plus/animes/mai-otome-zwei-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mai-otome-zwei",
+    "rating": "7.29",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mai-otome-zwei/1",
+      "anime_id": 2367,
+      "anime_name": "Mai-Otome Zwei"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mai-otome-zwei/2",
+      "anime_id": 2367,
+      "anime_name": "Mai-Otome Zwei"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mai-otome-zwei/3",
+      "anime_id": 2367,
+      "anime_name": "Mai-Otome Zwei"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/mai-otome-zwei/4",
+      "anime_id": 2367,
+      "anime_name": "Mai-Otome Zwei"
+    }
+  ],
+  "total_episodes": 4
+}

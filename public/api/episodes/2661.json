@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Nanatsu no Taizai: Eiyuu-tachi wa Hashagu",
+  "anime": {
+    "id": 2661,
+    "nome": "Nanatsu no Taizai: Eiyuu-tachi wa Hashagu",
+    "link": "https://animefire.plus/animes/nanatsu-no-taizai-eiyuu-tachi-wa-hashagu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nanatsu-no-taizai-eiyuu-tachi-wa-hashagu",
+    "rating": "7.22",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nanatsu-no-taizai-eiyuu-tachi-wa-hashagu/1",
+      "anime_id": 2661,
+      "anime_name": "Nanatsu no Taizai: Eiyuu-tachi wa Hashagu"
+    }
+  ],
+  "total_episodes": 1
+}

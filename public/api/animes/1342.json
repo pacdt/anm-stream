@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1342,
+    "nome": "Hamatora The Animation",
+    "link": "https://animefire.plus/animes/hamatora-the-animation-todos-os-episodios",
+    "texto_original": "Hamatora The Animation",
+    "rating": 7.36,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/hamatora-the-animation.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hamatora-the-animation/",
+    "secao": "legendados",
+    "pagina": 91,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/hamatora-the-animation"
+  }
+}

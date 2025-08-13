@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Granbelm",
+  "anime": {
+    "id": 1235,
+    "nome": "Granbelm",
+    "link": "https://animefire.plus/animes/granbelm-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/granbelm",
+    "rating": "6.75",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/granbelm/1",
+      "anime_id": 1235,
+      "anime_name": "Granbelm"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/granbelm/2",
+      "anime_id": 1235,
+      "anime_name": "Granbelm"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/granbelm/3",
+      "anime_id": 1235,
+      "anime_name": "Granbelm"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/granbelm/4",
+      "anime_id": 1235,
+      "anime_name": "Granbelm"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/granbelm/5",
+      "anime_id": 1235,
+      "anime_name": "Granbelm"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/granbelm/6",
+      "anime_id": 1235,
+      "anime_name": "Granbelm"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/granbelm/7",
+      "anime_id": 1235,
+      "anime_name": "Granbelm"
+    }
+  ],
+  "total_episodes": 7
+}

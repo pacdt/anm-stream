@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2112,
+    "nome": "Koukyuu no Karasu",
+    "link": "https://animefire.plus/animes/koukyuu-no-karasu-todos-os-episodios",
+    "texto_original": "Koukyuu no Karasu",
+    "rating": 7.54,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/koukyuu-no-karasu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/koukyuu-no-karasu/",
+    "secao": "legendados",
+    "pagina": 29,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/koukyuu-no-karasu"
+  }
+}

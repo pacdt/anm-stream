@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3402,
+    "nome": "Shiguang Guiyu",
+    "link": "https://animefire.plus/animes/shiguang-guiyu-todos-os-episodios",
+    "texto_original": "Shiguang Guiyu",
+    "rating": 5.49,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/shiguang-guiyu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shiguang-guiyu/",
+    "secao": "legendados",
+    "pagina": 133,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/shiguang-guiyu"
+  }
+}

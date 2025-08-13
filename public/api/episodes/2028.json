@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Kitsune no Koe",
+  "anime": {
+    "id": 2028,
+    "nome": "Kitsune no Koe",
+    "link": "https://animefire.plus/animes/kitsune-no-koe-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kitsune-no-koe",
+    "rating": "6.62",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kitsune-no-koe/1",
+      "anime_id": 2028,
+      "anime_name": "Kitsune no Koe"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kitsune-no-koe/2",
+      "anime_id": 2028,
+      "anime_name": "Kitsune no Koe"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kitsune-no-koe/3",
+      "anime_id": 2028,
+      "anime_name": "Kitsune no Koe"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kitsune-no-koe/4",
+      "anime_id": 2028,
+      "anime_name": "Kitsune no Koe"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kitsune-no-koe/5",
+      "anime_id": 2028,
+      "anime_name": "Kitsune no Koe"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kitsune-no-koe/6",
+      "anime_id": 2028,
+      "anime_name": "Kitsune no Koe"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/kitsune-no-koe/7",
+      "anime_id": 2028,
+      "anime_name": "Kitsune no Koe"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/kitsune-no-koe/8",
+      "anime_id": 2028,
+      "anime_name": "Kitsune no Koe"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/kitsune-no-koe/9",
+      "anime_id": 2028,
+      "anime_name": "Kitsune no Koe"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/kitsune-no-koe/10",
+      "anime_id": 2028,
+      "anime_name": "Kitsune no Koe"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/kitsune-no-koe/11",
+      "anime_id": 2028,
+      "anime_name": "Kitsune no Koe"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/kitsune-no-koe/12",
+      "anime_id": 2028,
+      "anime_name": "Kitsune no Koe"
+    }
+  ],
+  "total_episodes": 12
+}

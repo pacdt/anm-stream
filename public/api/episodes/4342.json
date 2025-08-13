@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: Zenonzard: The Animation",
+  "anime": {
+    "id": 4342,
+    "nome": "Zenonzard: The Animation",
+    "link": "https://animefire.plus/animes/zenonzard-the-animation-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/zenonzard-the-animation",
+    "rating": "6.68",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/zenonzard-the-animation/1",
+      "anime_id": 4342,
+      "anime_name": "Zenonzard: The Animation"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/zenonzard-the-animation/2",
+      "anime_id": 4342,
+      "anime_name": "Zenonzard: The Animation"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/zenonzard-the-animation/3",
+      "anime_id": 4342,
+      "anime_name": "Zenonzard: The Animation"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/zenonzard-the-animation/4",
+      "anime_id": 4342,
+      "anime_name": "Zenonzard: The Animation"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/zenonzard-the-animation/5",
+      "anime_id": 4342,
+      "anime_name": "Zenonzard: The Animation"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/zenonzard-the-animation/6",
+      "anime_id": 4342,
+      "anime_name": "Zenonzard: The Animation"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/zenonzard-the-animation/7",
+      "anime_id": 4342,
+      "anime_name": "Zenonzard: The Animation"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/zenonzard-the-animation/8",
+      "anime_id": 4342,
+      "anime_name": "Zenonzard: The Animation"
+    }
+  ],
+  "total_episodes": 8
+}

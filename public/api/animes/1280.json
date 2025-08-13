@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1280,
+    "nome": "Gundam Vs Hello Kitty",
+    "link": "https://animefire.plus/animes/gundam-vs-hello-kitty-todos-os-episodios",
+    "texto_original": "Gundam Vs Hello Kitty",
+    "rating": 6.39,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/gundam-vs-hello-kitty.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gundam-vs-hello-kitty/",
+    "secao": "legendados",
+    "pagina": 92,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/gundam-vs-hello-kitty"
+  }
+}

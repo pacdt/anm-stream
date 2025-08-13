@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Angel Cop",
+  "anime": {
+    "id": 170,
+    "nome": "Angel Cop",
+    "link": "https://animefire.plus/animes/angel-cop-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/angel-cop",
+    "rating": "5.94",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/angel-cop/1",
+      "anime_id": 170,
+      "anime_name": "Angel Cop"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/angel-cop/2",
+      "anime_id": 170,
+      "anime_name": "Angel Cop"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/angel-cop/3",
+      "anime_id": 170,
+      "anime_name": "Angel Cop"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/angel-cop/4",
+      "anime_id": 170,
+      "anime_name": "Angel Cop"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/angel-cop/5",
+      "anime_id": 170,
+      "anime_name": "Angel Cop"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/angel-cop/6",
+      "anime_id": 170,
+      "anime_name": "Angel Cop"
+    }
+  ],
+  "total_episodes": 6
+}

@@ -1,0 +1,68 @@
+{
+  "message": "Lista de episódios do anime: Karneval",
+  "anime": {
+    "id": 1903,
+    "nome": "Karneval",
+    "link": "https://animefire.plus/animes/karneval-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/karneval",
+    "rating": "7.27",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/karneval/1",
+      "anime_id": 1903,
+      "anime_name": "Karneval"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/karneval/2",
+      "anime_id": 1903,
+      "anime_name": "Karneval"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/karneval/3",
+      "anime_id": 1903,
+      "anime_name": "Karneval"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/karneval/4",
+      "anime_id": 1903,
+      "anime_name": "Karneval"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/karneval/5",
+      "anime_id": 1903,
+      "anime_name": "Karneval"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/karneval/6",
+      "anime_id": 1903,
+      "anime_name": "Karneval"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/karneval/7",
+      "anime_id": 1903,
+      "anime_name": "Karneval"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/karneval/8",
+      "anime_id": 1903,
+      "anime_name": "Karneval"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/karneval/9",
+      "anime_id": 1903,
+      "anime_name": "Karneval"
+    }
+  ],
+  "total_episodes": 9
+}

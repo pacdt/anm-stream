@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Kino no Tabi: The Beautiful World - The Animated Series",
+  "anime": {
+    "id": 2010,
+    "nome": "Kino no Tabi: The Beautiful World - The Animated Series",
+    "link": "https://animefire.plus/animes/kino-no-tabi-the-beautiful-world---the-animated-series-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kino-no-tabi-the-beautiful-world---the-animated-series",
+    "rating": "7.62",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kino-no-tabi-the-beautiful-world---the-animated-series/1",
+      "anime_id": 2010,
+      "anime_name": "Kino no Tabi: The Beautiful World - The Animated Series"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kino-no-tabi-the-beautiful-world---the-animated-series/2",
+      "anime_id": 2010,
+      "anime_name": "Kino no Tabi: The Beautiful World - The Animated Series"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kino-no-tabi-the-beautiful-world---the-animated-series/3",
+      "anime_id": 2010,
+      "anime_name": "Kino no Tabi: The Beautiful World - The Animated Series"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kino-no-tabi-the-beautiful-world---the-animated-series/4",
+      "anime_id": 2010,
+      "anime_name": "Kino no Tabi: The Beautiful World - The Animated Series"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kino-no-tabi-the-beautiful-world---the-animated-series/5",
+      "anime_id": 2010,
+      "anime_name": "Kino no Tabi: The Beautiful World - The Animated Series"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kino-no-tabi-the-beautiful-world---the-animated-series/6",
+      "anime_id": 2010,
+      "anime_name": "Kino no Tabi: The Beautiful World - The Animated Series"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/kino-no-tabi-the-beautiful-world---the-animated-series/7",
+      "anime_id": 2010,
+      "anime_name": "Kino no Tabi: The Beautiful World - The Animated Series"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/kino-no-tabi-the-beautiful-world---the-animated-series/8",
+      "anime_id": 2010,
+      "anime_name": "Kino no Tabi: The Beautiful World - The Animated Series"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/kino-no-tabi-the-beautiful-world---the-animated-series/9",
+      "anime_id": 2010,
+      "anime_name": "Kino no Tabi: The Beautiful World - The Animated Series"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/kino-no-tabi-the-beautiful-world---the-animated-series/10",
+      "anime_id": 2010,
+      "anime_name": "Kino no Tabi: The Beautiful World - The Animated Series"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/kino-no-tabi-the-beautiful-world---the-animated-series/11",
+      "anime_id": 2010,
+      "anime_name": "Kino no Tabi: The Beautiful World - The Animated Series"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/kino-no-tabi-the-beautiful-world---the-animated-series/12",
+      "anime_id": 2010,
+      "anime_name": "Kino no Tabi: The Beautiful World - The Animated Series"
+    }
+  ],
+  "total_episodes": 12
+}

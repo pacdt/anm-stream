@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1061,
+    "nome": "Futari Wa Precure",
+    "link": "https://animefire.plus/animes/futari-wa-precure-todos-os-episodios",
+    "texto_original": "Futari Wa Precure",
+    "rating": 7.01,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/futari-wa-precure.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/futari-wa-precure/",
+    "secao": "legendados",
+    "pagina": 59,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/futari-wa-precure"
+  }
+}

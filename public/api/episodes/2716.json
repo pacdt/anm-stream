@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Neppuu Kairiku Bushi Road",
+  "anime": {
+    "id": 2716,
+    "nome": "Neppuu Kairiku Bushi Road",
+    "link": "https://animefire.plus/animes/neppuu-kairiku-bushi-road-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/neppuu-kairiku-bushi-road",
+    "rating": "7.26",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/neppuu-kairiku-bushi-road/1",
+      "anime_id": 2716,
+      "anime_name": "Neppuu Kairiku Bushi Road"
+    }
+  ],
+  "total_episodes": 1
+}

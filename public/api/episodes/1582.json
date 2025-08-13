@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Iczer-Girl Iczelion",
+  "anime": {
+    "id": 1582,
+    "nome": "Iczer-Girl Iczelion",
+    "link": "https://animefire.plus/animes/iczer-girl-iczelion-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/iczer-girl-iczelion",
+    "rating": "5.68",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/iczer-girl-iczelion/1",
+      "anime_id": 1582,
+      "anime_name": "Iczer-Girl Iczelion"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/iczer-girl-iczelion/2",
+      "anime_id": 1582,
+      "anime_name": "Iczer-Girl Iczelion"
+    }
+  ],
+  "total_episodes": 2
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3156,
+    "nome": "Rosario to Vampire",
+    "link": "https://animefire.plus/animes/rosario-to-vampire-todos-os-episodios",
+    "texto_original": "Rosario to Vampire",
+    "rating": 7.01,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/rosario-to-vampire.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/rosario-to-vampire/",
+    "secao": "legendados",
+    "pagina": 163,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/rosario-to-vampire"
+  }
+}

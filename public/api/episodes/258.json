@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Ashiaraiyashiki no Juunin-tachi.",
+  "anime": {
+    "id": 258,
+    "nome": "Ashiaraiyashiki no Juunin-tachi.",
+    "link": "https://animefire.plus/animes/ashiaraiyashiki-no-juunin-tachi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ashiaraiyashiki-no-juunin-tachi",
+    "rating": "5.06",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ashiaraiyashiki-no-juunin-tachi/1",
+      "anime_id": 258,
+      "anime_name": "Ashiaraiyashiki no Juunin-tachi."
+    }
+  ],
+  "total_episodes": 1
+}

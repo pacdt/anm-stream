@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Mushoku Tensei: Isekai Ittara Honki Dasu Special (Dublado)",
+  "anime": {
+    "id": 2629,
+    "nome": "Mushoku Tensei: Isekai Ittara Honki Dasu Special (Dublado)",
+    "link": "https://animefire.plus/animes/mushoku-tensei-isekai-ittara-honki-dasu-special-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mushoku-tensei-isekai-ittara-honki-dasu-special-dublado",
+    "rating": "7.79",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mushoku-tensei-isekai-ittara-honki-dasu-special-dublado/1",
+      "anime_id": 2629,
+      "anime_name": "Mushoku Tensei: Isekai Ittara Honki Dasu Special (Dublado)"
+    }
+  ],
+  "total_episodes": 1
+}

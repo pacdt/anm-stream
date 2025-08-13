@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3086,
+    "nome": "Re-Main (Dublado)",
+    "link": "https://animefire.plus/animes/re-main-dublado-todos-os-episodios",
+    "texto_original": "Re-Main (Dublado)",
+    "rating": 7.19,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/re-main.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/re-main/",
+    "secao": "dublados,legendados",
+    "pagina": 11,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/re-main-dublado"
+  }
+}

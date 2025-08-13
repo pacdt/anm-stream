@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2981,
+    "nome": "Piano (TV)",
+    "link": "https://animefire.plus/animes/piano-tv-todos-os-episodios",
+    "texto_original": "Piano (TV)",
+    "rating": 6.04,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/piano-tv.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/piano-tv/",
+    "secao": "legendados",
+    "pagina": 136,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/piano-tv"
+  }
+}

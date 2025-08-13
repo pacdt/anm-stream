@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1828,
+    "nome": "Kakushite! Makina-san!!",
+    "link": "https://animefire.plus/animes/kakushite-makina-san-todos-os-episodios",
+    "texto_original": "Kakushite! Makina-san!!",
+    "rating": 5.52,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/kakushite-makina-san.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kakushite-makina-san/",
+    "secao": "legendados,lancamentos",
+    "pagina": 5,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/kakushite-makina-san"
+  }
+}

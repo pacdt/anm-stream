@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1574,
+    "nome": "I''s Pure",
+    "link": "https://animefire.plus/animes/i-s-pure-todos-os-episodios",
+    "texto_original": "I''s Pure",
+    "rating": 6.89,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/i-s-pure.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/i-s-pure/",
+    "secao": "legendados",
+    "pagina": 43,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/i-s-pure"
+  }
+}

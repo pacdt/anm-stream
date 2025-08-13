@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Nanatsu no Bitoku",
+  "anime": {
+    "id": 2655,
+    "nome": "Nanatsu no Bitoku",
+    "link": "https://animefire.plus/animes/nanatsu-no-bitoku-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nanatsu-no-bitoku",
+    "rating": "5.27",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nanatsu-no-bitoku/1",
+      "anime_id": 2655,
+      "anime_name": "Nanatsu no Bitoku"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/nanatsu-no-bitoku/2",
+      "anime_id": 2655,
+      "anime_name": "Nanatsu no Bitoku"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/nanatsu-no-bitoku/3",
+      "anime_id": 2655,
+      "anime_name": "Nanatsu no Bitoku"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/nanatsu-no-bitoku/4",
+      "anime_id": 2655,
+      "anime_name": "Nanatsu no Bitoku"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/nanatsu-no-bitoku/5",
+      "anime_id": 2655,
+      "anime_name": "Nanatsu no Bitoku"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/nanatsu-no-bitoku/6",
+      "anime_id": 2655,
+      "anime_name": "Nanatsu no Bitoku"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/nanatsu-no-bitoku/7",
+      "anime_id": 2655,
+      "anime_name": "Nanatsu no Bitoku"
+    }
+  ],
+  "total_episodes": 7
+}

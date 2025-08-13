@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 370,
+    "nome": "Beelzebub",
+    "link": "https://animefire.plus/animes/beelzebub-todos-os-episodios",
+    "texto_original": "Beelzebub",
+    "rating": 8.01,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/beelzebub.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/beelzebub/",
+    "secao": "legendados",
+    "pagina": 158,
+    "total_episodios": 53,
+    "link_video": "https://animefire.plus/video/beelzebub"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Eikoku Koi Monogatari Emma",
+  "anime": {
+    "id": 926,
+    "nome": "Eikoku Koi Monogatari Emma",
+    "link": "https://animefire.plus/animes/eikoku-koi-monogatari-emma-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/eikoku-koi-monogatari-emma",
+    "rating": "7.68",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/eikoku-koi-monogatari-emma/1",
+      "anime_id": 926,
+      "anime_name": "Eikoku Koi Monogatari Emma"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/eikoku-koi-monogatari-emma/2",
+      "anime_id": 926,
+      "anime_name": "Eikoku Koi Monogatari Emma"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/eikoku-koi-monogatari-emma/3",
+      "anime_id": 926,
+      "anime_name": "Eikoku Koi Monogatari Emma"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/eikoku-koi-monogatari-emma/4",
+      "anime_id": 926,
+      "anime_name": "Eikoku Koi Monogatari Emma"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/eikoku-koi-monogatari-emma/5",
+      "anime_id": 926,
+      "anime_name": "Eikoku Koi Monogatari Emma"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/eikoku-koi-monogatari-emma/6",
+      "anime_id": 926,
+      "anime_name": "Eikoku Koi Monogatari Emma"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/eikoku-koi-monogatari-emma/7",
+      "anime_id": 926,
+      "anime_name": "Eikoku Koi Monogatari Emma"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/eikoku-koi-monogatari-emma/8",
+      "anime_id": 926,
+      "anime_name": "Eikoku Koi Monogatari Emma"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/eikoku-koi-monogatari-emma/9",
+      "anime_id": 926,
+      "anime_name": "Eikoku Koi Monogatari Emma"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/eikoku-koi-monogatari-emma/10",
+      "anime_id": 926,
+      "anime_name": "Eikoku Koi Monogatari Emma"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/eikoku-koi-monogatari-emma/11",
+      "anime_id": 926,
+      "anime_name": "Eikoku Koi Monogatari Emma"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/eikoku-koi-monogatari-emma/12",
+      "anime_id": 926,
+      "anime_name": "Eikoku Koi Monogatari Emma"
+    }
+  ],
+  "total_episodes": 12
+}

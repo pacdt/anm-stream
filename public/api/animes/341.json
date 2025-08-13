@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 341,
+    "nome": "Baoh Raihousha",
+    "link": "https://animefire.plus/animes/baoh-raihousha-todos-os-episodios",
+    "texto_original": "Baoh Raihousha",
+    "rating": 6.12,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/baoh-raihousha.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/baoh-raihousha/",
+    "secao": "legendados",
+    "pagina": 57,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/baoh-raihousha"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1958,
+    "nome": "Kiddy Grade",
+    "link": "https://animefire.plus/animes/kiddy-grade-todos-os-episodios",
+    "texto_original": "Kiddy Grade",
+    "rating": 7.27,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/kiddy-grade.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kiddy-grade/",
+    "secao": "legendados",
+    "pagina": 150,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/kiddy-grade"
+  }
+}

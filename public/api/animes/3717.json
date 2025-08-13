@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3717,
+    "nome": "Taisou Zamurai",
+    "link": "https://animefire.plus/animes/taisou-zamurai-todos-os-episodios",
+    "texto_original": "Taisou Zamurai",
+    "rating": null,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/taisou-zamurai.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/taisou-zamurai/",
+    "secao": "legendados",
+    "pagina": 51,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/taisou-zamurai"
+  }
+}

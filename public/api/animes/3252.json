@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3252,
+    "nome": "Sankarea",
+    "link": "https://animefire.plus/animes/sankarea-todos-os-episodios",
+    "texto_original": "Sankarea",
+    "rating": 7.46,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/sankarea.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sankarea/",
+    "secao": "legendados",
+    "pagina": 158,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/sankarea"
+  }
+}

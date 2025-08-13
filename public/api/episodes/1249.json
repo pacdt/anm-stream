@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Great Pretender: Razbliuto",
+  "anime": {
+    "id": 1249,
+    "nome": "Great Pretender: Razbliuto",
+    "link": "https://animefire.plus/animes/great-pretender-razbliuto-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/great-pretender-razbliuto",
+    "rating": "6.83",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/great-pretender-razbliuto/1",
+      "anime_id": 1249,
+      "anime_name": "Great Pretender: Razbliuto"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1042,
+    "nome": "Full Metal Panic! Invisible Victory",
+    "link": "https://animefire.plus/animes/full-metal-panic-invisible-victory-todos-os-episodios",
+    "texto_original": "Full Metal Panic! Invisible Victory",
+    "rating": 7.66,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/full-metal-panic-invisible-victory.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/full-metal-panic-invisible-victory/",
+    "secao": "legendados",
+    "pagina": 134,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/full-metal-panic-invisible-victory"
+  }
+}

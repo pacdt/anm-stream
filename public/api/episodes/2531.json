@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Miyakawa-ke no Kuufuku",
+  "anime": {
+    "id": 2531,
+    "nome": "Miyakawa-ke no Kuufuku",
+    "link": "https://animefire.plus/animes/miyakawa-ke-no-kuufuku-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/miyakawa-ke-no-kuufuku",
+    "rating": "6.54",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/miyakawa-ke-no-kuufuku/1",
+      "anime_id": 2531,
+      "anime_name": "Miyakawa-ke no Kuufuku"
+    }
+  ],
+  "total_episodes": 1
+}

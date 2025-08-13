@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Mi Yu Xing Zhe",
+  "anime": {
+    "id": 2488,
+    "nome": "Mi Yu Xing Zhe",
+    "link": "https://animefire.plus/animes/mi-yu-xing-zhe-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mi-yu-xing-zhe",
+    "rating": "7.56",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mi-yu-xing-zhe/1",
+      "anime_id": 2488,
+      "anime_name": "Mi Yu Xing Zhe"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mi-yu-xing-zhe/2",
+      "anime_id": 2488,
+      "anime_name": "Mi Yu Xing Zhe"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mi-yu-xing-zhe/3",
+      "anime_id": 2488,
+      "anime_name": "Mi Yu Xing Zhe"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/mi-yu-xing-zhe/4",
+      "anime_id": 2488,
+      "anime_name": "Mi Yu Xing Zhe"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/mi-yu-xing-zhe/5",
+      "anime_id": 2488,
+      "anime_name": "Mi Yu Xing Zhe"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/mi-yu-xing-zhe/6",
+      "anime_id": 2488,
+      "anime_name": "Mi Yu Xing Zhe"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/mi-yu-xing-zhe/7",
+      "anime_id": 2488,
+      "anime_name": "Mi Yu Xing Zhe"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/mi-yu-xing-zhe/8",
+      "anime_id": 2488,
+      "anime_name": "Mi Yu Xing Zhe"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/mi-yu-xing-zhe/9",
+      "anime_id": 2488,
+      "anime_name": "Mi Yu Xing Zhe"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/mi-yu-xing-zhe/10",
+      "anime_id": 2488,
+      "anime_name": "Mi Yu Xing Zhe"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/mi-yu-xing-zhe/11",
+      "anime_id": 2488,
+      "anime_name": "Mi Yu Xing Zhe"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/mi-yu-xing-zhe/12",
+      "anime_id": 2488,
+      "anime_name": "Mi Yu Xing Zhe"
+    }
+  ],
+  "total_episodes": 12
+}

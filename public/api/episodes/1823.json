@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Kakugo no Susume",
+  "anime": {
+    "id": 1823,
+    "nome": "Kakugo no Susume",
+    "link": "https://animefire.plus/animes/kakugo-no-susume-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kakugo-no-susume",
+    "rating": "4.70",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kakugo-no-susume/1",
+      "anime_id": 1823,
+      "anime_name": "Kakugo no Susume"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kakugo-no-susume/2",
+      "anime_id": 1823,
+      "anime_name": "Kakugo no Susume"
+    }
+  ],
+  "total_episodes": 2
+}

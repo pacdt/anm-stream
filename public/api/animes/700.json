@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 700,
+    "nome": "Coyote Ragtime Show",
+    "link": "https://animefire.plus/animes/coyote-ragtime-show-todos-os-episodios",
+    "texto_original": "Coyote Ragtime Show",
+    "rating": 6.7,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/coyote-ragtime-show.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/coyote-ragtime-show/",
+    "secao": "legendados",
+    "pagina": 100,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/coyote-ragtime-show"
+  }
+}

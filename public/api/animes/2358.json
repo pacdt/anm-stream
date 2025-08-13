@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2358,
+    "nome": "Mahoutsukai Precure!",
+    "link": "https://animefire.plus/animes/mahoutsukai-precure-todos-os-episodios",
+    "texto_original": "Mahoutsukai Precure!",
+    "rating": 7.08,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/mahoutsukai-precure.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mahoutsukai-precure/",
+    "secao": "legendados",
+    "pagina": 67,
+    "total_episodios": 47,
+    "link_video": "https://animefire.plus/video/mahoutsukai-precure"
+  }
+}

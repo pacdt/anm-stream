@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 363,
+    "nome": "Beastars (Dublado)",
+    "link": "https://animefire.plus/animes/beastars-dublado-todos-os-episodios",
+    "texto_original": "Beastars (Dublado)",
+    "rating": 8.09,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/beastars.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/beastars/",
+    "secao": "dublados,legendados",
+    "pagina": 25,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/beastars-dublado"
+  }
+}

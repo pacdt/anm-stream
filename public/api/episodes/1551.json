@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Hunter x Hunter Pilot",
+  "anime": {
+    "id": 1551,
+    "nome": "Hunter x Hunter Pilot",
+    "link": "https://animefire.plus/animes/hunter-x-hunter-pilot-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hunter-x-hunter-pilot",
+    "rating": "7.22",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hunter-x-hunter-pilot/1",
+      "anime_id": 1551,
+      "anime_name": "Hunter x Hunter Pilot"
+    }
+  ],
+  "total_episodes": 1
+}

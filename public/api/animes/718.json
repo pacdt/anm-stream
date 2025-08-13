@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 718,
+    "nome": "D.Gray-man Hallow",
+    "link": "https://animefire.plus/animes/d-gray-man-hallow-todos-os-episodios",
+    "texto_original": "D.Gray-man Hallow",
+    "rating": 7.82,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/d-gray-man-hallow.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/d-gray-man-hallow/",
+    "secao": "legendados",
+    "pagina": 90,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/d-gray-man-hallow"
+  }
+}

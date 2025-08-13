@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1009,
+    "nome": "Final Approach",
+    "link": "https://animefire.plus/animes/final-approach-todos-os-episodios",
+    "texto_original": "Final Approach",
+    "rating": 6.62,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/final-approach.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/final-approach/",
+    "secao": "legendados",
+    "pagina": 97,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/final-approach"
+  }
+}

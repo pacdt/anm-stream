@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Shingeki no Kyojin: Kuinaki Sentaku (Dublado)",
+  "anime": {
+    "id": 3445,
+    "nome": "Shingeki no Kyojin: Kuinaki Sentaku (Dublado)",
+    "link": "https://animefire.plus/animes/shingeki-no-kyojin-kuinaki-sentaku-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shingeki-no-kyojin-kuinaki-sentaku-dublado",
+    "rating": "8.41",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shingeki-no-kyojin-kuinaki-sentaku-dublado/1",
+      "anime_id": 3445,
+      "anime_name": "Shingeki no Kyojin: Kuinaki Sentaku (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shingeki-no-kyojin-kuinaki-sentaku-dublado/2",
+      "anime_id": 3445,
+      "anime_name": "Shingeki no Kyojin: Kuinaki Sentaku (Dublado)"
+    }
+  ],
+  "total_episodes": 2
+}

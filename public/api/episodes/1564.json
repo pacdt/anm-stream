@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Hyakko Extra",
+  "anime": {
+    "id": 1564,
+    "nome": "Hyakko Extra",
+    "link": "https://animefire.plus/animes/hyakko-extra-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hyakko-extra",
+    "rating": "6.78",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hyakko-extra/1",
+      "anime_id": 1564,
+      "anime_name": "Hyakko Extra"
+    }
+  ],
+  "total_episodes": 1
+}

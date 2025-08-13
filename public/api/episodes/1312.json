@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Haikyuu!!: Lev Genzan!",
+  "anime": {
+    "id": 1312,
+    "nome": "Haikyuu!!: Lev Genzan!",
+    "link": "https://animefire.plus/animes/haikyuu-lev-genzan-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/haikyuu-lev-genzan",
+    "rating": "7.76",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/haikyuu-lev-genzan/1",
+      "anime_id": 1312,
+      "anime_name": "Haikyuu!!: Lev Genzan!"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2209,
+    "nome": "Lazarus (Dublado)",
+    "link": "https://animefire.plus/animes/lazarus-dublado-todos-os-episodios",
+    "texto_original": "Lazarus (Dublado)",
+    "rating": 7.56,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/lazarus.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/lazarus/",
+    "secao": "dublados,legendados,lancamentos",
+    "pagina": 1,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/lazarus-dublado"
+  }
+}

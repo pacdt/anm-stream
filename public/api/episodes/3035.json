@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Prism Magical: Prism Generations!",
+  "anime": {
+    "id": 3035,
+    "nome": "Prism Magical: Prism Generations!",
+    "link": "https://animefire.plus/animes/prism-magical-prism-generations-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/prism-magical-prism-generations",
+    "rating": "5.16",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/prism-magical-prism-generations/1",
+      "anime_id": 3035,
+      "anime_name": "Prism Magical: Prism Generations!"
+    }
+  ],
+  "total_episodes": 1
+}

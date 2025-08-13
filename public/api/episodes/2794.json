@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Nurarihyon no Mago OVA",
+  "anime": {
+    "id": 2794,
+    "nome": "Nurarihyon no Mago OVA",
+    "link": "https://animefire.plus/animes/nurarihyon-no-mago-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nurarihyon-no-mago-ova",
+    "rating": "7.76",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nurarihyon-no-mago-ova/1",
+      "anime_id": 2794,
+      "anime_name": "Nurarihyon no Mago OVA"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/nurarihyon-no-mago-ova/2",
+      "anime_id": 2794,
+      "anime_name": "Nurarihyon no Mago OVA"
+    }
+  ],
+  "total_episodes": 2
+}

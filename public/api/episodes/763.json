@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: De:vadasy",
+  "anime": {
+    "id": 763,
+    "nome": "De:vadasy",
+    "link": "https://animefire.plus/animes/de-vadasy-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/de-vadasy",
+    "rating": "4.80",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/de-vadasy/1",
+      "anime_id": 763,
+      "anime_name": "De:vadasy"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/de-vadasy/2",
+      "anime_id": 763,
+      "anime_name": "De:vadasy"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/de-vadasy/3",
+      "anime_id": 763,
+      "anime_name": "De:vadasy"
+    }
+  ],
+  "total_episodes": 3
+}

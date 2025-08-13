@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 206,
+    "nome": "Ao no Miburo",
+    "link": "https://animefire.plus/animes/ao-no-miburo-todos-os-episodios",
+    "texto_original": "Ao no Miburo",
+    "rating": 6.67,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ao-no-miburo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ao-no-miburo/",
+    "secao": "legendados",
+    "pagina": 10,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/ao-no-miburo"
+  }
+}

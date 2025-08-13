@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Build Divide: Code White",
+  "anime": {
+    "id": 516,
+    "nome": "Build Divide: Code White",
+    "link": "https://animefire.plus/animes/build-divide-code-white-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/build-divide-code-white",
+    "rating": "6.64",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/build-divide-code-white/1",
+      "anime_id": 516,
+      "anime_name": "Build Divide: Code White"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/build-divide-code-white/2",
+      "anime_id": 516,
+      "anime_name": "Build Divide: Code White"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/build-divide-code-white/3",
+      "anime_id": 516,
+      "anime_name": "Build Divide: Code White"
+    }
+  ],
+  "total_episodes": 3
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Non Non Biyori Nonstop",
+  "anime": {
+    "id": 2777,
+    "nome": "Non Non Biyori Nonstop",
+    "link": "https://animefire.plus/animes/non-non-biyori-nonstop-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/non-non-biyori-nonstop",
+    "rating": "8.35",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/non-non-biyori-nonstop/1",
+      "anime_id": 2777,
+      "anime_name": "Non Non Biyori Nonstop"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/non-non-biyori-nonstop/2",
+      "anime_id": 2777,
+      "anime_name": "Non Non Biyori Nonstop"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/non-non-biyori-nonstop/3",
+      "anime_id": 2777,
+      "anime_name": "Non Non Biyori Nonstop"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/non-non-biyori-nonstop/4",
+      "anime_id": 2777,
+      "anime_name": "Non Non Biyori Nonstop"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/non-non-biyori-nonstop/5",
+      "anime_id": 2777,
+      "anime_name": "Non Non Biyori Nonstop"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/non-non-biyori-nonstop/6",
+      "anime_id": 2777,
+      "anime_name": "Non Non Biyori Nonstop"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/non-non-biyori-nonstop/7",
+      "anime_id": 2777,
+      "anime_name": "Non Non Biyori Nonstop"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/non-non-biyori-nonstop/8",
+      "anime_id": 2777,
+      "anime_name": "Non Non Biyori Nonstop"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/non-non-biyori-nonstop/9",
+      "anime_id": 2777,
+      "anime_name": "Non Non Biyori Nonstop"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/non-non-biyori-nonstop/10",
+      "anime_id": 2777,
+      "anime_name": "Non Non Biyori Nonstop"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/non-non-biyori-nonstop/11",
+      "anime_id": 2777,
+      "anime_name": "Non Non Biyori Nonstop"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/non-non-biyori-nonstop/12",
+      "anime_id": 2777,
+      "anime_name": "Non Non Biyori Nonstop"
+    }
+  ],
+  "total_episodes": 12
+}

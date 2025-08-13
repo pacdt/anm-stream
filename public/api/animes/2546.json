@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2546,
+    "nome": "Mobile Suit Gundam AGE",
+    "link": "https://animefire.plus/animes/mobile-suit-gundam-age-todos-os-episodios",
+    "texto_original": "Mobile Suit Gundam AGE",
+    "rating": 6.55,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/mobile-suit-gundam-age.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mobile-suit-gundam-age/",
+    "secao": "legendados",
+    "pagina": 151,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/mobile-suit-gundam-age"
+  }
+}

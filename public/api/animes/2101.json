@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2101,
+    "nome": "Koroshi Ai (Dublado)",
+    "link": "https://animefire.plus/animes/koroshi-ai-dublado-todos-os-episodios",
+    "texto_original": "Koroshi Ai (Dublado)",
+    "rating": 6.9,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/koroshi-ai.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/koroshi-ai/",
+    "secao": "dublados,legendados",
+    "pagina": 12,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/koroshi-ai-dublado"
+  }
+}

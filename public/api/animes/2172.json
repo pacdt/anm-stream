@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2172,
+    "nome": "Kuzu no Honkai",
+    "link": "https://animefire.plus/animes/kuzu-no-honkai-todos-os-episodios",
+    "texto_original": "Kuzu no Honkai",
+    "rating": 7.48,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/kuzu-no-honkai.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kuzu-no-honkai/",
+    "secao": "legendados",
+    "pagina": 121,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/kuzu-no-honkai"
+  }
+}

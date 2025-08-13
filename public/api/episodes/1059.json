@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Futari Solo Camp",
+  "anime": {
+    "id": 1059,
+    "nome": "Futari Solo Camp",
+    "link": "https://animefire.plus/animes/futari-solo-camp-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/futari-solo-camp",
+    "rating": "6.52",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/futari-solo-camp/1",
+      "anime_id": 1059,
+      "anime_name": "Futari Solo Camp"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/futari-solo-camp/2",
+      "anime_id": 1059,
+      "anime_name": "Futari Solo Camp"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/futari-solo-camp/3",
+      "anime_id": 1059,
+      "anime_name": "Futari Solo Camp"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/futari-solo-camp/4",
+      "anime_id": 1059,
+      "anime_name": "Futari Solo Camp"
+    }
+  ],
+  "total_episodes": 4
+}

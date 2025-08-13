@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Lupin VIII",
+  "anime": {
+    "id": 2280,
+    "nome": "Lupin VIII",
+    "link": "https://animefire.plus/animes/lupin-viii-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/lupin-viii",
+    "rating": "5.68",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/lupin-viii/1",
+      "anime_id": 2280,
+      "anime_name": "Lupin VIII"
+    }
+  ],
+  "total_episodes": 1
+}

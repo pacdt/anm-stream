@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 114,
+    "nome": "Akame ga Kill! (Dublado)",
+    "link": "https://animefire.plus/animes/akame-ga-kill-dublado-todos-os-episodios",
+    "texto_original": "Akame ga Kill! (Dublado)",
+    "rating": 7.66,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/akame-ga-kill.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/akame-ga-kill/",
+    "secao": "dublados,legendados",
+    "pagina": 25,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/akame-ga-kill-dublado"
+  }
+}

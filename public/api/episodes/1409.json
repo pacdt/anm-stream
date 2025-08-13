@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: Heike Monogatari",
+  "anime": {
+    "id": 1409,
+    "nome": "Heike Monogatari",
+    "link": "https://animefire.plus/animes/heike-monogatari-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/heike-monogatari",
+    "rating": "7.79",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/heike-monogatari/1",
+      "anime_id": 1409,
+      "anime_name": "Heike Monogatari"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/heike-monogatari/2",
+      "anime_id": 1409,
+      "anime_name": "Heike Monogatari"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/heike-monogatari/3",
+      "anime_id": 1409,
+      "anime_name": "Heike Monogatari"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/heike-monogatari/4",
+      "anime_id": 1409,
+      "anime_name": "Heike Monogatari"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/heike-monogatari/5",
+      "anime_id": 1409,
+      "anime_name": "Heike Monogatari"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/heike-monogatari/6",
+      "anime_id": 1409,
+      "anime_name": "Heike Monogatari"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/heike-monogatari/7",
+      "anime_id": 1409,
+      "anime_name": "Heike Monogatari"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/heike-monogatari/8",
+      "anime_id": 1409,
+      "anime_name": "Heike Monogatari"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/heike-monogatari/9",
+      "anime_id": 1409,
+      "anime_name": "Heike Monogatari"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/heike-monogatari/10",
+      "anime_id": 1409,
+      "anime_name": "Heike Monogatari"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/heike-monogatari/11",
+      "anime_id": 1409,
+      "anime_name": "Heike Monogatari"
+    }
+  ],
+  "total_episodes": 11
+}

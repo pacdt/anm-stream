@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Terra Formars Revenge",
+  "anime": {
+    "id": 3818,
+    "nome": "Terra Formars Revenge",
+    "link": "https://animefire.plus/animes/terra-formars-revenge-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/terra-formars-revenge",
+    "rating": "6.82",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/terra-formars-revenge/1",
+      "anime_id": 3818,
+      "anime_name": "Terra Formars Revenge"
+    }
+  ],
+  "total_episodes": 1
+}

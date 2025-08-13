@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Chu Feng: B.E.E",
+  "anime": {
+    "id": 638,
+    "nome": "Chu Feng: B.E.E",
+    "link": "https://animefire.plus/animes/chu-feng-b-e-e-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/chu-feng-b-e-e",
+    "rating": "5.99",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/chu-feng-b-e-e/1",
+      "anime_id": 638,
+      "anime_name": "Chu Feng: B.E.E"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/chu-feng-b-e-e/2",
+      "anime_id": 638,
+      "anime_name": "Chu Feng: B.E.E"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/chu-feng-b-e-e/3",
+      "anime_id": 638,
+      "anime_name": "Chu Feng: B.E.E"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/chu-feng-b-e-e/4",
+      "anime_id": 638,
+      "anime_name": "Chu Feng: B.E.E"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/chu-feng-b-e-e/5",
+      "anime_id": 638,
+      "anime_name": "Chu Feng: B.E.E"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/chu-feng-b-e-e/6",
+      "anime_id": 638,
+      "anime_name": "Chu Feng: B.E.E"
+    }
+  ],
+  "total_episodes": 6
+}

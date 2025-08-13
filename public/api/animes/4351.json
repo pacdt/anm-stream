@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4351,
+    "nome": "Zetsuen no Tempest",
+    "link": "https://animefire.plus/animes/zetsuen-no-tempest-todos-os-episodios",
+    "texto_original": "Zetsuen no Tempest",
+    "rating": 8.08,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/zetsuen-no-tempest.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/zetsuen-no-tempest/",
+    "secao": "legendados",
+    "pagina": 144,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/zetsuen-no-tempest"
+  }
+}

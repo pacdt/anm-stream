@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Papa no Iukoto wo Kikinasai!",
+  "anime": {
+    "id": 2951,
+    "nome": "Papa no Iukoto wo Kikinasai!",
+    "link": "https://animefire.plus/animes/papa-no-iukoto-wo-kikinasai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/papa-no-iukoto-wo-kikinasai",
+    "rating": "7.42",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/papa-no-iukoto-wo-kikinasai/1",
+      "anime_id": 2951,
+      "anime_name": "Papa no Iukoto wo Kikinasai!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/papa-no-iukoto-wo-kikinasai/2",
+      "anime_id": 2951,
+      "anime_name": "Papa no Iukoto wo Kikinasai!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/papa-no-iukoto-wo-kikinasai/3",
+      "anime_id": 2951,
+      "anime_name": "Papa no Iukoto wo Kikinasai!"
+    }
+  ],
+  "total_episodes": 3
+}

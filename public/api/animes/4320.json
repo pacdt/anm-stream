@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4320,
+    "nome": "Yuusha ga Shinda!",
+    "link": "https://animefire.plus/animes/yuusha-ga-shinda-todos-os-episodios",
+    "texto_original": "Yuusha ga Shinda!",
+    "rating": 6.6,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/yuusha-ga-shinda.jpg",
+    "imagem_pasta": "https://animefire.plus/img/animes/yuusha-ga-shinda/",
+    "secao": "legendados",
+    "pagina": 24,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/yuusha-ga-shinda"
+  }
+}

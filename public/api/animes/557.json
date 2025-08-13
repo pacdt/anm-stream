@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 557,
+    "nome": "Captain Tsubasa",
+    "link": "https://animefire.plus/animes/captain-tsubasa-todos-os-episodios",
+    "texto_original": "Captain Tsubasa",
+    "rating": 7.31,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/captain-tsubasa.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/captain-tsubasa/",
+    "secao": "legendados",
+    "pagina": 59,
+    "total_episodios": 46,
+    "link_video": "https://animefire.plus/video/captain-tsubasa"
+  }
+}

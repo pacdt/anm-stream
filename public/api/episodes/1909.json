@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Katsugeki Shoujo Tanteidan",
+  "anime": {
+    "id": 1909,
+    "nome": "Katsugeki Shoujo Tanteidan",
+    "link": "https://animefire.plus/animes/katsugeki-shoujo-tanteidan-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/katsugeki-shoujo-tanteidan",
+    "rating": "4.81",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/katsugeki-shoujo-tanteidan/1",
+      "anime_id": 1909,
+      "anime_name": "Katsugeki Shoujo Tanteidan"
+    }
+  ],
+  "total_episodes": 1
+}

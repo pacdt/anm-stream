@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Brotherhood: Final Fantasy XV",
+  "anime": {
+    "id": 502,
+    "nome": "Brotherhood: Final Fantasy XV",
+    "link": "https://animefire.plus/animes/brotherhood-final-fantasy-xv-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/brotherhood-final-fantasy-xv",
+    "rating": "6.96",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/brotherhood-final-fantasy-xv/1",
+      "anime_id": 502,
+      "anime_name": "Brotherhood: Final Fantasy XV"
+    }
+  ],
+  "total_episodes": 1
+}

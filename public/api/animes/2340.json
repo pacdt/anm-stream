@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2340,
+    "nome": "Mahou Shoujo Site",
+    "link": "https://animefire.plus/animes/mahou-shoujo-site-todos-os-episodios",
+    "texto_original": "Mahou Shoujo Site",
+    "rating": 6.56,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/mahou-shoujo-site.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mahou-shoujo-site/",
+    "secao": "legendados",
+    "pagina": 177,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/mahou-shoujo-site"
+  }
+}

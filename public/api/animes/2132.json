@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2132,
+    "nome": "Kuma Miko",
+    "link": "https://animefire.plus/animes/kuma-miko-todos-os-episodios",
+    "texto_original": "Kuma Miko",
+    "rating": 6.33,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kuma-miko.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kuma-miko/",
+    "secao": "legendados",
+    "pagina": 166,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/kuma-miko"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1333,
+    "nome": "Hakuouki",
+    "link": "https://animefire.plus/animes/hakuouki-todos-os-episodios",
+    "texto_original": "Hakuouki",
+    "rating": 7.51,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/hakuouki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hakuouki/",
+    "secao": "legendados",
+    "pagina": 96,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/hakuouki"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Kokoro Connect",
+  "anime": {
+    "id": 2066,
+    "nome": "Kokoro Connect",
+    "link": "https://animefire.plus/animes/kokoro-connect-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kokoro-connect",
+    "rating": "7.91",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kokoro-connect/1",
+      "anime_id": 2066,
+      "anime_name": "Kokoro Connect"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kokoro-connect/2",
+      "anime_id": 2066,
+      "anime_name": "Kokoro Connect"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kokoro-connect/3",
+      "anime_id": 2066,
+      "anime_name": "Kokoro Connect"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kokoro-connect/4",
+      "anime_id": 2066,
+      "anime_name": "Kokoro Connect"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kokoro-connect/5",
+      "anime_id": 2066,
+      "anime_name": "Kokoro Connect"
+    }
+  ],
+  "total_episodes": 5
+}

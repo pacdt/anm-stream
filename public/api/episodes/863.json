@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Doupo Cangqiong",
+  "anime": {
+    "id": 863,
+    "nome": "Doupo Cangqiong",
+    "link": "https://animefire.plus/animes/doupo-cangqiong-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/doupo-cangqiong",
+    "rating": "7.36",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/doupo-cangqiong/1",
+      "anime_id": 863,
+      "anime_name": "Doupo Cangqiong"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/doupo-cangqiong/2",
+      "anime_id": 863,
+      "anime_name": "Doupo Cangqiong"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/doupo-cangqiong/3",
+      "anime_id": 863,
+      "anime_name": "Doupo Cangqiong"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/doupo-cangqiong/4",
+      "anime_id": 863,
+      "anime_name": "Doupo Cangqiong"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/doupo-cangqiong/5",
+      "anime_id": 863,
+      "anime_name": "Doupo Cangqiong"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/doupo-cangqiong/6",
+      "anime_id": 863,
+      "anime_name": "Doupo Cangqiong"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/doupo-cangqiong/7",
+      "anime_id": 863,
+      "anime_name": "Doupo Cangqiong"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/doupo-cangqiong/8",
+      "anime_id": 863,
+      "anime_name": "Doupo Cangqiong"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/doupo-cangqiong/9",
+      "anime_id": 863,
+      "anime_name": "Doupo Cangqiong"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/doupo-cangqiong/10",
+      "anime_id": 863,
+      "anime_name": "Doupo Cangqiong"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/doupo-cangqiong/11",
+      "anime_id": 863,
+      "anime_name": "Doupo Cangqiong"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/doupo-cangqiong/12",
+      "anime_id": 863,
+      "anime_name": "Doupo Cangqiong"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/doupo-cangqiong/13",
+      "anime_id": 863,
+      "anime_name": "Doupo Cangqiong"
+    }
+  ],
+  "total_episodes": 13
+}

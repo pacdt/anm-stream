@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 409,
+    "nome": "Black Cat (Dublado)",
+    "link": "https://animefire.plus/animes/black-cat-dublado-todos-os-episodios",
+    "texto_original": "Black Cat (Dublado)",
+    "rating": 7.41,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/black-cat.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/black-cat/",
+    "secao": "dublados,legendados",
+    "pagina": 22,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/black-cat-dublado"
+  }
+}

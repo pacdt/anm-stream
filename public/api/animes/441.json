@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 441,
+    "nome": "Blue Period (Dublado)",
+    "link": "https://animefire.plus/animes/blue-period-dublado-todos-os-episodios",
+    "texto_original": "Blue Period (Dublado)",
+    "rating": 7.79,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/blue-period.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/blue-period/",
+    "secao": "dublados,legendados",
+    "pagina": 12,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/blue-period-dublado"
+  }
+}

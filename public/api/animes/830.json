@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 830,
+    "nome": "Dirty Pair",
+    "link": "https://animefire.plus/animes/dirty-pair-todos-os-episodios",
+    "texto_original": "Dirty Pair",
+    "rating": 7.18,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/dirty-pair.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dirty-pair/",
+    "secao": "legendados",
+    "pagina": 77,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/dirty-pair"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3205,
+    "nome": "Saint Seiya (Dublado)",
+    "link": "https://animefire.plus/animes/saint-seiya-dublado-todos-os-episodios",
+    "texto_original": "Saint Seiya (Dublado)",
+    "rating": 7.92,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/saint-seiya.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/saint-seiya/",
+    "secao": "dublados,legendados",
+    "pagina": 28,
+    "total_episodios": 145,
+    "link_video": "https://animefire.plus/video/saint-seiya-dublado"
+  }
+}

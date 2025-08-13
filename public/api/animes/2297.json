@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2297,
+    "nome": "Made in Abyss",
+    "link": "https://animefire.plus/animes/made-in-abyss-todos-os-episodios",
+    "texto_original": "Made in Abyss",
+    "rating": 8.85,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/made-in-abyss.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/made-in-abyss/",
+    "secao": "legendados",
+    "pagina": 168,
+    "total_episodios": 14,
+    "link_video": "https://animefire.plus/video/made-in-abyss"
+  }
+}

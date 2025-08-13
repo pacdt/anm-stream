@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2219,
+    "nome": "Liar Liar",
+    "link": "https://animefire.plus/animes/liar-liar-todos-os-episodios",
+    "texto_original": "Liar Liar",
+    "rating": 6.32,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/liar-liar.jpg",
+    "imagem_pasta": "https://animefire.plus/img/animes/liar-liar/",
+    "secao": "legendados,lancamentos",
+    "pagina": 23,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/liar-liar"
+  }
+}

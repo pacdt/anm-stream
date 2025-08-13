@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Riding Bean",
+  "anime": {
+    "id": 3122,
+    "nome": "Riding Bean",
+    "link": "https://animefire.plus/animes/riding-bean-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/riding-bean",
+    "rating": "7.09",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/riding-bean/1",
+      "anime_id": 3122,
+      "anime_name": "Riding Bean"
+    }
+  ],
+  "total_episodes": 1
+}

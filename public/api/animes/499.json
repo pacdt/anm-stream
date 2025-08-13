@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 499,
+    "nome": "Breakers",
+    "link": "https://animefire.plus/animes/breakers-todos-os-episodios",
+    "texto_original": "Breakers",
+    "rating": 6.35,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/breakers.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/breakers/",
+    "secao": "legendados",
+    "pagina": 92,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/breakers"
+  }
+}

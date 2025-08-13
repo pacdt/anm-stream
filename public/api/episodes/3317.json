@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Sekai de Ichiban Tsuyoku Naritai! Specials",
+  "anime": {
+    "id": 3317,
+    "nome": "Sekai de Ichiban Tsuyoku Naritai! Specials",
+    "link": "https://animefire.plus/animes/sekai-de-ichiban-tsuyoku-naritai-specials-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sekai-de-ichiban-tsuyoku-naritai-specials",
+    "rating": "5.77",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sekai-de-ichiban-tsuyoku-naritai-specials/1",
+      "anime_id": 3317,
+      "anime_name": "Sekai de Ichiban Tsuyoku Naritai! Specials"
+    }
+  ],
+  "total_episodes": 1
+}

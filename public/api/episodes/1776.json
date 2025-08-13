@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: K: Return Of Kings",
+  "anime": {
+    "id": 1776,
+    "nome": "K: Return Of Kings",
+    "link": "https://animefire.plus/animes/k-return-of-kings-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/k-return-of-kings",
+    "rating": "7.74",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/k-return-of-kings/1",
+      "anime_id": 1776,
+      "anime_name": "K: Return Of Kings"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/k-return-of-kings/2",
+      "anime_id": 1776,
+      "anime_name": "K: Return Of Kings"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/k-return-of-kings/3",
+      "anime_id": 1776,
+      "anime_name": "K: Return Of Kings"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/k-return-of-kings/4",
+      "anime_id": 1776,
+      "anime_name": "K: Return Of Kings"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/k-return-of-kings/5",
+      "anime_id": 1776,
+      "anime_name": "K: Return Of Kings"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/k-return-of-kings/6",
+      "anime_id": 1776,
+      "anime_name": "K: Return Of Kings"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/k-return-of-kings/7",
+      "anime_id": 1776,
+      "anime_name": "K: Return Of Kings"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/k-return-of-kings/8",
+      "anime_id": 1776,
+      "anime_name": "K: Return Of Kings"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/k-return-of-kings/9",
+      "anime_id": 1776,
+      "anime_name": "K: Return Of Kings"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/k-return-of-kings/10",
+      "anime_id": 1776,
+      "anime_name": "K: Return Of Kings"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/k-return-of-kings/11",
+      "anime_id": 1776,
+      "anime_name": "K: Return Of Kings"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/k-return-of-kings/12",
+      "anime_id": 1776,
+      "anime_name": "K: Return Of Kings"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/k-return-of-kings/13",
+      "anime_id": 1776,
+      "anime_name": "K: Return Of Kings"
+    }
+  ],
+  "total_episodes": 13
+}

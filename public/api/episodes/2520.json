@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Mirai Nikki: Redial",
+  "anime": {
+    "id": 2520,
+    "nome": "Mirai Nikki: Redial",
+    "link": "https://animefire.plus/animes/mirai-nikki-redial-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mirai-nikki-redial",
+    "rating": "7.46",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mirai-nikki-redial/1",
+      "anime_id": 2520,
+      "anime_name": "Mirai Nikki: Redial"
+    }
+  ],
+  "total_episodes": 1
+}

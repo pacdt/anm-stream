@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 91,
+    "nome": "Aika Zero",
+    "link": "https://animefire.plus/animes/aika-zero-todos-os-episodios",
+    "texto_original": "Aika Zero",
+    "rating": 5.99,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/aika-zero.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/aika-zero/",
+    "secao": "legendados",
+    "pagina": 111,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/aika-zero"
+  }
+}

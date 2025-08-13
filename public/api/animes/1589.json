@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1589,
+    "nome": "IDOLiSH7",
+    "link": "https://animefire.plus/animes/idolish7-todos-os-episodios",
+    "texto_original": "IDOLiSH7",
+    "rating": 8.04,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/idolish7.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/idolish7/",
+    "secao": "legendados",
+    "pagina": 105,
+    "total_episodios": 17,
+    "link_video": "https://animefire.plus/video/idolish7"
+  }
+}

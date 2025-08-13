@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2536,
+    "nome": "Mo Dao Zu Shi",
+    "link": "https://animefire.plus/animes/mo-dao-zu-shi-todos-os-episodios",
+    "texto_original": "Mo Dao Zu Shi",
+    "rating": 8.56,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/mo-dao-zu-shi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mo-dao-zu-shi/",
+    "secao": "legendados",
+    "pagina": 95,
+    "total_episodios": 15,
+    "link_video": "https://animefire.plus/video/mo-dao-zu-shi"
+  }
+}

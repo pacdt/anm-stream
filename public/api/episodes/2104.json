@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Koufuku Graffiti",
+  "anime": {
+    "id": 2104,
+    "nome": "Koufuku Graffiti",
+    "link": "https://animefire.plus/animes/koufuku-graffiti-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/koufuku-graffiti",
+    "rating": "6.83",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/koufuku-graffiti/1",
+      "anime_id": 2104,
+      "anime_name": "Koufuku Graffiti"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/koufuku-graffiti/2",
+      "anime_id": 2104,
+      "anime_name": "Koufuku Graffiti"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/koufuku-graffiti/3",
+      "anime_id": 2104,
+      "anime_name": "Koufuku Graffiti"
+    }
+  ],
+  "total_episodes": 3
+}

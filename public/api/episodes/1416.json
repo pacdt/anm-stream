@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Hellsing: The Dawn",
+  "anime": {
+    "id": 1416,
+    "nome": "Hellsing: The Dawn",
+    "link": "https://animefire.plus/animes/hellsing-the-dawn-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hellsing-the-dawn",
+    "rating": "7.28",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hellsing-the-dawn/1",
+      "anime_id": 1416,
+      "anime_name": "Hellsing: The Dawn"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hellsing-the-dawn/2",
+      "anime_id": 1416,
+      "anime_name": "Hellsing: The Dawn"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hellsing-the-dawn/3",
+      "anime_id": 1416,
+      "anime_name": "Hellsing: The Dawn"
+    }
+  ],
+  "total_episodes": 3
+}

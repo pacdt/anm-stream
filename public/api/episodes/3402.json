@@ -1,0 +1,74 @@
+{
+  "message": "Lista de episódios do anime: Shiguang Guiyu",
+  "anime": {
+    "id": 3402,
+    "nome": "Shiguang Guiyu",
+    "link": "https://animefire.plus/animes/shiguang-guiyu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shiguang-guiyu",
+    "rating": "5.49",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shiguang-guiyu/1",
+      "anime_id": 3402,
+      "anime_name": "Shiguang Guiyu"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shiguang-guiyu/2",
+      "anime_id": 3402,
+      "anime_name": "Shiguang Guiyu"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/shiguang-guiyu/3",
+      "anime_id": 3402,
+      "anime_name": "Shiguang Guiyu"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/shiguang-guiyu/4",
+      "anime_id": 3402,
+      "anime_name": "Shiguang Guiyu"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/shiguang-guiyu/5",
+      "anime_id": 3402,
+      "anime_name": "Shiguang Guiyu"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/shiguang-guiyu/6",
+      "anime_id": 3402,
+      "anime_name": "Shiguang Guiyu"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/shiguang-guiyu/7",
+      "anime_id": 3402,
+      "anime_name": "Shiguang Guiyu"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/shiguang-guiyu/8",
+      "anime_id": 3402,
+      "anime_name": "Shiguang Guiyu"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/shiguang-guiyu/9",
+      "anime_id": 3402,
+      "anime_name": "Shiguang Guiyu"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/shiguang-guiyu/10",
+      "anime_id": 3402,
+      "anime_name": "Shiguang Guiyu"
+    }
+  ],
+  "total_episodes": 10
+}

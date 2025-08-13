@@ -1,0 +1,74 @@
+{
+  "message": "Lista de episódios do anime: Ojamajo Doremi",
+  "anime": {
+    "id": 2810,
+    "nome": "Ojamajo Doremi",
+    "link": "https://animefire.plus/animes/ojamajo-doremi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ojamajo-doremi",
+    "rating": "7.20",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ojamajo-doremi/1",
+      "anime_id": 2810,
+      "anime_name": "Ojamajo Doremi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ojamajo-doremi/2",
+      "anime_id": 2810,
+      "anime_name": "Ojamajo Doremi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/ojamajo-doremi/3",
+      "anime_id": 2810,
+      "anime_name": "Ojamajo Doremi"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/ojamajo-doremi/4",
+      "anime_id": 2810,
+      "anime_name": "Ojamajo Doremi"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/ojamajo-doremi/5",
+      "anime_id": 2810,
+      "anime_name": "Ojamajo Doremi"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/ojamajo-doremi/6",
+      "anime_id": 2810,
+      "anime_name": "Ojamajo Doremi"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/ojamajo-doremi/7",
+      "anime_id": 2810,
+      "anime_name": "Ojamajo Doremi"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/ojamajo-doremi/8",
+      "anime_id": 2810,
+      "anime_name": "Ojamajo Doremi"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/ojamajo-doremi/9",
+      "anime_id": 2810,
+      "anime_name": "Ojamajo Doremi"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/ojamajo-doremi/10",
+      "anime_id": 2810,
+      "anime_name": "Ojamajo Doremi"
+    }
+  ],
+  "total_episodes": 10
+}

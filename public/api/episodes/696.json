@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Cosmo Police Justy",
+  "anime": {
+    "id": 696,
+    "nome": "Cosmo Police Justy",
+    "link": "https://animefire.plus/animes/cosmo-police-justy-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/cosmo-police-justy",
+    "rating": "5.54",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/cosmo-police-justy/1",
+      "anime_id": 696,
+      "anime_name": "Cosmo Police Justy"
+    }
+  ],
+  "total_episodes": 1
+}

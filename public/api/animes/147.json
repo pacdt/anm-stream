@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 147,
+    "nome": "Amaama to Inazuma",
+    "link": "https://animefire.plus/animes/amaama-to-inazuma-todos-os-episodios",
+    "texto_original": "Amaama to Inazuma",
+    "rating": 7.57,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/amaama-to-inazuma.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/amaama-to-inazuma/",
+    "secao": "legendados",
+    "pagina": 134,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/amaama-to-inazuma"
+  }
+}

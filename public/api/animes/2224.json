@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2224,
+    "nome": "Ling Yu",
+    "link": "https://animefire.plus/animes/ling-yu-todos-os-episodios",
+    "texto_original": "Ling Yu",
+    "rating": 6.81,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ling-yu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ling-yu/",
+    "secao": "legendados",
+    "pagina": 114,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/ling-yu"
+  }
+}

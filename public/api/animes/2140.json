@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2140,
+    "nome": "Kurau Phantom Memory",
+    "link": "https://animefire.plus/animes/kurau-phantom-memory-todos-os-episodios",
+    "texto_original": "Kurau Phantom Memory",
+    "rating": 7.4,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kurau-phantom-memory.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kurau-phantom-memory/",
+    "secao": "legendados",
+    "pagina": 178,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/kurau-phantom-memory"
+  }
+}

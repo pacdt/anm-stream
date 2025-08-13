@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3052,
+    "nome": "Qualidea Code",
+    "link": "https://animefire.plus/animes/qualidea-code-todos-os-episodios",
+    "texto_original": "Qualidea Code",
+    "rating": 6.58,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/qualidea-code.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/qualidea-code/",
+    "secao": "legendados",
+    "pagina": 80,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/qualidea-code"
+  }
+}

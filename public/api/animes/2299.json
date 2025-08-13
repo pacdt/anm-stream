@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2299,
+    "nome": "Madlax",
+    "link": "https://animefire.plus/animes/madlax-todos-os-episodios",
+    "texto_original": "Madlax",
+    "rating": 7.12,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/madlax.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/madlax/",
+    "secao": "legendados",
+    "pagina": 142,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/madlax"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3262,
+    "nome": "Sasameki Koto",
+    "link": "https://animefire.plus/animes/sasameki-koto-todos-os-episodios",
+    "texto_original": "Sasameki Koto",
+    "rating": 7.15,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/sasameki-koto.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sasameki-koto/",
+    "secao": "legendados",
+    "pagina": 113,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/sasameki-koto"
+  }
+}

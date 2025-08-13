@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3994,
+    "nome": "Uchuu Kyoudai",
+    "link": "https://animefire.plus/animes/uchuu-kyoudai-todos-os-episodios",
+    "texto_original": "Uchuu Kyoudai",
+    "rating": 8.53,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/uchuu-kyoudai.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/uchuu-kyoudai/",
+    "secao": "legendados",
+    "pagina": 68,
+    "total_episodios": 99,
+    "link_video": "https://animefire.plus/video/uchuu-kyoudai"
+  }
+}

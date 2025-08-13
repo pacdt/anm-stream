@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1344,
+    "nome": "Hametsu no Oukoku",
+    "link": "https://animefire.plus/animes/hametsu-no-oukoku-todos-os-episodios",
+    "texto_original": "Hametsu no Oukoku",
+    "rating": 6.22,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/hametsu-no-oukoku.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hametsu-no-oukoku/",
+    "secao": "legendados",
+    "pagina": 21,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/hametsu-no-oukoku"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Hanamaru Youchien",
+  "anime": {
+    "id": 1350,
+    "nome": "Hanamaru Youchien",
+    "link": "https://animefire.plus/animes/hanamaru-youchien-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hanamaru-youchien",
+    "rating": "7.37",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hanamaru-youchien/1",
+      "anime_id": 1350,
+      "anime_name": "Hanamaru Youchien"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hanamaru-youchien/2",
+      "anime_id": 1350,
+      "anime_name": "Hanamaru Youchien"
+    }
+  ],
+  "total_episodes": 2
+}

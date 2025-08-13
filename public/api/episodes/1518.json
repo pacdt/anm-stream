@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Honoo no Mirage",
+  "anime": {
+    "id": 1518,
+    "nome": "Honoo no Mirage",
+    "link": "https://animefire.plus/animes/honoo-no-mirage-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/honoo-no-mirage",
+    "rating": "6.67",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/honoo-no-mirage/1",
+      "anime_id": 1518,
+      "anime_name": "Honoo no Mirage"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/honoo-no-mirage/2",
+      "anime_id": 1518,
+      "anime_name": "Honoo no Mirage"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/honoo-no-mirage/3",
+      "anime_id": 1518,
+      "anime_name": "Honoo no Mirage"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/honoo-no-mirage/4",
+      "anime_id": 1518,
+      "anime_name": "Honoo no Mirage"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/honoo-no-mirage/5",
+      "anime_id": 1518,
+      "anime_name": "Honoo no Mirage"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/honoo-no-mirage/6",
+      "anime_id": 1518,
+      "anime_name": "Honoo no Mirage"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/honoo-no-mirage/7",
+      "anime_id": 1518,
+      "anime_name": "Honoo no Mirage"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/honoo-no-mirage/8",
+      "anime_id": 1518,
+      "anime_name": "Honoo no Mirage"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/honoo-no-mirage/9",
+      "anime_id": 1518,
+      "anime_name": "Honoo no Mirage"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/honoo-no-mirage/10",
+      "anime_id": 1518,
+      "anime_name": "Honoo no Mirage"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/honoo-no-mirage/11",
+      "anime_id": 1518,
+      "anime_name": "Honoo no Mirage"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/honoo-no-mirage/12",
+      "anime_id": 1518,
+      "anime_name": "Honoo no Mirage"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/honoo-no-mirage/13",
+      "anime_id": 1518,
+      "anime_name": "Honoo no Mirage"
+    }
+  ],
+  "total_episodes": 13
+}

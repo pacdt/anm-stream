@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Buddy Complex: Kanketsu-hen - Ano Sora ni Kaeru Mirai de",
+  "anime": {
+    "id": 513,
+    "nome": "Buddy Complex: Kanketsu-hen - Ano Sora ni Kaeru Mirai de",
+    "link": "https://animefire.plus/animes/buddy-complex-kanketsu-hen---ano-sora-ni-kaeru-mirai-de-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/buddy-complex-kanketsu-hen---ano-sora-ni-kaeru-mirai-de",
+    "rating": "7.36",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/buddy-complex-kanketsu-hen---ano-sora-ni-kaeru-mirai-de/1",
+      "anime_id": 513,
+      "anime_name": "Buddy Complex: Kanketsu-hen - Ano Sora ni Kaeru Mirai de"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/buddy-complex-kanketsu-hen---ano-sora-ni-kaeru-mirai-de/2",
+      "anime_id": 513,
+      "anime_name": "Buddy Complex: Kanketsu-hen - Ano Sora ni Kaeru Mirai de"
+    }
+  ],
+  "total_episodes": 2
+}

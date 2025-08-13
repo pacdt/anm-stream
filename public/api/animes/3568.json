@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3568,
+    "nome": "SoniAni: Super Sonico The Animation",
+    "link": "https://animefire.plus/animes/soniani-super-sonico-the-animation-todos-os-episodios",
+    "texto_original": "SoniAni: Super Sonico The Animation",
+    "rating": 6.18,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/soniani-super-sonico-the-animation.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/soniani-super-sonico-the-animation/",
+    "secao": "legendados",
+    "pagina": 115,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/soniani-super-sonico-the-animation"
+  }
+}

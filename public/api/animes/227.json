@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 227,
+    "nome": "Area no Kishi",
+    "link": "https://animefire.plus/animes/area-no-kishi-todos-os-episodios",
+    "texto_original": "Area no Kishi",
+    "rating": 7.31,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/area-no-kishi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/area-no-kishi/",
+    "secao": "legendados",
+    "pagina": 157,
+    "total_episodios": 37,
+    "link_video": "https://animefire.plus/video/area-no-kishi"
+  }
+}

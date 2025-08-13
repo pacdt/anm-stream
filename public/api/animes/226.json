@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 226,
+    "nome": "Area 88 (TV)",
+    "link": "https://animefire.plus/animes/area-88-tv-todos-os-episodios",
+    "texto_original": "Area 88 (TV)",
+    "rating": 7.04,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/area-88-tv.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/area-88-tv/",
+    "secao": "legendados",
+    "pagina": 74,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/area-88-tv"
+  }
+}

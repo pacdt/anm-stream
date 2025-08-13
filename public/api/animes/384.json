@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 384,
+    "nome": "Big Order (TV)",
+    "link": "https://animefire.plus/animes/big-order-tv-todos-os-episodios",
+    "texto_original": "Big Order (TV)",
+    "rating": 5.45,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/big-order-tv.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/big-order-tv/",
+    "secao": "legendados",
+    "pagina": 79,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/big-order-tv"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 94,
+    "nome": "Aikatsu on Parade!",
+    "link": "https://animefire.plus/animes/aikatsu-on-parade-todos-os-episodios",
+    "texto_original": "Aikatsu on Parade!",
+    "rating": 6.83,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/aikatsu-on-parade.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/aikatsu-on-parade/",
+    "secao": "legendados",
+    "pagina": 109,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/aikatsu-on-parade"
+  }
+}

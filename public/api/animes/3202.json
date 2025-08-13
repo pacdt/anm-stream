@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3202,
+    "nome": "Sailor Victory",
+    "link": "https://animefire.plus/animes/sailor-victory-todos-os-episodios",
+    "texto_original": "Sailor Victory",
+    "rating": 5.88,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/sailor-victory.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sailor-victory/",
+    "secao": "legendados",
+    "pagina": 145,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/sailor-victory"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2383,
+    "nome": "Major S3",
+    "link": "https://animefire.plus/animes/major-s3-todos-os-episodios",
+    "texto_original": "Major S3",
+    "rating": 8.34,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/major-s3.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/major-s3/",
+    "secao": "legendados",
+    "pagina": 155,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/major-s3"
+  }
+}

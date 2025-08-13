@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Double Circle",
+  "anime": {
+    "id": 855,
+    "nome": "Double Circle",
+    "link": "https://animefire.plus/animes/double-circle-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/double-circle",
+    "rating": "4.94",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/double-circle/1",
+      "anime_id": 855,
+      "anime_name": "Double Circle"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/double-circle/2",
+      "anime_id": 855,
+      "anime_name": "Double Circle"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/double-circle/3",
+      "anime_id": 855,
+      "anime_name": "Double Circle"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/double-circle/4",
+      "anime_id": 855,
+      "anime_name": "Double Circle"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/double-circle/5",
+      "anime_id": 855,
+      "anime_name": "Double Circle"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/double-circle/6",
+      "anime_id": 855,
+      "anime_name": "Double Circle"
+    }
+  ],
+  "total_episodes": 6
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1107,
+    "nome": "Gantz (Dublado)",
+    "link": "https://animefire.plus/animes/gantz-dublado-todos-os-episodios",
+    "texto_original": "Gantz (Dublado)",
+    "rating": 7.09,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/gantz.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gantz/",
+    "secao": "dublados,legendados",
+    "pagina": 21,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/gantz-dublado"
+  }
+}

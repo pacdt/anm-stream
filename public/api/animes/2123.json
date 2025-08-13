@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2123,
+    "nome": "Ku Pao Ying Xiong",
+    "link": "https://animefire.plus/animes/ku-pao-ying-xiong-todos-os-episodios",
+    "texto_original": "Ku Pao Ying Xiong",
+    "rating": 5.9,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/ku-pao-ying-xiong.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ku-pao-ying-xiong/",
+    "secao": "legendados",
+    "pagina": 86,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/ku-pao-ying-xiong"
+  }
+}

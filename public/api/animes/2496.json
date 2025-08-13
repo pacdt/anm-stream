@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2496,
+    "nome": "Migi to Dali",
+    "link": "https://animefire.plus/animes/migi-to-dali-todos-os-episodios",
+    "texto_original": "Migi to Dali",
+    "rating": 7.7,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/migi-to-dali.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/migi-to-dali/",
+    "secao": "legendados",
+    "pagina": 20,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/migi-to-dali"
+  }
+}

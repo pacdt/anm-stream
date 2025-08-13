@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Kenzen Robo Daimidaler",
+  "anime": {
+    "id": 1952,
+    "nome": "Kenzen Robo Daimidaler",
+    "link": "https://animefire.plus/animes/kenzen-robo-daimidaler-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kenzen-robo-daimidaler",
+    "rating": "6.24",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kenzen-robo-daimidaler/1",
+      "anime_id": 1952,
+      "anime_name": "Kenzen Robo Daimidaler"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kenzen-robo-daimidaler/2",
+      "anime_id": 1952,
+      "anime_name": "Kenzen Robo Daimidaler"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kenzen-robo-daimidaler/3",
+      "anime_id": 1952,
+      "anime_name": "Kenzen Robo Daimidaler"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kenzen-robo-daimidaler/4",
+      "anime_id": 1952,
+      "anime_name": "Kenzen Robo Daimidaler"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kenzen-robo-daimidaler/5",
+      "anime_id": 1952,
+      "anime_name": "Kenzen Robo Daimidaler"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kenzen-robo-daimidaler/6",
+      "anime_id": 1952,
+      "anime_name": "Kenzen Robo Daimidaler"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/kenzen-robo-daimidaler/7",
+      "anime_id": 1952,
+      "anime_name": "Kenzen Robo Daimidaler"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/kenzen-robo-daimidaler/8",
+      "anime_id": 1952,
+      "anime_name": "Kenzen Robo Daimidaler"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/kenzen-robo-daimidaler/9",
+      "anime_id": 1952,
+      "anime_name": "Kenzen Robo Daimidaler"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/kenzen-robo-daimidaler/10",
+      "anime_id": 1952,
+      "anime_name": "Kenzen Robo Daimidaler"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/kenzen-robo-daimidaler/11",
+      "anime_id": 1952,
+      "anime_name": "Kenzen Robo Daimidaler"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/kenzen-robo-daimidaler/12",
+      "anime_id": 1952,
+      "anime_name": "Kenzen Robo Daimidaler"
+    }
+  ],
+  "total_episodes": 12
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Toaru Kagaku no Railgun T",
+  "anime": {
+    "id": 3864,
+    "nome": "Toaru Kagaku no Railgun T",
+    "link": "https://animefire.plus/animes/toaru-kagaku-no-railgun-t-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/toaru-kagaku-no-railgun-t",
+    "rating": "8.25",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/toaru-kagaku-no-railgun-t/1",
+      "anime_id": 3864,
+      "anime_name": "Toaru Kagaku no Railgun T"
+    }
+  ],
+  "total_episodes": 1
+}

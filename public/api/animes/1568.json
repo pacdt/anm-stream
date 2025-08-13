@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1568,
+    "nome": "Hyouka",
+    "link": "https://animefire.plus/animes/hyouka-todos-os-episodios",
+    "texto_original": "Hyouka",
+    "rating": 8.15,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hyouka.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hyouka/",
+    "secao": "legendados",
+    "pagina": 172,
+    "total_episodios": 22,
+    "link_video": "https://animefire.plus/video/hyouka"
+  }
+}

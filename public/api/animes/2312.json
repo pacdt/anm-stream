@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2312,
+    "nome": "Magic Kaito",
+    "link": "https://animefire.plus/animes/magic-kaito-todos-os-episodios",
+    "texto_original": "Magic Kaito",
+    "rating": 7.94,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/magic-kaito.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/magic-kaito/",
+    "secao": "legendados",
+    "pagina": 144,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/magic-kaito"
+  }
+}

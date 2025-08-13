@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Bakugan Battle Brawlers: Gundalian Invaders",
+  "anime": {
+    "id": 311,
+    "nome": "Bakugan Battle Brawlers: Gundalian Invaders",
+    "link": "https://animefire.plus/animes/bakugan-battle-brawlers-gundalian-invaders-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/bakugan-battle-brawlers-gundalian-invaders",
+    "rating": "6.32",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/bakugan-battle-brawlers-gundalian-invaders/1",
+      "anime_id": 311,
+      "anime_name": "Bakugan Battle Brawlers: Gundalian Invaders"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/bakugan-battle-brawlers-gundalian-invaders/2",
+      "anime_id": 311,
+      "anime_name": "Bakugan Battle Brawlers: Gundalian Invaders"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/bakugan-battle-brawlers-gundalian-invaders/3",
+      "anime_id": 311,
+      "anime_name": "Bakugan Battle Brawlers: Gundalian Invaders"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/bakugan-battle-brawlers-gundalian-invaders/4",
+      "anime_id": 311,
+      "anime_name": "Bakugan Battle Brawlers: Gundalian Invaders"
+    }
+  ],
+  "total_episodes": 4
+}

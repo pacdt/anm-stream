@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4032,
+    "nome": "Urahara",
+    "link": "https://animefire.plus/animes/urahara-todos-os-episodios",
+    "texto_original": "Urahara",
+    "rating": 5.82,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/urahara.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/urahara/",
+    "secao": "legendados",
+    "pagina": 73,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/urahara"
+  }
+}

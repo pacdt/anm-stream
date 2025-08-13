@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Buzzer Beater",
+  "anime": {
+    "id": 541,
+    "nome": "Buzzer Beater",
+    "link": "https://animefire.plus/animes/buzzer-beater-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/buzzer-beater",
+    "rating": "6.63",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/buzzer-beater/1",
+      "anime_id": 541,
+      "anime_name": "Buzzer Beater"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/buzzer-beater/2",
+      "anime_id": 541,
+      "anime_name": "Buzzer Beater"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/buzzer-beater/3",
+      "anime_id": 541,
+      "anime_name": "Buzzer Beater"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/buzzer-beater/4",
+      "anime_id": 541,
+      "anime_name": "Buzzer Beater"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/buzzer-beater/5",
+      "anime_id": 541,
+      "anime_name": "Buzzer Beater"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/buzzer-beater/6",
+      "anime_id": 541,
+      "anime_name": "Buzzer Beater"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/buzzer-beater/7",
+      "anime_id": 541,
+      "anime_name": "Buzzer Beater"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/buzzer-beater/8",
+      "anime_id": 541,
+      "anime_name": "Buzzer Beater"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/buzzer-beater/9",
+      "anime_id": 541,
+      "anime_name": "Buzzer Beater"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/buzzer-beater/10",
+      "anime_id": 541,
+      "anime_name": "Buzzer Beater"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/buzzer-beater/11",
+      "anime_id": 541,
+      "anime_name": "Buzzer Beater"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/buzzer-beater/12",
+      "anime_id": 541,
+      "anime_name": "Buzzer Beater"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/buzzer-beater/13",
+      "anime_id": 541,
+      "anime_name": "Buzzer Beater"
+    }
+  ],
+  "total_episodes": 13
+}

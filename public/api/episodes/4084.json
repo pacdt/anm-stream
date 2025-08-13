@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Virtual-san wa Miteiru",
+  "anime": {
+    "id": 4084,
+    "nome": "Virtual-san wa Miteiru",
+    "link": "https://animefire.plus/animes/virtual-san-wa-miteiru-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/virtual-san-wa-miteiru",
+    "rating": "5.42",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/virtual-san-wa-miteiru/1",
+      "anime_id": 4084,
+      "anime_name": "Virtual-san wa Miteiru"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/virtual-san-wa-miteiru/2",
+      "anime_id": 4084,
+      "anime_name": "Virtual-san wa Miteiru"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/virtual-san-wa-miteiru/3",
+      "anime_id": 4084,
+      "anime_name": "Virtual-san wa Miteiru"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/virtual-san-wa-miteiru/4",
+      "anime_id": 4084,
+      "anime_name": "Virtual-san wa Miteiru"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/virtual-san-wa-miteiru/5",
+      "anime_id": 4084,
+      "anime_name": "Virtual-san wa Miteiru"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/virtual-san-wa-miteiru/6",
+      "anime_id": 4084,
+      "anime_name": "Virtual-san wa Miteiru"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/virtual-san-wa-miteiru/7",
+      "anime_id": 4084,
+      "anime_name": "Virtual-san wa Miteiru"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/virtual-san-wa-miteiru/8",
+      "anime_id": 4084,
+      "anime_name": "Virtual-san wa Miteiru"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/virtual-san-wa-miteiru/9",
+      "anime_id": 4084,
+      "anime_name": "Virtual-san wa Miteiru"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/virtual-san-wa-miteiru/10",
+      "anime_id": 4084,
+      "anime_name": "Virtual-san wa Miteiru"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/virtual-san-wa-miteiru/11",
+      "anime_id": 4084,
+      "anime_name": "Virtual-san wa Miteiru"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/virtual-san-wa-miteiru/12",
+      "anime_id": 4084,
+      "anime_name": "Virtual-san wa Miteiru"
+    }
+  ],
+  "total_episodes": 12
+}

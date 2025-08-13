@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Sukeban Deka (Dublado)",
+  "anime": {
+    "id": 3667,
+    "nome": "Sukeban Deka (Dublado)",
+    "link": "https://animefire.plus/animes/sukeban-deka-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sukeban-deka-dublado",
+    "rating": "6.51",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sukeban-deka-dublado/1",
+      "anime_id": 3667,
+      "anime_name": "Sukeban Deka (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/sukeban-deka-dublado/2",
+      "anime_id": 3667,
+      "anime_name": "Sukeban Deka (Dublado)"
+    }
+  ],
+  "total_episodes": 2
+}

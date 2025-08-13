@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Lupin III vs. Cat's Eye",
+  "anime": {
+    "id": 2270,
+    "nome": "Lupin III vs. Cat's Eye",
+    "link": "https://animefire.plus/animes/lupin-iii-vs-cat-s-eye-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/lupin-iii-vs-cat-s-eye",
+    "rating": "6.57",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/lupin-iii-vs-cat-s-eye/1",
+      "anime_id": 2270,
+      "anime_name": "Lupin III vs. Cat's Eye"
+    }
+  ],
+  "total_episodes": 1
+}

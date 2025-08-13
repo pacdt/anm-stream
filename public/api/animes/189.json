@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 189,
+    "nome": "Another: The Other - Inga",
+    "link": "https://animefire.plus/animes/another-the-other---inga-todos-os-episodios",
+    "texto_original": "Another: The Other - Inga",
+    "rating": 7.36,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/another-the-other---inga.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/another-the-other---inga/",
+    "secao": "legendados",
+    "pagina": 69,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/another-the-other---inga"
+  }
+}

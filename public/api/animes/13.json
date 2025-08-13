@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 13,
+    "nome": "1-gatsu ni wa Christmas",
+    "link": "https://animefire.plus/animes/1-gatsu-ni-wa-christmas-todos-os-episodios",
+    "texto_original": "1-gatsu ni wa Christmas",
+    "rating": 5.42,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/1-gatsu-ni-wa-christmas.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/1-gatsu-ni-wa-christmas/",
+    "secao": "legendados",
+    "pagina": 42,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/1-gatsu-ni-wa-christmas"
+  }
+}

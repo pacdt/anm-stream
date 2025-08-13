@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1803,
+    "nome": "Kaichou wa Maid-sama!",
+    "link": "https://animefire.plus/animes/kaichou-wa-maid-sama-todos-os-episodios",
+    "texto_original": "Kaichou wa Maid-sama!",
+    "rating": 8.18,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kaichou-wa-maid-sama.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kaichou-wa-maid-sama/",
+    "secao": "legendados",
+    "pagina": 157,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/kaichou-wa-maid-sama"
+  }
+}

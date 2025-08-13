@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Joshikousei no Mudazukai",
+  "anime": {
+    "id": 1750,
+    "nome": "Joshikousei no Mudazukai",
+    "link": "https://animefire.plus/animes/joshikousei-no-mudazukai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/joshikousei-no-mudazukai",
+    "rating": "7.71",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/joshikousei-no-mudazukai/1",
+      "anime_id": 1750,
+      "anime_name": "Joshikousei no Mudazukai"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/joshikousei-no-mudazukai/2",
+      "anime_id": 1750,
+      "anime_name": "Joshikousei no Mudazukai"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/joshikousei-no-mudazukai/3",
+      "anime_id": 1750,
+      "anime_name": "Joshikousei no Mudazukai"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/joshikousei-no-mudazukai/4",
+      "anime_id": 1750,
+      "anime_name": "Joshikousei no Mudazukai"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/joshikousei-no-mudazukai/5",
+      "anime_id": 1750,
+      "anime_name": "Joshikousei no Mudazukai"
+    }
+  ],
+  "total_episodes": 5
+}

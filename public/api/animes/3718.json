@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3718,
+    "nome": "Takarajima",
+    "link": "https://animefire.plus/animes/takarajima-todos-os-episodios",
+    "texto_original": "Takarajima",
+    "rating": 7.95,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/takarajima.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/takarajima/",
+    "secao": "legendados",
+    "pagina": 77,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/takarajima"
+  }
+}

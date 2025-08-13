@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Dokyuu Hentai HxEros OVA",
+  "anime": {
+    "id": 843,
+    "nome": "Dokyuu Hentai HxEros OVA",
+    "link": "https://animefire.plus/animes/dokyuu-hentai-hxeros-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/dokyuu-hentai-hxeros-ova",
+    "rating": "6.20",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/dokyuu-hentai-hxeros-ova/1",
+      "anime_id": 843,
+      "anime_name": "Dokyuu Hentai HxEros OVA"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/dokyuu-hentai-hxeros-ova/2",
+      "anime_id": 843,
+      "anime_name": "Dokyuu Hentai HxEros OVA"
+    }
+  ],
+  "total_episodes": 2
+}

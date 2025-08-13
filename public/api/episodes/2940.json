@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Owari no Seraph: Kyuuketsuki Shahar",
+  "anime": {
+    "id": 2940,
+    "nome": "Owari no Seraph: Kyuuketsuki Shahar",
+    "link": "https://animefire.plus/animes/owari-no-seraph-kyuuketsuki-shahar-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/owari-no-seraph-kyuuketsuki-shahar",
+    "rating": "7.18",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/owari-no-seraph-kyuuketsuki-shahar/1",
+      "anime_id": 2940,
+      "anime_name": "Owari no Seraph: Kyuuketsuki Shahar"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: High School DxD Hero: Taiikukan-ura no Holy",
+  "anime": {
+    "id": 1457,
+    "nome": "High School DxD Hero: Taiikukan-ura no Holy",
+    "link": "https://animefire.plus/animes/high-school-dxd-hero-taiikukan-ura-no-holy-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/high-school-dxd-hero-taiikukan-ura-no-holy",
+    "rating": "6.91",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/high-school-dxd-hero-taiikukan-ura-no-holy/1",
+      "anime_id": 1457,
+      "anime_name": "High School DxD Hero: Taiikukan-ura no Holy"
+    }
+  ],
+  "total_episodes": 1
+}

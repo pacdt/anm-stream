@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Yondemasu yo, Azazel-san. (TV)",
+  "anime": {
+    "id": 4244,
+    "nome": "Yondemasu yo, Azazel-san. (TV)",
+    "link": "https://animefire.plus/animes/yondemasu-yo-azazel-san-tv-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yondemasu-yo-azazel-san-tv",
+    "rating": "7.60",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yondemasu-yo-azazel-san-tv/1",
+      "anime_id": 4244,
+      "anime_name": "Yondemasu yo, Azazel-san. (TV)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yondemasu-yo-azazel-san-tv/2",
+      "anime_id": 4244,
+      "anime_name": "Yondemasu yo, Azazel-san. (TV)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/yondemasu-yo-azazel-san-tv/3",
+      "anime_id": 4244,
+      "anime_name": "Yondemasu yo, Azazel-san. (TV)"
+    }
+  ],
+  "total_episodes": 3
+}

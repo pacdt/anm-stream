@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Psycho-Pass",
+  "anime": {
+    "id": 3040,
+    "nome": "Psycho-Pass",
+    "link": "https://animefire.plus/animes/psycho-pass-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/psycho-pass",
+    "rating": "8.42",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/psycho-pass/1",
+      "anime_id": 3040,
+      "anime_name": "Psycho-Pass"
+    }
+  ],
+  "total_episodes": 1
+}

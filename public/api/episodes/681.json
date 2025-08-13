@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Colorful (Movie)",
+  "anime": {
+    "id": 681,
+    "nome": "Colorful (Movie)",
+    "link": "https://animefire.plus/animes/colorful-movie-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/colorful-movie",
+    "rating": "7.93",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/colorful-movie/1",
+      "anime_id": 681,
+      "anime_name": "Colorful (Movie)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/colorful-movie/2",
+      "anime_id": 681,
+      "anime_name": "Colorful (Movie)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/colorful-movie/3",
+      "anime_id": 681,
+      "anime_name": "Colorful (Movie)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/colorful-movie/4",
+      "anime_id": 681,
+      "anime_name": "Colorful (Movie)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/colorful-movie/5",
+      "anime_id": 681,
+      "anime_name": "Colorful (Movie)"
+    }
+  ],
+  "total_episodes": 5
+}

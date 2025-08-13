@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai",
+  "anime": {
+    "id": 2694,
+    "nome": "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai",
+    "link": "https://animefire.plus/animes/natsume-yuujinchou-nyanko-sensei-to-hajimete-no-otsukai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/natsume-yuujinchou-nyanko-sensei-to-hajimete-no-otsukai",
+    "rating": "7.67",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-nyanko-sensei-to-hajimete-no-otsukai/1",
+      "anime_id": 2694,
+      "anime_name": "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai"
+    }
+  ],
+  "total_episodes": 1
+}

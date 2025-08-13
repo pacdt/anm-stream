@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Tsukumogami Kashimasu",
+  "anime": {
+    "id": 3961,
+    "nome": "Tsukumogami Kashimasu",
+    "link": "https://animefire.plus/animes/tsukumogami-kashimasu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tsukumogami-kashimasu",
+    "rating": "6.76",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tsukumogami-kashimasu/1",
+      "anime_id": 3961,
+      "anime_name": "Tsukumogami Kashimasu"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tsukumogami-kashimasu/2",
+      "anime_id": 3961,
+      "anime_name": "Tsukumogami Kashimasu"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tsukumogami-kashimasu/3",
+      "anime_id": 3961,
+      "anime_name": "Tsukumogami Kashimasu"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tsukumogami-kashimasu/4",
+      "anime_id": 3961,
+      "anime_name": "Tsukumogami Kashimasu"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/tsukumogami-kashimasu/5",
+      "anime_id": 3961,
+      "anime_name": "Tsukumogami Kashimasu"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/tsukumogami-kashimasu/6",
+      "anime_id": 3961,
+      "anime_name": "Tsukumogami Kashimasu"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/tsukumogami-kashimasu/7",
+      "anime_id": 3961,
+      "anime_name": "Tsukumogami Kashimasu"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/tsukumogami-kashimasu/8",
+      "anime_id": 3961,
+      "anime_name": "Tsukumogami Kashimasu"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/tsukumogami-kashimasu/9",
+      "anime_id": 3961,
+      "anime_name": "Tsukumogami Kashimasu"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/tsukumogami-kashimasu/10",
+      "anime_id": 3961,
+      "anime_name": "Tsukumogami Kashimasu"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/tsukumogami-kashimasu/11",
+      "anime_id": 3961,
+      "anime_name": "Tsukumogami Kashimasu"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/tsukumogami-kashimasu/12",
+      "anime_id": 3961,
+      "anime_name": "Tsukumogami Kashimasu"
+    }
+  ],
+  "total_episodes": 12
+}

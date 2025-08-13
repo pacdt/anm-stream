@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Hangyakusei Million Arthur Special",
+  "anime": {
+    "id": 1366,
+    "nome": "Hangyakusei Million Arthur Special",
+    "link": "https://animefire.plus/animes/hangyakusei-million-arthur-special-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hangyakusei-million-arthur-special",
+    "rating": "6.37",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hangyakusei-million-arthur-special/1",
+      "anime_id": 1366,
+      "anime_name": "Hangyakusei Million Arthur Special"
+    }
+  ],
+  "total_episodes": 1
+}

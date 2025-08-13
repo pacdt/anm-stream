@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4165,
+    "nome": "WWW.Working!!",
+    "link": "https://animefire.plus/animes/www-working-todos-os-episodios",
+    "texto_original": "WWW.Working!!",
+    "rating": 7.52,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/www-working.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/www-working/",
+    "secao": "legendados",
+    "pagina": 135,
+    "total_episodios": 8,
+    "link_video": "https://animefire.plus/video/www-working"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2436,
+    "nome": "Mashiro no Oto",
+    "link": "https://animefire.plus/animes/mashiro-no-oto-todos-os-episodios",
+    "texto_original": "Mashiro no Oto",
+    "rating": 7.53,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/mashiro-no-oto.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mashiro-no-oto/",
+    "secao": "legendados",
+    "pagina": 46,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/mashiro-no-oto"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3275,
+    "nome": "School Rumble",
+    "link": "https://animefire.plus/animes/school-rumble-todos-os-episodios",
+    "texto_original": "School Rumble",
+    "rating": 8,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/school-rumble.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/school-rumble/",
+    "secao": "legendados",
+    "pagina": 127,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/school-rumble"
+  }
+}

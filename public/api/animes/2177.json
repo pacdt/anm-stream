@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2177,
+    "nome": "Kyou kara Maou!",
+    "link": "https://animefire.plus/animes/kyou-kara-maou-todos-os-episodios",
+    "texto_original": "Kyou kara Maou!",
+    "rating": 7.81,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kyou-kara-maou.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kyou-kara-maou/",
+    "secao": "legendados",
+    "pagina": 135,
+    "total_episodios": 76,
+    "link_video": "https://animefire.plus/video/kyou-kara-maou"
+  }
+}

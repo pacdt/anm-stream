@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 415,
+    "nome": "Black Magic M-66",
+    "link": "https://animefire.plus/animes/black-magic-m-66-todos-os-episodios",
+    "texto_original": "Black Magic M-66",
+    "rating": 6.39,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/black-magic-m-66.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/black-magic-m-66/",
+    "secao": "legendados",
+    "pagina": 56,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/black-magic-m-66"
+  }
+}

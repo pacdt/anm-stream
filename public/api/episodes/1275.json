@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Gundam Build Divers Prologue",
+  "anime": {
+    "id": 1275,
+    "nome": "Gundam Build Divers Prologue",
+    "link": "https://animefire.plus/animes/gundam-build-divers-prologue-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gundam-build-divers-prologue",
+    "rating": "6.54",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gundam-build-divers-prologue/1",
+      "anime_id": 1275,
+      "anime_name": "Gundam Build Divers Prologue"
+    }
+  ],
+  "total_episodes": 1
+}

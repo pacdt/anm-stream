@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Tokyo Ravens",
+  "anime": {
+    "id": 3893,
+    "nome": "Tokyo Ravens",
+    "link": "https://animefire.plus/animes/tokyo-ravens-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tokyo-ravens",
+    "rating": "7.68",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tokyo-ravens/1",
+      "anime_id": 3893,
+      "anime_name": "Tokyo Ravens"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tokyo-ravens/2",
+      "anime_id": 3893,
+      "anime_name": "Tokyo Ravens"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tokyo-ravens/3",
+      "anime_id": 3893,
+      "anime_name": "Tokyo Ravens"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tokyo-ravens/4",
+      "anime_id": 3893,
+      "anime_name": "Tokyo Ravens"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/tokyo-ravens/5",
+      "anime_id": 3893,
+      "anime_name": "Tokyo Ravens"
+    }
+  ],
+  "total_episodes": 5
+}

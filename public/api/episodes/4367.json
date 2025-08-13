@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Zuoshou Shanglan",
+  "anime": {
+    "id": 4367,
+    "nome": "Zuoshou Shanglan",
+    "link": "https://animefire.plus/animes/zuoshou-shanglan-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/zuoshou-shanglan",
+    "rating": "7.18",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/zuoshou-shanglan/1",
+      "anime_id": 4367,
+      "anime_name": "Zuoshou Shanglan"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/zuoshou-shanglan/2",
+      "anime_id": 4367,
+      "anime_name": "Zuoshou Shanglan"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/zuoshou-shanglan/3",
+      "anime_id": 4367,
+      "anime_name": "Zuoshou Shanglan"
+    }
+  ],
+  "total_episodes": 3
+}

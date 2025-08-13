@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2750,
+    "nome": "Nmeneko",
+    "link": "https://animefire.plus/animes/nmeneko-todos-os-episodios",
+    "texto_original": "Nmeneko",
+    "rating": null,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/nmeneko.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/nmeneko/",
+    "secao": "legendados,lancamentos",
+    "pagina": 4,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/nmeneko"
+  }
+}

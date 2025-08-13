@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: C: The Money Of Soul And Possibility Control",
+  "anime": {
+    "id": 546,
+    "nome": "C: The Money Of Soul And Possibility Control",
+    "link": "https://animefire.plus/animes/c-the-money-of-soul-and-possibility-control-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/c-the-money-of-soul-and-possibility-control",
+    "rating": "7.33",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/c-the-money-of-soul-and-possibility-control/1",
+      "anime_id": 546,
+      "anime_name": "C: The Money Of Soul And Possibility Control"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/c-the-money-of-soul-and-possibility-control/2",
+      "anime_id": 546,
+      "anime_name": "C: The Money Of Soul And Possibility Control"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/c-the-money-of-soul-and-possibility-control/3",
+      "anime_id": 546,
+      "anime_name": "C: The Money Of Soul And Possibility Control"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/c-the-money-of-soul-and-possibility-control/4",
+      "anime_id": 546,
+      "anime_name": "C: The Money Of Soul And Possibility Control"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/c-the-money-of-soul-and-possibility-control/5",
+      "anime_id": 546,
+      "anime_name": "C: The Money Of Soul And Possibility Control"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/c-the-money-of-soul-and-possibility-control/6",
+      "anime_id": 546,
+      "anime_name": "C: The Money Of Soul And Possibility Control"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/c-the-money-of-soul-and-possibility-control/7",
+      "anime_id": 546,
+      "anime_name": "C: The Money Of Soul And Possibility Control"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/c-the-money-of-soul-and-possibility-control/8",
+      "anime_id": 546,
+      "anime_name": "C: The Money Of Soul And Possibility Control"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/c-the-money-of-soul-and-possibility-control/9",
+      "anime_id": 546,
+      "anime_name": "C: The Money Of Soul And Possibility Control"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/c-the-money-of-soul-and-possibility-control/10",
+      "anime_id": 546,
+      "anime_name": "C: The Money Of Soul And Possibility Control"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/c-the-money-of-soul-and-possibility-control/11",
+      "anime_id": 546,
+      "anime_name": "C: The Money Of Soul And Possibility Control"
+    }
+  ],
+  "total_episodes": 11
+}

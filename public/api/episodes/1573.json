@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: I: Wish You Were Here",
+  "anime": {
+    "id": 1573,
+    "nome": "I: Wish You Were Here",
+    "link": "https://animefire.plus/animes/i-wish-you-were-here-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/i-wish-you-were-here",
+    "rating": "6.13",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/i-wish-you-were-here/1",
+      "anime_id": 1573,
+      "anime_name": "I: Wish You Were Here"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/i-wish-you-were-here/2",
+      "anime_id": 1573,
+      "anime_name": "I: Wish You Were Here"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/i-wish-you-were-here/3",
+      "anime_id": 1573,
+      "anime_name": "I: Wish You Were Here"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/i-wish-you-were-here/4",
+      "anime_id": 1573,
+      "anime_name": "I: Wish You Were Here"
+    }
+  ],
+  "total_episodes": 4
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Boushoku no Berserk",
+  "anime": {
+    "id": 491,
+    "nome": "Boushoku no Berserk",
+    "link": "https://animefire.plus/animes/boushoku-no-berserk-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/boushoku-no-berserk",
+    "rating": "6.73",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/boushoku-no-berserk/1",
+      "anime_id": 491,
+      "anime_name": "Boushoku no Berserk"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/boushoku-no-berserk/2",
+      "anime_id": 491,
+      "anime_name": "Boushoku no Berserk"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/boushoku-no-berserk/3",
+      "anime_id": 491,
+      "anime_name": "Boushoku no Berserk"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/boushoku-no-berserk/4",
+      "anime_id": 491,
+      "anime_name": "Boushoku no Berserk"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/boushoku-no-berserk/5",
+      "anime_id": 491,
+      "anime_name": "Boushoku no Berserk"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/boushoku-no-berserk/6",
+      "anime_id": 491,
+      "anime_name": "Boushoku no Berserk"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/boushoku-no-berserk/7",
+      "anime_id": 491,
+      "anime_name": "Boushoku no Berserk"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/boushoku-no-berserk/8",
+      "anime_id": 491,
+      "anime_name": "Boushoku no Berserk"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/boushoku-no-berserk/9",
+      "anime_id": 491,
+      "anime_name": "Boushoku no Berserk"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/boushoku-no-berserk/10",
+      "anime_id": 491,
+      "anime_name": "Boushoku no Berserk"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/boushoku-no-berserk/11",
+      "anime_id": 491,
+      "anime_name": "Boushoku no Berserk"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/boushoku-no-berserk/12",
+      "anime_id": 491,
+      "anime_name": "Boushoku no Berserk"
+    }
+  ],
+  "total_episodes": 12
+}

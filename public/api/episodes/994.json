@@ -1,0 +1,74 @@
+{
+  "message": "Lista de episódios do anime: Fate/kaleid liner Prisma☆Illya 2wei!",
+  "anime": {
+    "id": 994,
+    "nome": "Fate/kaleid liner Prisma☆Illya 2wei!",
+    "link": "https://animefire.plus/animes/fate-kaleid-liner-prisma-illya-2wei-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/fate-kaleid-liner-prisma-illya-2wei",
+    "rating": "7.37",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/fate-kaleid-liner-prisma-illya-2wei/1",
+      "anime_id": 994,
+      "anime_name": "Fate/kaleid liner Prisma☆Illya 2wei!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/fate-kaleid-liner-prisma-illya-2wei/2",
+      "anime_id": 994,
+      "anime_name": "Fate/kaleid liner Prisma☆Illya 2wei!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/fate-kaleid-liner-prisma-illya-2wei/3",
+      "anime_id": 994,
+      "anime_name": "Fate/kaleid liner Prisma☆Illya 2wei!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/fate-kaleid-liner-prisma-illya-2wei/4",
+      "anime_id": 994,
+      "anime_name": "Fate/kaleid liner Prisma☆Illya 2wei!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/fate-kaleid-liner-prisma-illya-2wei/5",
+      "anime_id": 994,
+      "anime_name": "Fate/kaleid liner Prisma☆Illya 2wei!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/fate-kaleid-liner-prisma-illya-2wei/6",
+      "anime_id": 994,
+      "anime_name": "Fate/kaleid liner Prisma☆Illya 2wei!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/fate-kaleid-liner-prisma-illya-2wei/7",
+      "anime_id": 994,
+      "anime_name": "Fate/kaleid liner Prisma☆Illya 2wei!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/fate-kaleid-liner-prisma-illya-2wei/8",
+      "anime_id": 994,
+      "anime_name": "Fate/kaleid liner Prisma☆Illya 2wei!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/fate-kaleid-liner-prisma-illya-2wei/9",
+      "anime_id": 994,
+      "anime_name": "Fate/kaleid liner Prisma☆Illya 2wei!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/fate-kaleid-liner-prisma-illya-2wei/10",
+      "anime_id": 994,
+      "anime_name": "Fate/kaleid liner Prisma☆Illya 2wei!"
+    }
+  ],
+  "total_episodes": 10
+}

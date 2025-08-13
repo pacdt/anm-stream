@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3575,
+    "nome": "Sora no Otoshimono",
+    "link": "https://animefire.plus/animes/sora-no-otoshimono-todos-os-episodios",
+    "texto_original": "Sora no Otoshimono",
+    "rating": 7.52,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/sora-no-otoshimono.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sora-no-otoshimono/",
+    "secao": "legendados",
+    "pagina": 130,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/sora-no-otoshimono"
+  }
+}

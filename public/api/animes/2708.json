@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2708,
+    "nome": "Neko Neko Fantasia",
+    "link": "https://animefire.plus/animes/neko-neko-fantasia-todos-os-episodios",
+    "texto_original": "Neko Neko Fantasia",
+    "rating": 5.96,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/neko-neko-fantasia.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/neko-neko-fantasia/",
+    "secao": "legendados",
+    "pagina": 85,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/neko-neko-fantasia"
+  }
+}

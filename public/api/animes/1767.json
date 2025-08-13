@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1767,
+    "nome": "Juuni Taisen",
+    "link": "https://animefire.plus/animes/juuni-taisen-todos-os-episodios",
+    "texto_original": "Juuni Taisen",
+    "rating": 6.64,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/juuni-taisen.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/juuni-taisen/",
+    "secao": "legendados",
+    "pagina": 137,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/juuni-taisen"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Inu to Hasami wa Tsukaiyou",
+  "anime": {
+    "id": 1637,
+    "nome": "Inu to Hasami wa Tsukaiyou",
+    "link": "https://animefire.plus/animes/inu-to-hasami-wa-tsukaiyou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/inu-to-hasami-wa-tsukaiyou",
+    "rating": "6.66",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/inu-to-hasami-wa-tsukaiyou/1",
+      "anime_id": 1637,
+      "anime_name": "Inu to Hasami wa Tsukaiyou"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/inu-to-hasami-wa-tsukaiyou/2",
+      "anime_id": 1637,
+      "anime_name": "Inu to Hasami wa Tsukaiyou"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/inu-to-hasami-wa-tsukaiyou/3",
+      "anime_id": 1637,
+      "anime_name": "Inu to Hasami wa Tsukaiyou"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/inu-to-hasami-wa-tsukaiyou/4",
+      "anime_id": 1637,
+      "anime_name": "Inu to Hasami wa Tsukaiyou"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/inu-to-hasami-wa-tsukaiyou/5",
+      "anime_id": 1637,
+      "anime_name": "Inu to Hasami wa Tsukaiyou"
+    }
+  ],
+  "total_episodes": 5
+}

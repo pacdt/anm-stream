@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4111,
+    "nome": "Warau Salesman New",
+    "link": "https://animefire.plus/animes/warau-salesman-new-todos-os-episodios",
+    "texto_original": "Warau Salesman New",
+    "rating": 6.28,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/warau-salesman-new.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/warau-salesman-new/",
+    "secao": "legendados",
+    "pagina": 99,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/warau-salesman-new"
+  }
+}

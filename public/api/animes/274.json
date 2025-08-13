@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 274,
+    "nome": "Atom: The Beginning",
+    "link": "https://animefire.plus/animes/atom-the-beginning-todos-os-episodios",
+    "texto_original": "Atom: The Beginning",
+    "rating": 6.91,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/atom-the-beginning.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/atom-the-beginning/",
+    "secao": "legendados",
+    "pagina": 163,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/atom-the-beginning"
+  }
+}

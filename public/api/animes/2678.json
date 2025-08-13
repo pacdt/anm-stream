@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2678,
+    "nome": "Naruto (Dublado)",
+    "link": "https://animefire.plus/animes/naruto-dublado-todos-os-episodios",
+    "texto_original": "Naruto (Dublado)",
+    "rating": 7.88,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/naruto.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/naruto/",
+    "secao": "dublados,legendados",
+    "pagina": 20,
+    "total_episodios": 211,
+    "link_video": "https://animefire.plus/video/naruto-dublado"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Mayonaka no Occult Koumuin: Fukurokouji to Ano Ko to Ore to",
+  "anime": {
+    "id": 2455,
+    "nome": "Mayonaka no Occult Koumuin: Fukurokouji to Ano Ko to Ore to",
+    "link": "https://animefire.plus/animes/mayonaka-no-occult-koumuin-fukurokouji-to-ano-ko-to-ore-to-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mayonaka-no-occult-koumuin-fukurokouji-to-ano-ko-to-ore-to",
+    "rating": "6.79",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mayonaka-no-occult-koumuin-fukurokouji-to-ano-ko-to-ore-to/1",
+      "anime_id": 2455,
+      "anime_name": "Mayonaka no Occult Koumuin: Fukurokouji to Ano Ko to Ore to"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Moonrise",
+  "anime": {
+    "id": 2590,
+    "nome": "Moonrise",
+    "link": "https://animefire.plus/animes/moonrise-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/moonrise",
+    "rating": "N/A",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/moonrise/1",
+      "anime_id": 2590,
+      "anime_name": "Moonrise"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/moonrise/2",
+      "anime_id": 2590,
+      "anime_name": "Moonrise"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/moonrise/3",
+      "anime_id": 2590,
+      "anime_name": "Moonrise"
+    }
+  ],
+  "total_episodes": 3
+}

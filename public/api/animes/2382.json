@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2382,
+    "nome": "Major S2",
+    "link": "https://animefire.plus/animes/major-s2-todos-os-episodios",
+    "texto_original": "Major S2",
+    "rating": 8.33,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/major-s2.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/major-s2/",
+    "secao": "legendados",
+    "pagina": 151,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/major-s2"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Twinkle Nora Rock Me!",
+  "anime": {
+    "id": 3980,
+    "nome": "Twinkle Nora Rock Me!",
+    "link": "https://animefire.plus/animes/twinkle-nora-rock-me-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/twinkle-nora-rock-me",
+    "rating": "3.46",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/twinkle-nora-rock-me/1",
+      "anime_id": 3980,
+      "anime_name": "Twinkle Nora Rock Me!"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1721,
+    "nome": "Jigoku Sensei Nube",
+    "link": "https://animefire.plus/animes/jigoku-sensei-nube-todos-os-episodios",
+    "texto_original": "Jigoku Sensei Nube",
+    "rating": 7.62,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/jigoku-sensei-nube.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/jigoku-sensei-nube/",
+    "secao": "legendados",
+    "pagina": 122,
+    "total_episodios": 49,
+    "link_video": "https://animefire.plus/video/jigoku-sensei-nube"
+  }
+}

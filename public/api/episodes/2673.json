@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Nande Koko ni Sensei ga!? Special",
+  "anime": {
+    "id": 2673,
+    "nome": "Nande Koko ni Sensei ga!? Special",
+    "link": "https://animefire.plus/animes/nande-koko-ni-sensei-ga-special-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nande-koko-ni-sensei-ga-special",
+    "rating": "6.85",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nande-koko-ni-sensei-ga-special/1",
+      "anime_id": 2673,
+      "anime_name": "Nande Koko ni Sensei ga!? Special"
+    }
+  ],
+  "total_episodes": 1
+}

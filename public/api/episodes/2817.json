@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Okusama ga Seitokaichou!+!",
+  "anime": {
+    "id": 2817,
+    "nome": "Okusama ga Seitokaichou!+!",
+    "link": "https://animefire.plus/animes/my-wife-is-the-student-council-president-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/my-wife-is-the-student-council-president",
+    "rating": "6.70",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/my-wife-is-the-student-council-president/1",
+      "anime_id": 2817,
+      "anime_name": "Okusama ga Seitokaichou!+!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/my-wife-is-the-student-council-president/2",
+      "anime_id": 2817,
+      "anime_name": "Okusama ga Seitokaichou!+!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/my-wife-is-the-student-council-president/3",
+      "anime_id": 2817,
+      "anime_name": "Okusama ga Seitokaichou!+!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/my-wife-is-the-student-council-president/4",
+      "anime_id": 2817,
+      "anime_name": "Okusama ga Seitokaichou!+!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/my-wife-is-the-student-council-president/5",
+      "anime_id": 2817,
+      "anime_name": "Okusama ga Seitokaichou!+!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/my-wife-is-the-student-council-president/6",
+      "anime_id": 2817,
+      "anime_name": "Okusama ga Seitokaichou!+!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/my-wife-is-the-student-council-president/7",
+      "anime_id": 2817,
+      "anime_name": "Okusama ga Seitokaichou!+!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/my-wife-is-the-student-council-president/8",
+      "anime_id": 2817,
+      "anime_name": "Okusama ga Seitokaichou!+!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/my-wife-is-the-student-council-president/9",
+      "anime_id": 2817,
+      "anime_name": "Okusama ga Seitokaichou!+!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/my-wife-is-the-student-council-president/10",
+      "anime_id": 2817,
+      "anime_name": "Okusama ga Seitokaichou!+!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/my-wife-is-the-student-council-president/11",
+      "anime_id": 2817,
+      "anime_name": "Okusama ga Seitokaichou!+!"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/my-wife-is-the-student-council-president/12",
+      "anime_id": 2817,
+      "anime_name": "Okusama ga Seitokaichou!+!"
+    }
+  ],
+  "total_episodes": 12
+}

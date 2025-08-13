@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Gosenzo-sama Banbanzai!",
+  "anime": {
+    "id": 1231,
+    "nome": "Gosenzo-sama Banbanzai!",
+    "link": "https://animefire.plus/animes/gosenzo-sama-banbanzai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gosenzo-sama-banbanzai",
+    "rating": "7.33",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gosenzo-sama-banbanzai/1",
+      "anime_id": 1231,
+      "anime_name": "Gosenzo-sama Banbanzai!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/gosenzo-sama-banbanzai/2",
+      "anime_id": 1231,
+      "anime_name": "Gosenzo-sama Banbanzai!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/gosenzo-sama-banbanzai/3",
+      "anime_id": 1231,
+      "anime_name": "Gosenzo-sama Banbanzai!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/gosenzo-sama-banbanzai/4",
+      "anime_id": 1231,
+      "anime_name": "Gosenzo-sama Banbanzai!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/gosenzo-sama-banbanzai/5",
+      "anime_id": 1231,
+      "anime_name": "Gosenzo-sama Banbanzai!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/gosenzo-sama-banbanzai/6",
+      "anime_id": 1231,
+      "anime_name": "Gosenzo-sama Banbanzai!"
+    }
+  ],
+  "total_episodes": 6
+}

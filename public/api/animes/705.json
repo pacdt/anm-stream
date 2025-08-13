@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 705,
+    "nome": "Crystal Blaze",
+    "link": "https://animefire.plus/animes/crystal-blaze-todos-os-episodios",
+    "texto_original": "Crystal Blaze",
+    "rating": 6.19,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/crystal-blaze.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/crystal-blaze/",
+    "secao": "legendados",
+    "pagina": 123,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/crystal-blaze"
+  }
+}

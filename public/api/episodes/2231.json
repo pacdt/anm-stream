@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Little Busters!: Refrain",
+  "anime": {
+    "id": 2231,
+    "nome": "Little Busters!: Refrain",
+    "link": "https://animefire.plus/animes/little-busters-refrain-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/little-busters-refrain",
+    "rating": "8.30",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/little-busters-refrain/1",
+      "anime_id": 2231,
+      "anime_name": "Little Busters!: Refrain"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/little-busters-refrain/2",
+      "anime_id": 2231,
+      "anime_name": "Little Busters!: Refrain"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/little-busters-refrain/3",
+      "anime_id": 2231,
+      "anime_name": "Little Busters!: Refrain"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/little-busters-refrain/4",
+      "anime_id": 2231,
+      "anime_name": "Little Busters!: Refrain"
+    }
+  ],
+  "total_episodes": 4
+}

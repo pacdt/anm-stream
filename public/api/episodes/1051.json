@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Fumiko no Kokuhaku",
+  "anime": {
+    "id": 1051,
+    "nome": "Fumiko no Kokuhaku",
+    "link": "https://animefire.plus/animes/fumiko-no-kokuhaku-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/fumiko-no-kokuhaku",
+    "rating": "6.68",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/fumiko-no-kokuhaku/1",
+      "anime_id": 1051,
+      "anime_name": "Fumiko no Kokuhaku"
+    }
+  ],
+  "total_episodes": 1
+}

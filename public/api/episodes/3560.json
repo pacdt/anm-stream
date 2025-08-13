@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Snack Basue",
+  "anime": {
+    "id": 3560,
+    "nome": "Snack Basue",
+    "link": "https://animefire.plus/animes/snack-basue-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/snack-basue",
+    "rating": "6.50",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/snack-basue/1",
+      "anime_id": 3560,
+      "anime_name": "Snack Basue"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/snack-basue/2",
+      "anime_id": 3560,
+      "anime_name": "Snack Basue"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/snack-basue/3",
+      "anime_id": 3560,
+      "anime_name": "Snack Basue"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/snack-basue/4",
+      "anime_id": 3560,
+      "anime_name": "Snack Basue"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/snack-basue/5",
+      "anime_id": 3560,
+      "anime_name": "Snack Basue"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/snack-basue/6",
+      "anime_id": 3560,
+      "anime_name": "Snack Basue"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/snack-basue/7",
+      "anime_id": 3560,
+      "anime_name": "Snack Basue"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/snack-basue/8",
+      "anime_id": 3560,
+      "anime_name": "Snack Basue"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/snack-basue/9",
+      "anime_id": 3560,
+      "anime_name": "Snack Basue"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/snack-basue/10",
+      "anime_id": 3560,
+      "anime_name": "Snack Basue"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/snack-basue/11",
+      "anime_id": 3560,
+      "anime_name": "Snack Basue"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/snack-basue/12",
+      "anime_id": 3560,
+      "anime_name": "Snack Basue"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/snack-basue/13",
+      "anime_id": 3560,
+      "anime_name": "Snack Basue"
+    }
+  ],
+  "total_episodes": 13
+}

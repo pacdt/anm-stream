@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 530,
+    "nome": "Burn Up!",
+    "link": "https://animefire.plus/animes/burn-up-todos-os-episodios",
+    "texto_original": "Burn Up!",
+    "rating": 6.09,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/burn-up.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/burn-up/",
+    "secao": "legendados",
+    "pagina": 45,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/burn-up"
+  }
+}

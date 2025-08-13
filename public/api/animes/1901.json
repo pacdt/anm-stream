@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1901,
+    "nome": "Kareshi Kanojo no Jijou",
+    "link": "https://animefire.plus/animes/kareshi-kanojo-no-jijou-todos-os-episodios",
+    "texto_original": "Kareshi Kanojo no Jijou",
+    "rating": 7.64,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kareshi-kanojo-no-jijou.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kareshi-kanojo-no-jijou/",
+    "secao": "legendados",
+    "pagina": 171,
+    "total_episodios": 14,
+    "link_video": "https://animefire.plus/video/kareshi-kanojo-no-jijou"
+  }
+}

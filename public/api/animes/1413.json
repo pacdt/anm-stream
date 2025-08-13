@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1413,
+    "nome": "Hello!! Kiniro Mosaic",
+    "link": "https://animefire.plus/animes/hello-kiniro-mosaic-todos-os-episodios",
+    "texto_original": "Hello!! Kiniro Mosaic",
+    "rating": 7.59,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hello-kiniro-mosaic.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hello-kiniro-mosaic/",
+    "secao": "legendados",
+    "pagina": 95,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/hello-kiniro-mosaic"
+  }
+}

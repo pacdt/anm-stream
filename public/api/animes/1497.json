@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1497,
+    "nome": "Hirogaru Sky! Precure",
+    "link": "https://animefire.plus/animes/hirogaru-sky-precure-todos-os-episodios",
+    "texto_original": "Hirogaru Sky! Precure",
+    "rating": 7.6,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/hirogaru-sky-precure.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hirogaru-sky-precure/",
+    "secao": "legendados",
+    "pagina": 25,
+    "total_episodios": 50,
+    "link_video": "https://animefire.plus/video/hirogaru-sky-precure"
+  }
+}

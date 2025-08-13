@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Machine-Doll wa Kizutsukanai",
+  "anime": {
+    "id": 2291,
+    "nome": "Machine-Doll wa Kizutsukanai",
+    "link": "https://animefire.plus/animes/machine-doll-wa-kizutsukanai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/machine-doll-wa-kizutsukanai",
+    "rating": "7.28",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/machine-doll-wa-kizutsukanai/1",
+      "anime_id": 2291,
+      "anime_name": "Machine-Doll wa Kizutsukanai"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/machine-doll-wa-kizutsukanai/2",
+      "anime_id": 2291,
+      "anime_name": "Machine-Doll wa Kizutsukanai"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/machine-doll-wa-kizutsukanai/3",
+      "anime_id": 2291,
+      "anime_name": "Machine-Doll wa Kizutsukanai"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/machine-doll-wa-kizutsukanai/4",
+      "anime_id": 2291,
+      "anime_name": "Machine-Doll wa Kizutsukanai"
+    }
+  ],
+  "total_episodes": 4
+}

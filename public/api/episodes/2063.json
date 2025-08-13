@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Koisuru Tenshi Angelique: Kagayaki no Ashita Special",
+  "anime": {
+    "id": 2063,
+    "nome": "Koisuru Tenshi Angelique: Kagayaki no Ashita Special",
+    "link": "https://animefire.plus/animes/koisuru-tenshi-angelique-kagayaki-no-ashita-special-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/koisuru-tenshi-angelique-kagayaki-no-ashita-special",
+    "rating": "6.74",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/koisuru-tenshi-angelique-kagayaki-no-ashita-special/1",
+      "anime_id": 2063,
+      "anime_name": "Koisuru Tenshi Angelique: Kagayaki no Ashita Special"
+    }
+  ],
+  "total_episodes": 1
+}

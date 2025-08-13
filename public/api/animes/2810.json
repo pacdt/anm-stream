@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2810,
+    "nome": "Ojamajo Doremi",
+    "link": "https://animefire.plus/animes/ojamajo-doremi-todos-os-episodios",
+    "texto_original": "Ojamajo Doremi",
+    "rating": 7.2,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/ojamajo-doremi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ojamajo-doremi/",
+    "secao": "legendados",
+    "pagina": 59,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/ojamajo-doremi"
+  }
+}

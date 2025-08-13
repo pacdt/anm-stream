@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4272,
+    "nome": "Yozakura Quartet",
+    "link": "https://animefire.plus/animes/yozakura-quartet-todos-os-episodios",
+    "texto_original": "Yozakura Quartet",
+    "rating": 6.89,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/yozakura-quartet.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/yozakura-quartet/",
+    "secao": "legendados",
+    "pagina": 136,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/yozakura-quartet"
+  }
+}

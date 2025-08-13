@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Miru Tights: Cosplay Satsuei Tights",
+  "anime": {
+    "id": 2523,
+    "nome": "Miru Tights: Cosplay Satsuei Tights",
+    "link": "https://animefire.plus/animes/miru-tights-cosplay-satsuei-tights-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/miru-tights-cosplay-satsuei-tights",
+    "rating": "6.59",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/miru-tights-cosplay-satsuei-tights/1",
+      "anime_id": 2523,
+      "anime_name": "Miru Tights: Cosplay Satsuei Tights"
+    }
+  ],
+  "total_episodes": 1
+}

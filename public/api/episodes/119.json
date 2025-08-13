@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Akatsuki no Yona OVA",
+  "anime": {
+    "id": 119,
+    "nome": "Akatsuki no Yona OVA",
+    "link": "https://animefire.plus/animes/akatsuki-no-yona-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/akatsuki-no-yona-ova",
+    "rating": "8.16",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/akatsuki-no-yona-ova/1",
+      "anime_id": 119,
+      "anime_name": "Akatsuki no Yona OVA"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/akatsuki-no-yona-ova/2",
+      "anime_id": 119,
+      "anime_name": "Akatsuki no Yona OVA"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/akatsuki-no-yona-ova/3",
+      "anime_id": 119,
+      "anime_name": "Akatsuki no Yona OVA"
+    }
+  ],
+  "total_episodes": 3
+}

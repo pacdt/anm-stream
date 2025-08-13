@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1424,
+    "nome": "Hero Mask (Dublado)",
+    "link": "https://animefire.plus/animes/hero-mask-dublado-todos-os-episodios",
+    "texto_original": "Hero Mask (Dublado)",
+    "rating": 6.39,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/hero-mask.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hero-mask/",
+    "secao": "dublados,legendados",
+    "pagina": 25,
+    "total_episodios": 15,
+    "link_video": "https://animefire.plus/video/hero-mask-dublado"
+  }
+}

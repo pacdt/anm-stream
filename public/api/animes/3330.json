@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3330,
+    "nome": "Sengoku Basara Two",
+    "link": "https://animefire.plus/animes/sengoku-basara-two-todos-os-episodios",
+    "texto_original": "Sengoku Basara Two",
+    "rating": 7.63,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/sengoku-basara-two.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sengoku-basara-two/",
+    "secao": "legendados",
+    "pagina": 105,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/sengoku-basara-two"
+  }
+}

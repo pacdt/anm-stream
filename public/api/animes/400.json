@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 400,
+    "nome": "Bishoujo Senshi Sailor Moon SuperS",
+    "link": "https://animefire.plus/animes/bishoujo-senshi-sailor-moon-supers-todos-os-episodios",
+    "texto_original": "Bishoujo Senshi Sailor Moon SuperS",
+    "rating": 7.65,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/bishoujo-senshi-sailor-moon-supers.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bishoujo-senshi-sailor-moon-supers/",
+    "secao": "legendados",
+    "pagina": 133,
+    "total_episodios": 39,
+    "link_video": "https://animefire.plus/video/bishoujo-senshi-sailor-moon-supers"
+  }
+}

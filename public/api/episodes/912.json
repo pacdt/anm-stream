@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Durarara!!x2 Ten",
+  "anime": {
+    "id": 912,
+    "nome": "Durarara!!x2 Ten",
+    "link": "https://animefire.plus/animes/durarara-x2-ten-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/durarara-x2-ten",
+    "rating": "8.07",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/durarara-x2-ten/1",
+      "anime_id": 912,
+      "anime_name": "Durarara!!x2 Ten"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/durarara-x2-ten/2",
+      "anime_id": 912,
+      "anime_name": "Durarara!!x2 Ten"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/durarara-x2-ten/3",
+      "anime_id": 912,
+      "anime_name": "Durarara!!x2 Ten"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/durarara-x2-ten/4",
+      "anime_id": 912,
+      "anime_name": "Durarara!!x2 Ten"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/durarara-x2-ten/5",
+      "anime_id": 912,
+      "anime_name": "Durarara!!x2 Ten"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/durarara-x2-ten/6",
+      "anime_id": 912,
+      "anime_name": "Durarara!!x2 Ten"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/durarara-x2-ten/7",
+      "anime_id": 912,
+      "anime_name": "Durarara!!x2 Ten"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/durarara-x2-ten/8",
+      "anime_id": 912,
+      "anime_name": "Durarara!!x2 Ten"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/durarara-x2-ten/9",
+      "anime_id": 912,
+      "anime_name": "Durarara!!x2 Ten"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/durarara-x2-ten/10",
+      "anime_id": 912,
+      "anime_name": "Durarara!!x2 Ten"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/durarara-x2-ten/11",
+      "anime_id": 912,
+      "anime_name": "Durarara!!x2 Ten"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/durarara-x2-ten/12",
+      "anime_id": 912,
+      "anime_name": "Durarara!!x2 Ten"
+    }
+  ],
+  "total_episodes": 12
+}

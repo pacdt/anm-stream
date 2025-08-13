@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Kimetsu no Yaiba: Mugen Ressha-hen (Dublado)",
+  "anime": {
+    "id": 1979,
+    "nome": "Kimetsu no Yaiba: Mugen Ressha-hen (Dublado)",
+    "link": "https://animefire.plus/animes/kimetsu-no-yaiba-mugen-ressha-hen-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kimetsu-no-yaiba-mugen-ressha-hen-dublado",
+    "rating": "8.35",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kimetsu-no-yaiba-mugen-ressha-hen-dublado/1",
+      "anime_id": 1979,
+      "anime_name": "Kimetsu no Yaiba: Mugen Ressha-hen (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kimetsu-no-yaiba-mugen-ressha-hen-dublado/2",
+      "anime_id": 1979,
+      "anime_name": "Kimetsu no Yaiba: Mugen Ressha-hen (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kimetsu-no-yaiba-mugen-ressha-hen-dublado/3",
+      "anime_id": 1979,
+      "anime_name": "Kimetsu no Yaiba: Mugen Ressha-hen (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kimetsu-no-yaiba-mugen-ressha-hen-dublado/4",
+      "anime_id": 1979,
+      "anime_name": "Kimetsu no Yaiba: Mugen Ressha-hen (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kimetsu-no-yaiba-mugen-ressha-hen-dublado/5",
+      "anime_id": 1979,
+      "anime_name": "Kimetsu no Yaiba: Mugen Ressha-hen (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kimetsu-no-yaiba-mugen-ressha-hen-dublado/6",
+      "anime_id": 1979,
+      "anime_name": "Kimetsu no Yaiba: Mugen Ressha-hen (Dublado)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/kimetsu-no-yaiba-mugen-ressha-hen-dublado/7",
+      "anime_id": 1979,
+      "anime_name": "Kimetsu no Yaiba: Mugen Ressha-hen (Dublado)"
+    }
+  ],
+  "total_episodes": 7
+}

@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Fairy Tail OVA",
+  "anime": {
+    "id": 970,
+    "nome": "Fairy Tail OVA",
+    "link": "https://animefire.plus/animes/fairy-tail-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/fairy-tail-ova",
+    "rating": "7.59",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/fairy-tail-ova/1",
+      "anime_id": 970,
+      "anime_name": "Fairy Tail OVA"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/fairy-tail-ova/2",
+      "anime_id": 970,
+      "anime_name": "Fairy Tail OVA"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/fairy-tail-ova/3",
+      "anime_id": 970,
+      "anime_name": "Fairy Tail OVA"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/fairy-tail-ova/4",
+      "anime_id": 970,
+      "anime_name": "Fairy Tail OVA"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/fairy-tail-ova/5",
+      "anime_id": 970,
+      "anime_name": "Fairy Tail OVA"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/fairy-tail-ova/6",
+      "anime_id": 970,
+      "anime_name": "Fairy Tail OVA"
+    }
+  ],
+  "total_episodes": 6
+}

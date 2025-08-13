@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1459,
+    "nome": "High School Fleet",
+    "link": "https://animefire.plus/animes/high-school-fleet-todos-os-episodios",
+    "texto_original": "High School Fleet",
+    "rating": 7.31,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/high-school-fleet.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/high-school-fleet/",
+    "secao": "legendados",
+    "pagina": 64,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/high-school-fleet"
+  }
+}

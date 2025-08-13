@@ -1,0 +1,87 @@
+{
+  "message": "Animes com 51 a 100 episódios",
+  "episode_range": {
+    "min": 51,
+    "max": 100
+  },
+  "data": [
+    {
+      "id": 4078,
+      "nome": "Viewtiful Joe (Dublado)",
+      "link": "https://animefire.plus/animes/viewtiful-joe-dublado-todos-os-episodios",
+      "texto_original": "Viewtiful Joe (Dublado)",
+      "rating": 6.76,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/viewtiful-joe.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/viewtiful-joe/",
+      "secao": "dublados",
+      "pagina": 20,
+      "total_episodios": 51,
+      "link_video": "https://animefire.plus/video/viewtiful-joe-dublado"
+    },
+    {
+      "id": 4100,
+      "nome": "Wan Jie Xian Zong",
+      "link": "https://animefire.plus/animes/wan-jie-xian-zong-todos-os-episodios",
+      "texto_original": "Wan Jie Xian Zong",
+      "rating": 7.39,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/wan-jie-xian-zong.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/wan-jie-xian-zong/",
+      "secao": "legendados",
+      "pagina": 80,
+      "total_episodios": 90,
+      "link_video": "https://animefire.plus/video/wan-jie-xian-zong"
+    },
+    {
+      "id": 4156,
+      "nome": "World Trigger",
+      "link": "https://animefire.plus/animes/world-trigger-todos-os-episodios",
+      "texto_original": "World Trigger",
+      "rating": 7.59,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/world-trigger.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/world-trigger/",
+      "secao": "legendados",
+      "pagina": 53,
+      "total_episodios": 73,
+      "link_video": "https://animefire.plus/video/world-trigger"
+    },
+    {
+      "id": 4230,
+      "nome": "Yawara!",
+      "link": "https://animefire.plus/animes/yawara-todos-os-episodios",
+      "texto_original": "Yawara!",
+      "rating": 7.47,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/yawara.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/yawara/",
+      "secao": "legendados",
+      "pagina": 43,
+      "total_episodios": 53,
+      "link_video": "https://animefire.plus/video/yawara"
+    },
+    {
+      "id": 4281,
+      "nome": "Yu☆Gi☆Oh! Zexal Second",
+      "link": "https://animefire.plus/animes/yu-gi-oh-zexal-second-todos-os-episodios",
+      "texto_original": "Yu☆Gi☆Oh! Zexal Second",
+      "rating": 6.88,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/yu-gi-oh-zexal-second.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/yu-gi-oh-zexal-second/",
+      "secao": "legendados",
+      "pagina": 56,
+      "total_episodios": 73,
+      "link_video": "https://animefire.plus/video/yu-gi-oh-zexal-second"
+    }
+  ],
+  "pagination": {
+    "current_page": 4,
+    "per_page": 20,
+    "total_items": 65,
+    "total_pages": 4,
+    "has_next": false,
+    "has_prev": true
+  }
+}

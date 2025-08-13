@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4326,
+    "nome": "Yuyushiki",
+    "link": "https://animefire.plus/animes/yuyushiki-todos-os-episodios",
+    "texto_original": "Yuyushiki",
+    "rating": 7.43,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/yuyushiki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/yuyushiki/",
+    "secao": "legendados",
+    "pagina": 178,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/yuyushiki"
+  }
+}

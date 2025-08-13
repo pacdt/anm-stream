@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 321,
+    "nome": "Bakuretsu Hunters",
+    "link": "https://animefire.plus/animes/bakuretsu-hunters-todos-os-episodios",
+    "texto_original": "Bakuretsu Hunters",
+    "rating": 6.78,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/bakuretsu-hunters.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bakuretsu-hunters/",
+    "secao": "legendados",
+    "pagina": 122,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/bakuretsu-hunters"
+  }
+}

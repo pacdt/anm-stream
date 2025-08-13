@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 125,
+    "nome": "Akiba's Trip The Animation",
+    "link": "https://animefire.plus/animes/akiba-s-trip-the-animation-todos-os-episodios",
+    "texto_original": "Akiba's Trip The Animation",
+    "rating": 6.68,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/akiba-s-trip-the-animation.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/akiba-s-trip-the-animation/",
+    "secao": "legendados",
+    "pagina": 156,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/akiba-s-trip-the-animation"
+  }
+}

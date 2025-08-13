@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: The iDOLM@STER Shiny Colors",
+  "anime": {
+    "id": 3832,
+    "nome": "The iDOLM@STER Shiny Colors",
+    "link": "https://animefire.plus/animes/the-idolmaster-shiny-colors-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/the-idolmaster-shiny-colors",
+    "rating": "6.08",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-shiny-colors/1",
+      "anime_id": 3832,
+      "anime_name": "The iDOLM@STER Shiny Colors"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-shiny-colors/2",
+      "anime_id": 3832,
+      "anime_name": "The iDOLM@STER Shiny Colors"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-shiny-colors/3",
+      "anime_id": 3832,
+      "anime_name": "The iDOLM@STER Shiny Colors"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-shiny-colors/4",
+      "anime_id": 3832,
+      "anime_name": "The iDOLM@STER Shiny Colors"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-shiny-colors/5",
+      "anime_id": 3832,
+      "anime_name": "The iDOLM@STER Shiny Colors"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-shiny-colors/6",
+      "anime_id": 3832,
+      "anime_name": "The iDOLM@STER Shiny Colors"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-shiny-colors/7",
+      "anime_id": 3832,
+      "anime_name": "The iDOLM@STER Shiny Colors"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-shiny-colors/8",
+      "anime_id": 3832,
+      "anime_name": "The iDOLM@STER Shiny Colors"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-shiny-colors/9",
+      "anime_id": 3832,
+      "anime_name": "The iDOLM@STER Shiny Colors"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-shiny-colors/10",
+      "anime_id": 3832,
+      "anime_name": "The iDOLM@STER Shiny Colors"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-shiny-colors/11",
+      "anime_id": 3832,
+      "anime_name": "The iDOLM@STER Shiny Colors"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-shiny-colors/12",
+      "anime_id": 3832,
+      "anime_name": "The iDOLM@STER Shiny Colors"
+    }
+  ],
+  "total_episodes": 12
+}

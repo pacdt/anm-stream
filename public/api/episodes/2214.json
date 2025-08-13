@@ -1,0 +1,110 @@
+{
+  "message": "Lista de episódios do anime: Let's Nupu Nupu",
+  "anime": {
+    "id": 2214,
+    "nome": "Let's Nupu Nupu",
+    "link": "https://animefire.plus/animes/let-s-nupu-nupu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/let-s-nupu-nupu",
+    "rating": "6.25",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/let-s-nupu-nupu/1",
+      "anime_id": 2214,
+      "anime_name": "Let's Nupu Nupu"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/let-s-nupu-nupu/2",
+      "anime_id": 2214,
+      "anime_name": "Let's Nupu Nupu"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/let-s-nupu-nupu/3",
+      "anime_id": 2214,
+      "anime_name": "Let's Nupu Nupu"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/let-s-nupu-nupu/4",
+      "anime_id": 2214,
+      "anime_name": "Let's Nupu Nupu"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/let-s-nupu-nupu/5",
+      "anime_id": 2214,
+      "anime_name": "Let's Nupu Nupu"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/let-s-nupu-nupu/6",
+      "anime_id": 2214,
+      "anime_name": "Let's Nupu Nupu"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/let-s-nupu-nupu/7",
+      "anime_id": 2214,
+      "anime_name": "Let's Nupu Nupu"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/let-s-nupu-nupu/8",
+      "anime_id": 2214,
+      "anime_name": "Let's Nupu Nupu"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/let-s-nupu-nupu/9",
+      "anime_id": 2214,
+      "anime_name": "Let's Nupu Nupu"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/let-s-nupu-nupu/10",
+      "anime_id": 2214,
+      "anime_name": "Let's Nupu Nupu"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/let-s-nupu-nupu/11",
+      "anime_id": 2214,
+      "anime_name": "Let's Nupu Nupu"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/let-s-nupu-nupu/12",
+      "anime_id": 2214,
+      "anime_name": "Let's Nupu Nupu"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/let-s-nupu-nupu/13",
+      "anime_id": 2214,
+      "anime_name": "Let's Nupu Nupu"
+    },
+    {
+      "episode_number": 14,
+      "episode_url": "https://animefire.plus/video/let-s-nupu-nupu/14",
+      "anime_id": 2214,
+      "anime_name": "Let's Nupu Nupu"
+    },
+    {
+      "episode_number": 15,
+      "episode_url": "https://animefire.plus/video/let-s-nupu-nupu/15",
+      "anime_id": 2214,
+      "anime_name": "Let's Nupu Nupu"
+    },
+    {
+      "episode_number": 16,
+      "episode_url": "https://animefire.plus/video/let-s-nupu-nupu/16",
+      "anime_id": 2214,
+      "anime_name": "Let's Nupu Nupu"
+    }
+  ],
+  "total_episodes": 16
+}

@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: Mugyutto! Black Clover",
+  "anime": {
+    "id": 2605,
+    "nome": "Mugyutto! Black Clover",
+    "link": "https://animefire.plus/animes/mugyutto-black-clover-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mugyutto-black-clover",
+    "rating": "6.28",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mugyutto-black-clover/1",
+      "anime_id": 2605,
+      "anime_name": "Mugyutto! Black Clover"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mugyutto-black-clover/2",
+      "anime_id": 2605,
+      "anime_name": "Mugyutto! Black Clover"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mugyutto-black-clover/3",
+      "anime_id": 2605,
+      "anime_name": "Mugyutto! Black Clover"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/mugyutto-black-clover/4",
+      "anime_id": 2605,
+      "anime_name": "Mugyutto! Black Clover"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/mugyutto-black-clover/5",
+      "anime_id": 2605,
+      "anime_name": "Mugyutto! Black Clover"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/mugyutto-black-clover/6",
+      "anime_id": 2605,
+      "anime_name": "Mugyutto! Black Clover"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/mugyutto-black-clover/7",
+      "anime_id": 2605,
+      "anime_name": "Mugyutto! Black Clover"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/mugyutto-black-clover/8",
+      "anime_id": 2605,
+      "anime_name": "Mugyutto! Black Clover"
+    }
+  ],
+  "total_episodes": 8
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2596,
+    "nome": "Mou Ippon!",
+    "link": "https://animefire.plus/animes/mou-ippon-todos-os-episodios",
+    "texto_original": "Mou Ippon!",
+    "rating": 7.08,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/mou-ippon.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mou-ippon/",
+    "secao": "legendados",
+    "pagina": 25,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/mou-ippon"
+  }
+}

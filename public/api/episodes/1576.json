@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: I★Chu: Halfway Through the Idol",
+  "anime": {
+    "id": 1576,
+    "nome": "I★Chu: Halfway Through the Idol",
+    "link": "https://animefire.plus/animes/i-chu-halfway-through-the-idol-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/i-chu-halfway-through-the-idol",
+    "rating": "6.57",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/i-chu-halfway-through-the-idol/1",
+      "anime_id": 1576,
+      "anime_name": "I★Chu: Halfway Through the Idol"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/i-chu-halfway-through-the-idol/2",
+      "anime_id": 1576,
+      "anime_name": "I★Chu: Halfway Through the Idol"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/i-chu-halfway-through-the-idol/3",
+      "anime_id": 1576,
+      "anime_name": "I★Chu: Halfway Through the Idol"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/i-chu-halfway-through-the-idol/4",
+      "anime_id": 1576,
+      "anime_name": "I★Chu: Halfway Through the Idol"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/i-chu-halfway-through-the-idol/5",
+      "anime_id": 1576,
+      "anime_name": "I★Chu: Halfway Through the Idol"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/i-chu-halfway-through-the-idol/6",
+      "anime_id": 1576,
+      "anime_name": "I★Chu: Halfway Through the Idol"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/i-chu-halfway-through-the-idol/7",
+      "anime_id": 1576,
+      "anime_name": "I★Chu: Halfway Through the Idol"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/i-chu-halfway-through-the-idol/8",
+      "anime_id": 1576,
+      "anime_name": "I★Chu: Halfway Through the Idol"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/i-chu-halfway-through-the-idol/9",
+      "anime_id": 1576,
+      "anime_name": "I★Chu: Halfway Through the Idol"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/i-chu-halfway-through-the-idol/10",
+      "anime_id": 1576,
+      "anime_name": "I★Chu: Halfway Through the Idol"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/i-chu-halfway-through-the-idol/11",
+      "anime_id": 1576,
+      "anime_name": "I★Chu: Halfway Through the Idol"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/i-chu-halfway-through-the-idol/12",
+      "anime_id": 1576,
+      "anime_name": "I★Chu: Halfway Through the Idol"
+    }
+  ],
+  "total_episodes": 12
+}

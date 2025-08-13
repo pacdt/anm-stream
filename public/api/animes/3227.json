@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3227,
+    "nome": "Saki",
+    "link": "https://animefire.plus/animes/saki-todos-os-episodios",
+    "texto_original": "Saki",
+    "rating": 7.5,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/saki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/saki/",
+    "secao": "legendados",
+    "pagina": 65,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/saki"
+  }
+}

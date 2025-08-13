@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Overlord: Ple Ple Pleiades",
+  "anime": {
+    "id": 2937,
+    "nome": "Overlord: Ple Ple Pleiades",
+    "link": "https://animefire.plus/animes/overlord-ple-ple-pleiades-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/overlord-ple-ple-pleiades",
+    "rating": "7.07",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/overlord-ple-ple-pleiades/1",
+      "anime_id": 2937,
+      "anime_name": "Overlord: Ple Ple Pleiades"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/overlord-ple-ple-pleiades/2",
+      "anime_id": 2937,
+      "anime_name": "Overlord: Ple Ple Pleiades"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/overlord-ple-ple-pleiades/3",
+      "anime_id": 2937,
+      "anime_name": "Overlord: Ple Ple Pleiades"
+    }
+  ],
+  "total_episodes": 3
+}

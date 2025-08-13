@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Rang Wo Men Shao Ba",
+  "anime": {
+    "id": 3078,
+    "nome": "Rang Wo Men Shao Ba",
+    "link": "https://animefire.plus/animes/rang-wo-men-shao-ba-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/rang-wo-men-shao-ba",
+    "rating": "6.03",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/rang-wo-men-shao-ba/1",
+      "anime_id": 3078,
+      "anime_name": "Rang Wo Men Shao Ba"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/rang-wo-men-shao-ba/2",
+      "anime_id": 3078,
+      "anime_name": "Rang Wo Men Shao Ba"
+    }
+  ],
+  "total_episodes": 2
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Akiba Maid Sensou",
+  "anime": {
+    "id": 124,
+    "nome": "Akiba Maid Sensou",
+    "link": "https://animefire.plus/animes/akiba-maid-sensou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/akiba-maid-sensou",
+    "rating": "7.58",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/akiba-maid-sensou/1",
+      "anime_id": 124,
+      "anime_name": "Akiba Maid Sensou"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/akiba-maid-sensou/2",
+      "anime_id": 124,
+      "anime_name": "Akiba Maid Sensou"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/akiba-maid-sensou/3",
+      "anime_id": 124,
+      "anime_name": "Akiba Maid Sensou"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/akiba-maid-sensou/4",
+      "anime_id": 124,
+      "anime_name": "Akiba Maid Sensou"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/akiba-maid-sensou/5",
+      "anime_id": 124,
+      "anime_name": "Akiba Maid Sensou"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/akiba-maid-sensou/6",
+      "anime_id": 124,
+      "anime_name": "Akiba Maid Sensou"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/akiba-maid-sensou/7",
+      "anime_id": 124,
+      "anime_name": "Akiba Maid Sensou"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/akiba-maid-sensou/8",
+      "anime_id": 124,
+      "anime_name": "Akiba Maid Sensou"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/akiba-maid-sensou/9",
+      "anime_id": 124,
+      "anime_name": "Akiba Maid Sensou"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/akiba-maid-sensou/10",
+      "anime_id": 124,
+      "anime_name": "Akiba Maid Sensou"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/akiba-maid-sensou/11",
+      "anime_id": 124,
+      "anime_name": "Akiba Maid Sensou"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/akiba-maid-sensou/12",
+      "anime_id": 124,
+      "anime_name": "Akiba Maid Sensou"
+    }
+  ],
+  "total_episodes": 12
+}

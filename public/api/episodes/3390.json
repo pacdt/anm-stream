@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Shelter",
+  "anime": {
+    "id": 3390,
+    "nome": "Shelter",
+    "link": "https://animefire.plus/animes/shelter-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shelter",
+    "rating": "8.41",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shelter/1",
+      "anime_id": 3390,
+      "anime_name": "Shelter"
+    }
+  ],
+  "total_episodes": 1
+}

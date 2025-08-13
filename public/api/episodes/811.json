@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Diabolik Lovers More,Blood",
+  "anime": {
+    "id": 811,
+    "nome": "Diabolik Lovers More,Blood",
+    "link": "https://animefire.plus/animes/diabolik-lovers-more-blood-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/diabolik-lovers-more-blood",
+    "rating": "5.83",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/diabolik-lovers-more-blood/1",
+      "anime_id": 811,
+      "anime_name": "Diabolik Lovers More,Blood"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/diabolik-lovers-more-blood/2",
+      "anime_id": 811,
+      "anime_name": "Diabolik Lovers More,Blood"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/diabolik-lovers-more-blood/3",
+      "anime_id": 811,
+      "anime_name": "Diabolik Lovers More,Blood"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/diabolik-lovers-more-blood/4",
+      "anime_id": 811,
+      "anime_name": "Diabolik Lovers More,Blood"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/diabolik-lovers-more-blood/5",
+      "anime_id": 811,
+      "anime_name": "Diabolik Lovers More,Blood"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/diabolik-lovers-more-blood/6",
+      "anime_id": 811,
+      "anime_name": "Diabolik Lovers More,Blood"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/diabolik-lovers-more-blood/7",
+      "anime_id": 811,
+      "anime_name": "Diabolik Lovers More,Blood"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/diabolik-lovers-more-blood/8",
+      "anime_id": 811,
+      "anime_name": "Diabolik Lovers More,Blood"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/diabolik-lovers-more-blood/9",
+      "anime_id": 811,
+      "anime_name": "Diabolik Lovers More,Blood"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/diabolik-lovers-more-blood/10",
+      "anime_id": 811,
+      "anime_name": "Diabolik Lovers More,Blood"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/diabolik-lovers-more-blood/11",
+      "anime_id": 811,
+      "anime_name": "Diabolik Lovers More,Blood"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/diabolik-lovers-more-blood/12",
+      "anime_id": 811,
+      "anime_name": "Diabolik Lovers More,Blood"
+    }
+  ],
+  "total_episodes": 12
+}

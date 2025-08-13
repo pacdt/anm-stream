@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3107,
+    "nome": "Release the Spyce",
+    "link": "https://animefire.plus/animes/release-the-spyce-todos-os-episodios",
+    "texto_original": "Release the Spyce",
+    "rating": 7.09,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/release-the-spyce.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/release-the-spyce/",
+    "secao": "legendados",
+    "pagina": 156,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/release-the-spyce"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 555,
+    "nome": "Capeta",
+    "link": "https://animefire.plus/animes/capeta-todos-os-episodios",
+    "texto_original": "Capeta",
+    "rating": 7.84,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/capeta.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/capeta/",
+    "secao": "legendados",
+    "pagina": 55,
+    "total_episodios": 52,
+    "link_video": "https://animefire.plus/video/capeta"
+  }
+}

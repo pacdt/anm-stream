@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Granblue Fantasy The Animation: Kabocha no Lantern",
+  "anime": {
+    "id": 1238,
+    "nome": "Granblue Fantasy The Animation: Kabocha no Lantern",
+    "link": "https://animefire.plus/animes/granblue-fantasy-the-animation-kabocha-no-lantern-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/granblue-fantasy-the-animation-kabocha-no-lantern",
+    "rating": "6.67",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/granblue-fantasy-the-animation-kabocha-no-lantern/1",
+      "anime_id": 1238,
+      "anime_name": "Granblue Fantasy The Animation: Kabocha no Lantern"
+    }
+  ],
+  "total_episodes": 1
+}

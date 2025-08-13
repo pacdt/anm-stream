@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha (Dublado)",
+  "anime": {
+    "id": 667,
+    "nome": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha (Dublado)",
+    "link": "https://animefire.plus/animes/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado",
+    "rating": "7.92",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado/1",
+      "anime_id": 667,
+      "anime_name": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado/2",
+      "anime_id": 667,
+      "anime_name": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado/3",
+      "anime_id": 667,
+      "anime_name": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado/4",
+      "anime_id": 667,
+      "anime_name": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha-dublado/5",
+      "anime_id": 667,
+      "anime_name": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha (Dublado)"
+    }
+  ],
+  "total_episodes": 5
+}

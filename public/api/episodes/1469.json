@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Higurashi no Naku Koro ni Kaku: Outbreak",
+  "anime": {
+    "id": 1469,
+    "nome": "Higurashi no Naku Koro ni Kaku: Outbreak",
+    "link": "https://animefire.plus/animes/higurashi-no-naku-koro-ni-kaku-outbreak-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/higurashi-no-naku-koro-ni-kaku-outbreak",
+    "rating": "7.28",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/higurashi-no-naku-koro-ni-kaku-outbreak/1",
+      "anime_id": 1469,
+      "anime_name": "Higurashi no Naku Koro ni Kaku: Outbreak"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1003,
+    "nome": "Fate/Zero 2nd Season",
+    "link": "https://animefire.plus/animes/fate-zero-2nd-season-todos-os-episodios",
+    "texto_original": "Fate/Zero 2nd Season",
+    "rating": 8.55,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/fate-zero-2nd-season.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/fate-zero-2nd-season/",
+    "secao": "legendados",
+    "pagina": 16,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/fate-zero-2nd-season"
+  }
+}

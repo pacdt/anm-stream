@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2512,
+    "nome": "Minami-ke Omatase",
+    "link": "https://animefire.plus/animes/minami-ke-omatase-todos-os-episodios",
+    "texto_original": "Minami-ke Omatase",
+    "rating": 7.42,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/minami-ke-omatase.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/minami-ke-omatase/",
+    "secao": "legendados",
+    "pagina": 55,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/minami-ke-omatase"
+  }
+}

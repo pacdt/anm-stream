@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Choujigen Game Neptune The Animation: Nep no Natsuyasumi",
+  "anime": {
+    "id": 626,
+    "nome": "Choujigen Game Neptune The Animation: Nep no Natsuyasumi",
+    "link": "https://animefire.plus/animes/choujigen-game-neptune-the-animation-nep-no-natsuyasumi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/choujigen-game-neptune-the-animation-nep-no-natsuyasumi",
+    "rating": "7.17",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/choujigen-game-neptune-the-animation-nep-no-natsuyasumi/1",
+      "anime_id": 626,
+      "anime_name": "Choujigen Game Neptune The Animation: Nep no Natsuyasumi"
+    }
+  ],
+  "total_episodes": 1
+}

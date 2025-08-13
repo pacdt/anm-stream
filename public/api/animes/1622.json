@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1622,
+    "nome": "Ingress the Animation (Dublado)",
+    "link": "https://animefire.plus/animes/ingress-the-animation-dublado-todos-os-episodios",
+    "texto_original": "Ingress the Animation (Dublado)",
+    "rating": 6.45,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/ingress-the-animation.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ingress-the-animation/",
+    "secao": "dublados,legendados",
+    "pagina": 22,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/ingress-the-animation-dublado"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Kaminaki Sekai no Kamisama Katsudou",
+  "anime": {
+    "id": 1852,
+    "nome": "Kaminaki Sekai no Kamisama Katsudou",
+    "link": "https://animefire.plus/animes/kaminaki-sekai-no-kamisama-katsudou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kaminaki-sekai-no-kamisama-katsudou",
+    "rating": "6.68",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kaminaki-sekai-no-kamisama-katsudou/1",
+      "anime_id": 1852,
+      "anime_name": "Kaminaki Sekai no Kamisama Katsudou"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kaminaki-sekai-no-kamisama-katsudou/2",
+      "anime_id": 1852,
+      "anime_name": "Kaminaki Sekai no Kamisama Katsudou"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kaminaki-sekai-no-kamisama-katsudou/3",
+      "anime_id": 1852,
+      "anime_name": "Kaminaki Sekai no Kamisama Katsudou"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kaminaki-sekai-no-kamisama-katsudou/4",
+      "anime_id": 1852,
+      "anime_name": "Kaminaki Sekai no Kamisama Katsudou"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kaminaki-sekai-no-kamisama-katsudou/5",
+      "anime_id": 1852,
+      "anime_name": "Kaminaki Sekai no Kamisama Katsudou"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kaminaki-sekai-no-kamisama-katsudou/6",
+      "anime_id": 1852,
+      "anime_name": "Kaminaki Sekai no Kamisama Katsudou"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/kaminaki-sekai-no-kamisama-katsudou/7",
+      "anime_id": 1852,
+      "anime_name": "Kaminaki Sekai no Kamisama Katsudou"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/kaminaki-sekai-no-kamisama-katsudou/8",
+      "anime_id": 1852,
+      "anime_name": "Kaminaki Sekai no Kamisama Katsudou"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/kaminaki-sekai-no-kamisama-katsudou/9",
+      "anime_id": 1852,
+      "anime_name": "Kaminaki Sekai no Kamisama Katsudou"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/kaminaki-sekai-no-kamisama-katsudou/10",
+      "anime_id": 1852,
+      "anime_name": "Kaminaki Sekai no Kamisama Katsudou"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/kaminaki-sekai-no-kamisama-katsudou/11",
+      "anime_id": 1852,
+      "anime_name": "Kaminaki Sekai no Kamisama Katsudou"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/kaminaki-sekai-no-kamisama-katsudou/12",
+      "anime_id": 1852,
+      "anime_name": "Kaminaki Sekai no Kamisama Katsudou"
+    }
+  ],
+  "total_episodes": 12
+}

@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Hashiri Tsuzukete Yokattatte.",
+  "anime": {
+    "id": 1380,
+    "nome": "Hashiri Tsuzukete Yokattatte.",
+    "link": "https://animefire.plus/animes/hashiri-tsuzukete-yokattatte-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hashiri-tsuzukete-yokattatte",
+    "rating": "6.49",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hashiri-tsuzukete-yokattatte/1",
+      "anime_id": 1380,
+      "anime_name": "Hashiri Tsuzukete Yokattatte."
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hashiri-tsuzukete-yokattatte/2",
+      "anime_id": 1380,
+      "anime_name": "Hashiri Tsuzukete Yokattatte."
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hashiri-tsuzukete-yokattatte/3",
+      "anime_id": 1380,
+      "anime_name": "Hashiri Tsuzukete Yokattatte."
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hashiri-tsuzukete-yokattatte/4",
+      "anime_id": 1380,
+      "anime_name": "Hashiri Tsuzukete Yokattatte."
+    }
+  ],
+  "total_episodes": 4
+}

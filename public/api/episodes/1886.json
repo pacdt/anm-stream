@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Kanokon: Manatsu no Dai Shanikusai",
+  "anime": {
+    "id": 1886,
+    "nome": "Kanokon: Manatsu no Dai Shanikusai",
+    "link": "https://animefire.plus/animes/kanokon-manatsu-no-dai-shanikusai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kanokon-manatsu-no-dai-shanikusai",
+    "rating": "6.66",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kanokon-manatsu-no-dai-shanikusai/1",
+      "anime_id": 1886,
+      "anime_name": "Kanokon: Manatsu no Dai Shanikusai"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kanokon-manatsu-no-dai-shanikusai/2",
+      "anime_id": 1886,
+      "anime_name": "Kanokon: Manatsu no Dai Shanikusai"
+    }
+  ],
+  "total_episodes": 2
+}

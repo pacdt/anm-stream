@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 123,
+    "nome": "Aki-Sora",
+    "link": "https://animefire.plus/animes/aki-sora-todos-os-episodios",
+    "texto_original": "Aki-Sora",
+    "rating": 6.2,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/aki-sora.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/aki-sora/",
+    "secao": "legendados",
+    "pagina": 128,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/aki-sora"
+  }
+}

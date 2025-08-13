@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2516,
+    "nome": "Mini Toji",
+    "link": "https://animefire.plus/animes/mini-toji-todos-os-episodios",
+    "texto_original": "Mini Toji",
+    "rating": 6.14,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/mini-toji.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mini-toji/",
+    "secao": "legendados",
+    "pagina": 105,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/mini-toji"
+  }
+}

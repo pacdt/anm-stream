@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2736,
+    "nome": "Nijiiro Days",
+    "link": "https://animefire.plus/animes/nijiiro-days-todos-os-episodios",
+    "texto_original": "Nijiiro Days",
+    "rating": 7.47,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/nijiiro-days.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/nijiiro-days/",
+    "secao": "legendados",
+    "pagina": 113,
+    "total_episodios": 16,
+    "link_video": "https://animefire.plus/video/nijiiro-days"
+  }
+}

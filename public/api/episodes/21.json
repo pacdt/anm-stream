@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: 180 Byou de Kimi no Mimi wo Shiawase ni Dekiru ka?",
+  "anime": {
+    "id": 21,
+    "nome": "180 Byou de Kimi no Mimi wo Shiawase ni Dekiru ka?",
+    "link": "https://animefire.plus/animes/180-byou-de-kimi-no-mimi-wo-shiawase-ni-dekiru-ka-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/180-byou-de-kimi-no-mimi-wo-shiawase-ni-dekiru-ka",
+    "rating": "5.30",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/180-byou-de-kimi-no-mimi-wo-shiawase-ni-dekiru-ka/1",
+      "anime_id": 21,
+      "anime_name": "180 Byou de Kimi no Mimi wo Shiawase ni Dekiru ka?"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/180-byou-de-kimi-no-mimi-wo-shiawase-ni-dekiru-ka/2",
+      "anime_id": 21,
+      "anime_name": "180 Byou de Kimi no Mimi wo Shiawase ni Dekiru ka?"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/180-byou-de-kimi-no-mimi-wo-shiawase-ni-dekiru-ka/3",
+      "anime_id": 21,
+      "anime_name": "180 Byou de Kimi no Mimi wo Shiawase ni Dekiru ka?"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/180-byou-de-kimi-no-mimi-wo-shiawase-ni-dekiru-ka/4",
+      "anime_id": 21,
+      "anime_name": "180 Byou de Kimi no Mimi wo Shiawase ni Dekiru ka?"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/180-byou-de-kimi-no-mimi-wo-shiawase-ni-dekiru-ka/5",
+      "anime_id": 21,
+      "anime_name": "180 Byou de Kimi no Mimi wo Shiawase ni Dekiru ka?"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/180-byou-de-kimi-no-mimi-wo-shiawase-ni-dekiru-ka/6",
+      "anime_id": 21,
+      "anime_name": "180 Byou de Kimi no Mimi wo Shiawase ni Dekiru ka?"
+    }
+  ],
+  "total_episodes": 6
+}

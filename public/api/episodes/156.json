@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Amanchu!",
+  "anime": {
+    "id": 156,
+    "nome": "Amanchu!",
+    "link": "https://animefire.plus/animes/amanchu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/amanchu",
+    "rating": "7.30",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/amanchu/1",
+      "anime_id": 156,
+      "anime_name": "Amanchu!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/amanchu/2",
+      "anime_id": 156,
+      "anime_name": "Amanchu!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/amanchu/3",
+      "anime_id": 156,
+      "anime_name": "Amanchu!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/amanchu/4",
+      "anime_id": 156,
+      "anime_name": "Amanchu!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/amanchu/5",
+      "anime_id": 156,
+      "anime_name": "Amanchu!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/amanchu/6",
+      "anime_id": 156,
+      "anime_name": "Amanchu!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/amanchu/7",
+      "anime_id": 156,
+      "anime_name": "Amanchu!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/amanchu/8",
+      "anime_id": 156,
+      "anime_name": "Amanchu!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/amanchu/9",
+      "anime_id": 156,
+      "anime_name": "Amanchu!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/amanchu/10",
+      "anime_id": 156,
+      "anime_name": "Amanchu!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/amanchu/11",
+      "anime_id": 156,
+      "anime_name": "Amanchu!"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/amanchu/12",
+      "anime_id": 156,
+      "anime_name": "Amanchu!"
+    }
+  ],
+  "total_episodes": 12
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru",
+  "anime": {
+    "id": 1184,
+    "nome": "Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru",
+    "link": "https://animefire.plus/animes/gintama-futon-ni-haitte-kara-buki-nokoshi-ni-kizuite-neru-ni-nerenai-toki-mo-aru-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gintama-futon-ni-haitte-kara-buki-nokoshi-ni-kizuite-neru-ni-nerenai-toki-mo-aru",
+    "rating": "8.11",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gintama-futon-ni-haitte-kara-buki-nokoshi-ni-kizuite-neru-ni-nerenai-toki-mo-aru/1",
+      "anime_id": 1184,
+      "anime_name": "Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru"
+    }
+  ],
+  "total_episodes": 1
+}

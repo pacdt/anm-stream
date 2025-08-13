@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Oruchuban Ebichu",
+  "anime": {
+    "id": 2900,
+    "nome": "Oruchuban Ebichu",
+    "link": "https://animefire.plus/animes/oruchuban-ebichu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/oruchuban-ebichu",
+    "rating": "7.48",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/oruchuban-ebichu/1",
+      "anime_id": 2900,
+      "anime_name": "Oruchuban Ebichu"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/oruchuban-ebichu/2",
+      "anime_id": 2900,
+      "anime_name": "Oruchuban Ebichu"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/oruchuban-ebichu/3",
+      "anime_id": 2900,
+      "anime_name": "Oruchuban Ebichu"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/oruchuban-ebichu/4",
+      "anime_id": 2900,
+      "anime_name": "Oruchuban Ebichu"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/oruchuban-ebichu/5",
+      "anime_id": 2900,
+      "anime_name": "Oruchuban Ebichu"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/oruchuban-ebichu/6",
+      "anime_id": 2900,
+      "anime_name": "Oruchuban Ebichu"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/oruchuban-ebichu/7",
+      "anime_id": 2900,
+      "anime_name": "Oruchuban Ebichu"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/oruchuban-ebichu/8",
+      "anime_id": 2900,
+      "anime_name": "Oruchuban Ebichu"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/oruchuban-ebichu/9",
+      "anime_id": 2900,
+      "anime_name": "Oruchuban Ebichu"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/oruchuban-ebichu/10",
+      "anime_id": 2900,
+      "anime_name": "Oruchuban Ebichu"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/oruchuban-ebichu/11",
+      "anime_id": 2900,
+      "anime_name": "Oruchuban Ebichu"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/oruchuban-ebichu/12",
+      "anime_id": 2900,
+      "anime_name": "Oruchuban Ebichu"
+    }
+  ],
+  "total_episodes": 12
+}

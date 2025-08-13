@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Silent Witch: Chinmoku no Majo no Kakushigoto",
+  "anime": {
+    "id": 3534,
+    "nome": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+    "link": "https://animefire.plus/animes/silent-witch-chinmoku-no-majo-no-kakushigoto-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/silent-witch-chinmoku-no-majo-no-kakushigoto",
+    "rating": "7.98",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/silent-witch-chinmoku-no-majo-no-kakushigoto/1",
+      "anime_id": 3534,
+      "anime_name": "Silent Witch: Chinmoku no Majo no Kakushigoto"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/silent-witch-chinmoku-no-majo-no-kakushigoto/2",
+      "anime_id": 3534,
+      "anime_name": "Silent Witch: Chinmoku no Majo no Kakushigoto"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/silent-witch-chinmoku-no-majo-no-kakushigoto/3",
+      "anime_id": 3534,
+      "anime_name": "Silent Witch: Chinmoku no Majo no Kakushigoto"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/silent-witch-chinmoku-no-majo-no-kakushigoto/4",
+      "anime_id": 3534,
+      "anime_name": "Silent Witch: Chinmoku no Majo no Kakushigoto"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/silent-witch-chinmoku-no-majo-no-kakushigoto/5",
+      "anime_id": 3534,
+      "anime_name": "Silent Witch: Chinmoku no Majo no Kakushigoto"
+    }
+  ],
+  "total_episodes": 5
+}

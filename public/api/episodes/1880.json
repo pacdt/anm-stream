@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Kanojo To Kanojo No Neko: Everything Flows",
+  "anime": {
+    "id": 1880,
+    "nome": "Kanojo To Kanojo No Neko: Everything Flows",
+    "link": "https://animefire.plus/animes/kanojo-to-kanojo-no-neko-everything-flows-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kanojo-to-kanojo-no-neko-everything-flows",
+    "rating": "7.75",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kanojo-to-kanojo-no-neko-everything-flows/1",
+      "anime_id": 1880,
+      "anime_name": "Kanojo To Kanojo No Neko: Everything Flows"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kanojo-to-kanojo-no-neko-everything-flows/2",
+      "anime_id": 1880,
+      "anime_name": "Kanojo To Kanojo No Neko: Everything Flows"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kanojo-to-kanojo-no-neko-everything-flows/3",
+      "anime_id": 1880,
+      "anime_name": "Kanojo To Kanojo No Neko: Everything Flows"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kanojo-to-kanojo-no-neko-everything-flows/4",
+      "anime_id": 1880,
+      "anime_name": "Kanojo To Kanojo No Neko: Everything Flows"
+    }
+  ],
+  "total_episodes": 4
+}

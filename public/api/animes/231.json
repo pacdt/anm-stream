@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 231,
+    "nome": "Aria The Avvenire",
+    "link": "https://animefire.plus/animes/aria-the-avvenire-todos-os-episodios",
+    "texto_original": "Aria The Avvenire",
+    "rating": 8.04,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/aria-the-avvenire.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/aria-the-avvenire/",
+    "secao": "legendados",
+    "pagina": 147,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/aria-the-avvenire"
+  }
+}

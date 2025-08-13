@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Ruri no Houseki",
+  "anime": {
+    "id": 3165,
+    "nome": "Ruri no Houseki",
+    "link": "https://animefire.plus/animes/ruri-no-houseki-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ruri-no-houseki",
+    "rating": "7.68",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ruri-no-houseki/1",
+      "anime_id": 3165,
+      "anime_name": "Ruri no Houseki"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ruri-no-houseki/2",
+      "anime_id": 3165,
+      "anime_name": "Ruri no Houseki"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/ruri-no-houseki/3",
+      "anime_id": 3165,
+      "anime_name": "Ruri no Houseki"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/ruri-no-houseki/4",
+      "anime_id": 3165,
+      "anime_name": "Ruri no Houseki"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/ruri-no-houseki/5",
+      "anime_id": 3165,
+      "anime_name": "Ruri no Houseki"
+    }
+  ],
+  "total_episodes": 5
+}

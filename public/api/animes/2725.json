@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2725,
+    "nome": "Nichijou",
+    "link": "https://animefire.plus/animes/nichijou-todos-os-episodios",
+    "texto_original": "Nichijou",
+    "rating": 8.51,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/nichijou.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/nichijou/",
+    "secao": "legendados",
+    "pagina": 174,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/nichijou"
+  }
+}

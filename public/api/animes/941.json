@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 941,
+    "nome": "Elfen Lied",
+    "link": "https://animefire.plus/animes/elfen-lied-todos-os-episodios",
+    "texto_original": "Elfen Lied",
+    "rating": 7.7,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/elfen-lied.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/elfen-lied/",
+    "secao": "legendados",
+    "pagina": 130,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/elfen-lied"
+  }
+}

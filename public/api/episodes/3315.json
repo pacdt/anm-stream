@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Seiyuu Radio no Uraomote",
+  "anime": {
+    "id": 3315,
+    "nome": "Seiyuu Radio no Uraomote",
+    "link": "https://animefire.plus/animes/seiyuu-radio-no-uraomote-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/seiyuu-radio-no-uraomote",
+    "rating": "6.95",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/seiyuu-radio-no-uraomote/1",
+      "anime_id": 3315,
+      "anime_name": "Seiyuu Radio no Uraomote"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/seiyuu-radio-no-uraomote/2",
+      "anime_id": 3315,
+      "anime_name": "Seiyuu Radio no Uraomote"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/seiyuu-radio-no-uraomote/3",
+      "anime_id": 3315,
+      "anime_name": "Seiyuu Radio no Uraomote"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/seiyuu-radio-no-uraomote/4",
+      "anime_id": 3315,
+      "anime_name": "Seiyuu Radio no Uraomote"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/seiyuu-radio-no-uraomote/5",
+      "anime_id": 3315,
+      "anime_name": "Seiyuu Radio no Uraomote"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/seiyuu-radio-no-uraomote/6",
+      "anime_id": 3315,
+      "anime_name": "Seiyuu Radio no Uraomote"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/seiyuu-radio-no-uraomote/7",
+      "anime_id": 3315,
+      "anime_name": "Seiyuu Radio no Uraomote"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/seiyuu-radio-no-uraomote/8",
+      "anime_id": 3315,
+      "anime_name": "Seiyuu Radio no Uraomote"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/seiyuu-radio-no-uraomote/9",
+      "anime_id": 3315,
+      "anime_name": "Seiyuu Radio no Uraomote"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/seiyuu-radio-no-uraomote/10",
+      "anime_id": 3315,
+      "anime_name": "Seiyuu Radio no Uraomote"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/seiyuu-radio-no-uraomote/11",
+      "anime_id": 3315,
+      "anime_name": "Seiyuu Radio no Uraomote"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/seiyuu-radio-no-uraomote/12",
+      "anime_id": 3315,
+      "anime_name": "Seiyuu Radio no Uraomote"
+    }
+  ],
+  "total_episodes": 12
+}

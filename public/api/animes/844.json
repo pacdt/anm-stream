@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 844,
+    "nome": "Dolls' Frontline",
+    "link": "https://animefire.plus/animes/dolls-frontline-todos-os-episodios",
+    "texto_original": "Dolls' Frontline",
+    "rating": 5.86,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/dolls-frontline.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dolls-frontline/",
+    "secao": "legendados",
+    "pagina": 37,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/dolls-frontline"
+  }
+}

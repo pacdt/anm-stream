@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Saijaku Muhai no Bahamut",
+  "anime": {
+    "id": 3190,
+    "nome": "Saijaku Muhai no Bahamut",
+    "link": "https://animefire.plus/animes/saijaku-muhai-no-bahamut-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/saijaku-muhai-no-bahamut",
+    "rating": "6.84",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/saijaku-muhai-no-bahamut/1",
+      "anime_id": 3190,
+      "anime_name": "Saijaku Muhai no Bahamut"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Onihei",
+  "anime": {
+    "id": 2851,
+    "nome": "Onihei",
+    "link": "https://animefire.plus/animes/onihei-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/onihei",
+    "rating": "7.35",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/onihei/1",
+      "anime_id": 2851,
+      "anime_name": "Onihei"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/onihei/2",
+      "anime_id": 2851,
+      "anime_name": "Onihei"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/onihei/3",
+      "anime_id": 2851,
+      "anime_name": "Onihei"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/onihei/4",
+      "anime_id": 2851,
+      "anime_name": "Onihei"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/onihei/5",
+      "anime_id": 2851,
+      "anime_name": "Onihei"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/onihei/6",
+      "anime_id": 2851,
+      "anime_name": "Onihei"
+    }
+  ],
+  "total_episodes": 6
+}

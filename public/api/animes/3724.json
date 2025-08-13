@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3724,
+    "nome": "Tales of Gekijou",
+    "link": "https://animefire.plus/animes/tales-of-gekijou-todos-os-episodios",
+    "texto_original": "Tales of Gekijou",
+    "rating": 6.65,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/tales-of-gekijou.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tales-of-gekijou/",
+    "secao": "legendados",
+    "pagina": 70,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/tales-of-gekijou"
+  }
+}

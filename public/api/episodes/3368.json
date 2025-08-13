@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Sex Pistols",
+  "anime": {
+    "id": 3368,
+    "nome": "Sex Pistols",
+    "link": "https://animefire.plus/animes/sex-pistols-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sex-pistols",
+    "rating": "6.83",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sex-pistols/1",
+      "anime_id": 3368,
+      "anime_name": "Sex Pistols"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/sex-pistols/2",
+      "anime_id": 3368,
+      "anime_name": "Sex Pistols"
+    }
+  ],
+  "total_episodes": 2
+}

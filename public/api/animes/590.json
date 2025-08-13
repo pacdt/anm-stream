@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 590,
+    "nome": "Chainsaw Man (Dublado)",
+    "link": "https://animefire.plus/animes/chainsaw-man-dublado-todos-os-episodios",
+    "texto_original": "Chainsaw Man (Dublado)",
+    "rating": 8.44,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/chainsaw-man.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/chainsaw-man/",
+    "secao": "dublados,legendados",
+    "pagina": 9,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/chainsaw-man-dublado"
+  }
+}

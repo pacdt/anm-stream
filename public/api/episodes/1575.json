@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: I''s Pure Bonus",
+  "anime": {
+    "id": 1575,
+    "nome": "I''s Pure Bonus",
+    "link": "https://animefire.plus/animes/i-s-pure-bonus-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/i-s-pure-bonus",
+    "rating": "6.45",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/i-s-pure-bonus/1",
+      "anime_id": 1575,
+      "anime_name": "I''s Pure Bonus"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/i-s-pure-bonus/2",
+      "anime_id": 1575,
+      "anime_name": "I''s Pure Bonus"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/i-s-pure-bonus/3",
+      "anime_id": 1575,
+      "anime_name": "I''s Pure Bonus"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/i-s-pure-bonus/4",
+      "anime_id": 1575,
+      "anime_name": "I''s Pure Bonus"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/i-s-pure-bonus/5",
+      "anime_id": 1575,
+      "anime_name": "I''s Pure Bonus"
+    }
+  ],
+  "total_episodes": 5
+}

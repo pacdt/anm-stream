@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2682,
+    "nome": "Natsu no Arashi!",
+    "link": "https://animefire.plus/animes/natsu-no-arashi-todos-os-episodios",
+    "texto_original": "Natsu no Arashi!",
+    "rating": 7.33,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/natsu-no-arashi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/natsu-no-arashi/",
+    "secao": "legendados",
+    "pagina": 128,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/natsu-no-arashi"
+  }
+}

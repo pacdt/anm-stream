@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 93,
+    "nome": "Aikatsu Friends!",
+    "link": "https://animefire.plus/animes/aikatsu-friends-todos-os-episodios",
+    "texto_original": "Aikatsu Friends!",
+    "rating": 7.55,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/aikatsu-friends.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/aikatsu-friends/",
+    "secao": "legendados",
+    "pagina": 168,
+    "total_episodios": 22,
+    "link_video": "https://animefire.plus/video/aikatsu-friends"
+  }
+}

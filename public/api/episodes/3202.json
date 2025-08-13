@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Sailor Victory",
+  "anime": {
+    "id": 3202,
+    "nome": "Sailor Victory",
+    "link": "https://animefire.plus/animes/sailor-victory-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sailor-victory",
+    "rating": "5.88",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sailor-victory/1",
+      "anime_id": 3202,
+      "anime_name": "Sailor Victory"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/sailor-victory/2",
+      "anime_id": 3202,
+      "anime_name": "Sailor Victory"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/sailor-victory/3",
+      "anime_id": 3202,
+      "anime_name": "Sailor Victory"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/sailor-victory/4",
+      "anime_id": 3202,
+      "anime_name": "Sailor Victory"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/sailor-victory/5",
+      "anime_id": 3202,
+      "anime_name": "Sailor Victory"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/sailor-victory/6",
+      "anime_id": 3202,
+      "anime_name": "Sailor Victory"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/sailor-victory/7",
+      "anime_id": 3202,
+      "anime_name": "Sailor Victory"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/sailor-victory/8",
+      "anime_id": 3202,
+      "anime_name": "Sailor Victory"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/sailor-victory/9",
+      "anime_id": 3202,
+      "anime_name": "Sailor Victory"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/sailor-victory/10",
+      "anime_id": 3202,
+      "anime_name": "Sailor Victory"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/sailor-victory/11",
+      "anime_id": 3202,
+      "anime_name": "Sailor Victory"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/sailor-victory/12",
+      "anime_id": 3202,
+      "anime_name": "Sailor Victory"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/sailor-victory/13",
+      "anime_id": 3202,
+      "anime_name": "Sailor Victory"
+    }
+  ],
+  "total_episodes": 13
+}

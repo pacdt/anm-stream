@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2321,
+    "nome": "Mahoromatic 2",
+    "link": "https://animefire.plus/animes/mahoromatic-2-todos-os-episodios",
+    "texto_original": "Mahoromatic 2",
+    "rating": 7.23,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/mahoromatic-2.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mahoromatic-2/",
+    "secao": "legendados",
+    "pagina": 113,
+    "total_episodios": 14,
+    "link_video": "https://animefire.plus/video/mahoromatic-2"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Intermedio (Dublado)",
+  "anime": {
+    "id": 3633,
+    "nome": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Intermedio (Dublado)",
+    "link": "https://animefire.plus/animes/steins-gate-0-kesshou-takei-no-valentine---bittersweet-intermedio-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/steins-gate-0-kesshou-takei-no-valentine---bittersweet-intermedio-dublado",
+    "rating": "7.14",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/steins-gate-0-kesshou-takei-no-valentine---bittersweet-intermedio-dublado/1",
+      "anime_id": 3633,
+      "anime_name": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Intermedio (Dublado)"
+    }
+  ],
+  "total_episodes": 1
+}

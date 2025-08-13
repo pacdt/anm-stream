@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Uzumaki (Dublado)",
+  "anime": {
+    "id": 4057,
+    "nome": "Uzumaki (Dublado)",
+    "link": "https://animefire.plus/animes/uzumaki-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/uzumaki-dublado",
+    "rating": "5.72",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/uzumaki-dublado/1",
+      "anime_id": 4057,
+      "anime_name": "Uzumaki (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/uzumaki-dublado/2",
+      "anime_id": 4057,
+      "anime_name": "Uzumaki (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/uzumaki-dublado/3",
+      "anime_id": 4057,
+      "anime_name": "Uzumaki (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/uzumaki-dublado/4",
+      "anime_id": 4057,
+      "anime_name": "Uzumaki (Dublado)"
+    }
+  ],
+  "total_episodes": 4
+}

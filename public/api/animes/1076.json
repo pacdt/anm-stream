@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1076,
+    "nome": "Gad Guard",
+    "link": "https://animefire.plus/animes/gad-guard-todos-os-episodios",
+    "texto_original": "Gad Guard",
+    "rating": 6.76,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/gad-guard.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gad-guard/",
+    "secao": "legendados",
+    "pagina": 170,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/gad-guard"
+  }
+}

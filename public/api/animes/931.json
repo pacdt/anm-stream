@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 931,
+    "nome": "El Cazador de la Bruja",
+    "link": "https://animefire.plus/animes/el-cazador-de-la-bruja-todos-os-episodios",
+    "texto_original": "El Cazador de la Bruja",
+    "rating": 7.28,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/el-cazador-de-la-bruja.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/el-cazador-de-la-bruja/",
+    "secao": "legendados",
+    "pagina": 113,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/el-cazador-de-la-bruja"
+  }
+}

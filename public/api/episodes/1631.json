@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Initial D Second Stage",
+  "anime": {
+    "id": 1631,
+    "nome": "Initial D Second Stage",
+    "link": "https://animefire.plus/animes/initial-d-second-stage-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/initial-d-second-stage",
+    "rating": "8.17",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/initial-d-second-stage/1",
+      "anime_id": 1631,
+      "anime_name": "Initial D Second Stage"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/initial-d-second-stage/2",
+      "anime_id": 1631,
+      "anime_name": "Initial D Second Stage"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/initial-d-second-stage/3",
+      "anime_id": 1631,
+      "anime_name": "Initial D Second Stage"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/initial-d-second-stage/4",
+      "anime_id": 1631,
+      "anime_name": "Initial D Second Stage"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/initial-d-second-stage/5",
+      "anime_id": 1631,
+      "anime_name": "Initial D Second Stage"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/initial-d-second-stage/6",
+      "anime_id": 1631,
+      "anime_name": "Initial D Second Stage"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/initial-d-second-stage/7",
+      "anime_id": 1631,
+      "anime_name": "Initial D Second Stage"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/initial-d-second-stage/8",
+      "anime_id": 1631,
+      "anime_name": "Initial D Second Stage"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/initial-d-second-stage/9",
+      "anime_id": 1631,
+      "anime_name": "Initial D Second Stage"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/initial-d-second-stage/10",
+      "anime_id": 1631,
+      "anime_name": "Initial D Second Stage"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/initial-d-second-stage/11",
+      "anime_id": 1631,
+      "anime_name": "Initial D Second Stage"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/initial-d-second-stage/12",
+      "anime_id": 1631,
+      "anime_name": "Initial D Second Stage"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/initial-d-second-stage/13",
+      "anime_id": 1631,
+      "anime_name": "Initial D Second Stage"
+    }
+  ],
+  "total_episodes": 13
+}

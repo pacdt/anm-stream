@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4253,
+    "nome": "Youjo Senki II",
+    "link": "https://animefire.plus/animes/youjo-senki-ii-todos-os-episodios",
+    "texto_original": "Youjo Senki II",
+    "rating": null,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/youjo-senki-ii.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/youjo-senki-ii/",
+    "secao": "legendados,lancamentos",
+    "pagina": 19,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/youjo-senki-ii"
+  }
+}

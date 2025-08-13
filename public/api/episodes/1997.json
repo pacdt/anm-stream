@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Kindaichi Shounen No Jikenbo Returns",
+  "anime": {
+    "id": 1997,
+    "nome": "Kindaichi Shounen No Jikenbo Returns",
+    "link": "https://animefire.plus/animes/kindaichi-shounen-no-jikenbo-returns-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kindaichi-shounen-no-jikenbo-returns",
+    "rating": "7.59",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kindaichi-shounen-no-jikenbo-returns/1",
+      "anime_id": 1997,
+      "anime_name": "Kindaichi Shounen No Jikenbo Returns"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kindaichi-shounen-no-jikenbo-returns/2",
+      "anime_id": 1997,
+      "anime_name": "Kindaichi Shounen No Jikenbo Returns"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kindaichi-shounen-no-jikenbo-returns/3",
+      "anime_id": 1997,
+      "anime_name": "Kindaichi Shounen No Jikenbo Returns"
+    }
+  ],
+  "total_episodes": 3
+}

@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Netoge no Yome wa Onnanoko ja Nai to Omotta?",
+  "anime": {
+    "id": 2719,
+    "nome": "Netoge no Yome wa Onnanoko ja Nai to Omotta?",
+    "link": "https://animefire.plus/animes/netoge-no-yome-wa-onnanoko-ja-nai-to-omotta-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/netoge-no-yome-wa-onnanoko-ja-nai-to-omotta",
+    "rating": "7.02",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/netoge-no-yome-wa-onnanoko-ja-nai-to-omotta/1",
+      "anime_id": 2719,
+      "anime_name": "Netoge no Yome wa Onnanoko ja Nai to Omotta?"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/netoge-no-yome-wa-onnanoko-ja-nai-to-omotta/2",
+      "anime_id": 2719,
+      "anime_name": "Netoge no Yome wa Onnanoko ja Nai to Omotta?"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/netoge-no-yome-wa-onnanoko-ja-nai-to-omotta/3",
+      "anime_id": 2719,
+      "anime_name": "Netoge no Yome wa Onnanoko ja Nai to Omotta?"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/netoge-no-yome-wa-onnanoko-ja-nai-to-omotta/4",
+      "anime_id": 2719,
+      "anime_name": "Netoge no Yome wa Onnanoko ja Nai to Omotta?"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/netoge-no-yome-wa-onnanoko-ja-nai-to-omotta/5",
+      "anime_id": 2719,
+      "anime_name": "Netoge no Yome wa Onnanoko ja Nai to Omotta?"
+    }
+  ],
+  "total_episodes": 5
+}

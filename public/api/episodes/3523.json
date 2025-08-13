@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Shuumatsu no Izetta",
+  "anime": {
+    "id": 3523,
+    "nome": "Shuumatsu no Izetta",
+    "link": "https://animefire.plus/animes/shuumatsu-no-izetta-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shuumatsu-no-izetta",
+    "rating": "6.82",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shuumatsu-no-izetta/1",
+      "anime_id": 3523,
+      "anime_name": "Shuumatsu no Izetta"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shuumatsu-no-izetta/2",
+      "anime_id": 3523,
+      "anime_name": "Shuumatsu no Izetta"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/shuumatsu-no-izetta/3",
+      "anime_id": 3523,
+      "anime_name": "Shuumatsu no Izetta"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/shuumatsu-no-izetta/4",
+      "anime_id": 3523,
+      "anime_name": "Shuumatsu no Izetta"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/shuumatsu-no-izetta/5",
+      "anime_id": 3523,
+      "anime_name": "Shuumatsu no Izetta"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/shuumatsu-no-izetta/6",
+      "anime_id": 3523,
+      "anime_name": "Shuumatsu no Izetta"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/shuumatsu-no-izetta/7",
+      "anime_id": 3523,
+      "anime_name": "Shuumatsu no Izetta"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/shuumatsu-no-izetta/8",
+      "anime_id": 3523,
+      "anime_name": "Shuumatsu no Izetta"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/shuumatsu-no-izetta/9",
+      "anime_id": 3523,
+      "anime_name": "Shuumatsu no Izetta"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/shuumatsu-no-izetta/10",
+      "anime_id": 3523,
+      "anime_name": "Shuumatsu no Izetta"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/shuumatsu-no-izetta/11",
+      "anime_id": 3523,
+      "anime_name": "Shuumatsu no Izetta"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/shuumatsu-no-izetta/12",
+      "anime_id": 3523,
+      "anime_name": "Shuumatsu no Izetta"
+    }
+  ],
+  "total_episodes": 12
+}

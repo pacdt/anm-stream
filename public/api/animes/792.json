@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 792,
+    "nome": "Dennou Coil",
+    "link": "https://animefire.plus/animes/dennou-coil-todos-os-episodios",
+    "texto_original": "Dennou Coil",
+    "rating": 8.12,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/dennou-coil.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dennou-coil/",
+    "secao": "legendados",
+    "pagina": 108,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/dennou-coil"
+  }
+}

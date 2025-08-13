@@ -1,0 +1,158 @@
+{
+  "message": "Lista de episódios do anime: Shuffle!",
+  "anime": {
+    "id": 3516,
+    "nome": "Shuffle!",
+    "link": "https://animefire.plus/animes/shuffle-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shuffle",
+    "rating": "7.19",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shuffle/1",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shuffle/2",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/shuffle/3",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/shuffle/4",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/shuffle/5",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/shuffle/6",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/shuffle/7",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/shuffle/8",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/shuffle/9",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/shuffle/10",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/shuffle/11",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/shuffle/12",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/shuffle/13",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 14,
+      "episode_url": "https://animefire.plus/video/shuffle/14",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 15,
+      "episode_url": "https://animefire.plus/video/shuffle/15",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 16,
+      "episode_url": "https://animefire.plus/video/shuffle/16",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 17,
+      "episode_url": "https://animefire.plus/video/shuffle/17",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 18,
+      "episode_url": "https://animefire.plus/video/shuffle/18",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 19,
+      "episode_url": "https://animefire.plus/video/shuffle/19",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 20,
+      "episode_url": "https://animefire.plus/video/shuffle/20",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 21,
+      "episode_url": "https://animefire.plus/video/shuffle/21",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 22,
+      "episode_url": "https://animefire.plus/video/shuffle/22",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 23,
+      "episode_url": "https://animefire.plus/video/shuffle/23",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    },
+    {
+      "episode_number": 24,
+      "episode_url": "https://animefire.plus/video/shuffle/24",
+      "anime_id": 3516,
+      "anime_name": "Shuffle!"
+    }
+  ],
+  "total_episodes": 24
+}

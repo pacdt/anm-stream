@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Noragami Aragoto OVA",
+  "anime": {
+    "id": 2782,
+    "nome": "Noragami Aragoto OVA",
+    "link": "https://animefire.plus/animes/noragami-aragoto-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/noragami-aragoto-ova",
+    "rating": "7.98",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/noragami-aragoto-ova/1",
+      "anime_id": 2782,
+      "anime_name": "Noragami Aragoto OVA"
+    }
+  ],
+  "total_episodes": 1
+}

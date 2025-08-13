@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Hand Shakers: Go ago Go",
+  "anime": {
+    "id": 1360,
+    "nome": "Hand Shakers: Go ago Go",
+    "link": "https://animefire.plus/animes/hand-shakers-go-ago-go-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hand-shakers-go-ago-go",
+    "rating": "5.72",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hand-shakers-go-ago-go/1",
+      "anime_id": 1360,
+      "anime_name": "Hand Shakers: Go ago Go"
+    }
+  ],
+  "total_episodes": 1
+}

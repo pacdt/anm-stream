@@ -40,18 +40,21 @@ export default defineConfig({
   // Incluir arquivos JSON como assets
   assetsInclude: ['**/*.json'],
   publicDir: 'public',
-  // Garantir que arquivos JSON sejam tratados como assets
+  // Garantir que arquivos JSON sejam tratados como assets e copiados corretamente
   build: {
     rollupOptions: {
       external: [],
       output: {
         assetFileNames: (assetInfo) => {
-          if (assetInfo.name && assetInfo.name.endsWith('.json')) {
-            return 'assets/[name]-[hash][extname]'
+          // Manter arquivos JSON da API na estrutura original
+          if (assetInfo.name && assetInfo.name.endsWith('.json') && assetInfo.name.includes('api/')) {
+            return '[name][extname]'
           }
           return 'assets/[name]-[hash][extname]'
         }
       }
-    }
+    },
+    // Garantir que a pasta public/api seja copiada corretamente
+    copyPublicDir: true
   }
 })

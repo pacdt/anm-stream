@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 793,
+    "nome": "Denpa Kyoushi",
+    "link": "https://animefire.plus/animes/denpa-kyoushi-todos-os-episodios",
+    "texto_original": "Denpa Kyoushi",
+    "rating": 6.42,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/denpa-kyoushi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/denpa-kyoushi/",
+    "secao": "legendados",
+    "pagina": 72,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/denpa-kyoushi"
+  }
+}

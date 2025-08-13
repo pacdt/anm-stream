@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1209,
+    "nome": "God Eater",
+    "link": "https://animefire.plus/animes/god-eater-todos-os-episodios",
+    "texto_original": "God Eater",
+    "rating": 7.37,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/god-eater.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/god-eater/",
+    "secao": "legendados",
+    "pagina": 73,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/god-eater"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "message": "API Estática de Animes - Índice de Endpoints",
+  "version": "1.0.0",
+  "generated_at": "2025-08-13T02:27:39.238Z",
+  "total_animes": 4368,
+  "endpoints": {
+    "animes": {
+      "description": "Endpoints relacionados aos animes",
+      "routes": {
+        "/animes/index.json": "Lista paginada de animes (página 1)",
+        "/animes/page-{n}.json": "Lista paginada de animes (página N)",
+        "/animes/all.json": "Todos os animes sem paginação",
+        "/animes/{id}.json": "Anime específico por ID",
+        "/animes/search/{query}.json": "Busca por nome do anime",
+        "/animes/section/{section}.json": "Animes por seção (dublados, legendados, etc.)",
+        "/animes/rating/{min}-{max}.json": "Animes por faixa de rating",
+        "/animes/age/{rating}.json": "Animes por classificação etária",
+        "/animes/episodes/{min}-{max}.json": "Animes por quantidade de episódios",
+        "/animes/top/{limit}.json": "Top animes por rating",
+        "/animes/random/{count}-v{version}.json": "Animes aleatórios"
+      }
+    },
+    "episodes": {
+      "description": "Endpoints relacionados aos episódios",
+      "routes": {
+        "/episodes/{id}.json": "Lista de episódios de um anime"
+      }
+    },
+    "stats": {
+      "description": "Endpoints de estatísticas",
+      "routes": {
+        "/stats/index.json": "Estatísticas gerais",
+        "/stats/sections.json": "Estatísticas por seção",
+        "/stats/ratings.json": "Distribuição de ratings",
+        "/stats/age-ratings.json": "Distribuição de classificação etária",
+        "/stats/episodes.json": "Estatísticas de episódios"
+      }
+    }
+  },
+  "usage": {
+    "description": "Como usar esta API estática",
+    "examples": [
+      "Para listar animes: /animes/index.json",
+      "Para buscar um anime: /animes/1.json",
+      "Para animes dublados: /animes/section/dublados.json",
+      "Para top 10 animes: /animes/top/10.json",
+      "Para estatísticas: /stats/index.json"
+    ]
+  }
+}

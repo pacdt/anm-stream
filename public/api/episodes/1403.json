@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Healer Girl",
+  "anime": {
+    "id": 1403,
+    "nome": "Healer Girl",
+    "link": "https://animefire.plus/animes/healer-girl-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/healer-girl",
+    "rating": "7.30",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/healer-girl/1",
+      "anime_id": 1403,
+      "anime_name": "Healer Girl"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/healer-girl/2",
+      "anime_id": 1403,
+      "anime_name": "Healer Girl"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/healer-girl/3",
+      "anime_id": 1403,
+      "anime_name": "Healer Girl"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/healer-girl/4",
+      "anime_id": 1403,
+      "anime_name": "Healer Girl"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/healer-girl/5",
+      "anime_id": 1403,
+      "anime_name": "Healer Girl"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/healer-girl/6",
+      "anime_id": 1403,
+      "anime_name": "Healer Girl"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/healer-girl/7",
+      "anime_id": 1403,
+      "anime_name": "Healer Girl"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/healer-girl/8",
+      "anime_id": 1403,
+      "anime_name": "Healer Girl"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/healer-girl/9",
+      "anime_id": 1403,
+      "anime_name": "Healer Girl"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/healer-girl/10",
+      "anime_id": 1403,
+      "anime_name": "Healer Girl"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/healer-girl/11",
+      "anime_id": 1403,
+      "anime_name": "Healer Girl"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/healer-girl/12",
+      "anime_id": 1403,
+      "anime_name": "Healer Girl"
+    }
+  ],
+  "total_episodes": 12
+}

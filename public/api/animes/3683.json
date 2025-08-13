@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3683,
+    "nome": "Supernatural The Animation",
+    "link": "https://animefire.plus/animes/supernatural-the-animation-todos-os-episodios",
+    "texto_original": "Supernatural The Animation",
+    "rating": 7.1,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/supernatural-the-animation.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/supernatural-the-animation/",
+    "secao": "legendados",
+    "pagina": 159,
+    "total_episodios": 22,
+    "link_video": "https://animefire.plus/video/supernatural-the-animation"
+  }
+}

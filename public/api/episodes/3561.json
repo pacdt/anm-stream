@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: So Ra No Wo To",
+  "anime": {
+    "id": 3561,
+    "nome": "So Ra No Wo To",
+    "link": "https://animefire.plus/animes/so-ra-no-wo-to-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/so-ra-no-wo-to",
+    "rating": "7.58",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/so-ra-no-wo-to/1",
+      "anime_id": 3561,
+      "anime_name": "So Ra No Wo To"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/so-ra-no-wo-to/2",
+      "anime_id": 3561,
+      "anime_name": "So Ra No Wo To"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/so-ra-no-wo-to/3",
+      "anime_id": 3561,
+      "anime_name": "So Ra No Wo To"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/so-ra-no-wo-to/4",
+      "anime_id": 3561,
+      "anime_name": "So Ra No Wo To"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/so-ra-no-wo-to/5",
+      "anime_id": 3561,
+      "anime_name": "So Ra No Wo To"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/so-ra-no-wo-to/6",
+      "anime_id": 3561,
+      "anime_name": "So Ra No Wo To"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/so-ra-no-wo-to/7",
+      "anime_id": 3561,
+      "anime_name": "So Ra No Wo To"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/so-ra-no-wo-to/8",
+      "anime_id": 3561,
+      "anime_name": "So Ra No Wo To"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/so-ra-no-wo-to/9",
+      "anime_id": 3561,
+      "anime_name": "So Ra No Wo To"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/so-ra-no-wo-to/10",
+      "anime_id": 3561,
+      "anime_name": "So Ra No Wo To"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/so-ra-no-wo-to/11",
+      "anime_id": 3561,
+      "anime_name": "So Ra No Wo To"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/so-ra-no-wo-to/12",
+      "anime_id": 3561,
+      "anime_name": "So Ra No Wo To"
+    }
+  ],
+  "total_episodes": 12
+}

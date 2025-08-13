@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2254,
+    "nome": "Love Live! Sunshine!!",
+    "link": "https://animefire.plus/animes/love-live-sunshine-todos-os-episodios",
+    "texto_original": "Love Live! Sunshine!!",
+    "rating": 7.5,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/love-live-sunshine.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/love-live-sunshine/",
+    "secao": "legendados",
+    "pagina": 140,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/love-live-sunshine"
+  }
+}

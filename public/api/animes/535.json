@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 535,
+    "nome": "Busou Shinki",
+    "link": "https://animefire.plus/animes/busou-shinki-todos-os-episodios",
+    "texto_original": "Busou Shinki",
+    "rating": 6.36,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/busou-shinki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/busou-shinki/",
+    "secao": "legendados",
+    "pagina": 134,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/busou-shinki"
+  }
+}

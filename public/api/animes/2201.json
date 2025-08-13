@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2201,
+    "nome": "Ladyspo",
+    "link": "https://animefire.plus/animes/ladyspo-todos-os-episodios",
+    "texto_original": "Ladyspo",
+    "rating": 4.28,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ladyspo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ladyspo/",
+    "secao": "legendados",
+    "pagina": 87,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/ladyspo"
+  }
+}

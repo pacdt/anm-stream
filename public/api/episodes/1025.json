@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Free!: Eternal Summer",
+  "anime": {
+    "id": 1025,
+    "nome": "Free!: Eternal Summer",
+    "link": "https://animefire.plus/animes/free-eternal-summer-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/free-eternal-summer",
+    "rating": "7.74",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/free-eternal-summer/1",
+      "anime_id": 1025,
+      "anime_name": "Free!: Eternal Summer"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/free-eternal-summer/2",
+      "anime_id": 1025,
+      "anime_name": "Free!: Eternal Summer"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/free-eternal-summer/3",
+      "anime_id": 1025,
+      "anime_name": "Free!: Eternal Summer"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/free-eternal-summer/4",
+      "anime_id": 1025,
+      "anime_name": "Free!: Eternal Summer"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/free-eternal-summer/5",
+      "anime_id": 1025,
+      "anime_name": "Free!: Eternal Summer"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/free-eternal-summer/6",
+      "anime_id": 1025,
+      "anime_name": "Free!: Eternal Summer"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/free-eternal-summer/7",
+      "anime_id": 1025,
+      "anime_name": "Free!: Eternal Summer"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/free-eternal-summer/8",
+      "anime_id": 1025,
+      "anime_name": "Free!: Eternal Summer"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/free-eternal-summer/9",
+      "anime_id": 1025,
+      "anime_name": "Free!: Eternal Summer"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/free-eternal-summer/10",
+      "anime_id": 1025,
+      "anime_name": "Free!: Eternal Summer"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/free-eternal-summer/11",
+      "anime_id": 1025,
+      "anime_name": "Free!: Eternal Summer"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/free-eternal-summer/12",
+      "anime_id": 1025,
+      "anime_name": "Free!: Eternal Summer"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/free-eternal-summer/13",
+      "anime_id": 1025,
+      "anime_name": "Free!: Eternal Summer"
+    }
+  ],
+  "total_episodes": 13
+}

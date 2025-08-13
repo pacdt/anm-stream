@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Hybrid Child",
+  "anime": {
+    "id": 1567,
+    "nome": "Hybrid Child",
+    "link": "https://animefire.plus/animes/hybrid-child-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hybrid-child",
+    "rating": "7.84",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hybrid-child/1",
+      "anime_id": 1567,
+      "anime_name": "Hybrid Child"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hybrid-child/2",
+      "anime_id": 1567,
+      "anime_name": "Hybrid Child"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hybrid-child/3",
+      "anime_id": 1567,
+      "anime_name": "Hybrid Child"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hybrid-child/4",
+      "anime_id": 1567,
+      "anime_name": "Hybrid Child"
+    }
+  ],
+  "total_episodes": 4
+}

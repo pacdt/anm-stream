@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Drifters: Special Edition",
+  "anime": {
+    "id": 893,
+    "nome": "Drifters: Special Edition",
+    "link": "https://animefire.plus/animes/drifters-special-edition-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/drifters-special-edition",
+    "rating": "7.75",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/drifters-special-edition/1",
+      "anime_id": 893,
+      "anime_name": "Drifters: Special Edition"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/drifters-special-edition/2",
+      "anime_id": 893,
+      "anime_name": "Drifters: Special Edition"
+    }
+  ],
+  "total_episodes": 2
+}

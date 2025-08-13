@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Amatsuki",
+  "anime": {
+    "id": 158,
+    "nome": "Amatsuki",
+    "link": "https://animefire.plus/animes/amatsuki-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/amatsuki",
+    "rating": "6.97",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/amatsuki/1",
+      "anime_id": 158,
+      "anime_name": "Amatsuki"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/amatsuki/2",
+      "anime_id": 158,
+      "anime_name": "Amatsuki"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/amatsuki/3",
+      "anime_id": 158,
+      "anime_name": "Amatsuki"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/amatsuki/4",
+      "anime_id": 158,
+      "anime_name": "Amatsuki"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/amatsuki/5",
+      "anime_id": 158,
+      "anime_name": "Amatsuki"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/amatsuki/6",
+      "anime_id": 158,
+      "anime_name": "Amatsuki"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/amatsuki/7",
+      "anime_id": 158,
+      "anime_name": "Amatsuki"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/amatsuki/8",
+      "anime_id": 158,
+      "anime_name": "Amatsuki"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/amatsuki/9",
+      "anime_id": 158,
+      "anime_name": "Amatsuki"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/amatsuki/10",
+      "anime_id": 158,
+      "anime_name": "Amatsuki"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/amatsuki/11",
+      "anime_id": 158,
+      "anime_name": "Amatsuki"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/amatsuki/12",
+      "anime_id": 158,
+      "anime_name": "Amatsuki"
+    }
+  ],
+  "total_episodes": 12
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2430,
+    "nome": "Maryuu Senki",
+    "link": "https://animefire.plus/animes/maryuu-senki-todos-os-episodios",
+    "texto_original": "Maryuu Senki",
+    "rating": 5.31,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/maryuu-senki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/maryuu-senki/",
+    "secao": "legendados",
+    "pagina": 77,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/maryuu-senki"
+  }
+}

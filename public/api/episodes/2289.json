@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Machikado Mazoku",
+  "anime": {
+    "id": 2289,
+    "nome": "Machikado Mazoku",
+    "link": "https://animefire.plus/animes/machikado-mazoku-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/machikado-mazoku",
+    "rating": "7.68",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/machikado-mazoku/1",
+      "anime_id": 2289,
+      "anime_name": "Machikado Mazoku"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/machikado-mazoku/2",
+      "anime_id": 2289,
+      "anime_name": "Machikado Mazoku"
+    }
+  ],
+  "total_episodes": 2
+}

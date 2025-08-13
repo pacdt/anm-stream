@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 392,
+    "nome": "Binchou-tan",
+    "link": "https://animefire.plus/animes/binchou-tan-todos-os-episodios",
+    "texto_original": "Binchou-tan",
+    "rating": 6.96,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/binchou-tan.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/binchou-tan/",
+    "secao": "legendados",
+    "pagina": 155,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/binchou-tan"
+  }
+}

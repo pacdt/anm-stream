@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4109,
+    "nome": "Wanna-Be's",
+    "link": "https://animefire.plus/animes/wanna-be-s-todos-os-episodios",
+    "texto_original": "Wanna-Be's",
+    "rating": 5.2,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/wanna-be-s.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/wanna-be-s/",
+    "secao": "legendados",
+    "pagina": 68,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/wanna-be-s"
+  }
+}

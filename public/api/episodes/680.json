@@ -1,0 +1,110 @@
+{
+  "message": "Lista de episódios do anime: Colorful",
+  "anime": {
+    "id": 680,
+    "nome": "Colorful",
+    "link": "https://animefire.plus/animes/colorful-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/colorful",
+    "rating": "6.10",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/colorful/1",
+      "anime_id": 680,
+      "anime_name": "Colorful"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/colorful/2",
+      "anime_id": 680,
+      "anime_name": "Colorful"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/colorful/3",
+      "anime_id": 680,
+      "anime_name": "Colorful"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/colorful/4",
+      "anime_id": 680,
+      "anime_name": "Colorful"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/colorful/5",
+      "anime_id": 680,
+      "anime_name": "Colorful"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/colorful/6",
+      "anime_id": 680,
+      "anime_name": "Colorful"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/colorful/7",
+      "anime_id": 680,
+      "anime_name": "Colorful"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/colorful/8",
+      "anime_id": 680,
+      "anime_name": "Colorful"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/colorful/9",
+      "anime_id": 680,
+      "anime_name": "Colorful"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/colorful/10",
+      "anime_id": 680,
+      "anime_name": "Colorful"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/colorful/11",
+      "anime_id": 680,
+      "anime_name": "Colorful"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/colorful/12",
+      "anime_id": 680,
+      "anime_name": "Colorful"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/colorful/13",
+      "anime_id": 680,
+      "anime_name": "Colorful"
+    },
+    {
+      "episode_number": 14,
+      "episode_url": "https://animefire.plus/video/colorful/14",
+      "anime_id": 680,
+      "anime_name": "Colorful"
+    },
+    {
+      "episode_number": 15,
+      "episode_url": "https://animefire.plus/video/colorful/15",
+      "anime_id": 680,
+      "anime_name": "Colorful"
+    },
+    {
+      "episode_number": 16,
+      "episode_url": "https://animefire.plus/video/colorful/16",
+      "anime_id": 680,
+      "anime_name": "Colorful"
+    }
+  ],
+  "total_episodes": 16
+}

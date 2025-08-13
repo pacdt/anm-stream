@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3063,
+    "nome": "Radiant (Dublado)",
+    "link": "https://animefire.plus/animes/radiant-dublado-todos-os-episodios",
+    "texto_original": "Radiant (Dublado)",
+    "rating": 6.88,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/radiant.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/radiant/",
+    "secao": "dublados,legendados",
+    "pagina": 18,
+    "total_episodios": 21,
+    "link_video": "https://animefire.plus/video/radiant-dublado"
+  }
+}

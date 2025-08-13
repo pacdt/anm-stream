@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Gochuumon wa Usagi Desu ka??: Sing for You",
+  "anime": {
+    "id": 1208,
+    "nome": "Gochuumon wa Usagi Desu ka??: Sing for You",
+    "link": "https://animefire.plus/animes/gochuumon-wa-usagi-desu-ka-sing-for-you-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gochuumon-wa-usagi-desu-ka-sing-for-you",
+    "rating": "7.73",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gochuumon-wa-usagi-desu-ka-sing-for-you/1",
+      "anime_id": 1208,
+      "anime_name": "Gochuumon wa Usagi Desu ka??: Sing for You"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Sekaiichi Hatsukoi 2",
+  "anime": {
+    "id": 3322,
+    "nome": "Sekaiichi Hatsukoi 2",
+    "link": "https://animefire.plus/animes/sekaiichi-hatsukoi-2-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sekaiichi-hatsukoi-2",
+    "rating": "8.18",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sekaiichi-hatsukoi-2/1",
+      "anime_id": 3322,
+      "anime_name": "Sekaiichi Hatsukoi 2"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/sekaiichi-hatsukoi-2/2",
+      "anime_id": 3322,
+      "anime_name": "Sekaiichi Hatsukoi 2"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/sekaiichi-hatsukoi-2/3",
+      "anime_id": 3322,
+      "anime_name": "Sekaiichi Hatsukoi 2"
+    }
+  ],
+  "total_episodes": 3
+}

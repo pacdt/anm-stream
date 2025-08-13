@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Sakurasou no Pet na Kanojo",
+  "anime": {
+    "id": 3240,
+    "nome": "Sakurasou no Pet na Kanojo",
+    "link": "https://animefire.plus/animes/sakurasou-no-pet-na-kanojo-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sakurasou-no-pet-na-kanojo",
+    "rating": "8.29",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sakurasou-no-pet-na-kanojo/1",
+      "anime_id": 3240,
+      "anime_name": "Sakurasou no Pet na Kanojo"
+    }
+  ],
+  "total_episodes": 1
+}

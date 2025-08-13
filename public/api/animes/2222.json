@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2222,
+    "nome": "Ling Qi",
+    "link": "https://animefire.plus/animes/ling-qi-todos-os-episodios",
+    "texto_original": "Ling Qi",
+    "rating": 7.21,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ling-qi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ling-qi/",
+    "secao": "legendados",
+    "pagina": 176,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/ling-qi"
+  }
+}

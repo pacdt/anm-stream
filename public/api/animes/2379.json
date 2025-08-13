@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2379,
+    "nome": "Major 2nd",
+    "link": "https://animefire.plus/animes/major-2nd-todos-os-episodios",
+    "texto_original": "Major 2nd",
+    "rating": 7.63,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/major-2nd.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/major-2nd/",
+    "secao": "legendados",
+    "pagina": 157,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/major-2nd"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 495,
+    "nome": "Brave Beats",
+    "link": "https://animefire.plus/animes/brave-beats-todos-os-episodios",
+    "texto_original": "Brave Beats",
+    "rating": 6.57,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/brave-beats.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/brave-beats/",
+    "secao": "legendados",
+    "pagina": 116,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/brave-beats"
+  }
+}

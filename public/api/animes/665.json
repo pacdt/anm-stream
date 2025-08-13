@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 665,
+    "nome": "Claymore (Dublado)",
+    "link": "https://animefire.plus/animes/claymore-dublado-todos-os-episodios",
+    "texto_original": "Claymore (Dublado)",
+    "rating": 7.78,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/claymore.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/claymore/",
+    "secao": "dublados,legendados",
+    "pagina": 18,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/claymore-dublado"
+  }
+}

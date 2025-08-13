@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Busamen Gachi Fighter",
+  "anime": {
+    "id": 533,
+    "nome": "Busamen Gachi Fighter",
+    "link": "https://animefire.plus/animes/busamen-gachi-fighter-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/busamen-gachi-fighter",
+    "rating": "6.50",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/busamen-gachi-fighter/1",
+      "anime_id": 533,
+      "anime_name": "Busamen Gachi Fighter"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/busamen-gachi-fighter/2",
+      "anime_id": 533,
+      "anime_name": "Busamen Gachi Fighter"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/busamen-gachi-fighter/3",
+      "anime_id": 533,
+      "anime_name": "Busamen Gachi Fighter"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/busamen-gachi-fighter/4",
+      "anime_id": 533,
+      "anime_name": "Busamen Gachi Fighter"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/busamen-gachi-fighter/5",
+      "anime_id": 533,
+      "anime_name": "Busamen Gachi Fighter"
+    }
+  ],
+  "total_episodes": 5
+}

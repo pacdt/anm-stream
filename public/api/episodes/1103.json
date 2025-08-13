@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Ganbare Douki-chan Special",
+  "anime": {
+    "id": 1103,
+    "nome": "Ganbare Douki-chan Special",
+    "link": "https://animefire.plus/animes/ganbare-douki-chan-special-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ganbare-douki-chan-special",
+    "rating": "6.40",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ganbare-douki-chan-special/1",
+      "anime_id": 1103,
+      "anime_name": "Ganbare Douki-chan Special"
+    }
+  ],
+  "total_episodes": 1
+}

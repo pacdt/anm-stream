@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: Soul Eater NOT!",
+  "anime": {
+    "id": 3593,
+    "nome": "Soul Eater NOT!",
+    "link": "https://animefire.plus/animes/soul-eater-not-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/soul-eater-not",
+    "rating": "6.16",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/soul-eater-not/1",
+      "anime_id": 3593,
+      "anime_name": "Soul Eater NOT!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/soul-eater-not/2",
+      "anime_id": 3593,
+      "anime_name": "Soul Eater NOT!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/soul-eater-not/3",
+      "anime_id": 3593,
+      "anime_name": "Soul Eater NOT!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/soul-eater-not/4",
+      "anime_id": 3593,
+      "anime_name": "Soul Eater NOT!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/soul-eater-not/5",
+      "anime_id": 3593,
+      "anime_name": "Soul Eater NOT!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/soul-eater-not/6",
+      "anime_id": 3593,
+      "anime_name": "Soul Eater NOT!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/soul-eater-not/7",
+      "anime_id": 3593,
+      "anime_name": "Soul Eater NOT!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/soul-eater-not/8",
+      "anime_id": 3593,
+      "anime_name": "Soul Eater NOT!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/soul-eater-not/9",
+      "anime_id": 3593,
+      "anime_name": "Soul Eater NOT!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/soul-eater-not/10",
+      "anime_id": 3593,
+      "anime_name": "Soul Eater NOT!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/soul-eater-not/11",
+      "anime_id": 3593,
+      "anime_name": "Soul Eater NOT!"
+    }
+  ],
+  "total_episodes": 11
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 287,
+    "nome": "Azur Lane (Dublado)",
+    "link": "https://animefire.plus/animes/azur-lane-dublado-todos-os-episodios",
+    "texto_original": "Azur Lane (Dublado)",
+    "rating": 6.28,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/azur-lane.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/azur-lane/",
+    "secao": "dublados,legendados",
+    "pagina": 18,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/azur-lane-dublado"
+  }
+}

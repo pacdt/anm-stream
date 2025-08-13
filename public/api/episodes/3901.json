@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Tonagura!",
+  "anime": {
+    "id": 3901,
+    "nome": "Tonagura!",
+    "link": "https://animefire.plus/animes/tonagura-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tonagura",
+    "rating": "6.81",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tonagura/1",
+      "anime_id": 3901,
+      "anime_name": "Tonagura!"
+    }
+  ],
+  "total_episodes": 1
+}

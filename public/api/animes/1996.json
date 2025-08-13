@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1996,
+    "nome": "KimiKiss Pure Rouge",
+    "link": "https://animefire.plus/animes/kimikiss-pure-rouge-todos-os-episodios",
+    "texto_original": "KimiKiss Pure Rouge",
+    "rating": 7.4,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kimikiss-pure-rouge.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kimikiss-pure-rouge/",
+    "secao": "legendados",
+    "pagina": 130,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/kimikiss-pure-rouge"
+  }
+}

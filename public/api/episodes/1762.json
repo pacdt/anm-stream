@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Just Because!",
+  "anime": {
+    "id": 1762,
+    "nome": "Just Because!",
+    "link": "https://animefire.plus/animes/just-because-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/just-because",
+    "rating": "7.37",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/just-because/1",
+      "anime_id": 1762,
+      "anime_name": "Just Because!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/just-because/2",
+      "anime_id": 1762,
+      "anime_name": "Just Because!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/just-because/3",
+      "anime_id": 1762,
+      "anime_name": "Just Because!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/just-because/4",
+      "anime_id": 1762,
+      "anime_name": "Just Because!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/just-because/5",
+      "anime_id": 1762,
+      "anime_name": "Just Because!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/just-because/6",
+      "anime_id": 1762,
+      "anime_name": "Just Because!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/just-because/7",
+      "anime_id": 1762,
+      "anime_name": "Just Because!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/just-because/8",
+      "anime_id": 1762,
+      "anime_name": "Just Because!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/just-because/9",
+      "anime_id": 1762,
+      "anime_name": "Just Because!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/just-because/10",
+      "anime_id": 1762,
+      "anime_name": "Just Because!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/just-because/11",
+      "anime_id": 1762,
+      "anime_name": "Just Because!"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/just-because/12",
+      "anime_id": 1762,
+      "anime_name": "Just Because!"
+    }
+  ],
+  "total_episodes": 12
+}

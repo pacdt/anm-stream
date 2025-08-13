@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4152,
+    "nome": "Wonderful Precure!",
+    "link": "https://animefire.plus/animes/wonderful-precure-todos-os-episodios",
+    "texto_original": "Wonderful Precure!",
+    "rating": 7.57,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/wonderful-precure.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/wonderful-precure/",
+    "secao": "legendados",
+    "pagina": 16,
+    "total_episodios": 50,
+    "link_video": "https://animefire.plus/video/wonderful-precure"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Mizu no Kotoba",
+  "anime": {
+    "id": 2532,
+    "nome": "Mizu no Kotoba",
+    "link": "https://animefire.plus/animes/mizu-no-kotoba-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mizu-no-kotoba",
+    "rating": "6.85",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mizu-no-kotoba/1",
+      "anime_id": 2532,
+      "anime_name": "Mizu no Kotoba"
+    }
+  ],
+  "total_episodes": 1
+}

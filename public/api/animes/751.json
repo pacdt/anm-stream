@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 751,
+    "nome": "Dark Gathering",
+    "link": "https://animefire.plus/animes/dark-gathering-todos-os-episodios",
+    "texto_original": "Dark Gathering",
+    "rating": 7.84,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/dark-gathering.jpg",
+    "imagem_pasta": "https://animefire.plus/img/animes/dark-gathering/",
+    "secao": "legendados",
+    "pagina": 22,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/dark-gathering"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 540,
+    "nome": "Buttobi!! CPU",
+    "link": "https://animefire.plus/animes/buttobi-cpu-todos-os-episodios",
+    "texto_original": "Buttobi!! CPU",
+    "rating": 6.33,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/buttobi-cpu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/buttobi-cpu/",
+    "secao": "legendados",
+    "pagina": 176,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/buttobi-cpu"
+  }
+}

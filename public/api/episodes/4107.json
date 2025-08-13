@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Wangu Xian Qiong",
+  "anime": {
+    "id": 4107,
+    "nome": "Wangu Xian Qiong",
+    "link": "https://animefire.plus/animes/wangu-xian-qiong-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/wangu-xian-qiong",
+    "rating": "7.04",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/wangu-xian-qiong/1",
+      "anime_id": 4107,
+      "anime_name": "Wangu Xian Qiong"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/wangu-xian-qiong/2",
+      "anime_id": 4107,
+      "anime_name": "Wangu Xian Qiong"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/wangu-xian-qiong/3",
+      "anime_id": 4107,
+      "anime_name": "Wangu Xian Qiong"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/wangu-xian-qiong/4",
+      "anime_id": 4107,
+      "anime_name": "Wangu Xian Qiong"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/wangu-xian-qiong/5",
+      "anime_id": 4107,
+      "anime_name": "Wangu Xian Qiong"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/wangu-xian-qiong/6",
+      "anime_id": 4107,
+      "anime_name": "Wangu Xian Qiong"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/wangu-xian-qiong/7",
+      "anime_id": 4107,
+      "anime_name": "Wangu Xian Qiong"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/wangu-xian-qiong/8",
+      "anime_id": 4107,
+      "anime_name": "Wangu Xian Qiong"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/wangu-xian-qiong/9",
+      "anime_id": 4107,
+      "anime_name": "Wangu Xian Qiong"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/wangu-xian-qiong/10",
+      "anime_id": 4107,
+      "anime_name": "Wangu Xian Qiong"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/wangu-xian-qiong/11",
+      "anime_id": 4107,
+      "anime_name": "Wangu Xian Qiong"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/wangu-xian-qiong/12",
+      "anime_id": 4107,
+      "anime_name": "Wangu Xian Qiong"
+    }
+  ],
+  "total_episodes": 12
+}

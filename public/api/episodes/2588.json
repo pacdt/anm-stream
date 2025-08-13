@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Monsters: Ippyaku Sanjou Hiryuu Jigoku (Dublado)",
+  "anime": {
+    "id": 2588,
+    "nome": "Monsters: Ippyaku Sanjou Hiryuu Jigoku (Dublado)",
+    "link": "https://animefire.plus/animes/monsters-ippyaku-sanjou-hiryuu-jigoku-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/monsters-ippyaku-sanjou-hiryuu-jigoku-dublado",
+    "rating": "7.70",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/monsters-ippyaku-sanjou-hiryuu-jigoku-dublado/1",
+      "anime_id": 2588,
+      "anime_name": "Monsters: Ippyaku Sanjou Hiryuu Jigoku (Dublado)"
+    }
+  ],
+  "total_episodes": 1
+}

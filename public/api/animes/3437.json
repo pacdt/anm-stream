@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3437,
+    "nome": "Shine Post",
+    "link": "https://animefire.plus/animes/shine-post-todos-os-episodios",
+    "texto_original": "Shine Post",
+    "rating": 7.49,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/shine-post.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shine-post/",
+    "secao": "legendados",
+    "pagina": 30,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/shine-post"
+  }
+}

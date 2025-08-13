@@ -1,0 +1,101 @@
+{
+  "message": "Animes com 13 a 24 episódios",
+  "episode_range": {
+    "min": 13,
+    "max": 24
+  },
+  "data": [
+    {
+      "id": 4350,
+      "nome": "Zetman",
+      "link": "https://animefire.plus/animes/zetman-todos-os-episodios",
+      "texto_original": "Zetman",
+      "rating": 6.84,
+      "classificacao_etaria": "A18",
+      "imagem_original": "https://animefire.plus/img/animes/zetman.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zetman/",
+      "secao": "legendados",
+      "pagina": 16,
+      "total_episodios": 13,
+      "link_video": "https://animefire.plus/video/zetman"
+    },
+    {
+      "id": 4353,
+      "nome": "Zettai Bouei Leviathan",
+      "link": "https://animefire.plus/animes/zettai-bouei-leviathan-todos-os-episodios",
+      "texto_original": "Zettai Bouei Leviathan",
+      "rating": 6.36,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/zettai-bouei-leviathan.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zettai-bouei-leviathan/",
+      "secao": "legendados",
+      "pagina": 113,
+      "total_episodios": 13,
+      "link_video": "https://animefire.plus/video/zettai-bouei-leviathan"
+    },
+    {
+      "id": 4356,
+      "nome": "Zhen Hun Jie",
+      "link": "https://animefire.plus/animes/zhen-hun-jie-todos-os-episodios",
+      "texto_original": "Zhen Hun Jie",
+      "rating": 7.82,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/zhen-hun-jie.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zhen-hun-jie/",
+      "secao": "legendados",
+      "pagina": 89,
+      "total_episodios": 24,
+      "link_video": "https://animefire.plus/video/zhen-hun-jie"
+    },
+    {
+      "id": 4358,
+      "nome": "Zoku Natsume Yuujinchou",
+      "link": "https://animefire.plus/animes/zoku-natsume-yuujinchou-todos-os-episodios",
+      "texto_original": "Zoku Natsume Yuujinchou",
+      "rating": 8.61,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/zoku-natsume-yuujinchou.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zoku-natsume-yuujinchou/",
+      "secao": "legendados",
+      "pagina": 130,
+      "total_episodios": 13,
+      "link_video": "https://animefire.plus/video/zoku-natsume-yuujinchou"
+    },
+    {
+      "id": 4360,
+      "nome": "Zoku Sayonara Zetsubou Sensei",
+      "link": "https://animefire.plus/animes/zoku-sayonara-zetsubou-sensei-todos-os-episodios",
+      "texto_original": "Zoku Sayonara Zetsubou Sensei",
+      "rating": 7.97,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/zoku-sayonara-zetsubou-sensei.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zoku-sayonara-zetsubou-sensei/",
+      "secao": "legendados",
+      "pagina": 162,
+      "total_episodios": 13,
+      "link_video": "https://animefire.plus/video/zoku-sayonara-zetsubou-sensei"
+    },
+    {
+      "id": 4363,
+      "nome": "Zombie-Loan",
+      "link": "https://animefire.plus/animes/zombie-loan-todos-os-episodios",
+      "texto_original": "Zombie-Loan",
+      "rating": 6.98,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/zombie-loan.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zombie-loan/",
+      "secao": "legendados",
+      "pagina": 175,
+      "total_episodios": 13,
+      "link_video": "https://animefire.plus/video/zombie-loan"
+    }
+  ],
+  "pagination": {
+    "current_page": 42,
+    "per_page": 20,
+    "total_items": 826,
+    "total_pages": 42,
+    "has_next": false,
+    "has_prev": true
+  }
+}

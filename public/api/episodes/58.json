@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: ACCA: 13-ku Kansatsu-ka - Regards",
+  "anime": {
+    "id": 58,
+    "nome": "ACCA: 13-ku Kansatsu-ka - Regards",
+    "link": "https://animefire.plus/animes/acca-13-ku-kansatsu-ka---regards-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/acca-13-ku-kansatsu-ka---regards",
+    "rating": "7.14",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/acca-13-ku-kansatsu-ka---regards/1",
+      "anime_id": 58,
+      "anime_name": "ACCA: 13-ku Kansatsu-ka - Regards"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 913,
+    "nome": "Dynamic Chord",
+    "link": "https://animefire.plus/animes/dynamic-chord-todos-os-episodios",
+    "texto_original": "Dynamic Chord",
+    "rating": 4.68,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/dynamic-chord.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dynamic-chord/",
+    "secao": "legendados",
+    "pagina": 164,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/dynamic-chord"
+  }
+}

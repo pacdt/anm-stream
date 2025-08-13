@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Kikoushi Enma",
+  "anime": {
+    "id": 1970,
+    "nome": "Kikoushi Enma",
+    "link": "https://animefire.plus/animes/kikoushi-enma-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kikoushi-enma",
+    "rating": "7.16",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kikoushi-enma/1",
+      "anime_id": 1970,
+      "anime_name": "Kikoushi Enma"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kikoushi-enma/2",
+      "anime_id": 1970,
+      "anime_name": "Kikoushi Enma"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kikoushi-enma/3",
+      "anime_id": 1970,
+      "anime_name": "Kikoushi Enma"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kikoushi-enma/4",
+      "anime_id": 1970,
+      "anime_name": "Kikoushi Enma"
+    }
+  ],
+  "total_episodes": 4
+}

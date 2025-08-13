@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2378,
+    "nome": "Majo to Yajuu",
+    "link": "https://animefire.plus/animes/majo-to-yajuu-todos-os-episodios",
+    "texto_original": "Majo to Yajuu",
+    "rating": 7.44,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/majo-to-yajuu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/majo-to-yajuu/",
+    "secao": "legendados",
+    "pagina": 18,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/majo-to-yajuu"
+  }
+}

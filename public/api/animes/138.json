@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 138,
+    "nome": "Alexander Senki",
+    "link": "https://animefire.plus/animes/alexander-senki-todos-os-episodios",
+    "texto_original": "Alexander Senki",
+    "rating": 5.79,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/alexander-senki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/alexander-senki/",
+    "secao": "legendados",
+    "pagina": 119,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/alexander-senki"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: G-On Riders",
+  "anime": {
+    "id": 1072,
+    "nome": "G-On Riders",
+    "link": "https://animefire.plus/animes/g-on-riders-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/g-on-riders",
+    "rating": "5.87",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/g-on-riders/1",
+      "anime_id": 1072,
+      "anime_name": "G-On Riders"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/g-on-riders/2",
+      "anime_id": 1072,
+      "anime_name": "G-On Riders"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/g-on-riders/3",
+      "anime_id": 1072,
+      "anime_name": "G-On Riders"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/g-on-riders/4",
+      "anime_id": 1072,
+      "anime_name": "G-On Riders"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/g-on-riders/5",
+      "anime_id": 1072,
+      "anime_name": "G-On Riders"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/g-on-riders/6",
+      "anime_id": 1072,
+      "anime_name": "G-On Riders"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/g-on-riders/7",
+      "anime_id": 1072,
+      "anime_name": "G-On Riders"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/g-on-riders/8",
+      "anime_id": 1072,
+      "anime_name": "G-On Riders"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/g-on-riders/9",
+      "anime_id": 1072,
+      "anime_name": "G-On Riders"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/g-on-riders/10",
+      "anime_id": 1072,
+      "anime_name": "G-On Riders"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/g-on-riders/11",
+      "anime_id": 1072,
+      "anime_name": "G-On Riders"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/g-on-riders/12",
+      "anime_id": 1072,
+      "anime_name": "G-On Riders"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/g-on-riders/13",
+      "anime_id": 1072,
+      "anime_name": "G-On Riders"
+    }
+  ],
+  "total_episodes": 13
+}

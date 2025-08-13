@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 603,
+    "nome": "Chihayafuru",
+    "link": "https://animefire.plus/animes/chihayafuru-todos-os-episodios",
+    "texto_original": "Chihayafuru",
+    "rating": 8.27,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/chihayafuru.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/chihayafuru/",
+    "secao": "legendados",
+    "pagina": 144,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/chihayafuru"
+  }
+}

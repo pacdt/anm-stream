@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3956,
+    "nome": "Tsukimonogatari",
+    "link": "https://animefire.plus/animes/tsukimonogatari-todos-os-episodios",
+    "texto_original": "Tsukimonogatari",
+    "rating": 8.18,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/tsukimonogatari.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tsukimonogatari/",
+    "secao": "legendados",
+    "pagina": 141,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/tsukimonogatari"
+  }
+}

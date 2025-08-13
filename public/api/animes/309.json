@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 309,
+    "nome": "Baki (Dublado)",
+    "link": "https://animefire.plus/animes/baki-dublado-todos-os-episodios",
+    "texto_original": "Baki (Dublado)",
+    "rating": 7.33,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/baki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/baki/",
+    "secao": "dublados,legendados",
+    "pagina": 25,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/baki-dublado"
+  }
+}

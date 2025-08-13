@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2676,
+    "nome": "Narue no Sekai",
+    "link": "https://animefire.plus/animes/narue-no-sekai-todos-os-episodios",
+    "texto_original": "Narue no Sekai",
+    "rating": 6.64,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/narue-no-sekai.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/narue-no-sekai/",
+    "secao": "legendados",
+    "pagina": 164,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/narue-no-sekai"
+  }
+}

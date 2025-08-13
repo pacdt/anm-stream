@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Nayuta",
+  "anime": {
+    "id": 2697,
+    "nome": "Nayuta",
+    "link": "https://animefire.plus/animes/nayuta-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nayuta",
+    "rating": "5.60",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nayuta/1",
+      "anime_id": 2697,
+      "anime_name": "Nayuta"
+    }
+  ],
+  "total_episodes": 1
+}

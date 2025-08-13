@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1747,
+    "nome": "Jormungand",
+    "link": "https://animefire.plus/animes/jormungand-todos-os-episodios",
+    "texto_original": "Jormungand",
+    "rating": 7.91,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/jormungand.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/jormungand/",
+    "secao": "legendados",
+    "pagina": 143,
+    "total_episodios": 7,
+    "link_video": "https://animefire.plus/video/jormungand"
+  }
+}

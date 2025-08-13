@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Luger Code 1951",
+  "anime": {
+    "id": 2267,
+    "nome": "Luger Code 1951",
+    "link": "https://animefire.plus/animes/luger-code-1951-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/luger-code-1951",
+    "rating": "6.49",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/luger-code-1951/1",
+      "anime_id": 2267,
+      "anime_name": "Luger Code 1951"
+    }
+  ],
+  "total_episodes": 1
+}

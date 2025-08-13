@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 159,
+    "nome": "Ame to Kimi to",
+    "link": "https://animefire.plus/animes/ame-to-kimi-to-todos-os-episodios",
+    "texto_original": "Ame to Kimi to",
+    "rating": 7.45,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ame-to-kimi-to.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ame-to-kimi-to/",
+    "secao": "legendados,lancamentos",
+    "pagina": 2,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/ame-to-kimi-to"
+  }
+}

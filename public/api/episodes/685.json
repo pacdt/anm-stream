@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Comic Party Revolution",
+  "anime": {
+    "id": 685,
+    "nome": "Comic Party Revolution",
+    "link": "https://animefire.plus/animes/comic-party-revolution-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/comic-party-revolution",
+    "rating": "6.62",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/comic-party-revolution/1",
+      "anime_id": 685,
+      "anime_name": "Comic Party Revolution"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/comic-party-revolution/2",
+      "anime_id": 685,
+      "anime_name": "Comic Party Revolution"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/comic-party-revolution/3",
+      "anime_id": 685,
+      "anime_name": "Comic Party Revolution"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/comic-party-revolution/4",
+      "anime_id": 685,
+      "anime_name": "Comic Party Revolution"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/comic-party-revolution/5",
+      "anime_id": 685,
+      "anime_name": "Comic Party Revolution"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/comic-party-revolution/6",
+      "anime_id": 685,
+      "anime_name": "Comic Party Revolution"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/comic-party-revolution/7",
+      "anime_id": 685,
+      "anime_name": "Comic Party Revolution"
+    }
+  ],
+  "total_episodes": 7
+}

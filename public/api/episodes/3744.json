@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Tantei Opera Milky Holmes: Alternative",
+  "anime": {
+    "id": 3744,
+    "nome": "Tantei Opera Milky Holmes: Alternative",
+    "link": "https://animefire.plus/animes/tantei-opera-milky-holmes-alternative-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tantei-opera-milky-holmes-alternative",
+    "rating": "6.54",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tantei-opera-milky-holmes-alternative/1",
+      "anime_id": 3744,
+      "anime_name": "Tantei Opera Milky Holmes: Alternative"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tantei-opera-milky-holmes-alternative/2",
+      "anime_id": 3744,
+      "anime_name": "Tantei Opera Milky Holmes: Alternative"
+    }
+  ],
+  "total_episodes": 2
+}

@@ -1,0 +1,74 @@
+{
+  "message": "Lista de episódios do anime: Saint Seiya: Saintia Shou",
+  "anime": {
+    "id": 3210,
+    "nome": "Saint Seiya: Saintia Shou",
+    "link": "https://animefire.plus/animes/saint-seiya-saintia-shou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/saint-seiya-saintia-shou",
+    "rating": "5.70",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/saint-seiya-saintia-shou/1",
+      "anime_id": 3210,
+      "anime_name": "Saint Seiya: Saintia Shou"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/saint-seiya-saintia-shou/2",
+      "anime_id": 3210,
+      "anime_name": "Saint Seiya: Saintia Shou"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/saint-seiya-saintia-shou/3",
+      "anime_id": 3210,
+      "anime_name": "Saint Seiya: Saintia Shou"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/saint-seiya-saintia-shou/4",
+      "anime_id": 3210,
+      "anime_name": "Saint Seiya: Saintia Shou"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/saint-seiya-saintia-shou/5",
+      "anime_id": 3210,
+      "anime_name": "Saint Seiya: Saintia Shou"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/saint-seiya-saintia-shou/6",
+      "anime_id": 3210,
+      "anime_name": "Saint Seiya: Saintia Shou"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/saint-seiya-saintia-shou/7",
+      "anime_id": 3210,
+      "anime_name": "Saint Seiya: Saintia Shou"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/saint-seiya-saintia-shou/8",
+      "anime_id": 3210,
+      "anime_name": "Saint Seiya: Saintia Shou"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/saint-seiya-saintia-shou/9",
+      "anime_id": 3210,
+      "anime_name": "Saint Seiya: Saintia Shou"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/saint-seiya-saintia-shou/10",
+      "anime_id": 3210,
+      "anime_name": "Saint Seiya: Saintia Shou"
+    }
+  ],
+  "total_episodes": 10
+}

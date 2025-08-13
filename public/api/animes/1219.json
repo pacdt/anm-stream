@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1219,
+    "nome": "Golden Boy",
+    "link": "https://animefire.plus/animes/golden-boy-todos-os-episodios",
+    "texto_original": "Golden Boy",
+    "rating": 8.05,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/golden-boy.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/golden-boy/",
+    "secao": "legendados",
+    "pagina": 101,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/golden-boy"
+  }
+}

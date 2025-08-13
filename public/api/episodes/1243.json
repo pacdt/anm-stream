@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Grandeek",
+  "anime": {
+    "id": 1243,
+    "nome": "Grandeek",
+    "link": "https://animefire.plus/animes/grandeek-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/grandeek",
+    "rating": "5.73",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/grandeek/1",
+      "anime_id": 1243,
+      "anime_name": "Grandeek"
+    }
+  ],
+  "total_episodes": 1
+}

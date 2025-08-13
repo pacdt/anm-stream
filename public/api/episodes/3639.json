@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Strange+",
+  "anime": {
+    "id": 3639,
+    "nome": "Strange+",
+    "link": "https://animefire.plus/animes/strange-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/strange",
+    "rating": "6.03",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/strange/1",
+      "anime_id": 3639,
+      "anime_name": "Strange+"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/strange/2",
+      "anime_id": 3639,
+      "anime_name": "Strange+"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/strange/3",
+      "anime_id": 3639,
+      "anime_name": "Strange+"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/strange/4",
+      "anime_id": 3639,
+      "anime_name": "Strange+"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/strange/5",
+      "anime_id": 3639,
+      "anime_name": "Strange+"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/strange/6",
+      "anime_id": 3639,
+      "anime_name": "Strange+"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/strange/7",
+      "anime_id": 3639,
+      "anime_name": "Strange+"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/strange/8",
+      "anime_id": 3639,
+      "anime_name": "Strange+"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/strange/9",
+      "anime_id": 3639,
+      "anime_name": "Strange+"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/strange/10",
+      "anime_id": 3639,
+      "anime_name": "Strange+"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/strange/11",
+      "anime_id": 3639,
+      "anime_name": "Strange+"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/strange/12",
+      "anime_id": 3639,
+      "anime_name": "Strange+"
+    }
+  ],
+  "total_episodes": 12
+}

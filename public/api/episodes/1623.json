@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Initial D Battle Stage",
+  "anime": {
+    "id": 1623,
+    "nome": "Initial D Battle Stage",
+    "link": "https://animefire.plus/animes/initial-d-battle-stage-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/initial-d-battle-stage",
+    "rating": "7.57",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/initial-d-battle-stage/1",
+      "anime_id": 1623,
+      "anime_name": "Initial D Battle Stage"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 529,
+    "nome": "Burn Up Scramble",
+    "link": "https://animefire.plus/animes/burn-up-scramble-todos-os-episodios",
+    "texto_original": "Burn Up Scramble",
+    "rating": 6.28,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/burn-up-scramble.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/burn-up-scramble/",
+    "secao": "legendados",
+    "pagina": 160,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/burn-up-scramble"
+  }
+}

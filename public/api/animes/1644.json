@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1644,
+    "nome": "Inuyashiki",
+    "link": "https://animefire.plus/animes/inuyashiki-todos-os-episodios",
+    "texto_original": "Inuyashiki",
+    "rating": 7.81,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/inuyashiki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/inuyashiki/",
+    "secao": "legendados",
+    "pagina": 168,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/inuyashiki"
+  }
+}

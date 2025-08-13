@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Kekkai Sensen: Ousama no Restaurant no Ousama",
+  "anime": {
+    "id": 1930,
+    "nome": "Kekkai Sensen: Ousama no Restaurant no Ousama",
+    "link": "https://animefire.plus/animes/kekkai-sensen-ousama-no-restaurant-no-ousama-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kekkai-sensen-ousama-no-restaurant-no-ousama",
+    "rating": "7.43",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kekkai-sensen-ousama-no-restaurant-no-ousama/1",
+      "anime_id": 1930,
+      "anime_name": "Kekkai Sensen: Ousama no Restaurant no Ousama"
+    }
+  ],
+  "total_episodes": 1
+}

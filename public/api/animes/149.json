@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 149,
+    "nome": "Amaenaide yo!! Katsu!!",
+    "link": "https://animefire.plus/animes/amaenaide-yo-katsu-todos-os-episodios",
+    "texto_original": "Amaenaide yo!! Katsu!!",
+    "rating": 6.8,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/amaenaide-yo-katsu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/amaenaide-yo-katsu/",
+    "secao": "legendados",
+    "pagina": 145,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/amaenaide-yo-katsu"
+  }
+}

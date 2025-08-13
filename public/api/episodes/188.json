@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Another World",
+  "anime": {
+    "id": 188,
+    "nome": "Another World",
+    "link": "https://animefire.plus/animes/another-world-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/another-world",
+    "rating": "7.14",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/another-world/1",
+      "anime_id": 188,
+      "anime_name": "Another World"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/another-world/2",
+      "anime_id": 188,
+      "anime_name": "Another World"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/another-world/3",
+      "anime_id": 188,
+      "anime_name": "Another World"
+    }
+  ],
+  "total_episodes": 3
+}

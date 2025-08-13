@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Megaton-kyuu Musashi",
+  "anime": {
+    "id": 2471,
+    "nome": "Megaton-kyuu Musashi",
+    "link": "https://animefire.plus/animes/megaton-kyuu-musashi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/megaton-kyuu-musashi",
+    "rating": "6.28",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/megaton-kyuu-musashi/1",
+      "anime_id": 2471,
+      "anime_name": "Megaton-kyuu Musashi"
+    }
+  ],
+  "total_episodes": 1
+}

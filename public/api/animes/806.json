@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 806,
+    "nome": "Devils Line",
+    "link": "https://animefire.plus/animes/devils-line-todos-os-episodios",
+    "texto_original": "Devils Line",
+    "rating": 6.89,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/devils-line.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/devils-line/",
+    "secao": "legendados",
+    "pagina": 160,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/devils-line"
+  }
+}

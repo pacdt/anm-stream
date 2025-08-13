@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2857,
+    "nome": "Onimusha (Dublado)",
+    "link": "https://animefire.plus/animes/onimusha-dublado-todos-os-episodios",
+    "texto_original": "Onimusha (Dublado)",
+    "rating": 6.55,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/onimusha.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/onimusha/",
+    "secao": "dublados,legendados",
+    "pagina": 4,
+    "total_episodios": 8,
+    "link_video": "https://animefire.plus/video/onimusha-dublado"
+  }
+}

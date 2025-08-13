@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3040,
+    "nome": "Psycho-Pass",
+    "link": "https://animefire.plus/animes/psycho-pass-todos-os-episodios",
+    "texto_original": "Psycho-Pass",
+    "rating": 8.42,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/psycho-pass.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/psycho-pass/",
+    "secao": "legendados",
+    "pagina": 113,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/psycho-pass"
+  }
+}

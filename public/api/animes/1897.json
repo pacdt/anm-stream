@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1897,
+    "nome": "Karaoke Iko!",
+    "link": "https://animefire.plus/animes/karaoke-iko-todos-os-episodios",
+    "texto_original": "Karaoke Iko!",
+    "rating": 7.28,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/karaoke-iko.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/karaoke-iko/",
+    "secao": "legendados,lancamentos",
+    "pagina": 1,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/karaoke-iko"
+  }
+}

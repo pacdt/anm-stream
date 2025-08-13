@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1973,
+    "nome": "Killing Bites",
+    "link": "https://animefire.plus/animes/killing-bites-todos-os-episodios",
+    "texto_original": "Killing Bites",
+    "rating": 6.79,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/killing-bites.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/killing-bites/",
+    "secao": "legendados",
+    "pagina": 109,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/killing-bites"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Tougen Anki (Dublado)",
+  "anime": {
+    "id": 3924,
+    "nome": "Tougen Anki (Dublado)",
+    "link": "https://animefire.plus/animes/tougen-anki-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tougen-anki-dublado",
+    "rating": "7.04",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tougen-anki-dublado/1",
+      "anime_id": 3924,
+      "anime_name": "Tougen Anki (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tougen-anki-dublado/2",
+      "anime_id": 3924,
+      "anime_name": "Tougen Anki (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tougen-anki-dublado/3",
+      "anime_id": 3924,
+      "anime_name": "Tougen Anki (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tougen-anki-dublado/4",
+      "anime_id": 3924,
+      "anime_name": "Tougen Anki (Dublado)"
+    }
+  ],
+  "total_episodes": 4
+}

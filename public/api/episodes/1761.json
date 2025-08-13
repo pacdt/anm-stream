@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Junketsu no Maria",
+  "anime": {
+    "id": 1761,
+    "nome": "Junketsu no Maria",
+    "link": "https://animefire.plus/animes/junketsu-no-maria-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/junketsu-no-maria",
+    "rating": "7.21",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/junketsu-no-maria/1",
+      "anime_id": 1761,
+      "anime_name": "Junketsu no Maria"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/junketsu-no-maria/2",
+      "anime_id": 1761,
+      "anime_name": "Junketsu no Maria"
+    }
+  ],
+  "total_episodes": 2
+}

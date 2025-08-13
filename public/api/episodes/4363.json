@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Zombie-Loan",
+  "anime": {
+    "id": 4363,
+    "nome": "Zombie-Loan",
+    "link": "https://animefire.plus/animes/zombie-loan-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/zombie-loan",
+    "rating": "6.98",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/zombie-loan/1",
+      "anime_id": 4363,
+      "anime_name": "Zombie-Loan"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/zombie-loan/2",
+      "anime_id": 4363,
+      "anime_name": "Zombie-Loan"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/zombie-loan/3",
+      "anime_id": 4363,
+      "anime_name": "Zombie-Loan"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/zombie-loan/4",
+      "anime_id": 4363,
+      "anime_name": "Zombie-Loan"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/zombie-loan/5",
+      "anime_id": 4363,
+      "anime_name": "Zombie-Loan"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/zombie-loan/6",
+      "anime_id": 4363,
+      "anime_name": "Zombie-Loan"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/zombie-loan/7",
+      "anime_id": 4363,
+      "anime_name": "Zombie-Loan"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/zombie-loan/8",
+      "anime_id": 4363,
+      "anime_name": "Zombie-Loan"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/zombie-loan/9",
+      "anime_id": 4363,
+      "anime_name": "Zombie-Loan"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/zombie-loan/10",
+      "anime_id": 4363,
+      "anime_name": "Zombie-Loan"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/zombie-loan/11",
+      "anime_id": 4363,
+      "anime_name": "Zombie-Loan"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/zombie-loan/12",
+      "anime_id": 4363,
+      "anime_name": "Zombie-Loan"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/zombie-loan/13",
+      "anime_id": 4363,
+      "anime_name": "Zombie-Loan"
+    }
+  ],
+  "total_episodes": 13
+}

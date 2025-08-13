@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Ro-Kyu-Bu!",
+  "anime": {
+    "id": 3137,
+    "nome": "Ro-Kyu-Bu!",
+    "link": "https://animefire.plus/animes/ro-kyu-bu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ro-kyu-bu",
+    "rating": "6.95",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ro-kyu-bu/1",
+      "anime_id": 3137,
+      "anime_name": "Ro-Kyu-Bu!"
+    }
+  ],
+  "total_episodes": 1
+}

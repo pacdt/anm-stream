@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 98,
+    "nome": "Air Gear",
+    "link": "https://animefire.plus/animes/air-gear-todos-os-episodios",
+    "texto_original": "Air Gear",
+    "rating": 7.62,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/air-gear.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/air-gear/",
+    "secao": "legendados",
+    "pagina": 113,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/air-gear"
+  }
+}

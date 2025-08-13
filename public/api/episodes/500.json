@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Bright: Samurai Soul (Dublado)",
+  "anime": {
+    "id": 500,
+    "nome": "Bright: Samurai Soul (Dublado)",
+    "link": "https://animefire.plus/animes/bright-samurai-soul-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/bright-samurai-soul-dublado",
+    "rating": "5.39",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/bright-samurai-soul-dublado/1",
+      "anime_id": 500,
+      "anime_name": "Bright: Samurai Soul (Dublado)"
+    }
+  ],
+  "total_episodes": 1
+}

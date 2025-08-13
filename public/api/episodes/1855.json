@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Kamisama Hajimemashita: Kako-hen",
+  "anime": {
+    "id": 1855,
+    "nome": "Kamisama Hajimemashita: Kako-hen",
+    "link": "https://animefire.plus/animes/kamisama-hajimemashita-kako-hen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kamisama-hajimemashita-kako-hen",
+    "rating": "8.40",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kamisama-hajimemashita-kako-hen/1",
+      "anime_id": 1855,
+      "anime_name": "Kamisama Hajimemashita: Kako-hen"
+    }
+  ],
+  "total_episodes": 1
+}

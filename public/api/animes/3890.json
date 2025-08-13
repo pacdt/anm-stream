@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3890,
+    "nome": "Tokyo Marble Chocolate",
+    "link": "https://animefire.plus/animes/tokyo-marble-chocolate-todos-os-episodios",
+    "texto_original": "Tokyo Marble Chocolate",
+    "rating": 7.24,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/tokyo-marble-chocolate.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tokyo-marble-chocolate/",
+    "secao": "legendados",
+    "pagina": 63,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/tokyo-marble-chocolate"
+  }
+}

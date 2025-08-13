@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Soukyuu no Fafner: Right of Left - Single Program",
+  "anime": {
+    "id": 3590,
+    "nome": "Soukyuu no Fafner: Right of Left - Single Program",
+    "link": "https://animefire.plus/animes/soukyuu-no-fafner-right-of-left---single-program-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/soukyuu-no-fafner-right-of-left---single-program",
+    "rating": "7.42",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/soukyuu-no-fafner-right-of-left---single-program/1",
+      "anime_id": 3590,
+      "anime_name": "Soukyuu no Fafner: Right of Left - Single Program"
+    }
+  ],
+  "total_episodes": 1
+}

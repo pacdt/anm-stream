@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Super Danganronpa 2.5: Komaeda Nagito to Sekai no Hakaimono",
+  "anime": {
+    "id": 3676,
+    "nome": "Super Danganronpa 2.5: Komaeda Nagito to Sekai no Hakaimono",
+    "link": "https://animefire.plus/animes/super-danganronpa-2-5-komaeda-nagito-to-sekai-no-hakaimono-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/super-danganronpa-2-5-komaeda-nagito-to-sekai-no-hakaimono",
+    "rating": "7.35",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/super-danganronpa-2-5-komaeda-nagito-to-sekai-no-hakaimono/1",
+      "anime_id": 3676,
+      "anime_name": "Super Danganronpa 2.5: Komaeda Nagito to Sekai no Hakaimono"
+    }
+  ],
+  "total_episodes": 1
+}

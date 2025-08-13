@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3044,
+    "nome": "Pugyuru",
+    "link": "https://animefire.plus/animes/pugyuru-todos-os-episodios",
+    "texto_original": "Pugyuru",
+    "rating": 5.79,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/pugyuru.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/pugyuru/",
+    "secao": "legendados",
+    "pagina": 169,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/pugyuru"
+  }
+}

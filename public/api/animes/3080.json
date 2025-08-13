@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3080,
+    "nome": "Ranma ½ (Dublado)",
+    "link": "https://animefire.plus/animes/ranma-dublado-todos-os-episodios",
+    "texto_original": "Ranma ½ (Dublado)",
+    "rating": 7.78,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/ranma.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ranma/",
+    "secao": "dublados",
+    "pagina": 23,
+    "total_episodios": 161,
+    "link_video": "https://animefire.plus/video/ranma-dublado"
+  }
+}

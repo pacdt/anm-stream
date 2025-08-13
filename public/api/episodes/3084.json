@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: RDG: Red Data Girl",
+  "anime": {
+    "id": 3084,
+    "nome": "RDG: Red Data Girl",
+    "link": "https://animefire.plus/animes/rdg-red-data-girl-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/rdg-red-data-girl",
+    "rating": "6.65",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/rdg-red-data-girl/1",
+      "anime_id": 3084,
+      "anime_name": "RDG: Red Data Girl"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/rdg-red-data-girl/2",
+      "anime_id": 3084,
+      "anime_name": "RDG: Red Data Girl"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/rdg-red-data-girl/3",
+      "anime_id": 3084,
+      "anime_name": "RDG: Red Data Girl"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/rdg-red-data-girl/4",
+      "anime_id": 3084,
+      "anime_name": "RDG: Red Data Girl"
+    }
+  ],
+  "total_episodes": 4
+}

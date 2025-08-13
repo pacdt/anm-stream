@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Detonator Orgun",
+  "anime": {
+    "id": 800,
+    "nome": "Detonator Orgun",
+    "link": "https://animefire.plus/animes/detonator-orgun-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/detonator-orgun",
+    "rating": "6.50",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/detonator-orgun/1",
+      "anime_id": 800,
+      "anime_name": "Detonator Orgun"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/detonator-orgun/2",
+      "anime_id": 800,
+      "anime_name": "Detonator Orgun"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/detonator-orgun/3",
+      "anime_id": 800,
+      "anime_name": "Detonator Orgun"
+    }
+  ],
+  "total_episodes": 3
+}

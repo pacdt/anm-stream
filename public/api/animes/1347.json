@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1347,
+    "nome": "Hana yori Dango",
+    "link": "https://animefire.plus/animes/hana-yori-dango-todos-os-episodios",
+    "texto_original": "Hana yori Dango",
+    "rating": 7.75,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hana-yori-dango.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hana-yori-dango/",
+    "secao": "legendados",
+    "pagina": 71,
+    "total_episodios": 51,
+    "link_video": "https://animefire.plus/video/hana-yori-dango"
+  }
+}

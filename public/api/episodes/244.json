@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: ARP Backstage Pass",
+  "anime": {
+    "id": 244,
+    "nome": "ARP Backstage Pass",
+    "link": "https://animefire.plus/animes/arp-backstage-pass-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/arp-backstage-pass",
+    "rating": "5.59",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/arp-backstage-pass/1",
+      "anime_id": 244,
+      "anime_name": "ARP Backstage Pass"
+    }
+  ],
+  "total_episodes": 1
+}

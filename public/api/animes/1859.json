@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1859,
+    "nome": "Kamisama ni Natta Hi",
+    "link": "https://animefire.plus/animes/kamisama-ni-natta-hi-todos-os-episodios",
+    "texto_original": "Kamisama ni Natta Hi",
+    "rating": null,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kamisama-ni-natta-hi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kamisama-ni-natta-hi/",
+    "secao": "legendados",
+    "pagina": 52,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/kamisama-ni-natta-hi"
+  }
+}

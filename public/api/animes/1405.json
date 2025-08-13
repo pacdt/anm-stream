@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1405,
+    "nome": "Heartcatch Precure!",
+    "link": "https://animefire.plus/animes/heartcatch-precure-todos-os-episodios",
+    "texto_original": "Heartcatch Precure!",
+    "rating": 7.82,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/heartcatch-precure.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/heartcatch-precure/",
+    "secao": "legendados",
+    "pagina": 67,
+    "total_episodios": 49,
+    "link_video": "https://animefire.plus/video/heartcatch-precure"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "message": "Animes com rating entre 5 e 7",
+  "rating_range": {
+    "min": 5,
+    "max": 7
+  },
+  "data": [
+    {
+      "id": 4352,
+      "nome": "Zetsumetsu Kigu Shoujo: Amazing Twins",
+      "link": "https://animefire.plus/animes/zetsumetsu-kigu-shoujo-amazing-twins-todos-os-episodios",
+      "texto_original": "Zetsumetsu Kigu Shoujo: Amazing Twins",
+      "rating": 6.42,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/zetsumetsu-kigu-shoujo-amazing-twins.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zetsumetsu-kigu-shoujo-amazing-twins/",
+      "secao": "legendados",
+      "pagina": 114,
+      "total_episodios": 2,
+      "link_video": "https://animefire.plus/video/zetsumetsu-kigu-shoujo-amazing-twins"
+    },
+    {
+      "id": 4353,
+      "nome": "Zettai Bouei Leviathan",
+      "link": "https://animefire.plus/animes/zettai-bouei-leviathan-todos-os-episodios",
+      "texto_original": "Zettai Bouei Leviathan",
+      "rating": 6.36,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/zettai-bouei-leviathan.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zettai-bouei-leviathan/",
+      "secao": "legendados",
+      "pagina": 113,
+      "total_episodios": 13,
+      "link_video": "https://animefire.plus/video/zettai-bouei-leviathan"
+    },
+    {
+      "id": 4354,
+      "nome": "Zettai Junpaku♡Mahou Shoujo",
+      "link": "https://animefire.plus/animes/zettai-junpaku-mahou-shoujo-todos-os-episodios",
+      "texto_original": "Zettai Junpaku♡Mahou Shoujo",
+      "rating": 5.37,
+      "classificacao_etaria": "A18",
+      "imagem_original": "https://animefire.plus/img/animes/zettai-junpaku-mahou-shoujo.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zettai-junpaku-mahou-shoujo/",
+      "secao": "legendados",
+      "pagina": 85,
+      "total_episodios": 1,
+      "link_video": "https://animefire.plus/video/zettai-junpaku-mahou-shoujo"
+    },
+    {
+      "id": 4357,
+      "nome": "Zinba",
+      "link": "https://animefire.plus/animes/zinba-todos-os-episodios",
+      "texto_original": "Zinba",
+      "rating": 6.66,
+      "classificacao_etaria": "A10",
+      "imagem_original": "https://animefire.plus/img/animes/zinba.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zinba/",
+      "secao": "legendados",
+      "pagina": 174,
+      "total_episodios": 1,
+      "link_video": "https://animefire.plus/video/zinba"
+    },
+    {
+      "id": 4363,
+      "nome": "Zombie-Loan",
+      "link": "https://animefire.plus/animes/zombie-loan-todos-os-episodios",
+      "texto_original": "Zombie-Loan",
+      "rating": 6.98,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/zombie-loan.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zombie-loan/",
+      "secao": "legendados",
+      "pagina": 175,
+      "total_episodios": 13,
+      "link_video": "https://animefire.plus/video/zombie-loan"
+    }
+  ],
+  "pagination": {
+    "current_page": 91,
+    "per_page": 20,
+    "total_items": 1805,
+    "total_pages": 91,
+    "has_next": false,
+    "has_prev": true
+  }
+}

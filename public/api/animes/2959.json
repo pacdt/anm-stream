@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2959,
+    "nome": "Patalliro!",
+    "link": "https://animefire.plus/animes/patalliro-todos-os-episodios",
+    "texto_original": "Patalliro!",
+    "rating": 7.24,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/patalliro.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/patalliro/",
+    "secao": "legendados",
+    "pagina": 43,
+    "total_episodios": 35,
+    "link_video": "https://animefire.plus/video/patalliro"
+  }
+}

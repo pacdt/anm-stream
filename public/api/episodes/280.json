@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Avenger",
+  "anime": {
+    "id": 280,
+    "nome": "Avenger",
+    "link": "https://animefire.plus/animes/avenger-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/avenger",
+    "rating": "5.96",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/avenger/1",
+      "anime_id": 280,
+      "anime_name": "Avenger"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/avenger/2",
+      "anime_id": 280,
+      "anime_name": "Avenger"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/avenger/3",
+      "anime_id": 280,
+      "anime_name": "Avenger"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/avenger/4",
+      "anime_id": 280,
+      "anime_name": "Avenger"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/avenger/5",
+      "anime_id": 280,
+      "anime_name": "Avenger"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/avenger/6",
+      "anime_id": 280,
+      "anime_name": "Avenger"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/avenger/7",
+      "anime_id": 280,
+      "anime_name": "Avenger"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/avenger/8",
+      "anime_id": 280,
+      "anime_name": "Avenger"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/avenger/9",
+      "anime_id": 280,
+      "anime_name": "Avenger"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/avenger/10",
+      "anime_id": 280,
+      "anime_name": "Avenger"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/avenger/11",
+      "anime_id": 280,
+      "anime_name": "Avenger"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/avenger/12",
+      "anime_id": 280,
+      "anime_name": "Avenger"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/avenger/13",
+      "anime_id": 280,
+      "anime_name": "Avenger"
+    }
+  ],
+  "total_episodes": 13
+}

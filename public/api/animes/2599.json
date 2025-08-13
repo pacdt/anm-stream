@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2599,
+    "nome": "Mouse",
+    "link": "https://animefire.plus/animes/mouse-todos-os-episodios",
+    "texto_original": "Mouse",
+    "rating": 6.11,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/mouse.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mouse/",
+    "secao": "legendados",
+    "pagina": 119,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/mouse"
+  }
+}

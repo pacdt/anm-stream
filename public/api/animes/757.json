@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 757,
+    "nome": "Date A Live",
+    "link": "https://animefire.plus/animes/date-a-live-todos-os-episodios",
+    "texto_original": "Date A Live",
+    "rating": 7.41,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/date-a-live.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/date-a-live/",
+    "secao": "legendados",
+    "pagina": 132,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/date-a-live"
+  }
+}

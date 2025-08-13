@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Mushibugyou OVA",
+  "anime": {
+    "id": 2617,
+    "nome": "Mushibugyou OVA",
+    "link": "https://animefire.plus/animes/mushibugyou-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mushibugyou-ova",
+    "rating": "7.14",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mushibugyou-ova/1",
+      "anime_id": 2617,
+      "anime_name": "Mushibugyou OVA"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mushibugyou-ova/2",
+      "anime_id": 2617,
+      "anime_name": "Mushibugyou OVA"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mushibugyou-ova/3",
+      "anime_id": 2617,
+      "anime_name": "Mushibugyou OVA"
+    }
+  ],
+  "total_episodes": 3
+}

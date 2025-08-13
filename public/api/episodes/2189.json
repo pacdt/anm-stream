@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Kyoukaisenjou no Horizon II",
+  "anime": {
+    "id": 2189,
+    "nome": "Kyoukaisenjou no Horizon II",
+    "link": "https://animefire.plus/animes/kyoukaisenjou-no-horizon-ii-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kyoukaisenjou-no-horizon-ii",
+    "rating": "7.63",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kyoukaisenjou-no-horizon-ii/1",
+      "anime_id": 2189,
+      "anime_name": "Kyoukaisenjou no Horizon II"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kyoukaisenjou-no-horizon-ii/2",
+      "anime_id": 2189,
+      "anime_name": "Kyoukaisenjou no Horizon II"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kyoukaisenjou-no-horizon-ii/3",
+      "anime_id": 2189,
+      "anime_name": "Kyoukaisenjou no Horizon II"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kyoukaisenjou-no-horizon-ii/4",
+      "anime_id": 2189,
+      "anime_name": "Kyoukaisenjou no Horizon II"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kyoukaisenjou-no-horizon-ii/5",
+      "anime_id": 2189,
+      "anime_name": "Kyoukaisenjou no Horizon II"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kyoukaisenjou-no-horizon-ii/6",
+      "anime_id": 2189,
+      "anime_name": "Kyoukaisenjou no Horizon II"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/kyoukaisenjou-no-horizon-ii/7",
+      "anime_id": 2189,
+      "anime_name": "Kyoukaisenjou no Horizon II"
+    }
+  ],
+  "total_episodes": 7
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1983,
+    "nome": "Kimi ni Todoke",
+    "link": "https://animefire.plus/animes/kimi-ni-todoke-todos-os-episodios",
+    "texto_original": "Kimi ni Todoke",
+    "rating": 8.1,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kimi-ni-todoke.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kimi-ni-todoke/",
+    "secao": "legendados",
+    "pagina": 159,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/kimi-ni-todoke"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3548,
+    "nome": "Slayers (Dublado)",
+    "link": "https://animefire.plus/animes/slayers-dublado-todos-os-episodios",
+    "texto_original": "Slayers (Dublado)",
+    "rating": 7.75,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/slayers.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/slayers/",
+    "secao": "dublados,legendados",
+    "pagina": 17,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/slayers-dublado"
+  }
+}

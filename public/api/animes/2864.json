@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2864,
+    "nome": "Onyankopon",
+    "link": "https://animefire.plus/animes/onyankopon-todos-os-episodios",
+    "texto_original": "Onyankopon",
+    "rating": 4.5,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/onyankopon.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/onyankopon/",
+    "secao": "legendados",
+    "pagina": 147,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/onyankopon"
+  }
+}

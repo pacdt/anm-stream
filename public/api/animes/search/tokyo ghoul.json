@@ -1,0 +1,98 @@
+{
+  "message": "Resultados da busca por: \"tokyo ghoul\"",
+  "query": "tokyo ghoul",
+  "data": [
+    {
+      "id": 3881,
+      "nome": "Tokyo Ghoul (Dublado)",
+      "link": "https://animefire.plus/animes/tokyo-ghoul-dublado-todos-os-episodios",
+      "texto_original": "Tokyo Ghoul (Dublado)",
+      "rating": 7.82,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/tokyo-ghoul.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/tokyo-ghoul/",
+      "secao": "dublados,legendados",
+      "pagina": 19,
+      "total_episodios": 12,
+      "link_video": "https://animefire.plus/video/tokyo-ghoul-dublado"
+    },
+    {
+      "id": 3882,
+      "nome": "Tokyo Ghoul √A (Dublado)",
+      "link": "https://animefire.plus/animes/tokyo-ghoul-a-dublado-todos-os-episodios",
+      "texto_original": "Tokyo Ghoul √A (Dublado)",
+      "rating": 7.1,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/tokyo-ghoul-a.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/tokyo-ghoul-a/",
+      "secao": "dublados,legendados",
+      "pagina": 19,
+      "total_episodios": 12,
+      "link_video": "https://animefire.plus/video/tokyo-ghoul-a-dublado"
+    },
+    {
+      "id": 3883,
+      "nome": "Tokyo Ghoul: \"Jack\" (Dublado)",
+      "link": "https://animefire.plus/animes/tokyo-ghoul-jack-dublado-todos-os-episodios",
+      "texto_original": "Tokyo Ghoul: \"Jack\" (Dublado)",
+      "rating": 7.35,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/tokyo-ghoul-jack.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/tokyo-ghoul-jack/",
+      "secao": "dublados",
+      "pagina": 17,
+      "total_episodios": 1,
+      "link_video": "https://animefire.plus/video/tokyo-ghoul-jack-dublado"
+    },
+    {
+      "id": 3884,
+      "nome": "Tokyo Ghoul: \"Pinto\" (Dublado)",
+      "link": "https://animefire.plus/animes/tokyo-ghoul-pinto-dublado-todos-os-episodios",
+      "texto_original": "Tokyo Ghoul: \"Pinto\" (Dublado)",
+      "rating": 7.24,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/tokyo-ghoul-pinto.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/tokyo-ghoul-pinto/",
+      "secao": "dublados",
+      "pagina": 17,
+      "total_episodios": 1,
+      "link_video": "https://animefire.plus/video/tokyo-ghoul-pinto-dublado"
+    },
+    {
+      "id": 3885,
+      "nome": "Tokyo Ghoul:re (Dublado)",
+      "link": "https://animefire.plus/animes/tokyo-ghoul-re-dublado-todos-os-episodios",
+      "texto_original": "Tokyo Ghoul:re (Dublado)",
+      "rating": 6.59,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/tokyo-ghoul-re.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/tokyo-ghoul-re/",
+      "secao": "dublados,legendados",
+      "pagina": 19,
+      "total_episodios": 12,
+      "link_video": "https://animefire.plus/video/tokyo-ghoul-re-dublado"
+    },
+    {
+      "id": 3886,
+      "nome": "Tokyo Ghoul:re 2nd Season (Dublado)",
+      "link": "https://animefire.plus/animes/tokyo-ghoul-re-2nd-season-dublado-todos-os-episodios",
+      "texto_original": "Tokyo Ghoul:re 2nd Season (Dublado)",
+      "rating": 6.33,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/tokyo-ghoul-re-2nd-season.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/tokyo-ghoul-re-2nd-season/",
+      "secao": "dublados,legendados",
+      "pagina": 19,
+      "total_episodios": 12,
+      "link_video": "https://animefire.plus/video/tokyo-ghoul-re-2nd-season-dublado"
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "per_page": 20,
+    "total_items": 6,
+    "total_pages": 1,
+    "has_next": false,
+    "has_prev": false
+  }
+}

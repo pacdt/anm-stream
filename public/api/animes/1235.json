@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1235,
+    "nome": "Granbelm",
+    "link": "https://animefire.plus/animes/granbelm-todos-os-episodios",
+    "texto_original": "Granbelm",
+    "rating": 6.75,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/granbelm.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/granbelm/",
+    "secao": "legendados",
+    "pagina": 174,
+    "total_episodios": 7,
+    "link_video": "https://animefire.plus/video/granbelm"
+  }
+}

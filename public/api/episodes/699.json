@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Cowboy Bebop (Dublado)",
+  "anime": {
+    "id": 699,
+    "nome": "Cowboy Bebop (Dublado)",
+    "link": "https://animefire.plus/animes/cowboy-bebop-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/cowboy-bebop-dublado",
+    "rating": "8.77",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/cowboy-bebop-dublado/1",
+      "anime_id": 699,
+      "anime_name": "Cowboy Bebop (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/cowboy-bebop-dublado/2",
+      "anime_id": 699,
+      "anime_name": "Cowboy Bebop (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/cowboy-bebop-dublado/3",
+      "anime_id": 699,
+      "anime_name": "Cowboy Bebop (Dublado)"
+    }
+  ],
+  "total_episodes": 3
+}

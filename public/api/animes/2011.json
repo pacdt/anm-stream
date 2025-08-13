@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2011,
+    "nome": "Kinoko Inu",
+    "link": "https://animefire.plus/animes/kinoko-inu-todos-os-episodios",
+    "texto_original": "Kinoko Inu",
+    "rating": 6.89,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kinoko-inu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kinoko-inu/",
+    "secao": "legendados",
+    "pagina": 9,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/kinoko-inu"
+  }
+}

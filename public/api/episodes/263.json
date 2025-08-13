@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Asobi Asobase OVA",
+  "anime": {
+    "id": 263,
+    "nome": "Asobi Asobase OVA",
+    "link": "https://animefire.plus/animes/asobi-asobase-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/asobi-asobase-ova",
+    "rating": "7.51",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/asobi-asobase-ova/1",
+      "anime_id": 263,
+      "anime_name": "Asobi Asobase OVA"
+    }
+  ],
+  "total_episodes": 1
+}

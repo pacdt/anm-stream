@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4099,
+    "nome": "Walkure Romanze",
+    "link": "https://animefire.plus/animes/walkure-romanze-todos-os-episodios",
+    "texto_original": "Walkure Romanze",
+    "rating": 6.49,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/walkure-romanze.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/walkure-romanze/",
+    "secao": "legendados",
+    "pagina": 144,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/walkure-romanze"
+  }
+}

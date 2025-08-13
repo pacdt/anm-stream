@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Motto To LOVE-Ru",
+  "anime": {
+    "id": 2594,
+    "nome": "Motto To LOVE-Ru",
+    "link": "https://animefire.plus/animes/motto-to-love-ru-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/motto-to-love-ru",
+    "rating": "7.47",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/motto-to-love-ru/1",
+      "anime_id": 2594,
+      "anime_name": "Motto To LOVE-Ru"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/motto-to-love-ru/2",
+      "anime_id": 2594,
+      "anime_name": "Motto To LOVE-Ru"
+    }
+  ],
+  "total_episodes": 2
+}

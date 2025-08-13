@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Mini Yuri",
+  "anime": {
+    "id": 2517,
+    "nome": "Mini Yuri",
+    "link": "https://animefire.plus/animes/mini-yuri-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mini-yuri",
+    "rating": "6.74",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mini-yuri/1",
+      "anime_id": 2517,
+      "anime_name": "Mini Yuri"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mini-yuri/2",
+      "anime_id": 2517,
+      "anime_name": "Mini Yuri"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mini-yuri/3",
+      "anime_id": 2517,
+      "anime_name": "Mini Yuri"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/mini-yuri/4",
+      "anime_id": 2517,
+      "anime_name": "Mini Yuri"
+    }
+  ],
+  "total_episodes": 4
+}

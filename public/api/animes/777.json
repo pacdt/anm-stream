@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 777,
+    "nome": "Death Parade",
+    "link": "https://animefire.plus/animes/death-parade-todos-os-episodios",
+    "texto_original": "Death Parade",
+    "rating": 8.23,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/death-parade.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/death-parade/",
+    "secao": "legendados",
+    "pagina": 166,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/death-parade"
+  }
+}

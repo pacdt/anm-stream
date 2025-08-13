@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1250,
+    "nome": "Great Teacher Onizuka",
+    "link": "https://animefire.plus/animes/great-teacher-onizuka-todos-os-episodios",
+    "texto_original": "Great Teacher Onizuka",
+    "rating": 8.7,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/great-teacher-onizuka.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/great-teacher-onizuka/",
+    "secao": "legendados",
+    "pagina": 57,
+    "total_episodios": 43,
+    "link_video": "https://animefire.plus/video/great-teacher-onizuka"
+  }
+}

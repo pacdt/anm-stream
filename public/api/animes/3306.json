@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3306,
+    "nome": "Seisenshi Dunbine",
+    "link": "https://animefire.plus/animes/seisenshi-dunbine-todos-os-episodios",
+    "texto_original": "Seisenshi Dunbine",
+    "rating": 7.16,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/seisenshi-dunbine.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/seisenshi-dunbine/",
+    "secao": "legendados",
+    "pagina": 115,
+    "total_episodios": 49,
+    "link_video": "https://animefire.plus/video/seisenshi-dunbine"
+  }
+}

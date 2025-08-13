@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3254,
+    "nome": "Sansha Sanyou",
+    "link": "https://animefire.plus/animes/sansha-sanyou-todos-os-episodios",
+    "texto_original": "Sansha Sanyou",
+    "rating": 7.16,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/sansha-sanyou.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sansha-sanyou/",
+    "secao": "legendados",
+    "pagina": 169,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/sansha-sanyou"
+  }
+}

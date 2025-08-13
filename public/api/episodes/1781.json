@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Kaeru no Pickles: Kimochi no Iro",
+  "anime": {
+    "id": 1781,
+    "nome": "Kaeru no Pickles: Kimochi no Iro",
+    "link": "https://animefire.plus/animes/kaeru-no-pickles-kimochi-no-iro-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kaeru-no-pickles-kimochi-no-iro",
+    "rating": "N/A",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kaeru-no-pickles-kimochi-no-iro/1",
+      "anime_id": 1781,
+      "anime_name": "Kaeru no Pickles: Kimochi no Iro"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1900,
+    "nome": "Karen Senki",
+    "link": "https://animefire.plus/animes/karen-senki-todos-os-episodios",
+    "texto_original": "Karen Senki",
+    "rating": 5.82,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/karen-senki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/karen-senki/",
+    "secao": "legendados",
+    "pagina": 178,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/karen-senki"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1136,
+    "nome": "Genshiken",
+    "link": "https://animefire.plus/animes/genshiken-todos-os-episodios",
+    "texto_original": "Genshiken",
+    "rating": 7.68,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/genshiken.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/genshiken/",
+    "secao": "legendados",
+    "pagina": 79,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/genshiken"
+  }
+}

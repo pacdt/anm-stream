@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Shijou Saikyou no Deshi Kenichi OVA",
+  "anime": {
+    "id": 3406,
+    "nome": "Shijou Saikyou no Deshi Kenichi OVA",
+    "link": "https://animefire.plus/animes/shijou-saikyou-no-deshi-kenichi-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shijou-saikyou-no-deshi-kenichi-ova",
+    "rating": "7.96",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shijou-saikyou-no-deshi-kenichi-ova/1",
+      "anime_id": 3406,
+      "anime_name": "Shijou Saikyou no Deshi Kenichi OVA"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3728,
+    "nome": "Tales of the Abyss",
+    "link": "https://animefire.plus/animes/tales-of-the-abyss-todos-os-episodios",
+    "texto_original": "Tales of the Abyss",
+    "rating": 7.39,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/tales-of-the-abyss.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tales-of-the-abyss/",
+    "secao": "legendados",
+    "pagina": 131,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/tales-of-the-abyss"
+  }
+}

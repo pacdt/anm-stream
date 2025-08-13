@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Emiya-san Chi no Kyou no Gohan",
+  "anime": {
+    "id": 943,
+    "nome": "Emiya-san Chi no Kyou no Gohan",
+    "link": "https://animefire.plus/animes/emiya-san-chi-no-kyou-no-gohan-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/emiya-san-chi-no-kyou-no-gohan",
+    "rating": "7.91",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/emiya-san-chi-no-kyou-no-gohan/1",
+      "anime_id": 943,
+      "anime_name": "Emiya-san Chi no Kyou no Gohan"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/emiya-san-chi-no-kyou-no-gohan/2",
+      "anime_id": 943,
+      "anime_name": "Emiya-san Chi no Kyou no Gohan"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/emiya-san-chi-no-kyou-no-gohan/3",
+      "anime_id": 943,
+      "anime_name": "Emiya-san Chi no Kyou no Gohan"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/emiya-san-chi-no-kyou-no-gohan/4",
+      "anime_id": 943,
+      "anime_name": "Emiya-san Chi no Kyou no Gohan"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/emiya-san-chi-no-kyou-no-gohan/5",
+      "anime_id": 943,
+      "anime_name": "Emiya-san Chi no Kyou no Gohan"
+    }
+  ],
+  "total_episodes": 5
+}

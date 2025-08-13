@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 418,
+    "nome": "Blade & Soul",
+    "link": "https://animefire.plus/animes/blade-soul-todos-os-episodios",
+    "texto_original": "Blade & Soul",
+    "rating": 6.17,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/blade-soul.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/blade-soul/",
+    "secao": "legendados",
+    "pagina": 112,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/blade-soul"
+  }
+}

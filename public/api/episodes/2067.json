@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Kokoro Connect: Michi Random",
+  "anime": {
+    "id": 2067,
+    "nome": "Kokoro Connect: Michi Random",
+    "link": "https://animefire.plus/animes/kokoro-connect-michi-random-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kokoro-connect-michi-random",
+    "rating": "8.05",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kokoro-connect-michi-random/1",
+      "anime_id": 2067,
+      "anime_name": "Kokoro Connect: Michi Random"
+    }
+  ],
+  "total_episodes": 1
+}

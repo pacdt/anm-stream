@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 657,
+    "nome": "City Hunter 3",
+    "link": "https://animefire.plus/animes/city-hunter-3-todos-os-episodios",
+    "texto_original": "City Hunter 3",
+    "rating": 7.9,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/city-hunter-3.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/city-hunter-3/",
+    "secao": "legendados",
+    "pagina": 104,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/city-hunter-3"
+  }
+}

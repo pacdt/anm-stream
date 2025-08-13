@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: 9: Ruler's Crown",
+  "anime": {
+    "id": 43,
+    "nome": "9: Ruler's Crown",
+    "link": "https://animefire.plus/animes/9-ruler-s-crown-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/9-ruler-s-crown",
+    "rating": "5.92",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/9-ruler-s-crown/1",
+      "anime_id": 43,
+      "anime_name": "9: Ruler's Crown"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Shin Tennis no Ouji-sama Specials",
+  "anime": {
+    "id": 3431,
+    "nome": "Shin Tennis no Ouji-sama Specials",
+    "link": "https://animefire.plus/animes/shin-tennis-no-ouji-sama-specials-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shin-tennis-no-ouji-sama-specials",
+    "rating": "7.52",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shin-tennis-no-ouji-sama-specials/1",
+      "anime_id": 3431,
+      "anime_name": "Shin Tennis no Ouji-sama Specials"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shin-tennis-no-ouji-sama-specials/2",
+      "anime_id": 3431,
+      "anime_name": "Shin Tennis no Ouji-sama Specials"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/shin-tennis-no-ouji-sama-specials/3",
+      "anime_id": 3431,
+      "anime_name": "Shin Tennis no Ouji-sama Specials"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/shin-tennis-no-ouji-sama-specials/4",
+      "anime_id": 3431,
+      "anime_name": "Shin Tennis no Ouji-sama Specials"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/shin-tennis-no-ouji-sama-specials/5",
+      "anime_id": 3431,
+      "anime_name": "Shin Tennis no Ouji-sama Specials"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/shin-tennis-no-ouji-sama-specials/6",
+      "anime_id": 3431,
+      "anime_name": "Shin Tennis no Ouji-sama Specials"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/shin-tennis-no-ouji-sama-specials/7",
+      "anime_id": 3431,
+      "anime_name": "Shin Tennis no Ouji-sama Specials"
+    }
+  ],
+  "total_episodes": 7
+}

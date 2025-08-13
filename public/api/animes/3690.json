@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3690,
+    "nome": "Sword Art Online (Dublado)",
+    "link": "https://animefire.plus/animes/sword-art-online-dublado-todos-os-episodios",
+    "texto_original": "Sword Art Online (Dublado)",
+    "rating": 7.2,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/sword-art-online.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sword-art-online/",
+    "secao": "dublados,legendados",
+    "pagina": 13,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/sword-art-online-dublado"
+  }
+}

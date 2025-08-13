@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2026,
+    "nome": "Kiss x Sis (TV)",
+    "link": "https://animefire.plus/animes/kiss-x-sis-tv-todos-os-episodios",
+    "texto_original": "Kiss x Sis (TV)",
+    "rating": 6.78,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kiss-x-sis-tv.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kiss-x-sis-tv/",
+    "secao": "legendados",
+    "pagina": 73,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/kiss-x-sis-tv"
+  }
+}

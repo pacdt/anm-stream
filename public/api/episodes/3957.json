@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Tsukipro The Animation",
+  "anime": {
+    "id": 3957,
+    "nome": "Tsukipro The Animation",
+    "link": "https://animefire.plus/animes/tsukipro-the-animation-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tsukipro-the-animation",
+    "rating": "6.75",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tsukipro-the-animation/1",
+      "anime_id": 3957,
+      "anime_name": "Tsukipro The Animation"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tsukipro-the-animation/2",
+      "anime_id": 3957,
+      "anime_name": "Tsukipro The Animation"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tsukipro-the-animation/3",
+      "anime_id": 3957,
+      "anime_name": "Tsukipro The Animation"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tsukipro-the-animation/4",
+      "anime_id": 3957,
+      "anime_name": "Tsukipro The Animation"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/tsukipro-the-animation/5",
+      "anime_id": 3957,
+      "anime_name": "Tsukipro The Animation"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/tsukipro-the-animation/6",
+      "anime_id": 3957,
+      "anime_name": "Tsukipro The Animation"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/tsukipro-the-animation/7",
+      "anime_id": 3957,
+      "anime_name": "Tsukipro The Animation"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/tsukipro-the-animation/8",
+      "anime_id": 3957,
+      "anime_name": "Tsukipro The Animation"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/tsukipro-the-animation/9",
+      "anime_id": 3957,
+      "anime_name": "Tsukipro The Animation"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/tsukipro-the-animation/10",
+      "anime_id": 3957,
+      "anime_name": "Tsukipro The Animation"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/tsukipro-the-animation/11",
+      "anime_id": 3957,
+      "anime_name": "Tsukipro The Animation"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/tsukipro-the-animation/12",
+      "anime_id": 3957,
+      "anime_name": "Tsukipro The Animation"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/tsukipro-the-animation/13",
+      "anime_id": 3957,
+      "anime_name": "Tsukipro The Animation"
+    }
+  ],
+  "total_episodes": 13
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Kitsutsuki Tanteidokoro",
+  "anime": {
+    "id": 2029,
+    "nome": "Kitsutsuki Tanteidokoro",
+    "link": "https://animefire.plus/animes/kitsutsuki-tanteidokoro-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kitsutsuki-tanteidokoro",
+    "rating": "6.03",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kitsutsuki-tanteidokoro/1",
+      "anime_id": 2029,
+      "anime_name": "Kitsutsuki Tanteidokoro"
+    }
+  ],
+  "total_episodes": 1
+}

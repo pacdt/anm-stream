@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3016,
+    "nome": "Poputepipikku",
+    "link": "https://animefire.plus/animes/poputepipikku-todos-os-episodios",
+    "texto_original": "Poputepipikku",
+    "rating": 7.33,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/poputepipikku.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/poputepipikku/",
+    "secao": "legendados",
+    "pagina": 155,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/poputepipikku"
+  }
+}

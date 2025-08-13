@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Arifureta Shokugyou de Sekai Saikyou 2nd Season Special (Dublado)",
+  "anime": {
+    "id": 236,
+    "nome": "Arifureta Shokugyou de Sekai Saikyou 2nd Season Special (Dublado)",
+    "link": "https://animefire.plus/animes/arifureta-shokugyou-de-sekai-saikyou-2nd-season-special-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/arifureta-shokugyou-de-sekai-saikyou-2nd-season-special-dublado",
+    "rating": "6.94",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/arifureta-shokugyou-de-sekai-saikyou-2nd-season-special-dublado/1",
+      "anime_id": 236,
+      "anime_name": "Arifureta Shokugyou de Sekai Saikyou 2nd Season Special (Dublado)"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Aiura",
+  "anime": {
+    "id": 104,
+    "nome": "Aiura",
+    "link": "https://animefire.plus/animes/aiura-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/aiura",
+    "rating": "6.75",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/aiura/1",
+      "anime_id": 104,
+      "anime_name": "Aiura"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/aiura/2",
+      "anime_id": 104,
+      "anime_name": "Aiura"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/aiura/3",
+      "anime_id": 104,
+      "anime_name": "Aiura"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/aiura/4",
+      "anime_id": 104,
+      "anime_name": "Aiura"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/aiura/5",
+      "anime_id": 104,
+      "anime_name": "Aiura"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/aiura/6",
+      "anime_id": 104,
+      "anime_name": "Aiura"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/aiura/7",
+      "anime_id": 104,
+      "anime_name": "Aiura"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/aiura/8",
+      "anime_id": 104,
+      "anime_name": "Aiura"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/aiura/9",
+      "anime_id": 104,
+      "anime_name": "Aiura"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/aiura/10",
+      "anime_id": 104,
+      "anime_name": "Aiura"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/aiura/11",
+      "anime_id": 104,
+      "anime_name": "Aiura"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/aiura/12",
+      "anime_id": 104,
+      "anime_name": "Aiura"
+    }
+  ],
+  "total_episodes": 12
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Nige Jouzu no Wakagimi",
+  "anime": {
+    "id": 2729,
+    "nome": "Nige Jouzu no Wakagimi",
+    "link": "https://animefire.plus/animes/nige-jouzu-no-wakagimi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nige-jouzu-no-wakagimi",
+    "rating": "7.80",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nige-jouzu-no-wakagimi/1",
+      "anime_id": 2729,
+      "anime_name": "Nige Jouzu no Wakagimi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/nige-jouzu-no-wakagimi/2",
+      "anime_id": 2729,
+      "anime_name": "Nige Jouzu no Wakagimi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/nige-jouzu-no-wakagimi/3",
+      "anime_id": 2729,
+      "anime_name": "Nige Jouzu no Wakagimi"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/nige-jouzu-no-wakagimi/4",
+      "anime_id": 2729,
+      "anime_name": "Nige Jouzu no Wakagimi"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/nige-jouzu-no-wakagimi/5",
+      "anime_id": 2729,
+      "anime_name": "Nige Jouzu no Wakagimi"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/nige-jouzu-no-wakagimi/6",
+      "anime_id": 2729,
+      "anime_name": "Nige Jouzu no Wakagimi"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/nige-jouzu-no-wakagimi/7",
+      "anime_id": 2729,
+      "anime_name": "Nige Jouzu no Wakagimi"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/nige-jouzu-no-wakagimi/8",
+      "anime_id": 2729,
+      "anime_name": "Nige Jouzu no Wakagimi"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/nige-jouzu-no-wakagimi/9",
+      "anime_id": 2729,
+      "anime_name": "Nige Jouzu no Wakagimi"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/nige-jouzu-no-wakagimi/10",
+      "anime_id": 2729,
+      "anime_name": "Nige Jouzu no Wakagimi"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/nige-jouzu-no-wakagimi/11",
+      "anime_id": 2729,
+      "anime_name": "Nige Jouzu no Wakagimi"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/nige-jouzu-no-wakagimi/12",
+      "anime_id": 2729,
+      "anime_name": "Nige Jouzu no Wakagimi"
+    }
+  ],
+  "total_episodes": 12
+}

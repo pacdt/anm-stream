@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1323,
+    "nome": "Hajime no Ippo: Rising",
+    "link": "https://animefire.plus/animes/hajime-no-ippo-rising-todos-os-episodios",
+    "texto_original": "Hajime no Ippo: Rising",
+    "rating": 8.62,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hajime-no-ippo-rising.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hajime-no-ippo-rising/",
+    "secao": "legendados",
+    "pagina": 76,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/hajime-no-ippo-rising"
+  }
+}

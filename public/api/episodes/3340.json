@@ -1,0 +1,68 @@
+{
+  "message": "Lista de episódios do anime: Senjou no Valkyria: SenVal Theater",
+  "anime": {
+    "id": 3340,
+    "nome": "Senjou no Valkyria: SenVal Theater",
+    "link": "https://animefire.plus/animes/senjou-no-valkyria-senval-theater-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/senjou-no-valkyria-senval-theater",
+    "rating": "6.83",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/senjou-no-valkyria-senval-theater/1",
+      "anime_id": 3340,
+      "anime_name": "Senjou no Valkyria: SenVal Theater"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/senjou-no-valkyria-senval-theater/2",
+      "anime_id": 3340,
+      "anime_name": "Senjou no Valkyria: SenVal Theater"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/senjou-no-valkyria-senval-theater/3",
+      "anime_id": 3340,
+      "anime_name": "Senjou no Valkyria: SenVal Theater"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/senjou-no-valkyria-senval-theater/4",
+      "anime_id": 3340,
+      "anime_name": "Senjou no Valkyria: SenVal Theater"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/senjou-no-valkyria-senval-theater/5",
+      "anime_id": 3340,
+      "anime_name": "Senjou no Valkyria: SenVal Theater"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/senjou-no-valkyria-senval-theater/6",
+      "anime_id": 3340,
+      "anime_name": "Senjou no Valkyria: SenVal Theater"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/senjou-no-valkyria-senval-theater/7",
+      "anime_id": 3340,
+      "anime_name": "Senjou no Valkyria: SenVal Theater"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/senjou-no-valkyria-senval-theater/8",
+      "anime_id": 3340,
+      "anime_name": "Senjou no Valkyria: SenVal Theater"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/senjou-no-valkyria-senval-theater/9",
+      "anime_id": 3340,
+      "anime_name": "Senjou no Valkyria: SenVal Theater"
+    }
+  ],
+  "total_episodes": 9
+}

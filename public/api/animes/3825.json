@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3825,
+    "nome": "The Big O",
+    "link": "https://animefire.plus/animes/the-big-o-todos-os-episodios",
+    "texto_original": "The Big O",
+    "rating": 7.54,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/the-big-o.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/the-big-o/",
+    "secao": "legendados",
+    "pagina": 69,
+    "total_episodios": 14,
+    "link_video": "https://animefire.plus/video/the-big-o"
+  }
+}

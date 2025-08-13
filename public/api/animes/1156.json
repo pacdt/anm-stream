@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1156,
+    "nome": "Gilgamesh",
+    "link": "https://animefire.plus/animes/gilgamesh-todos-os-episodios",
+    "texto_original": "Gilgamesh",
+    "rating": 6.72,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/gilgamesh.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gilgamesh/",
+    "secao": "legendados",
+    "pagina": 99,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/gilgamesh"
+  }
+}

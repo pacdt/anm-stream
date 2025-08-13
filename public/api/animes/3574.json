@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3574,
+    "nome": "Sora no Method",
+    "link": "https://animefire.plus/animes/sora-no-method-todos-os-episodios",
+    "texto_original": "Sora no Method",
+    "rating": 6.81,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/sora-no-method.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sora-no-method/",
+    "secao": "legendados",
+    "pagina": 127,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/sora-no-method"
+  }
+}

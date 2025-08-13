@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 987,
+    "nome": "Fate/Grand Order: First Order",
+    "link": "https://animefire.plus/animes/fate-grand-order-first-order-todos-os-episodios",
+    "texto_original": "Fate/Grand Order: First Order",
+    "rating": 6.85,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/fate-grand-order-first-order.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/fate-grand-order-first-order/",
+    "secao": "legendados",
+    "pagina": 82,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/fate-grand-order-first-order"
+  }
+}

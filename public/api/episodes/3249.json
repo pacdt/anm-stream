@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Sand Land: The Series",
+  "anime": {
+    "id": 3249,
+    "nome": "Sand Land: The Series",
+    "link": "https://animefire.plus/animes/sand-land-the-series-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sand-land-the-series",
+    "rating": "7.56",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sand-land-the-series/1",
+      "anime_id": 3249,
+      "anime_name": "Sand Land: The Series"
+    }
+  ],
+  "total_episodes": 1
+}

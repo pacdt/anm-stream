@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2802,
+    "nome": "Obsolete",
+    "link": "https://animefire.plus/animes/obsolete-todos-os-episodios",
+    "texto_original": "Obsolete",
+    "rating": 5.78,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/obsolete.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/obsolete/",
+    "secao": "legendados",
+    "pagina": 94,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/obsolete"
+  }
+}

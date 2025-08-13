@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3935,
+    "nome": "Trigun (Dublado)",
+    "link": "https://animefire.plus/animes/trigun-dublado-todos-os-episodios",
+    "texto_original": "Trigun (Dublado)",
+    "rating": 8.25,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/trigun.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/trigun/",
+    "secao": "dublados,legendados",
+    "pagina": 22,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/trigun-dublado"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Ouran Koukou Host Club",
+  "anime": {
+    "id": 2926,
+    "nome": "Ouran Koukou Host Club",
+    "link": "https://animefire.plus/animes/ouran-koukou-host-club-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ouran-koukou-host-club",
+    "rating": "8.31",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ouran-koukou-host-club/1",
+      "anime_id": 2926,
+      "anime_name": "Ouran Koukou Host Club"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ouran-koukou-host-club/2",
+      "anime_id": 2926,
+      "anime_name": "Ouran Koukou Host Club"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/ouran-koukou-host-club/3",
+      "anime_id": 2926,
+      "anime_name": "Ouran Koukou Host Club"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/ouran-koukou-host-club/4",
+      "anime_id": 2926,
+      "anime_name": "Ouran Koukou Host Club"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/ouran-koukou-host-club/5",
+      "anime_id": 2926,
+      "anime_name": "Ouran Koukou Host Club"
+    }
+  ],
+  "total_episodes": 5
+}

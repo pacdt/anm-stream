@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 543,
+    "nome": "Bye Bye, Earth",
+    "link": "https://animefire.plus/animes/bye-bye-earth-todos-os-episodios",
+    "texto_original": "Bye Bye, Earth",
+    "rating": 6.06,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/bye-bye-earth.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bye-bye-earth/",
+    "secao": "legendados",
+    "pagina": 12,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/bye-bye-earth"
+  }
+}

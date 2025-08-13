@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1495,
+    "nome": "Hinomaruzumou",
+    "link": "https://animefire.plus/animes/hinomaruzumou-todos-os-episodios",
+    "texto_original": "Hinomaruzumou",
+    "rating": 7.73,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hinomaruzumou.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hinomaruzumou/",
+    "secao": "legendados",
+    "pagina": 132,
+    "total_episodios": 19,
+    "link_video": "https://animefire.plus/video/hinomaruzumou"
+  }
+}

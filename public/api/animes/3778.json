@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3778,
+    "nome": "Tengen Toppa Gurren Lagann",
+    "link": "https://animefire.plus/animes/tengen-toppa-gurren-lagann-todos-os-episodios",
+    "texto_original": "Tengen Toppa Gurren Lagann",
+    "rating": 8.7,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/tengen-toppa-gurren-lagann.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tengen-toppa-gurren-lagann/",
+    "secao": "legendados",
+    "pagina": 79,
+    "total_episodios": 27,
+    "link_video": "https://animefire.plus/video/tengen-toppa-gurren-lagann"
+  }
+}

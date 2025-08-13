@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: Nodame Cantabile: Paris-hen",
+  "anime": {
+    "id": 2768,
+    "nome": "Nodame Cantabile: Paris-hen",
+    "link": "https://animefire.plus/animes/nodame-cantabile-paris-hen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nodame-cantabile-paris-hen",
+    "rating": "8.21",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-paris-hen/1",
+      "anime_id": 2768,
+      "anime_name": "Nodame Cantabile: Paris-hen"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-paris-hen/2",
+      "anime_id": 2768,
+      "anime_name": "Nodame Cantabile: Paris-hen"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-paris-hen/3",
+      "anime_id": 2768,
+      "anime_name": "Nodame Cantabile: Paris-hen"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-paris-hen/4",
+      "anime_id": 2768,
+      "anime_name": "Nodame Cantabile: Paris-hen"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-paris-hen/5",
+      "anime_id": 2768,
+      "anime_name": "Nodame Cantabile: Paris-hen"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-paris-hen/6",
+      "anime_id": 2768,
+      "anime_name": "Nodame Cantabile: Paris-hen"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-paris-hen/7",
+      "anime_id": 2768,
+      "anime_name": "Nodame Cantabile: Paris-hen"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-paris-hen/8",
+      "anime_id": 2768,
+      "anime_name": "Nodame Cantabile: Paris-hen"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-paris-hen/9",
+      "anime_id": 2768,
+      "anime_name": "Nodame Cantabile: Paris-hen"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-paris-hen/10",
+      "anime_id": 2768,
+      "anime_name": "Nodame Cantabile: Paris-hen"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-paris-hen/11",
+      "anime_id": 2768,
+      "anime_name": "Nodame Cantabile: Paris-hen"
+    }
+  ],
+  "total_episodes": 11
+}

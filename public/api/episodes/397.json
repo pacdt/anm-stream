@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Bishoujo Senshi Sailor Moon Crystal",
+  "anime": {
+    "id": 397,
+    "nome": "Bishoujo Senshi Sailor Moon Crystal",
+    "link": "https://animefire.plus/animes/bishoujo-senshi-sailor-moon-crystal-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/bishoujo-senshi-sailor-moon-crystal",
+    "rating": "7.05",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/bishoujo-senshi-sailor-moon-crystal/1",
+      "anime_id": 397,
+      "anime_name": "Bishoujo Senshi Sailor Moon Crystal"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/bishoujo-senshi-sailor-moon-crystal/2",
+      "anime_id": 397,
+      "anime_name": "Bishoujo Senshi Sailor Moon Crystal"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/bishoujo-senshi-sailor-moon-crystal/3",
+      "anime_id": 397,
+      "anime_name": "Bishoujo Senshi Sailor Moon Crystal"
+    }
+  ],
+  "total_episodes": 3
+}

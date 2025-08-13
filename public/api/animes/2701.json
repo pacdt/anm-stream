@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2701,
+    "nome": "Nazotokine",
+    "link": "https://animefire.plus/animes/nazotokine-todos-os-episodios",
+    "texto_original": "Nazotokine",
+    "rating": 4.9,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/nazotokine.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/nazotokine/",
+    "secao": "legendados",
+    "pagina": 168,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/nazotokine"
+  }
+}

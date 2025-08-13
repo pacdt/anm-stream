@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Ai Monogatari: 9 Love Stories",
+  "anime": {
+    "id": 81,
+    "nome": "Ai Monogatari: 9 Love Stories",
+    "link": "https://animefire.plus/animes/ai-monogatari-9-love-stories-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ai-monogatari-9-love-stories",
+    "rating": "6.63",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ai-monogatari-9-love-stories/1",
+      "anime_id": 81,
+      "anime_name": "Ai Monogatari: 9 Love Stories"
+    }
+  ],
+  "total_episodes": 1
+}

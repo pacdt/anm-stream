@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3938,
+    "nome": "Trinity Seven",
+    "link": "https://animefire.plus/animes/trinity-seven-todos-os-episodios",
+    "texto_original": "Trinity Seven",
+    "rating": 7.37,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/trinity-seven.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/trinity-seven/",
+    "secao": "legendados",
+    "pagina": 100,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/trinity-seven"
+  }
+}

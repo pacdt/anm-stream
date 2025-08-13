@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 11,
+    "nome": "009-1 (Dublado)",
+    "link": "https://animefire.plus/animes/009-1-dublado-todos-os-episodios",
+    "texto_original": "009-1 (Dublado)",
+    "rating": 6.29,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/009-1.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/009-1/",
+    "secao": "dublados,legendados",
+    "pagina": 21,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/009-1-dublado"
+  }
+}

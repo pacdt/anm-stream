@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 245,
+    "nome": "Ars no Kyojuu",
+    "link": "https://animefire.plus/animes/ars-no-kyojuu-todos-os-episodios",
+    "texto_original": "Ars no Kyojuu",
+    "rating": 6.04,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ars-no-kyojuu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ars-no-kyojuu/",
+    "secao": "legendados",
+    "pagina": 26,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/ars-no-kyojuu"
+  }
+}

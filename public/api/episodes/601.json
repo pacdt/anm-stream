@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Chiba Pedal: Yowamushi Pedal to Manabu Jitensha Koutsuu Anzen",
+  "anime": {
+    "id": 601,
+    "nome": "Chiba Pedal: Yowamushi Pedal to Manabu Jitensha Koutsuu Anzen",
+    "link": "https://animefire.plus/animes/chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuu-anzen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuu-anzen",
+    "rating": "6.31",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuu-anzen/1",
+      "anime_id": 601,
+      "anime_name": "Chiba Pedal: Yowamushi Pedal to Manabu Jitensha Koutsuu Anzen"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuu-anzen/2",
+      "anime_id": 601,
+      "anime_name": "Chiba Pedal: Yowamushi Pedal to Manabu Jitensha Koutsuu Anzen"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuu-anzen/3",
+      "anime_id": 601,
+      "anime_name": "Chiba Pedal: Yowamushi Pedal to Manabu Jitensha Koutsuu Anzen"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuu-anzen/4",
+      "anime_id": 601,
+      "anime_name": "Chiba Pedal: Yowamushi Pedal to Manabu Jitensha Koutsuu Anzen"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuu-anzen/5",
+      "anime_id": 601,
+      "anime_name": "Chiba Pedal: Yowamushi Pedal to Manabu Jitensha Koutsuu Anzen"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuu-anzen/6",
+      "anime_id": 601,
+      "anime_name": "Chiba Pedal: Yowamushi Pedal to Manabu Jitensha Koutsuu Anzen"
+    }
+  ],
+  "total_episodes": 6
+}

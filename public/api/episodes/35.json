@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: 4-nin wa Sorezore Uso wo Tsuku",
+  "anime": {
+    "id": 35,
+    "nome": "4-nin wa Sorezore Uso wo Tsuku",
+    "link": "https://animefire.plus/animes/4-nin-wa-sorezore-uso-wo-tsuku-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/4-nin-wa-sorezore-uso-wo-tsuku",
+    "rating": "7.13",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/4-nin-wa-sorezore-uso-wo-tsuku/1",
+      "anime_id": 35,
+      "anime_name": "4-nin wa Sorezore Uso wo Tsuku"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/4-nin-wa-sorezore-uso-wo-tsuku/2",
+      "anime_id": 35,
+      "anime_name": "4-nin wa Sorezore Uso wo Tsuku"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/4-nin-wa-sorezore-uso-wo-tsuku/3",
+      "anime_id": 35,
+      "anime_name": "4-nin wa Sorezore Uso wo Tsuku"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/4-nin-wa-sorezore-uso-wo-tsuku/4",
+      "anime_id": 35,
+      "anime_name": "4-nin wa Sorezore Uso wo Tsuku"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/4-nin-wa-sorezore-uso-wo-tsuku/5",
+      "anime_id": 35,
+      "anime_name": "4-nin wa Sorezore Uso wo Tsuku"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/4-nin-wa-sorezore-uso-wo-tsuku/6",
+      "anime_id": 35,
+      "anime_name": "4-nin wa Sorezore Uso wo Tsuku"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/4-nin-wa-sorezore-uso-wo-tsuku/7",
+      "anime_id": 35,
+      "anime_name": "4-nin wa Sorezore Uso wo Tsuku"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/4-nin-wa-sorezore-uso-wo-tsuku/8",
+      "anime_id": 35,
+      "anime_name": "4-nin wa Sorezore Uso wo Tsuku"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/4-nin-wa-sorezore-uso-wo-tsuku/9",
+      "anime_id": 35,
+      "anime_name": "4-nin wa Sorezore Uso wo Tsuku"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/4-nin-wa-sorezore-uso-wo-tsuku/10",
+      "anime_id": 35,
+      "anime_name": "4-nin wa Sorezore Uso wo Tsuku"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/4-nin-wa-sorezore-uso-wo-tsuku/11",
+      "anime_id": 35,
+      "anime_name": "4-nin wa Sorezore Uso wo Tsuku"
+    }
+  ],
+  "total_episodes": 11
+}

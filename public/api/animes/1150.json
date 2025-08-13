@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1150,
+    "nome": "Ghost Hunt",
+    "link": "https://animefire.plus/animes/ghost-hunt-todos-os-episodios",
+    "texto_original": "Ghost Hunt",
+    "rating": 7.89,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ghost-hunt.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ghost-hunt/",
+    "secao": "legendados",
+    "pagina": 160,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/ghost-hunt"
+  }
+}

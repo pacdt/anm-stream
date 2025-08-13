@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 410,
+    "nome": "Black Clover (Dublado)",
+    "link": "https://animefire.plus/animes/black-clover-dublado-todos-os-episodios",
+    "texto_original": "Black Clover (Dublado)",
+    "rating": 7.27,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/black-clover.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/black-clover/",
+    "secao": "dublados,legendados",
+    "pagina": 20,
+    "total_episodios": 170,
+    "link_video": "https://animefire.plus/video/black-clover-dublado"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Death Parade",
+  "anime": {
+    "id": 777,
+    "nome": "Death Parade",
+    "link": "https://animefire.plus/animes/death-parade-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/death-parade",
+    "rating": "8.23",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/death-parade/1",
+      "anime_id": 777,
+      "anime_name": "Death Parade"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/death-parade/2",
+      "anime_id": 777,
+      "anime_name": "Death Parade"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/death-parade/3",
+      "anime_id": 777,
+      "anime_name": "Death Parade"
+    }
+  ],
+  "total_episodes": 3
+}

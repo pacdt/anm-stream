@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 959,
+    "nome": "Eureka Seven AO",
+    "link": "https://animefire.plus/animes/eureka-seven-ao-todos-os-episodios",
+    "texto_original": "Eureka Seven AO",
+    "rating": 6.78,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/eureka-seven-ao.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/eureka-seven-ao/",
+    "secao": "legendados",
+    "pagina": 135,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/eureka-seven-ao"
+  }
+}

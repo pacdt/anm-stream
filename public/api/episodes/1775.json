@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: K-On!: Ura-On!",
+  "anime": {
+    "id": 1775,
+    "nome": "K-On!: Ura-On!",
+    "link": "https://animefire.plus/animes/k-on-ura-on-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/k-on-ura-on",
+    "rating": "6.34",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/k-on-ura-on/1",
+      "anime_id": 1775,
+      "anime_name": "K-On!: Ura-On!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/k-on-ura-on/2",
+      "anime_id": 1775,
+      "anime_name": "K-On!: Ura-On!"
+    }
+  ],
+  "total_episodes": 2
+}

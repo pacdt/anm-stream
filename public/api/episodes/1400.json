@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Hayate no Gotoku! OVA",
+  "anime": {
+    "id": 1400,
+    "nome": "Hayate no Gotoku! OVA",
+    "link": "https://animefire.plus/animes/hayate-no-gotoku-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hayate-no-gotoku-ova",
+    "rating": "7.18",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hayate-no-gotoku-ova/1",
+      "anime_id": 1400,
+      "anime_name": "Hayate no Gotoku! OVA"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hayate-no-gotoku-ova/2",
+      "anime_id": 1400,
+      "anime_name": "Hayate no Gotoku! OVA"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hayate-no-gotoku-ova/3",
+      "anime_id": 1400,
+      "anime_name": "Hayate no Gotoku! OVA"
+    }
+  ],
+  "total_episodes": 3
+}

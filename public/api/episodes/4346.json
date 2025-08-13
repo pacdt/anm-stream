@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Zero no Tsukaima F",
+  "anime": {
+    "id": 4346,
+    "nome": "Zero no Tsukaima F",
+    "link": "https://animefire.plus/animes/zero-no-tsukaima-f-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/zero-no-tsukaima-f",
+    "rating": "7.67",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/zero-no-tsukaima-f/1",
+      "anime_id": 4346,
+      "anime_name": "Zero no Tsukaima F"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/zero-no-tsukaima-f/2",
+      "anime_id": 4346,
+      "anime_name": "Zero no Tsukaima F"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/zero-no-tsukaima-f/3",
+      "anime_id": 4346,
+      "anime_name": "Zero no Tsukaima F"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/zero-no-tsukaima-f/4",
+      "anime_id": 4346,
+      "anime_name": "Zero no Tsukaima F"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/zero-no-tsukaima-f/5",
+      "anime_id": 4346,
+      "anime_name": "Zero no Tsukaima F"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/zero-no-tsukaima-f/6",
+      "anime_id": 4346,
+      "anime_name": "Zero no Tsukaima F"
+    }
+  ],
+  "total_episodes": 6
+}

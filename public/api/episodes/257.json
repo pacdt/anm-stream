@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Asatir: Mirai No Mukashi Banashi",
+  "anime": {
+    "id": 257,
+    "nome": "Asatir: Mirai No Mukashi Banashi",
+    "link": "https://animefire.plus/animes/asatir-mirai-no-mukashi-banashi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/asatir-mirai-no-mukashi-banashi",
+    "rating": "5.89",
+    "classificacao_etaria": "A10"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/asatir-mirai-no-mukashi-banashi/1",
+      "anime_id": 257,
+      "anime_name": "Asatir: Mirai No Mukashi Banashi"
+    }
+  ],
+  "total_episodes": 1
+}

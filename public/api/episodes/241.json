@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Arknights: Rise from Ember",
+  "anime": {
+    "id": 241,
+    "nome": "Arknights: Rise from Ember",
+    "link": "https://animefire.plus/animes/arknights-rise-from-ember-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/arknights-rise-from-ember",
+    "rating": "7.70",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/arknights-rise-from-ember/1",
+      "anime_id": 241,
+      "anime_name": "Arknights: Rise from Ember"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/arknights-rise-from-ember/2",
+      "anime_id": 241,
+      "anime_name": "Arknights: Rise from Ember"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/arknights-rise-from-ember/3",
+      "anime_id": 241,
+      "anime_name": "Arknights: Rise from Ember"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/arknights-rise-from-ember/4",
+      "anime_id": 241,
+      "anime_name": "Arknights: Rise from Ember"
+    }
+  ],
+  "total_episodes": 4
+}

@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: BlazBlue: Alter Memory",
+  "anime": {
+    "id": 422,
+    "nome": "BlazBlue: Alter Memory",
+    "link": "https://animefire.plus/animes/blazblue-alter-memory-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/blazblue-alter-memory",
+    "rating": "6.21",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/blazblue-alter-memory/1",
+      "anime_id": 422,
+      "anime_name": "BlazBlue: Alter Memory"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/blazblue-alter-memory/2",
+      "anime_id": 422,
+      "anime_name": "BlazBlue: Alter Memory"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/blazblue-alter-memory/3",
+      "anime_id": 422,
+      "anime_name": "BlazBlue: Alter Memory"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/blazblue-alter-memory/4",
+      "anime_id": 422,
+      "anime_name": "BlazBlue: Alter Memory"
+    }
+  ],
+  "total_episodes": 4
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Phantom in the Twilight",
+  "anime": {
+    "id": 2974,
+    "nome": "Phantom in the Twilight",
+    "link": "https://animefire.plus/animes/phantom-in-the-twilight-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/phantom-in-the-twilight",
+    "rating": "6.52",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/phantom-in-the-twilight/1",
+      "anime_id": 2974,
+      "anime_name": "Phantom in the Twilight"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/phantom-in-the-twilight/2",
+      "anime_id": 2974,
+      "anime_name": "Phantom in the Twilight"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/phantom-in-the-twilight/3",
+      "anime_id": 2974,
+      "anime_name": "Phantom in the Twilight"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/phantom-in-the-twilight/4",
+      "anime_id": 2974,
+      "anime_name": "Phantom in the Twilight"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/phantom-in-the-twilight/5",
+      "anime_id": 2974,
+      "anime_name": "Phantom in the Twilight"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/phantom-in-the-twilight/6",
+      "anime_id": 2974,
+      "anime_name": "Phantom in the Twilight"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/phantom-in-the-twilight/7",
+      "anime_id": 2974,
+      "anime_name": "Phantom in the Twilight"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/phantom-in-the-twilight/8",
+      "anime_id": 2974,
+      "anime_name": "Phantom in the Twilight"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/phantom-in-the-twilight/9",
+      "anime_id": 2974,
+      "anime_name": "Phantom in the Twilight"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/phantom-in-the-twilight/10",
+      "anime_id": 2974,
+      "anime_name": "Phantom in the Twilight"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/phantom-in-the-twilight/11",
+      "anime_id": 2974,
+      "anime_name": "Phantom in the Twilight"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/phantom-in-the-twilight/12",
+      "anime_id": 2974,
+      "anime_name": "Phantom in the Twilight"
+    }
+  ],
+  "total_episodes": 12
+}

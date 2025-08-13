@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3604,
+    "nome": "Souten no Ken",
+    "link": "https://animefire.plus/animes/souten-no-ken-todos-os-episodios",
+    "texto_original": "Souten no Ken",
+    "rating": 6.75,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/souten-no-ken.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/souten-no-ken/",
+    "secao": "legendados",
+    "pagina": 168,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/souten-no-ken"
+  }
+}

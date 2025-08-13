@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 720,
+    "nome": "D4 Princess",
+    "link": "https://animefire.plus/animes/d4-princess-todos-os-episodios",
+    "texto_original": "D4 Princess",
+    "rating": 6.13,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/d4-princess.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/d4-princess/",
+    "secao": "legendados",
+    "pagina": 72,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/d4-princess"
+  }
+}

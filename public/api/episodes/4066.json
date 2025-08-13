@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Vandread",
+  "anime": {
+    "id": 4066,
+    "nome": "Vandread",
+    "link": "https://animefire.plus/animes/vandread-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/vandread",
+    "rating": "7.27",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/vandread/1",
+      "anime_id": 4066,
+      "anime_name": "Vandread"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/vandread/2",
+      "anime_id": 4066,
+      "anime_name": "Vandread"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/vandread/3",
+      "anime_id": 4066,
+      "anime_name": "Vandread"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/vandread/4",
+      "anime_id": 4066,
+      "anime_name": "Vandread"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/vandread/5",
+      "anime_id": 4066,
+      "anime_name": "Vandread"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/vandread/6",
+      "anime_id": 4066,
+      "anime_name": "Vandread"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/vandread/7",
+      "anime_id": 4066,
+      "anime_name": "Vandread"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/vandread/8",
+      "anime_id": 4066,
+      "anime_name": "Vandread"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/vandread/9",
+      "anime_id": 4066,
+      "anime_name": "Vandread"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/vandread/10",
+      "anime_id": 4066,
+      "anime_name": "Vandread"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/vandread/11",
+      "anime_id": 4066,
+      "anime_name": "Vandread"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/vandread/12",
+      "anime_id": 4066,
+      "anime_name": "Vandread"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/vandread/13",
+      "anime_id": 4066,
+      "anime_name": "Vandread"
+    }
+  ],
+  "total_episodes": 13
+}

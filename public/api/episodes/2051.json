@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Koi to Senkyo to Chocolate: Koi Imouto!",
+  "anime": {
+    "id": 2051,
+    "nome": "Koi to Senkyo to Chocolate: Koi Imouto!",
+    "link": "https://animefire.plus/animes/koi-to-senkyo-to-chocolate-koi-imouto-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/koi-to-senkyo-to-chocolate-koi-imouto",
+    "rating": "6.91",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/koi-to-senkyo-to-chocolate-koi-imouto/1",
+      "anime_id": 2051,
+      "anime_name": "Koi to Senkyo to Chocolate: Koi Imouto!"
+    }
+  ],
+  "total_episodes": 1
+}

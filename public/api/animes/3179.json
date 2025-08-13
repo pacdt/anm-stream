@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3179,
+    "nome": "s.CRY.ed",
+    "link": "https://animefire.plus/animes/s-cry-ed-todos-os-episodios",
+    "texto_original": "s.CRY.ed",
+    "rating": 7.42,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/s-cry-ed.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/s-cry-ed/",
+    "secao": "legendados",
+    "pagina": 175,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/s-cry-ed"
+  }
+}

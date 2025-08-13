@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 110,
+    "nome": "Akage no Anne",
+    "link": "https://animefire.plus/animes/akage-no-anne-todos-os-episodios",
+    "texto_original": "Akage no Anne",
+    "rating": 7.7,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/akage-no-anne.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/akage-no-anne/",
+    "secao": "legendados",
+    "pagina": 55,
+    "total_episodios": 50,
+    "link_video": "https://animefire.plus/video/akage-no-anne"
+  }
+}

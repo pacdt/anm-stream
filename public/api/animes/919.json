@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 919,
+    "nome": "Edens Zero (Dublado)",
+    "link": "https://animefire.plus/animes/edens-zero-dublado-todos-os-episodios",
+    "texto_original": "Edens Zero (Dublado)",
+    "rating": 7.26,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/edens-zero.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/edens-zero/",
+    "secao": "dublados,legendados",
+    "pagina": 16,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/edens-zero-dublado"
+  }
+}

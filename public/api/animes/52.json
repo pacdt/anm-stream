@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 52,
+    "nome": "Aa! Megami-sama! (TV)",
+    "link": "https://animefire.plus/animes/aa-megami-sama-tv-todos-os-episodios",
+    "texto_original": "Aa! Megami-sama! (TV)",
+    "rating": 7.41,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/aa-megami-sama-tv.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/aa-megami-sama-tv/",
+    "secao": "legendados",
+    "pagina": 123,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/aa-megami-sama-tv"
+  }
+}

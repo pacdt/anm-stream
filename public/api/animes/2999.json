@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2999,
+    "nome": "Pokemon (Dublado)",
+    "link": "https://animefire.plus/animes/pokemon-dublado-todos-os-episodios",
+    "texto_original": "Pokemon (Dublado)",
+    "rating": 7.42,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/pokemon.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/pokemon/",
+    "secao": "dublados",
+    "pagina": 27,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/pokemon-dublado"
+  }
+}

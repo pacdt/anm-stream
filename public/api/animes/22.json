@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 22,
+    "nome": "18if",
+    "link": "https://animefire.plus/animes/18if-todos-os-episodios",
+    "texto_original": "18if",
+    "rating": 6.28,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/18if.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/18if/",
+    "secao": "legendados",
+    "pagina": 125,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/18if"
+  }
+}
