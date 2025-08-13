@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Yuu☆Yuu☆Hakusho Picture Drama",
+  "anime": {
+    "id": 4309,
+    "nome": "Yuu☆Yuu☆Hakusho Picture Drama",
+    "link": "https://animefire.plus/animes/yuu-yuu-hakusho-picture-drama-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yuu-yuu-hakusho-picture-drama",
+    "rating": "6.63",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yuu-yuu-hakusho-picture-drama/1",
+      "anime_id": 4309,
+      "anime_name": "Yuu☆Yuu☆Hakusho Picture Drama"
+    }
+  ],
+  "total_episodes": 1
+}

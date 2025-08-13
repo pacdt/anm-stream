@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Arknights: Touin Kiro",
+  "anime": {
+    "id": 242,
+    "nome": "Arknights: Touin Kiro",
+    "link": "https://animefire.plus/animes/arknights-touin-kiro-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/arknights-touin-kiro",
+    "rating": "7.58",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/arknights-touin-kiro/1",
+      "anime_id": 242,
+      "anime_name": "Arknights: Touin Kiro"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/arknights-touin-kiro/2",
+      "anime_id": 242,
+      "anime_name": "Arknights: Touin Kiro"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/arknights-touin-kiro/3",
+      "anime_id": 242,
+      "anime_name": "Arknights: Touin Kiro"
+    }
+  ],
+  "total_episodes": 3
+}

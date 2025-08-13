@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Precure All Stars GoGo Dream Live!",
+  "anime": {
+    "id": 3022,
+    "nome": "Precure All Stars GoGo Dream Live!",
+    "link": "https://animefire.plus/animes/precure-all-stars-gogo-dream-live-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/precure-all-stars-gogo-dream-live",
+    "rating": "6.85",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/precure-all-stars-gogo-dream-live/1",
+      "anime_id": 3022,
+      "anime_name": "Precure All Stars GoGo Dream Live!"
+    }
+  ],
+  "total_episodes": 1
+}

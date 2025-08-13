@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1800,
+    "nome": "Kaiba",
+    "link": "https://animefire.plus/animes/kaiba-todos-os-episodios",
+    "texto_original": "Kaiba",
+    "rating": 8.16,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/kaiba.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kaiba/",
+    "secao": "legendados",
+    "pagina": 92,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/kaiba"
+  }
+}

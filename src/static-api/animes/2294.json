@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2294,
+    "nome": "Macross F",
+    "link": "https://animefire.plus/animes/macross-f-todos-os-episodios",
+    "texto_original": "Macross F",
+    "rating": 7.96,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/macross-f.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/macross-f/",
+    "secao": "legendados",
+    "pagina": 176,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/macross-f"
+  }
+}

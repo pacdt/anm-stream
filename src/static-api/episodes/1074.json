@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Gabriel DropOut",
+  "anime": {
+    "id": 1074,
+    "nome": "Gabriel DropOut",
+    "link": "https://animefire.plus/animes/gabriel-dropout-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gabriel-dropout",
+    "rating": "7.57",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gabriel-dropout/1",
+      "anime_id": 1074,
+      "anime_name": "Gabriel DropOut"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/gabriel-dropout/2",
+      "anime_id": 1074,
+      "anime_name": "Gabriel DropOut"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/gabriel-dropout/3",
+      "anime_id": 1074,
+      "anime_name": "Gabriel DropOut"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/gabriel-dropout/4",
+      "anime_id": 1074,
+      "anime_name": "Gabriel DropOut"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/gabriel-dropout/5",
+      "anime_id": 1074,
+      "anime_name": "Gabriel DropOut"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/gabriel-dropout/6",
+      "anime_id": 1074,
+      "anime_name": "Gabriel DropOut"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/gabriel-dropout/7",
+      "anime_id": 1074,
+      "anime_name": "Gabriel DropOut"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/gabriel-dropout/8",
+      "anime_id": 1074,
+      "anime_name": "Gabriel DropOut"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/gabriel-dropout/9",
+      "anime_id": 1074,
+      "anime_name": "Gabriel DropOut"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/gabriel-dropout/10",
+      "anime_id": 1074,
+      "anime_name": "Gabriel DropOut"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/gabriel-dropout/11",
+      "anime_id": 1074,
+      "anime_name": "Gabriel DropOut"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/gabriel-dropout/12",
+      "anime_id": 1074,
+      "anime_name": "Gabriel DropOut"
+    }
+  ],
+  "total_episodes": 12
+}

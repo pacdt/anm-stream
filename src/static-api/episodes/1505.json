@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Hitori no Shita: The Outcast Recap",
+  "anime": {
+    "id": 1505,
+    "nome": "Hitori no Shita: The Outcast Recap",
+    "link": "https://animefire.plus/animes/hitori-no-shita-the-outcast-recap-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hitori-no-shita-the-outcast-recap",
+    "rating": "6.30",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hitori-no-shita-the-outcast-recap/1",
+      "anime_id": 1505,
+      "anime_name": "Hitori no Shita: The Outcast Recap"
+    }
+  ],
+  "total_episodes": 1
+}

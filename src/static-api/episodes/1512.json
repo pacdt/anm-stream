@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Hiyokoi",
+  "anime": {
+    "id": 1512,
+    "nome": "Hiyokoi",
+    "link": "https://animefire.plus/animes/hiyokoi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hiyokoi",
+    "rating": "7.36",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hiyokoi/1",
+      "anime_id": 1512,
+      "anime_name": "Hiyokoi"
+    }
+  ],
+  "total_episodes": 1
+}

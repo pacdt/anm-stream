@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Choujuushin Gravion Zwei",
+  "anime": {
+    "id": 631,
+    "nome": "Choujuushin Gravion Zwei",
+    "link": "https://animefire.plus/animes/choujuushin-gravion-zwei-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/choujuushin-gravion-zwei",
+    "rating": "6.70",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/choujuushin-gravion-zwei/1",
+      "anime_id": 631,
+      "anime_name": "Choujuushin Gravion Zwei"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/choujuushin-gravion-zwei/2",
+      "anime_id": 631,
+      "anime_name": "Choujuushin Gravion Zwei"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/choujuushin-gravion-zwei/3",
+      "anime_id": 631,
+      "anime_name": "Choujuushin Gravion Zwei"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/choujuushin-gravion-zwei/4",
+      "anime_id": 631,
+      "anime_name": "Choujuushin Gravion Zwei"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/choujuushin-gravion-zwei/5",
+      "anime_id": 631,
+      "anime_name": "Choujuushin Gravion Zwei"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/choujuushin-gravion-zwei/6",
+      "anime_id": 631,
+      "anime_name": "Choujuushin Gravion Zwei"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/choujuushin-gravion-zwei/7",
+      "anime_id": 631,
+      "anime_name": "Choujuushin Gravion Zwei"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/choujuushin-gravion-zwei/8",
+      "anime_id": 631,
+      "anime_name": "Choujuushin Gravion Zwei"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/choujuushin-gravion-zwei/9",
+      "anime_id": 631,
+      "anime_name": "Choujuushin Gravion Zwei"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/choujuushin-gravion-zwei/10",
+      "anime_id": 631,
+      "anime_name": "Choujuushin Gravion Zwei"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/choujuushin-gravion-zwei/11",
+      "anime_id": 631,
+      "anime_name": "Choujuushin Gravion Zwei"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/choujuushin-gravion-zwei/12",
+      "anime_id": 631,
+      "anime_name": "Choujuushin Gravion Zwei"
+    }
+  ],
+  "total_episodes": 12
+}

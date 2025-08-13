@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2263,
+    "nome": "Lu Shidai",
+    "link": "https://animefire.plus/animes/lu-shidai-todos-os-episodios",
+    "texto_original": "Lu Shidai",
+    "rating": 6.68,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/lu-shidai.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/lu-shidai/",
+    "secao": "legendados",
+    "pagina": 167,
+    "total_episodios": 27,
+    "link_video": "https://animefire.plus/video/lu-shidai"
+  }
+}

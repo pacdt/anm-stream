@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4020,
+    "nome": "Umineko no Naku Koro ni",
+    "link": "https://animefire.plus/animes/umineko-no-naku-koro-ni-todos-os-episodios",
+    "texto_original": "Umineko no Naku Koro ni",
+    "rating": 7.23,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/umineko-no-naku-koro-ni.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/umineko-no-naku-koro-ni/",
+    "secao": "legendados",
+    "pagina": 112,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/umineko-no-naku-koro-ni"
+  }
+}

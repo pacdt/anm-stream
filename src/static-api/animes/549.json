@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 549,
+    "nome": "Canaan",
+    "link": "https://animefire.plus/animes/canaan-todos-os-episodios",
+    "texto_original": "Canaan",
+    "rating": 7.33,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/canaan.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/canaan/",
+    "secao": "legendados",
+    "pagina": 137,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/canaan"
+  }
+}

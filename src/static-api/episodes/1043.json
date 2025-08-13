@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Full Metal Panic! The Second Raid",
+  "anime": {
+    "id": 1043,
+    "nome": "Full Metal Panic! The Second Raid",
+    "link": "https://animefire.plus/animes/full-metal-panic-the-second-raid-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/full-metal-panic-the-second-raid",
+    "rating": "8.01",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-the-second-raid/1",
+      "anime_id": 1043,
+      "anime_name": "Full Metal Panic! The Second Raid"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-the-second-raid/2",
+      "anime_id": 1043,
+      "anime_name": "Full Metal Panic! The Second Raid"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-the-second-raid/3",
+      "anime_id": 1043,
+      "anime_name": "Full Metal Panic! The Second Raid"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-the-second-raid/4",
+      "anime_id": 1043,
+      "anime_name": "Full Metal Panic! The Second Raid"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-the-second-raid/5",
+      "anime_id": 1043,
+      "anime_name": "Full Metal Panic! The Second Raid"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-the-second-raid/6",
+      "anime_id": 1043,
+      "anime_name": "Full Metal Panic! The Second Raid"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-the-second-raid/7",
+      "anime_id": 1043,
+      "anime_name": "Full Metal Panic! The Second Raid"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-the-second-raid/8",
+      "anime_id": 1043,
+      "anime_name": "Full Metal Panic! The Second Raid"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-the-second-raid/9",
+      "anime_id": 1043,
+      "anime_name": "Full Metal Panic! The Second Raid"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-the-second-raid/10",
+      "anime_id": 1043,
+      "anime_name": "Full Metal Panic! The Second Raid"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-the-second-raid/11",
+      "anime_id": 1043,
+      "anime_name": "Full Metal Panic! The Second Raid"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/full-metal-panic-the-second-raid/12",
+      "anime_id": 1043,
+      "anime_name": "Full Metal Panic! The Second Raid"
+    }
+  ],
+  "total_episodes": 12
+}

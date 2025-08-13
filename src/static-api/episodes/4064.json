@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Vampire Knight",
+  "anime": {
+    "id": 4064,
+    "nome": "Vampire Knight",
+    "link": "https://animefire.plus/animes/vampire-knight-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/vampire-knight",
+    "rating": "7.25",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/vampire-knight/1",
+      "anime_id": 4064,
+      "anime_name": "Vampire Knight"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/vampire-knight/2",
+      "anime_id": 4064,
+      "anime_name": "Vampire Knight"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/vampire-knight/3",
+      "anime_id": 4064,
+      "anime_name": "Vampire Knight"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/vampire-knight/4",
+      "anime_id": 4064,
+      "anime_name": "Vampire Knight"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/vampire-knight/5",
+      "anime_id": 4064,
+      "anime_name": "Vampire Knight"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/vampire-knight/6",
+      "anime_id": 4064,
+      "anime_name": "Vampire Knight"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/vampire-knight/7",
+      "anime_id": 4064,
+      "anime_name": "Vampire Knight"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/vampire-knight/8",
+      "anime_id": 4064,
+      "anime_name": "Vampire Knight"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/vampire-knight/9",
+      "anime_id": 4064,
+      "anime_name": "Vampire Knight"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/vampire-knight/10",
+      "anime_id": 4064,
+      "anime_name": "Vampire Knight"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/vampire-knight/11",
+      "anime_id": 4064,
+      "anime_name": "Vampire Knight"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/vampire-knight/12",
+      "anime_id": 4064,
+      "anime_name": "Vampire Knight"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/vampire-knight/13",
+      "anime_id": 4064,
+      "anime_name": "Vampire Knight"
+    }
+  ],
+  "total_episodes": 13
+}

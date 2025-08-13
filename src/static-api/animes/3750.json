@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3750,
+    "nome": "Tari Tari",
+    "link": "https://animefire.plus/animes/tari-tari-todos-os-episodios",
+    "texto_original": "Tari Tari",
+    "rating": 7.38,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/tari-tari.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tari-tari/",
+    "secao": "legendados",
+    "pagina": 125,
+    "total_episodios": 7,
+    "link_video": "https://animefire.plus/video/tari-tari"
+  }
+}

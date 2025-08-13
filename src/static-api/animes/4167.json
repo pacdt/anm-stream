@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4167,
+    "nome": "Xenosaga The Animation",
+    "link": "https://animefire.plus/animes/xenosaga-the-animation-todos-os-episodios",
+    "texto_original": "Xenosaga The Animation",
+    "rating": 6.42,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/xenosaga-the-animation.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/xenosaga-the-animation/",
+    "secao": "legendados",
+    "pagina": 135,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/xenosaga-the-animation"
+  }
+}

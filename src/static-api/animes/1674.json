@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1674,
+    "nome": "Isekai Yakkyoku",
+    "link": "https://animefire.plus/animes/isekai-yakkyoku-todos-os-episodios",
+    "texto_original": "Isekai Yakkyoku",
+    "rating": 7.27,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/isekai-yakkyoku.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/isekai-yakkyoku/",
+    "secao": "legendados",
+    "pagina": 31,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/isekai-yakkyoku"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2567,
+    "nome": "Momokuri",
+    "link": "https://animefire.plus/animes/momokuri-todos-os-episodios",
+    "texto_original": "Momokuri",
+    "rating": 7.2,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/momokuri.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/momokuri/",
+    "secao": "legendados",
+    "pagina": 96,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/momokuri"
+  }
+}

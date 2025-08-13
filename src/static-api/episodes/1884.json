@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Kanojo, Okarishimasu 4th Season",
+  "anime": {
+    "id": 1884,
+    "nome": "Kanojo, Okarishimasu 4th Season",
+    "link": "https://animefire.plus/animes/kanojo-okarishimasu-4th-season-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kanojo-okarishimasu-4th-season",
+    "rating": "6.20",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kanojo-okarishimasu-4th-season/1",
+      "anime_id": 1884,
+      "anime_name": "Kanojo, Okarishimasu 4th Season"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kanojo-okarishimasu-4th-season/2",
+      "anime_id": 1884,
+      "anime_name": "Kanojo, Okarishimasu 4th Season"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kanojo-okarishimasu-4th-season/3",
+      "anime_id": 1884,
+      "anime_name": "Kanojo, Okarishimasu 4th Season"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kanojo-okarishimasu-4th-season/4",
+      "anime_id": 1884,
+      "anime_name": "Kanojo, Okarishimasu 4th Season"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kanojo-okarishimasu-4th-season/5",
+      "anime_id": 1884,
+      "anime_name": "Kanojo, Okarishimasu 4th Season"
+    }
+  ],
+  "total_episodes": 5
+}

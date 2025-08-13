@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: Yoru no Yatterman",
+  "anime": {
+    "id": 4250,
+    "nome": "Yoru no Yatterman",
+    "link": "https://animefire.plus/animes/yoru-no-yatterman-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yoru-no-yatterman",
+    "rating": "6.54",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yoru-no-yatterman/1",
+      "anime_id": 4250,
+      "anime_name": "Yoru no Yatterman"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yoru-no-yatterman/2",
+      "anime_id": 4250,
+      "anime_name": "Yoru no Yatterman"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/yoru-no-yatterman/3",
+      "anime_id": 4250,
+      "anime_name": "Yoru no Yatterman"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/yoru-no-yatterman/4",
+      "anime_id": 4250,
+      "anime_name": "Yoru no Yatterman"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/yoru-no-yatterman/5",
+      "anime_id": 4250,
+      "anime_name": "Yoru no Yatterman"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/yoru-no-yatterman/6",
+      "anime_id": 4250,
+      "anime_name": "Yoru no Yatterman"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/yoru-no-yatterman/7",
+      "anime_id": 4250,
+      "anime_name": "Yoru no Yatterman"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/yoru-no-yatterman/8",
+      "anime_id": 4250,
+      "anime_name": "Yoru no Yatterman"
+    }
+  ],
+  "total_episodes": 8
+}

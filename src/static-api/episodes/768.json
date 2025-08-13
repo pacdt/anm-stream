@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Deadman Wonderland",
+  "anime": {
+    "id": 768,
+    "nome": "Deadman Wonderland",
+    "link": "https://animefire.plus/animes/deadman-wonderland-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/deadman-wonderland",
+    "rating": "7.36",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/deadman-wonderland/1",
+      "anime_id": 768,
+      "anime_name": "Deadman Wonderland"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/deadman-wonderland/2",
+      "anime_id": 768,
+      "anime_name": "Deadman Wonderland"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/deadman-wonderland/3",
+      "anime_id": 768,
+      "anime_name": "Deadman Wonderland"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/deadman-wonderland/4",
+      "anime_id": 768,
+      "anime_name": "Deadman Wonderland"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/deadman-wonderland/5",
+      "anime_id": 768,
+      "anime_name": "Deadman Wonderland"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/deadman-wonderland/6",
+      "anime_id": 768,
+      "anime_name": "Deadman Wonderland"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/deadman-wonderland/7",
+      "anime_id": 768,
+      "anime_name": "Deadman Wonderland"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/deadman-wonderland/8",
+      "anime_id": 768,
+      "anime_name": "Deadman Wonderland"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/deadman-wonderland/9",
+      "anime_id": 768,
+      "anime_name": "Deadman Wonderland"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/deadman-wonderland/10",
+      "anime_id": 768,
+      "anime_name": "Deadman Wonderland"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/deadman-wonderland/11",
+      "anime_id": 768,
+      "anime_name": "Deadman Wonderland"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/deadman-wonderland/12",
+      "anime_id": 768,
+      "anime_name": "Deadman Wonderland"
+    }
+  ],
+  "total_episodes": 12
+}

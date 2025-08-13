@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Another: The Other - Inga",
+  "anime": {
+    "id": 189,
+    "nome": "Another: The Other - Inga",
+    "link": "https://animefire.plus/animes/another-the-other---inga-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/another-the-other---inga",
+    "rating": "7.36",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/another-the-other---inga/1",
+      "anime_id": 189,
+      "anime_name": "Another: The Other - Inga"
+    }
+  ],
+  "total_episodes": 1
+}

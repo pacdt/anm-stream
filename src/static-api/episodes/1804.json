@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Kaichuu!",
+  "anime": {
+    "id": 1804,
+    "nome": "Kaichuu!",
+    "link": "https://animefire.plus/animes/kaichuu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kaichuu",
+    "rating": "5.88",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kaichuu/1",
+      "anime_id": 1804,
+      "anime_name": "Kaichuu!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kaichuu/2",
+      "anime_id": 1804,
+      "anime_name": "Kaichuu!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kaichuu/3",
+      "anime_id": 1804,
+      "anime_name": "Kaichuu!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kaichuu/4",
+      "anime_id": 1804,
+      "anime_name": "Kaichuu!"
+    }
+  ],
+  "total_episodes": 4
+}

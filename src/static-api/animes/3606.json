@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3606,
+    "nome": "Space☆Dandy",
+    "link": "https://animefire.plus/animes/space-dandy-todos-os-episodios",
+    "texto_original": "Space☆Dandy",
+    "rating": 7.89,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/space-dandy.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/space-dandy/",
+    "secao": "legendados",
+    "pagina": 135,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/space-dandy"
+  }
+}

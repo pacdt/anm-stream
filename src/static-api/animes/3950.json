@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3950,
+    "nome": "Tsuki ga Kirei",
+    "link": "https://animefire.plus/animes/tsuki-ga-kirei-todos-os-episodios",
+    "texto_original": "Tsuki ga Kirei",
+    "rating": 8.28,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/tsuki-ga-kirei.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tsuki-ga-kirei/",
+    "secao": "legendados",
+    "pagina": 99,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/tsuki-ga-kirei"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Ishida to Asakura",
+  "anime": {
+    "id": 1676,
+    "nome": "Ishida to Asakura",
+    "link": "https://animefire.plus/animes/ishida-to-asakura-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ishida-to-asakura",
+    "rating": "5.96",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ishida-to-asakura/1",
+      "anime_id": 1676,
+      "anime_name": "Ishida to Asakura"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ishida-to-asakura/2",
+      "anime_id": 1676,
+      "anime_name": "Ishida to Asakura"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/ishida-to-asakura/3",
+      "anime_id": 1676,
+      "anime_name": "Ishida to Asakura"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/ishida-to-asakura/4",
+      "anime_id": 1676,
+      "anime_name": "Ishida to Asakura"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/ishida-to-asakura/5",
+      "anime_id": 1676,
+      "anime_name": "Ishida to Asakura"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/ishida-to-asakura/6",
+      "anime_id": 1676,
+      "anime_name": "Ishida to Asakura"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/ishida-to-asakura/7",
+      "anime_id": 1676,
+      "anime_name": "Ishida to Asakura"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/ishida-to-asakura/8",
+      "anime_id": 1676,
+      "anime_name": "Ishida to Asakura"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/ishida-to-asakura/9",
+      "anime_id": 1676,
+      "anime_name": "Ishida to Asakura"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/ishida-to-asakura/10",
+      "anime_id": 1676,
+      "anime_name": "Ishida to Asakura"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/ishida-to-asakura/11",
+      "anime_id": 1676,
+      "anime_name": "Ishida to Asakura"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/ishida-to-asakura/12",
+      "anime_id": 1676,
+      "anime_name": "Ishida to Asakura"
+    }
+  ],
+  "total_episodes": 12
+}

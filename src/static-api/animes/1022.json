@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1022,
+    "nome": "Francesca",
+    "link": "https://animefire.plus/animes/francesca-todos-os-episodios",
+    "texto_original": "Francesca",
+    "rating": 5.54,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/francesca.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/francesca/",
+    "secao": "legendados",
+    "pagina": 129,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/francesca"
+  }
+}

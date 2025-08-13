@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Ookiku Furikabutte: Natsu no Taikai-hen – Mokuhyou",
+  "anime": {
+    "id": 2875,
+    "nome": "Ookiku Furikabutte: Natsu no Taikai-hen – Mokuhyou",
+    "link": "https://animefire.plus/animes/ookiku-furikabutte-natsu-no-taikai-hen-mokuhyou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ookiku-furikabutte-natsu-no-taikai-hen-mokuhyou",
+    "rating": "7.44",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ookiku-furikabutte-natsu-no-taikai-hen-mokuhyou/1",
+      "anime_id": 2875,
+      "anime_name": "Ookiku Furikabutte: Natsu no Taikai-hen – Mokuhyou"
+    }
+  ],
+  "total_episodes": 1
+}

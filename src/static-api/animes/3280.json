@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3280,
+    "nome": "Scrapped Princess",
+    "link": "https://animefire.plus/animes/scrapped-princess-todos-os-episodios",
+    "texto_original": "Scrapped Princess",
+    "rating": 7.46,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/scrapped-princess.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/scrapped-princess/",
+    "secao": "legendados",
+    "pagina": 125,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/scrapped-princess"
+  }
+}

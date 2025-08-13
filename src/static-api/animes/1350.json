@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1350,
+    "nome": "Hanamaru Youchien",
+    "link": "https://animefire.plus/animes/hanamaru-youchien-todos-os-episodios",
+    "texto_original": "Hanamaru Youchien",
+    "rating": 7.37,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hanamaru-youchien.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hanamaru-youchien/",
+    "secao": "legendados",
+    "pagina": 96,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/hanamaru-youchien"
+  }
+}

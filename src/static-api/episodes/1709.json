@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Jashin-chan Dropkick Episode 12",
+  "anime": {
+    "id": 1709,
+    "nome": "Jashin-chan Dropkick Episode 12",
+    "link": "https://animefire.plus/animes/jashin-chan-dropkick-episode-12-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/jashin-chan-dropkick-episode-12",
+    "rating": "7.08",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/jashin-chan-dropkick-episode-12/1",
+      "anime_id": 1709,
+      "anime_name": "Jashin-chan Dropkick Episode 12"
+    }
+  ],
+  "total_episodes": 1
+}

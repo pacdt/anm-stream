@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Hayate no Gotoku! Cuties",
+  "anime": {
+    "id": 1399,
+    "nome": "Hayate no Gotoku! Cuties",
+    "link": "https://animefire.plus/animes/hayate-no-gotoku-cuties-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hayate-no-gotoku-cuties",
+    "rating": "7.09",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hayate-no-gotoku-cuties/1",
+      "anime_id": 1399,
+      "anime_name": "Hayate no Gotoku! Cuties"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hayate-no-gotoku-cuties/2",
+      "anime_id": 1399,
+      "anime_name": "Hayate no Gotoku! Cuties"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hayate-no-gotoku-cuties/3",
+      "anime_id": 1399,
+      "anime_name": "Hayate no Gotoku! Cuties"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hayate-no-gotoku-cuties/4",
+      "anime_id": 1399,
+      "anime_name": "Hayate no Gotoku! Cuties"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hayate-no-gotoku-cuties/5",
+      "anime_id": 1399,
+      "anime_name": "Hayate no Gotoku! Cuties"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hayate-no-gotoku-cuties/6",
+      "anime_id": 1399,
+      "anime_name": "Hayate no Gotoku! Cuties"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/hayate-no-gotoku-cuties/7",
+      "anime_id": 1399,
+      "anime_name": "Hayate no Gotoku! Cuties"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/hayate-no-gotoku-cuties/8",
+      "anime_id": 1399,
+      "anime_name": "Hayate no Gotoku! Cuties"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/hayate-no-gotoku-cuties/9",
+      "anime_id": 1399,
+      "anime_name": "Hayate no Gotoku! Cuties"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/hayate-no-gotoku-cuties/10",
+      "anime_id": 1399,
+      "anime_name": "Hayate no Gotoku! Cuties"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/hayate-no-gotoku-cuties/11",
+      "anime_id": 1399,
+      "anime_name": "Hayate no Gotoku! Cuties"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/hayate-no-gotoku-cuties/12",
+      "anime_id": 1399,
+      "anime_name": "Hayate no Gotoku! Cuties"
+    }
+  ],
+  "total_episodes": 12
+}

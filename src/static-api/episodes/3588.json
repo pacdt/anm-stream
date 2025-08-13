@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Soukou no Strain",
+  "anime": {
+    "id": 3588,
+    "nome": "Soukou no Strain",
+    "link": "https://animefire.plus/animes/soukou-no-strain-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/soukou-no-strain",
+    "rating": "7.10",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/soukou-no-strain/1",
+      "anime_id": 3588,
+      "anime_name": "Soukou no Strain"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/soukou-no-strain/2",
+      "anime_id": 3588,
+      "anime_name": "Soukou no Strain"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/soukou-no-strain/3",
+      "anime_id": 3588,
+      "anime_name": "Soukou no Strain"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/soukou-no-strain/4",
+      "anime_id": 3588,
+      "anime_name": "Soukou no Strain"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/soukou-no-strain/5",
+      "anime_id": 3588,
+      "anime_name": "Soukou no Strain"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/soukou-no-strain/6",
+      "anime_id": 3588,
+      "anime_name": "Soukou no Strain"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/soukou-no-strain/7",
+      "anime_id": 3588,
+      "anime_name": "Soukou no Strain"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/soukou-no-strain/8",
+      "anime_id": 3588,
+      "anime_name": "Soukou no Strain"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/soukou-no-strain/9",
+      "anime_id": 3588,
+      "anime_name": "Soukou no Strain"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/soukou-no-strain/10",
+      "anime_id": 3588,
+      "anime_name": "Soukou no Strain"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/soukou-no-strain/11",
+      "anime_id": 3588,
+      "anime_name": "Soukou no Strain"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/soukou-no-strain/12",
+      "anime_id": 3588,
+      "anime_name": "Soukou no Strain"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/soukou-no-strain/13",
+      "anime_id": 3588,
+      "anime_name": "Soukou no Strain"
+    }
+  ],
+  "total_episodes": 13
+}

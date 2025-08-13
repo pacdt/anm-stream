@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3226,
+    "nome": "Sakamoto Desu ga?",
+    "link": "https://animefire.plus/animes/sakamoto-desu-ga-todos-os-episodios",
+    "texto_original": "Sakamoto Desu ga?",
+    "rating": 7.67,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/sakamoto-desu-ga.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sakamoto-desu-ga/",
+    "secao": "legendados",
+    "pagina": 117,
+    "total_episodios": 7,
+    "link_video": "https://animefire.plus/video/sakamoto-desu-ga"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Tales of Luminaria: The Fateful Crossroad",
+  "anime": {
+    "id": 3725,
+    "nome": "Tales of Luminaria: The Fateful Crossroad",
+    "link": "https://animefire.plus/animes/tales-of-luminaria-the-fateful-crossroad-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tales-of-luminaria-the-fateful-crossroad",
+    "rating": "6.16",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tales-of-luminaria-the-fateful-crossroad/1",
+      "anime_id": 3725,
+      "anime_name": "Tales of Luminaria: The Fateful Crossroad"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tales-of-luminaria-the-fateful-crossroad/2",
+      "anime_id": 3725,
+      "anime_name": "Tales of Luminaria: The Fateful Crossroad"
+    }
+  ],
+  "total_episodes": 2
+}

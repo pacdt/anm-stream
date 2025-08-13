@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3106,
+    "nome": "Rekka no Honoo",
+    "link": "https://animefire.plus/animes/rekka-no-honoo-todos-os-episodios",
+    "texto_original": "Rekka no Honoo",
+    "rating": 7.41,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/rekka-no-honoo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/rekka-no-honoo/",
+    "secao": "legendados",
+    "pagina": 162,
+    "total_episodios": 42,
+    "link_video": "https://animefire.plus/video/rekka-no-honoo"
+  }
+}

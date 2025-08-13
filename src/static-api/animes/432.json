@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 432,
+    "nome": "Blood+ (Dublado)",
+    "link": "https://animefire.plus/animes/blood-dublado-todos-os-episodios",
+    "texto_original": "Blood+ (Dublado)",
+    "rating": 7.69,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/blood.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/blood/",
+    "secao": "dublados,legendados",
+    "pagina": 22,
+    "total_episodios": 50,
+    "link_video": "https://animefire.plus/video/blood-dublado"
+  }
+}

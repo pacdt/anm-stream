@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 801,
+    "nome": "Detroit Metal City",
+    "link": "https://animefire.plus/animes/detroit-metal-city-todos-os-episodios",
+    "texto_original": "Detroit Metal City",
+    "rating": 8.19,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/detroit-metal-city.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/detroit-metal-city/",
+    "secao": "legendados",
+    "pagina": 114,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/detroit-metal-city"
+  }
+}

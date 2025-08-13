@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Fuuun Ishin Dai☆Shogun",
+  "anime": {
+    "id": 1071,
+    "nome": "Fuuun Ishin Dai☆Shogun",
+    "link": "https://animefire.plus/animes/fuuun-ishin-dai-shogun-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/fuuun-ishin-dai-shogun",
+    "rating": "5.78",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/fuuun-ishin-dai-shogun/1",
+      "anime_id": 1071,
+      "anime_name": "Fuuun Ishin Dai☆Shogun"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/fuuun-ishin-dai-shogun/2",
+      "anime_id": 1071,
+      "anime_name": "Fuuun Ishin Dai☆Shogun"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/fuuun-ishin-dai-shogun/3",
+      "anime_id": 1071,
+      "anime_name": "Fuuun Ishin Dai☆Shogun"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/fuuun-ishin-dai-shogun/4",
+      "anime_id": 1071,
+      "anime_name": "Fuuun Ishin Dai☆Shogun"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/fuuun-ishin-dai-shogun/5",
+      "anime_id": 1071,
+      "anime_name": "Fuuun Ishin Dai☆Shogun"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/fuuun-ishin-dai-shogun/6",
+      "anime_id": 1071,
+      "anime_name": "Fuuun Ishin Dai☆Shogun"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/fuuun-ishin-dai-shogun/7",
+      "anime_id": 1071,
+      "anime_name": "Fuuun Ishin Dai☆Shogun"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/fuuun-ishin-dai-shogun/8",
+      "anime_id": 1071,
+      "anime_name": "Fuuun Ishin Dai☆Shogun"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/fuuun-ishin-dai-shogun/9",
+      "anime_id": 1071,
+      "anime_name": "Fuuun Ishin Dai☆Shogun"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/fuuun-ishin-dai-shogun/10",
+      "anime_id": 1071,
+      "anime_name": "Fuuun Ishin Dai☆Shogun"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/fuuun-ishin-dai-shogun/11",
+      "anime_id": 1071,
+      "anime_name": "Fuuun Ishin Dai☆Shogun"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/fuuun-ishin-dai-shogun/12",
+      "anime_id": 1071,
+      "anime_name": "Fuuun Ishin Dai☆Shogun"
+    }
+  ],
+  "total_episodes": 12
+}

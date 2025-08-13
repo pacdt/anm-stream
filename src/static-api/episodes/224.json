@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Arcana Famiglia",
+  "anime": {
+    "id": 224,
+    "nome": "Arcana Famiglia",
+    "link": "https://animefire.plus/animes/arcana-famiglia-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/arcana-famiglia",
+    "rating": "6.39",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/arcana-famiglia/1",
+      "anime_id": 224,
+      "anime_name": "Arcana Famiglia"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/arcana-famiglia/2",
+      "anime_id": 224,
+      "anime_name": "Arcana Famiglia"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/arcana-famiglia/3",
+      "anime_id": 224,
+      "anime_name": "Arcana Famiglia"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/arcana-famiglia/4",
+      "anime_id": 224,
+      "anime_name": "Arcana Famiglia"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/arcana-famiglia/5",
+      "anime_id": 224,
+      "anime_name": "Arcana Famiglia"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/arcana-famiglia/6",
+      "anime_id": 224,
+      "anime_name": "Arcana Famiglia"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/arcana-famiglia/7",
+      "anime_id": 224,
+      "anime_name": "Arcana Famiglia"
+    }
+  ],
+  "total_episodes": 7
+}

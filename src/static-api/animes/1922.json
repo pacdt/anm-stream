@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1922,
+    "nome": "Keifuku-san",
+    "link": "https://animefire.plus/animes/keifuku-san-todos-os-episodios",
+    "texto_original": "Keifuku-san",
+    "rating": 5.98,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/keifuku-san.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/keifuku-san/",
+    "secao": "legendados",
+    "pagina": 65,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/keifuku-san"
+  }
+}

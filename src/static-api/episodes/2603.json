@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Mugen no Juunin: Immortal",
+  "anime": {
+    "id": 2603,
+    "nome": "Mugen no Juunin: Immortal",
+    "link": "https://animefire.plus/animes/mugen-no-juunin-immortal-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mugen-no-juunin-immortal",
+    "rating": "7.36",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mugen-no-juunin-immortal/1",
+      "anime_id": 2603,
+      "anime_name": "Mugen no Juunin: Immortal"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Kaze no Matasaburou (Movie)",
+  "anime": {
+    "id": 1919,
+    "nome": "Kaze no Matasaburou (Movie)",
+    "link": "https://animefire.plus/animes/kaze-no-matasaburou-movie-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kaze-no-matasaburou-movie",
+    "rating": "6.15",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kaze-no-matasaburou-movie/1",
+      "anime_id": 1919,
+      "anime_name": "Kaze no Matasaburou (Movie)"
+    }
+  ],
+  "total_episodes": 1
+}

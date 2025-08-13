@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Go! Go! 575",
+  "anime": {
+    "id": 1201,
+    "nome": "Go! Go! 575",
+    "link": "https://animefire.plus/animes/go-go-575-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/go-go-575",
+    "rating": "5.69",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/go-go-575/1",
+      "anime_id": 1201,
+      "anime_name": "Go! Go! 575"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/go-go-575/2",
+      "anime_id": 1201,
+      "anime_name": "Go! Go! 575"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/go-go-575/3",
+      "anime_id": 1201,
+      "anime_name": "Go! Go! 575"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/go-go-575/4",
+      "anime_id": 1201,
+      "anime_name": "Go! Go! 575"
+    }
+  ],
+  "total_episodes": 4
+}

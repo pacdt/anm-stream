@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1128,
+    "nome": "Geneshaft",
+    "link": "https://animefire.plus/animes/geneshaft-todos-os-episodios",
+    "texto_original": "Geneshaft",
+    "rating": 6.4,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/geneshaft.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/geneshaft/",
+    "secao": "legendados",
+    "pagina": 70,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/geneshaft"
+  }
+}

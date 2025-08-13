@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Hakuouki OVA (2021)",
+  "anime": {
+    "id": 1336,
+    "nome": "Hakuouki OVA (2021)",
+    "link": "https://animefire.plus/animes/hakuouki-ova-2021-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hakuouki-ova-2021",
+    "rating": "7.05",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hakuouki-ova-2021/1",
+      "anime_id": 1336,
+      "anime_name": "Hakuouki OVA (2021)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hakuouki-ova-2021/2",
+      "anime_id": 1336,
+      "anime_name": "Hakuouki OVA (2021)"
+    }
+  ],
+  "total_episodes": 2
+}

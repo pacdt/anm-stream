@@ -1,0 +1,158 @@
+{
+  "message": "Lista de episódios do anime: Shangri-La",
+  "anime": {
+    "id": 3386,
+    "nome": "Shangri-La",
+    "link": "https://animefire.plus/animes/shangri-la-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shangri-la",
+    "rating": "7.11",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shangri-la/1",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shangri-la/2",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/shangri-la/3",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/shangri-la/4",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/shangri-la/5",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/shangri-la/6",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/shangri-la/7",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/shangri-la/8",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/shangri-la/9",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/shangri-la/10",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/shangri-la/11",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/shangri-la/12",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/shangri-la/13",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 14,
+      "episode_url": "https://animefire.plus/video/shangri-la/14",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 15,
+      "episode_url": "https://animefire.plus/video/shangri-la/15",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 16,
+      "episode_url": "https://animefire.plus/video/shangri-la/16",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 17,
+      "episode_url": "https://animefire.plus/video/shangri-la/17",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 18,
+      "episode_url": "https://animefire.plus/video/shangri-la/18",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 19,
+      "episode_url": "https://animefire.plus/video/shangri-la/19",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 20,
+      "episode_url": "https://animefire.plus/video/shangri-la/20",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 21,
+      "episode_url": "https://animefire.plus/video/shangri-la/21",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 22,
+      "episode_url": "https://animefire.plus/video/shangri-la/22",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 23,
+      "episode_url": "https://animefire.plus/video/shangri-la/23",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    },
+    {
+      "episode_number": 24,
+      "episode_url": "https://animefire.plus/video/shangri-la/24",
+      "anime_id": 3386,
+      "anime_name": "Shangri-La"
+    }
+  ],
+  "total_episodes": 24
+}

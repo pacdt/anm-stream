@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Mitsuami no Kamisama",
+  "anime": {
+    "id": 2526,
+    "nome": "Mitsuami no Kamisama",
+    "link": "https://animefire.plus/animes/mitsuami-no-kamisama-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mitsuami-no-kamisama",
+    "rating": "6.78",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mitsuami-no-kamisama/1",
+      "anime_id": 2526,
+      "anime_name": "Mitsuami no Kamisama"
+    }
+  ],
+  "total_episodes": 1
+}

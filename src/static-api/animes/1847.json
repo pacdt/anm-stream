@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1847,
+    "nome": "Kamichu!",
+    "link": "https://animefire.plus/animes/kamichu-todos-os-episodios",
+    "texto_original": "Kamichu!",
+    "rating": 7.45,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/kamichu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kamichu/",
+    "secao": "legendados",
+    "pagina": 151,
+    "total_episodios": 16,
+    "link_video": "https://animefire.plus/video/kamichu"
+  }
+}

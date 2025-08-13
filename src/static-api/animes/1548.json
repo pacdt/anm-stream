@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1548,
+    "nome": "Hundred",
+    "link": "https://animefire.plus/animes/hundred-todos-os-episodios",
+    "texto_original": "Hundred",
+    "rating": 6.56,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hundred.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hundred/",
+    "secao": "legendados",
+    "pagina": 174,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/hundred"
+  }
+}

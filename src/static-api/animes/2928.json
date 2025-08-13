@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2928,
+    "nome": "Ousama Game The Animation",
+    "link": "https://animefire.plus/animes/ousama-game-the-animation-todos-os-episodios",
+    "texto_original": "Ousama Game The Animation",
+    "rating": 5.15,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/ousama-game-the-animation.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ousama-game-the-animation/",
+    "secao": "legendados",
+    "pagina": 95,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/ousama-game-the-animation"
+  }
+}

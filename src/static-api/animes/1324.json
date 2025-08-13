@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1324,
+    "nome": "Hajimete no Gal",
+    "link": "https://animefire.plus/animes/hajimete-no-gal-todos-os-episodios",
+    "texto_original": "Hajimete no Gal",
+    "rating": 6.18,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hajimete-no-gal.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hajimete-no-gal/",
+    "secao": "legendados",
+    "pagina": 80,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/hajimete-no-gal"
+  }
+}

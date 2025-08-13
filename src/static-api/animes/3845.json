@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3845,
+    "nome": "Tide-Line Blue",
+    "link": "https://animefire.plus/animes/tide-line-blue-todos-os-episodios",
+    "texto_original": "Tide-Line Blue",
+    "rating": 6.71,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/tide-line-blue.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tide-line-blue/",
+    "secao": "legendados",
+    "pagina": 141,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/tide-line-blue"
+  }
+}

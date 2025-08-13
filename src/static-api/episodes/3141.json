@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: RoboMasters the Animated Series",
+  "anime": {
+    "id": 3141,
+    "nome": "RoboMasters the Animated Series",
+    "link": "https://animefire.plus/animes/robomasters-the-animated-series-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/robomasters-the-animated-series",
+    "rating": "6.57",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/robomasters-the-animated-series/1",
+      "anime_id": 3141,
+      "anime_name": "RoboMasters the Animated Series"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/robomasters-the-animated-series/2",
+      "anime_id": 3141,
+      "anime_name": "RoboMasters the Animated Series"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/robomasters-the-animated-series/3",
+      "anime_id": 3141,
+      "anime_name": "RoboMasters the Animated Series"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/robomasters-the-animated-series/4",
+      "anime_id": 3141,
+      "anime_name": "RoboMasters the Animated Series"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/robomasters-the-animated-series/5",
+      "anime_id": 3141,
+      "anime_name": "RoboMasters the Animated Series"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/robomasters-the-animated-series/6",
+      "anime_id": 3141,
+      "anime_name": "RoboMasters the Animated Series"
+    }
+  ],
+  "total_episodes": 6
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Aho Girl",
+  "anime": {
+    "id": 79,
+    "nome": "Aho Girl",
+    "link": "https://animefire.plus/animes/aho-girl-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/aho-girl",
+    "rating": "7.14",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/aho-girl/1",
+      "anime_id": 79,
+      "anime_name": "Aho Girl"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/aho-girl/2",
+      "anime_id": 79,
+      "anime_name": "Aho Girl"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/aho-girl/3",
+      "anime_id": 79,
+      "anime_name": "Aho Girl"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/aho-girl/4",
+      "anime_id": 79,
+      "anime_name": "Aho Girl"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/aho-girl/5",
+      "anime_id": 79,
+      "anime_name": "Aho Girl"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/aho-girl/6",
+      "anime_id": 79,
+      "anime_name": "Aho Girl"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/aho-girl/7",
+      "anime_id": 79,
+      "anime_name": "Aho Girl"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/aho-girl/8",
+      "anime_id": 79,
+      "anime_name": "Aho Girl"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/aho-girl/9",
+      "anime_id": 79,
+      "anime_name": "Aho Girl"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/aho-girl/10",
+      "anime_id": 79,
+      "anime_name": "Aho Girl"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/aho-girl/11",
+      "anime_id": 79,
+      "anime_name": "Aho Girl"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/aho-girl/12",
+      "anime_id": 79,
+      "anime_name": "Aho Girl"
+    }
+  ],
+  "total_episodes": 12
+}

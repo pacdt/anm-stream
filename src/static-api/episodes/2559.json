@@ -1,0 +1,68 @@
+{
+  "message": "Lista de episódios do anime: Mobile Suit Gundam: Twilight Axis",
+  "anime": {
+    "id": 2559,
+    "nome": "Mobile Suit Gundam: Twilight Axis",
+    "link": "https://animefire.plus/animes/mobile-suit-gundam-twilight-axis-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mobile-suit-gundam-twilight-axis",
+    "rating": "5.02",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-twilight-axis/1",
+      "anime_id": 2559,
+      "anime_name": "Mobile Suit Gundam: Twilight Axis"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-twilight-axis/2",
+      "anime_id": 2559,
+      "anime_name": "Mobile Suit Gundam: Twilight Axis"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-twilight-axis/3",
+      "anime_id": 2559,
+      "anime_name": "Mobile Suit Gundam: Twilight Axis"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-twilight-axis/4",
+      "anime_id": 2559,
+      "anime_name": "Mobile Suit Gundam: Twilight Axis"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-twilight-axis/5",
+      "anime_id": 2559,
+      "anime_name": "Mobile Suit Gundam: Twilight Axis"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-twilight-axis/6",
+      "anime_id": 2559,
+      "anime_name": "Mobile Suit Gundam: Twilight Axis"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-twilight-axis/7",
+      "anime_id": 2559,
+      "anime_name": "Mobile Suit Gundam: Twilight Axis"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-twilight-axis/8",
+      "anime_id": 2559,
+      "anime_name": "Mobile Suit Gundam: Twilight Axis"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-twilight-axis/9",
+      "anime_id": 2559,
+      "anime_name": "Mobile Suit Gundam: Twilight Axis"
+    }
+  ],
+  "total_episodes": 9
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3704,
+    "nome": "Taboo Tattoo",
+    "link": "https://animefire.plus/animes/taboo-tattoo-todos-os-episodios",
+    "texto_original": "Taboo Tattoo",
+    "rating": 5.93,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/taboo-tattoo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/taboo-tattoo/",
+    "secao": "legendados",
+    "pagina": 104,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/taboo-tattoo"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Hakuouki Sekkaroku",
+  "anime": {
+    "id": 1338,
+    "nome": "Hakuouki Sekkaroku",
+    "link": "https://animefire.plus/animes/hakuouki-sekkaroku-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hakuouki-sekkaroku",
+    "rating": "7.68",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hakuouki-sekkaroku/1",
+      "anime_id": 1338,
+      "anime_name": "Hakuouki Sekkaroku"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hakuouki-sekkaroku/2",
+      "anime_id": 1338,
+      "anime_name": "Hakuouki Sekkaroku"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hakuouki-sekkaroku/3",
+      "anime_id": 1338,
+      "anime_name": "Hakuouki Sekkaroku"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hakuouki-sekkaroku/4",
+      "anime_id": 1338,
+      "anime_name": "Hakuouki Sekkaroku"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hakuouki-sekkaroku/5",
+      "anime_id": 1338,
+      "anime_name": "Hakuouki Sekkaroku"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hakuouki-sekkaroku/6",
+      "anime_id": 1338,
+      "anime_name": "Hakuouki Sekkaroku"
+    }
+  ],
+  "total_episodes": 6
+}

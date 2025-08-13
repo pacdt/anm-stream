@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Video Girl Ai",
+  "anime": {
+    "id": 4077,
+    "nome": "Video Girl Ai",
+    "link": "https://animefire.plus/animes/video-girl-ai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/video-girl-ai",
+    "rating": "7.23",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/video-girl-ai/1",
+      "anime_id": 4077,
+      "anime_name": "Video Girl Ai"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/video-girl-ai/2",
+      "anime_id": 4077,
+      "anime_name": "Video Girl Ai"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/video-girl-ai/3",
+      "anime_id": 4077,
+      "anime_name": "Video Girl Ai"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/video-girl-ai/4",
+      "anime_id": 4077,
+      "anime_name": "Video Girl Ai"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/video-girl-ai/5",
+      "anime_id": 4077,
+      "anime_name": "Video Girl Ai"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/video-girl-ai/6",
+      "anime_id": 4077,
+      "anime_name": "Video Girl Ai"
+    }
+  ],
+  "total_episodes": 6
+}

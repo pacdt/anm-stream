@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
+  "anime": {
+    "id": 4368,
+    "nome": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
+    "link": "https://animefire.plus/animes/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru",
+    "rating": "7.21",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru/1",
+      "anime_id": 4368,
+      "anime_name": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru/2",
+      "anime_id": 4368,
+      "anime_name": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru/3",
+      "anime_id": 4368,
+      "anime_name": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru/4",
+      "anime_id": 4368,
+      "anime_name": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru/5",
+      "anime_id": 4368,
+      "anime_name": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru"
+    }
+  ],
+  "total_episodes": 5
+}

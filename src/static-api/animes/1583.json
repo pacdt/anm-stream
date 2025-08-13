@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1583,
+    "nome": "ID-0 (Dublado)",
+    "link": "https://animefire.plus/animes/id-0-dublado-todos-os-episodios",
+    "texto_original": "ID-0 (Dublado)",
+    "rating": 6.64,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/id-0.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/id-0/",
+    "secao": "dublados,legendados",
+    "pagina": 21,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/id-0-dublado"
+  }
+}

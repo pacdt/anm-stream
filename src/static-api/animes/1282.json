@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1282,
+    "nome": "Gunjou no Fanfare",
+    "link": "https://animefire.plus/animes/gunjou-no-fanfare-todos-os-episodios",
+    "texto_original": "Gunjou no Fanfare",
+    "rating": 6.15,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/gunjou-no-fanfare.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gunjou-no-fanfare/",
+    "secao": "legendados",
+    "pagina": 33,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/gunjou-no-fanfare"
+  }
+}

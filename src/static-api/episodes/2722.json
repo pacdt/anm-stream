@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: New Panty & Stocking with Garterbelt",
+  "anime": {
+    "id": 2722,
+    "nome": "New Panty & Stocking with Garterbelt",
+    "link": "https://animefire.plus/animes/new-panty-stocking-with-garterbelt-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/new-panty-stocking-with-garterbelt",
+    "rating": "7.35",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/new-panty-stocking-with-garterbelt/1",
+      "anime_id": 2722,
+      "anime_name": "New Panty & Stocking with Garterbelt"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/new-panty-stocking-with-garterbelt/2",
+      "anime_id": 2722,
+      "anime_name": "New Panty & Stocking with Garterbelt"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/new-panty-stocking-with-garterbelt/3",
+      "anime_id": 2722,
+      "anime_name": "New Panty & Stocking with Garterbelt"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/new-panty-stocking-with-garterbelt/4",
+      "anime_id": 2722,
+      "anime_name": "New Panty & Stocking with Garterbelt"
+    }
+  ],
+  "total_episodes": 4
+}

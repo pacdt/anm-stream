@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Nazotokine",
+  "anime": {
+    "id": 2701,
+    "nome": "Nazotokine",
+    "link": "https://animefire.plus/animes/nazotokine-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nazotokine",
+    "rating": "4.90",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nazotokine/1",
+      "anime_id": 2701,
+      "anime_name": "Nazotokine"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/nazotokine/2",
+      "anime_id": 2701,
+      "anime_name": "Nazotokine"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/nazotokine/3",
+      "anime_id": 2701,
+      "anime_name": "Nazotokine"
+    }
+  ],
+  "total_episodes": 3
+}

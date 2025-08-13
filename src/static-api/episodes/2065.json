@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Kokkoku",
+  "anime": {
+    "id": 2065,
+    "nome": "Kokkoku",
+    "link": "https://animefire.plus/animes/kokkoku-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kokkoku",
+    "rating": "7.14",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kokkoku/1",
+      "anime_id": 2065,
+      "anime_name": "Kokkoku"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kokkoku/2",
+      "anime_id": 2065,
+      "anime_name": "Kokkoku"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kokkoku/3",
+      "anime_id": 2065,
+      "anime_name": "Kokkoku"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kokkoku/4",
+      "anime_id": 2065,
+      "anime_name": "Kokkoku"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kokkoku/5",
+      "anime_id": 2065,
+      "anime_name": "Kokkoku"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kokkoku/6",
+      "anime_id": 2065,
+      "anime_name": "Kokkoku"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/kokkoku/7",
+      "anime_id": 2065,
+      "anime_name": "Kokkoku"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/kokkoku/8",
+      "anime_id": 2065,
+      "anime_name": "Kokkoku"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/kokkoku/9",
+      "anime_id": 2065,
+      "anime_name": "Kokkoku"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/kokkoku/10",
+      "anime_id": 2065,
+      "anime_name": "Kokkoku"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/kokkoku/11",
+      "anime_id": 2065,
+      "anime_name": "Kokkoku"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/kokkoku/12",
+      "anime_id": 2065,
+      "anime_name": "Kokkoku"
+    }
+  ],
+  "total_episodes": 12
+}

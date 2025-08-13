@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 898,
+    "nome": "Dungeon Meshi (Dublado)",
+    "link": "https://animefire.plus/animes/dungeon-meshi-dublado-todos-os-episodios",
+    "texto_original": "Dungeon Meshi (Dublado)",
+    "rating": 8.6,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/dungeon-meshi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dungeon-meshi/",
+    "secao": "dublados,legendados,lancamentos",
+    "pagina": 3,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/dungeon-meshi-dublado"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2098,
+    "nome": "Kore wa Zombie Desu ka?",
+    "link": "https://animefire.plus/animes/kore-wa-zombie-desu-ka-todos-os-episodios",
+    "texto_original": "Kore wa Zombie Desu ka?",
+    "rating": 7.54,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/kore-wa-zombie-desu-ka.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kore-wa-zombie-desu-ka/",
+    "secao": "legendados",
+    "pagina": 143,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/kore-wa-zombie-desu-ka"
+  }
+}

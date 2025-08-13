@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: FASTENING DAYS",
+  "anime": {
+    "id": 980,
+    "nome": "FASTENING DAYS",
+    "link": "https://animefire.plus/animes/fastening-days-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/fastening-days",
+    "rating": "6.48",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/fastening-days/1",
+      "anime_id": 980,
+      "anime_name": "FASTENING DAYS"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3600,
+    "nome": "Soushin Shoujo Matoi",
+    "link": "https://animefire.plus/animes/soushin-shoujo-matoi-todos-os-episodios",
+    "texto_original": "Soushin Shoujo Matoi",
+    "rating": 6.76,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/soushin-shoujo-matoi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/soushin-shoujo-matoi/",
+    "secao": "legendados",
+    "pagina": 156,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/soushin-shoujo-matoi"
+  }
+}

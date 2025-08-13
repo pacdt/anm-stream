@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Mizu Zokusei no Mahoutsukai",
+  "anime": {
+    "id": 2533,
+    "nome": "Mizu Zokusei no Mahoutsukai",
+    "link": "https://animefire.plus/animes/mizu-zokusei-no-mahoutsukai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mizu-zokusei-no-mahoutsukai",
+    "rating": "7.21",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mizu-zokusei-no-mahoutsukai/1",
+      "anime_id": 2533,
+      "anime_name": "Mizu Zokusei no Mahoutsukai"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mizu-zokusei-no-mahoutsukai/2",
+      "anime_id": 2533,
+      "anime_name": "Mizu Zokusei no Mahoutsukai"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mizu-zokusei-no-mahoutsukai/3",
+      "anime_id": 2533,
+      "anime_name": "Mizu Zokusei no Mahoutsukai"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/mizu-zokusei-no-mahoutsukai/4",
+      "anime_id": 2533,
+      "anime_name": "Mizu Zokusei no Mahoutsukai"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/mizu-zokusei-no-mahoutsukai/5",
+      "anime_id": 2533,
+      "anime_name": "Mizu Zokusei no Mahoutsukai"
+    }
+  ],
+  "total_episodes": 5
+}

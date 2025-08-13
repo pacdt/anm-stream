@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 282,
+    "nome": "Ayakashi",
+    "link": "https://animefire.plus/animes/ayakashi-todos-os-episodios",
+    "texto_original": "Ayakashi",
+    "rating": 6.43,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/ayakashi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ayakashi/",
+    "secao": "legendados",
+    "pagina": 145,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/ayakashi"
+  }
+}

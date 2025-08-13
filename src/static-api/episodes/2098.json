@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Kore wa Zombie Desu ka?",
+  "anime": {
+    "id": 2098,
+    "nome": "Kore wa Zombie Desu ka?",
+    "link": "https://animefire.plus/animes/kore-wa-zombie-desu-ka-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kore-wa-zombie-desu-ka",
+    "rating": "7.54",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kore-wa-zombie-desu-ka/1",
+      "anime_id": 2098,
+      "anime_name": "Kore wa Zombie Desu ka?"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kore-wa-zombie-desu-ka/2",
+      "anime_id": 2098,
+      "anime_name": "Kore wa Zombie Desu ka?"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kore-wa-zombie-desu-ka/3",
+      "anime_id": 2098,
+      "anime_name": "Kore wa Zombie Desu ka?"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kore-wa-zombie-desu-ka/4",
+      "anime_id": 2098,
+      "anime_name": "Kore wa Zombie Desu ka?"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kore-wa-zombie-desu-ka/5",
+      "anime_id": 2098,
+      "anime_name": "Kore wa Zombie Desu ka?"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kore-wa-zombie-desu-ka/6",
+      "anime_id": 2098,
+      "anime_name": "Kore wa Zombie Desu ka?"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/kore-wa-zombie-desu-ka/7",
+      "anime_id": 2098,
+      "anime_name": "Kore wa Zombie Desu ka?"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/kore-wa-zombie-desu-ka/8",
+      "anime_id": 2098,
+      "anime_name": "Kore wa Zombie Desu ka?"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/kore-wa-zombie-desu-ka/9",
+      "anime_id": 2098,
+      "anime_name": "Kore wa Zombie Desu ka?"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/kore-wa-zombie-desu-ka/10",
+      "anime_id": 2098,
+      "anime_name": "Kore wa Zombie Desu ka?"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/kore-wa-zombie-desu-ka/11",
+      "anime_id": 2098,
+      "anime_name": "Kore wa Zombie Desu ka?"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/kore-wa-zombie-desu-ka/12",
+      "anime_id": 2098,
+      "anime_name": "Kore wa Zombie Desu ka?"
+    }
+  ],
+  "total_episodes": 12
+}

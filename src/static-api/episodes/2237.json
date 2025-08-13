@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Long Riders!",
+  "anime": {
+    "id": 2237,
+    "nome": "Long Riders!",
+    "link": "https://animefire.plus/animes/long-riders-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/long-riders",
+    "rating": "6.65",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/long-riders/1",
+      "anime_id": 2237,
+      "anime_name": "Long Riders!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/long-riders/2",
+      "anime_id": 2237,
+      "anime_name": "Long Riders!"
+    }
+  ],
+  "total_episodes": 2
+}

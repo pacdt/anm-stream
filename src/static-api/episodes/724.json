@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Da Wang Rao Ming",
+  "anime": {
+    "id": 724,
+    "nome": "Da Wang Rao Ming",
+    "link": "https://animefire.plus/animes/da-wang-rao-ming-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/da-wang-rao-ming",
+    "rating": "7.52",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/da-wang-rao-ming/1",
+      "anime_id": 724,
+      "anime_name": "Da Wang Rao Ming"
+    }
+  ],
+  "total_episodes": 1
+}

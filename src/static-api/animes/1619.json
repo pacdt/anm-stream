@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1619,
+    "nome": "Inferno Cop",
+    "link": "https://animefire.plus/animes/inferno-cop-todos-os-episodios",
+    "texto_original": "Inferno Cop",
+    "rating": 7.3,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/inferno-cop.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/inferno-cop/",
+    "secao": "legendados",
+    "pagina": 73,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/inferno-cop"
+  }
+}

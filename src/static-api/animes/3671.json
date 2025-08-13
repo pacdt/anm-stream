@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3671,
+    "nome": "Summer Pockets",
+    "link": "https://animefire.plus/animes/summer-pockets-todos-os-episodios",
+    "texto_original": "Summer Pockets",
+    "rating": 7.29,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/summer-pockets.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/summer-pockets/",
+    "secao": "legendados,lancamentos",
+    "pagina": 5,
+    "total_episodios": 17,
+    "link_video": "https://animefire.plus/video/summer-pockets"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: B-Project: Zecchou*Emotion",
+  "anime": {
+    "id": 293,
+    "nome": "B-Project: Zecchou*Emotion",
+    "link": "https://animefire.plus/animes/b-project-zecchou-emotion-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/b-project-zecchou-emotion",
+    "rating": "6.71",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/b-project-zecchou-emotion/1",
+      "anime_id": 293,
+      "anime_name": "B-Project: Zecchou*Emotion"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/b-project-zecchou-emotion/2",
+      "anime_id": 293,
+      "anime_name": "B-Project: Zecchou*Emotion"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/b-project-zecchou-emotion/3",
+      "anime_id": 293,
+      "anime_name": "B-Project: Zecchou*Emotion"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/b-project-zecchou-emotion/4",
+      "anime_id": 293,
+      "anime_name": "B-Project: Zecchou*Emotion"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/b-project-zecchou-emotion/5",
+      "anime_id": 293,
+      "anime_name": "B-Project: Zecchou*Emotion"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/b-project-zecchou-emotion/6",
+      "anime_id": 293,
+      "anime_name": "B-Project: Zecchou*Emotion"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/b-project-zecchou-emotion/7",
+      "anime_id": 293,
+      "anime_name": "B-Project: Zecchou*Emotion"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/b-project-zecchou-emotion/8",
+      "anime_id": 293,
+      "anime_name": "B-Project: Zecchou*Emotion"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/b-project-zecchou-emotion/9",
+      "anime_id": 293,
+      "anime_name": "B-Project: Zecchou*Emotion"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/b-project-zecchou-emotion/10",
+      "anime_id": 293,
+      "anime_name": "B-Project: Zecchou*Emotion"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/b-project-zecchou-emotion/11",
+      "anime_id": 293,
+      "anime_name": "B-Project: Zecchou*Emotion"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/b-project-zecchou-emotion/12",
+      "anime_id": 293,
+      "anime_name": "B-Project: Zecchou*Emotion"
+    }
+  ],
+  "total_episodes": 12
+}

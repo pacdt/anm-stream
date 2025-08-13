@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Fate/Grand Order: Himuro no Tenchi - 7-nin no Saikyou Ijin-hen",
+  "anime": {
+    "id": 988,
+    "nome": "Fate/Grand Order: Himuro no Tenchi - 7-nin no Saikyou Ijin-hen",
+    "link": "https://animefire.plus/animes/fate-grand-order-himuro-no-tenchi---7-nin-no-saikyou-ijin-hen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/fate-grand-order-himuro-no-tenchi---7-nin-no-saikyou-ijin-hen",
+    "rating": "6.37",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/fate-grand-order-himuro-no-tenchi---7-nin-no-saikyou-ijin-hen/1",
+      "anime_id": 988,
+      "anime_name": "Fate/Grand Order: Himuro no Tenchi - 7-nin no Saikyou Ijin-hen"
+    }
+  ],
+  "total_episodes": 1
+}

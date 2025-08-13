@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Francesca",
+  "anime": {
+    "id": 1022,
+    "nome": "Francesca",
+    "link": "https://animefire.plus/animes/francesca-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/francesca",
+    "rating": "5.54",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/francesca/1",
+      "anime_id": 1022,
+      "anime_name": "Francesca"
+    }
+  ],
+  "total_episodes": 1
+}

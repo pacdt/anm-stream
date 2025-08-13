@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 308,
+    "nome": "Bakemonogatari",
+    "link": "https://animefire.plus/animes/bakemonogatari-todos-os-episodios",
+    "texto_original": "Bakemonogatari",
+    "rating": 8.35,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/bakemonogatari.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bakemonogatari/",
+    "secao": "legendados",
+    "pagina": 162,
+    "total_episodios": 15,
+    "link_video": "https://animefire.plus/video/bakemonogatari"
+  }
+}

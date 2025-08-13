@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Genocyber (Dublado)",
+  "anime": {
+    "id": 1135,
+    "nome": "Genocyber (Dublado)",
+    "link": "https://animefire.plus/animes/genocyber-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/genocyber-dublado",
+    "rating": "5.87",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/genocyber-dublado/1",
+      "anime_id": 1135,
+      "anime_name": "Genocyber (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/genocyber-dublado/2",
+      "anime_id": 1135,
+      "anime_name": "Genocyber (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/genocyber-dublado/3",
+      "anime_id": 1135,
+      "anime_name": "Genocyber (Dublado)"
+    }
+  ],
+  "total_episodes": 3
+}

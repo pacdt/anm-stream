@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 498,
+    "nome": "Break Blade",
+    "link": "https://animefire.plus/animes/break-blade-todos-os-episodios",
+    "texto_original": "Break Blade",
+    "rating": 7.35,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/break-blade.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/break-blade/",
+    "secao": "legendados",
+    "pagina": 123,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/break-blade"
+  }
+}

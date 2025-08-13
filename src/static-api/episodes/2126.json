@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Kud Wafter",
+  "anime": {
+    "id": 2126,
+    "nome": "Kud Wafter",
+    "link": "https://animefire.plus/animes/kud-wafter-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kud-wafter",
+    "rating": "7.05",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kud-wafter/1",
+      "anime_id": 2126,
+      "anime_name": "Kud Wafter"
+    }
+  ],
+  "total_episodes": 1
+}

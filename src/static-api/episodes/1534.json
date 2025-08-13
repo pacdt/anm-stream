@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Hoshizora e Kakaru Hashi",
+  "anime": {
+    "id": 1534,
+    "nome": "Hoshizora e Kakaru Hashi",
+    "link": "https://animefire.plus/animes/hoshizora-e-kakaru-hashi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hoshizora-e-kakaru-hashi",
+    "rating": "6.92",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hoshizora-e-kakaru-hashi/1",
+      "anime_id": 1534,
+      "anime_name": "Hoshizora e Kakaru Hashi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hoshizora-e-kakaru-hashi/2",
+      "anime_id": 1534,
+      "anime_name": "Hoshizora e Kakaru Hashi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hoshizora-e-kakaru-hashi/3",
+      "anime_id": 1534,
+      "anime_name": "Hoshizora e Kakaru Hashi"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hoshizora-e-kakaru-hashi/4",
+      "anime_id": 1534,
+      "anime_name": "Hoshizora e Kakaru Hashi"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hoshizora-e-kakaru-hashi/5",
+      "anime_id": 1534,
+      "anime_name": "Hoshizora e Kakaru Hashi"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hoshizora-e-kakaru-hashi/6",
+      "anime_id": 1534,
+      "anime_name": "Hoshizora e Kakaru Hashi"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/hoshizora-e-kakaru-hashi/7",
+      "anime_id": 1534,
+      "anime_name": "Hoshizora e Kakaru Hashi"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/hoshizora-e-kakaru-hashi/8",
+      "anime_id": 1534,
+      "anime_name": "Hoshizora e Kakaru Hashi"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/hoshizora-e-kakaru-hashi/9",
+      "anime_id": 1534,
+      "anime_name": "Hoshizora e Kakaru Hashi"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/hoshizora-e-kakaru-hashi/10",
+      "anime_id": 1534,
+      "anime_name": "Hoshizora e Kakaru Hashi"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/hoshizora-e-kakaru-hashi/11",
+      "anime_id": 1534,
+      "anime_name": "Hoshizora e Kakaru Hashi"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/hoshizora-e-kakaru-hashi/12",
+      "anime_id": 1534,
+      "anime_name": "Hoshizora e Kakaru Hashi"
+    }
+  ],
+  "total_episodes": 12
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3901,
+    "nome": "Tonagura!",
+    "link": "https://animefire.plus/animes/tonagura-todos-os-episodios",
+    "texto_original": "Tonagura!",
+    "rating": 6.81,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/tonagura.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tonagura/",
+    "secao": "legendados",
+    "pagina": 117,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/tonagura"
+  }
+}

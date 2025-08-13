@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Saint Beast: Seijuu Kourin-hen",
+  "anime": {
+    "id": 3204,
+    "nome": "Saint Beast: Seijuu Kourin-hen",
+    "link": "https://animefire.plus/animes/saint-beast-seijuu-kourin-hen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/saint-beast-seijuu-kourin-hen",
+    "rating": "6.06",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/saint-beast-seijuu-kourin-hen/1",
+      "anime_id": 3204,
+      "anime_name": "Saint Beast: Seijuu Kourin-hen"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/saint-beast-seijuu-kourin-hen/2",
+      "anime_id": 3204,
+      "anime_name": "Saint Beast: Seijuu Kourin-hen"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/saint-beast-seijuu-kourin-hen/3",
+      "anime_id": 3204,
+      "anime_name": "Saint Beast: Seijuu Kourin-hen"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/saint-beast-seijuu-kourin-hen/4",
+      "anime_id": 3204,
+      "anime_name": "Saint Beast: Seijuu Kourin-hen"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/saint-beast-seijuu-kourin-hen/5",
+      "anime_id": 3204,
+      "anime_name": "Saint Beast: Seijuu Kourin-hen"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/saint-beast-seijuu-kourin-hen/6",
+      "anime_id": 3204,
+      "anime_name": "Saint Beast: Seijuu Kourin-hen"
+    }
+  ],
+  "total_episodes": 6
+}

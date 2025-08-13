@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: ef: A Tale of Melodies.",
+  "anime": {
+    "id": 922,
+    "nome": "ef: A Tale of Melodies.",
+    "link": "https://animefire.plus/animes/ef-a-tale-of-melodies-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ef-a-tale-of-melodies",
+    "rating": "8.09",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ef-a-tale-of-melodies/1",
+      "anime_id": 922,
+      "anime_name": "ef: A Tale of Melodies."
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ef-a-tale-of-melodies/2",
+      "anime_id": 922,
+      "anime_name": "ef: A Tale of Melodies."
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/ef-a-tale-of-melodies/3",
+      "anime_id": 922,
+      "anime_name": "ef: A Tale of Melodies."
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/ef-a-tale-of-melodies/4",
+      "anime_id": 922,
+      "anime_name": "ef: A Tale of Melodies."
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/ef-a-tale-of-melodies/5",
+      "anime_id": 922,
+      "anime_name": "ef: A Tale of Melodies."
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/ef-a-tale-of-melodies/6",
+      "anime_id": 922,
+      "anime_name": "ef: A Tale of Melodies."
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/ef-a-tale-of-melodies/7",
+      "anime_id": 922,
+      "anime_name": "ef: A Tale of Melodies."
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/ef-a-tale-of-melodies/8",
+      "anime_id": 922,
+      "anime_name": "ef: A Tale of Melodies."
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/ef-a-tale-of-melodies/9",
+      "anime_id": 922,
+      "anime_name": "ef: A Tale of Melodies."
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/ef-a-tale-of-melodies/10",
+      "anime_id": 922,
+      "anime_name": "ef: A Tale of Melodies."
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/ef-a-tale-of-melodies/11",
+      "anime_id": 922,
+      "anime_name": "ef: A Tale of Melodies."
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/ef-a-tale-of-melodies/12",
+      "anime_id": 922,
+      "anime_name": "ef: A Tale of Melodies."
+    }
+  ],
+  "total_episodes": 12
+}

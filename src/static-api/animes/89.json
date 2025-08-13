@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 89,
+    "nome": "AIKa",
+    "link": "https://animefire.plus/animes/aika-todos-os-episodios",
+    "texto_original": "AIKa",
+    "rating": 5.99,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/aika.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/aika/",
+    "secao": "legendados",
+    "pagina": 117,
+    "total_episodios": 7,
+    "link_video": "https://animefire.plus/video/aika"
+  }
+}

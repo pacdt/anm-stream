@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Soukou Musume Senki",
+  "anime": {
+    "id": 3587,
+    "nome": "Soukou Musume Senki",
+    "link": "https://animefire.plus/animes/soukou-musume-senki-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/soukou-musume-senki",
+    "rating": "5.78",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/soukou-musume-senki/1",
+      "anime_id": 3587,
+      "anime_name": "Soukou Musume Senki"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/soukou-musume-senki/2",
+      "anime_id": 3587,
+      "anime_name": "Soukou Musume Senki"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/soukou-musume-senki/3",
+      "anime_id": 3587,
+      "anime_name": "Soukou Musume Senki"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/soukou-musume-senki/4",
+      "anime_id": 3587,
+      "anime_name": "Soukou Musume Senki"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/soukou-musume-senki/5",
+      "anime_id": 3587,
+      "anime_name": "Soukou Musume Senki"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/soukou-musume-senki/6",
+      "anime_id": 3587,
+      "anime_name": "Soukou Musume Senki"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/soukou-musume-senki/7",
+      "anime_id": 3587,
+      "anime_name": "Soukou Musume Senki"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/soukou-musume-senki/8",
+      "anime_id": 3587,
+      "anime_name": "Soukou Musume Senki"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/soukou-musume-senki/9",
+      "anime_id": 3587,
+      "anime_name": "Soukou Musume Senki"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/soukou-musume-senki/10",
+      "anime_id": 3587,
+      "anime_name": "Soukou Musume Senki"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/soukou-musume-senki/11",
+      "anime_id": 3587,
+      "anime_name": "Soukou Musume Senki"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/soukou-musume-senki/12",
+      "anime_id": 3587,
+      "anime_name": "Soukou Musume Senki"
+    }
+  ],
+  "total_episodes": 12
+}

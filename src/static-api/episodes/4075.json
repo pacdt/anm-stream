@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Venus Project: Climax",
+  "anime": {
+    "id": 4075,
+    "nome": "Venus Project: Climax",
+    "link": "https://animefire.plus/animes/venus-project-climax-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/venus-project-climax",
+    "rating": "5.41",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/venus-project-climax/1",
+      "anime_id": 4075,
+      "anime_name": "Venus Project: Climax"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/venus-project-climax/2",
+      "anime_id": 4075,
+      "anime_name": "Venus Project: Climax"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/venus-project-climax/3",
+      "anime_id": 4075,
+      "anime_name": "Venus Project: Climax"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/venus-project-climax/4",
+      "anime_id": 4075,
+      "anime_name": "Venus Project: Climax"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/venus-project-climax/5",
+      "anime_id": 4075,
+      "anime_name": "Venus Project: Climax"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/venus-project-climax/6",
+      "anime_id": 4075,
+      "anime_name": "Venus Project: Climax"
+    }
+  ],
+  "total_episodes": 6
+}

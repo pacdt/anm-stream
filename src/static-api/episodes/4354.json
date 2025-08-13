@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Zettai Junpaku♡Mahou Shoujo",
+  "anime": {
+    "id": 4354,
+    "nome": "Zettai Junpaku♡Mahou Shoujo",
+    "link": "https://animefire.plus/animes/zettai-junpaku-mahou-shoujo-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/zettai-junpaku-mahou-shoujo",
+    "rating": "5.37",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/zettai-junpaku-mahou-shoujo/1",
+      "anime_id": 4354,
+      "anime_name": "Zettai Junpaku♡Mahou Shoujo"
+    }
+  ],
+  "total_episodes": 1
+}

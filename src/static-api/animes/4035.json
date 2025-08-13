@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4035,
+    "nome": "Urasekai Picnic",
+    "link": "https://animefire.plus/animes/urasekai-picnic-todos-os-episodios",
+    "texto_original": "Urasekai Picnic",
+    "rating": 6.66,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/urasekai-picnic.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/urasekai-picnic/",
+    "secao": "legendados",
+    "pagina": 49,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/urasekai-picnic"
+  }
+}

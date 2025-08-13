@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Major: World Series",
+  "anime": {
+    "id": 2388,
+    "nome": "Major: World Series",
+    "link": "https://animefire.plus/animes/major-world-series-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/major-world-series",
+    "rating": "8.38",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/major-world-series/1",
+      "anime_id": 2388,
+      "anime_name": "Major: World Series"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/major-world-series/2",
+      "anime_id": 2388,
+      "anime_name": "Major: World Series"
+    }
+  ],
+  "total_episodes": 2
+}

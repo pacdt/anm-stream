@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2856,
+    "nome": "Oniisama e...",
+    "link": "https://animefire.plus/animes/oniisama-e-todos-os-episodios",
+    "texto_original": "Oniisama e...",
+    "rating": 7.78,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/oniisama-e.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/oniisama-e/",
+    "secao": "legendados",
+    "pagina": 55,
+    "total_episodios": 39,
+    "link_video": "https://animefire.plus/video/oniisama-e"
+  }
+}

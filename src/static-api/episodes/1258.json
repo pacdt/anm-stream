@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Grisaia no Meikyuu: Caprice no Mayu 0",
+  "anime": {
+    "id": 1258,
+    "nome": "Grisaia no Meikyuu: Caprice no Mayu 0",
+    "link": "https://animefire.plus/animes/grisaia-no-meikyuu-caprice-no-mayu-0-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/grisaia-no-meikyuu-caprice-no-mayu-0",
+    "rating": "7.97",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/grisaia-no-meikyuu-caprice-no-mayu-0/1",
+      "anime_id": 1258,
+      "anime_name": "Grisaia no Meikyuu: Caprice no Mayu 0"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/grisaia-no-meikyuu-caprice-no-mayu-0/2",
+      "anime_id": 1258,
+      "anime_name": "Grisaia no Meikyuu: Caprice no Mayu 0"
+    }
+  ],
+  "total_episodes": 2
+}

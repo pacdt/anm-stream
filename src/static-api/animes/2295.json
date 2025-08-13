@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2295,
+    "nome": "Macross Zero",
+    "link": "https://animefire.plus/animes/macross-zero-todos-os-episodios",
+    "texto_original": "Macross Zero",
+    "rating": 7.54,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/macross-zero.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/macross-zero/",
+    "secao": "legendados",
+    "pagina": 45,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/macross-zero"
+  }
+}

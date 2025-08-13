@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Macross Zero",
+  "anime": {
+    "id": 2295,
+    "nome": "Macross Zero",
+    "link": "https://animefire.plus/animes/macross-zero-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/macross-zero",
+    "rating": "7.54",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/macross-zero/1",
+      "anime_id": 2295,
+      "anime_name": "Macross Zero"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/macross-zero/2",
+      "anime_id": 2295,
+      "anime_name": "Macross Zero"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/macross-zero/3",
+      "anime_id": 2295,
+      "anime_name": "Macross Zero"
+    }
+  ],
+  "total_episodes": 3
+}

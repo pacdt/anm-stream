@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Tsue to Tsurugi no Wistoria",
+  "anime": {
+    "id": 3945,
+    "nome": "Tsue to Tsurugi no Wistoria",
+    "link": "https://animefire.plus/animes/tsue-to-tsurugi-no-wistoria-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tsue-to-tsurugi-no-wistoria",
+    "rating": "7.87",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tsue-to-tsurugi-no-wistoria/1",
+      "anime_id": 3945,
+      "anime_name": "Tsue to Tsurugi no Wistoria"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tsue-to-tsurugi-no-wistoria/2",
+      "anime_id": 3945,
+      "anime_name": "Tsue to Tsurugi no Wistoria"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tsue-to-tsurugi-no-wistoria/3",
+      "anime_id": 3945,
+      "anime_name": "Tsue to Tsurugi no Wistoria"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tsue-to-tsurugi-no-wistoria/4",
+      "anime_id": 3945,
+      "anime_name": "Tsue to Tsurugi no Wistoria"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/tsue-to-tsurugi-no-wistoria/5",
+      "anime_id": 3945,
+      "anime_name": "Tsue to Tsurugi no Wistoria"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/tsue-to-tsurugi-no-wistoria/6",
+      "anime_id": 3945,
+      "anime_name": "Tsue to Tsurugi no Wistoria"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/tsue-to-tsurugi-no-wistoria/7",
+      "anime_id": 3945,
+      "anime_name": "Tsue to Tsurugi no Wistoria"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/tsue-to-tsurugi-no-wistoria/8",
+      "anime_id": 3945,
+      "anime_name": "Tsue to Tsurugi no Wistoria"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/tsue-to-tsurugi-no-wistoria/9",
+      "anime_id": 3945,
+      "anime_name": "Tsue to Tsurugi no Wistoria"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/tsue-to-tsurugi-no-wistoria/10",
+      "anime_id": 3945,
+      "anime_name": "Tsue to Tsurugi no Wistoria"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/tsue-to-tsurugi-no-wistoria/11",
+      "anime_id": 3945,
+      "anime_name": "Tsue to Tsurugi no Wistoria"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/tsue-to-tsurugi-no-wistoria/12",
+      "anime_id": 3945,
+      "anime_name": "Tsue to Tsurugi no Wistoria"
+    }
+  ],
+  "total_episodes": 12
+}

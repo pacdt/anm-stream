@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3765,
+    "nome": "Tears to Tiara",
+    "link": "https://animefire.plus/animes/tears-to-tiara-todos-os-episodios",
+    "texto_original": "Tears to Tiara",
+    "rating": 7.25,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/tears-to-tiara.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tears-to-tiara/",
+    "secao": "legendados",
+    "pagina": 153,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/tears-to-tiara"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1068,
+    "nome": "Fuuka",
+    "link": "https://animefire.plus/animes/fuuka-todos-os-episodios",
+    "texto_original": "Fuuka",
+    "rating": 6.71,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/fuuka.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/fuuka/",
+    "secao": "legendados",
+    "pagina": 111,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/fuuka"
+  }
+}

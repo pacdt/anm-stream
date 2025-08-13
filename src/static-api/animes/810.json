@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 810,
+    "nome": "Diabolik Lovers",
+    "link": "https://animefire.plus/animes/diabolik-lovers-todos-os-episodios",
+    "texto_original": "Diabolik Lovers",
+    "rating": 5.65,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/diabolik-lovers.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/diabolik-lovers/",
+    "secao": "legendados",
+    "pagina": 160,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/diabolik-lovers"
+  }
+}

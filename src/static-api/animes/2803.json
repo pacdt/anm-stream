@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2803,
+    "nome": "Occultic;Nine",
+    "link": "https://animefire.plus/animes/occultic-nine-todos-os-episodios",
+    "texto_original": "Occultic;Nine",
+    "rating": 6.98,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/occultic-nine.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/occultic-nine/",
+    "secao": "legendados",
+    "pagina": 62,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/occultic-nine"
+  }
+}

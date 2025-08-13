@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Genshiken Nidaime Specials",
+  "anime": {
+    "id": 1140,
+    "nome": "Genshiken Nidaime Specials",
+    "link": "https://animefire.plus/animes/genshiken-nidaime-specials-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/genshiken-nidaime-specials",
+    "rating": "6.89",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/genshiken-nidaime-specials/1",
+      "anime_id": 1140,
+      "anime_name": "Genshiken Nidaime Specials"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/genshiken-nidaime-specials/2",
+      "anime_id": 1140,
+      "anime_name": "Genshiken Nidaime Specials"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/genshiken-nidaime-specials/3",
+      "anime_id": 1140,
+      "anime_name": "Genshiken Nidaime Specials"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/genshiken-nidaime-specials/4",
+      "anime_id": 1140,
+      "anime_name": "Genshiken Nidaime Specials"
+    }
+  ],
+  "total_episodes": 4
+}

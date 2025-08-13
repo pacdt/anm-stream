@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Bad Girl",
+  "anime": {
+    "id": 304,
+    "nome": "Bad Girl",
+    "link": "https://animefire.plus/animes/bad-girl-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/bad-girl",
+    "rating": "6.80",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/bad-girl/1",
+      "anime_id": 304,
+      "anime_name": "Bad Girl"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/bad-girl/2",
+      "anime_id": 304,
+      "anime_name": "Bad Girl"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/bad-girl/3",
+      "anime_id": 304,
+      "anime_name": "Bad Girl"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/bad-girl/4",
+      "anime_id": 304,
+      "anime_name": "Bad Girl"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/bad-girl/5",
+      "anime_id": 304,
+      "anime_name": "Bad Girl"
+    }
+  ],
+  "total_episodes": 5
+}

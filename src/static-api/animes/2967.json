@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2967,
+    "nome": "Persona 5 the Animation",
+    "link": "https://animefire.plus/animes/persona-5-the-animation-todos-os-episodios",
+    "texto_original": "Persona 5 the Animation",
+    "rating": 6.71,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/persona-5-the-animation.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/persona-5-the-animation/",
+    "secao": "legendados",
+    "pagina": 120,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/persona-5-the-animation"
+  }
+}

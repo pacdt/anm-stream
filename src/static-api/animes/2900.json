@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2900,
+    "nome": "Oruchuban Ebichu",
+    "link": "https://animefire.plus/animes/oruchuban-ebichu-todos-os-episodios",
+    "texto_original": "Oruchuban Ebichu",
+    "rating": 7.48,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/oruchuban-ebichu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/oruchuban-ebichu/",
+    "secao": "legendados",
+    "pagina": 143,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/oruchuban-ebichu"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2858,
+    "nome": "Onipan!",
+    "link": "https://animefire.plus/animes/onipan-todos-os-episodios",
+    "texto_original": "Onipan!",
+    "rating": 6.5,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/onipan.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/onipan/",
+    "secao": "legendados,lancamentos",
+    "pagina": 33,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/onipan"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Juuou Mujin No Fafnir",
+  "anime": {
+    "id": 1768,
+    "nome": "Juuou Mujin No Fafnir",
+    "link": "https://animefire.plus/animes/juuou-mujin-no-fafnir-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/juuou-mujin-no-fafnir",
+    "rating": "6.39",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/juuou-mujin-no-fafnir/1",
+      "anime_id": 1768,
+      "anime_name": "Juuou Mujin No Fafnir"
+    }
+  ],
+  "total_episodes": 1
+}

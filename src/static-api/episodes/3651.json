@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Strike the Blood: Valkyria no Oukoku-hen",
+  "anime": {
+    "id": 3651,
+    "nome": "Strike the Blood: Valkyria no Oukoku-hen",
+    "link": "https://animefire.plus/animes/strike-the-blood-valkyria-no-oukoku-hen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/strike-the-blood-valkyria-no-oukoku-hen",
+    "rating": "7.32",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/strike-the-blood-valkyria-no-oukoku-hen/1",
+      "anime_id": 3651,
+      "anime_name": "Strike the Blood: Valkyria no Oukoku-hen"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/strike-the-blood-valkyria-no-oukoku-hen/2",
+      "anime_id": 3651,
+      "anime_name": "Strike the Blood: Valkyria no Oukoku-hen"
+    }
+  ],
+  "total_episodes": 2
+}

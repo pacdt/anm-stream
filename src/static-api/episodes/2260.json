@@ -1,0 +1,68 @@
+{
+  "message": "Lista de episódios do anime: Love♥Love?",
+  "anime": {
+    "id": 2260,
+    "nome": "Love♥Love?",
+    "link": "https://animefire.plus/animes/love-love-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/love-love",
+    "rating": "5.98",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/love-love/1",
+      "anime_id": 2260,
+      "anime_name": "Love♥Love?"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/love-love/2",
+      "anime_id": 2260,
+      "anime_name": "Love♥Love?"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/love-love/3",
+      "anime_id": 2260,
+      "anime_name": "Love♥Love?"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/love-love/4",
+      "anime_id": 2260,
+      "anime_name": "Love♥Love?"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/love-love/5",
+      "anime_id": 2260,
+      "anime_name": "Love♥Love?"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/love-love/6",
+      "anime_id": 2260,
+      "anime_name": "Love♥Love?"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/love-love/7",
+      "anime_id": 2260,
+      "anime_name": "Love♥Love?"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/love-love/8",
+      "anime_id": 2260,
+      "anime_name": "Love♥Love?"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/love-love/9",
+      "anime_id": 2260,
+      "anime_name": "Love♥Love?"
+    }
+  ],
+  "total_episodes": 9
+}

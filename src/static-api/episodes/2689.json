@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Natsume Yuujinchou Roku Specials",
+  "anime": {
+    "id": 2689,
+    "nome": "Natsume Yuujinchou Roku Specials",
+    "link": "https://animefire.plus/animes/natsume-yuujinchou-roku-specials-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/natsume-yuujinchou-roku-specials",
+    "rating": "8.42",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-roku-specials/1",
+      "anime_id": 2689,
+      "anime_name": "Natsume Yuujinchou Roku Specials"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-roku-specials/2",
+      "anime_id": 2689,
+      "anime_name": "Natsume Yuujinchou Roku Specials"
+    }
+  ],
+  "total_episodes": 2
+}

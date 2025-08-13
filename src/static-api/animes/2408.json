@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2408,
+    "nome": "Maou 2099",
+    "link": "https://animefire.plus/animes/maou-2099-todos-os-episodios",
+    "texto_original": "Maou 2099",
+    "rating": 7.44,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/maou-2099.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/maou-2099/",
+    "secao": "legendados",
+    "pagina": 11,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/maou-2099"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 945,
+    "nome": "Endro~!",
+    "link": "https://animefire.plus/animes/endro-todos-os-episodios",
+    "texto_original": "Endro~!",
+    "rating": 6.95,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/endro.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/endro/",
+    "secao": "legendados",
+    "pagina": 90,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/endro"
+  }
+}

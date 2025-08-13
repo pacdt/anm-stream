@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 639,
+    "nome": "Chu-Bra!!",
+    "link": "https://animefire.plus/animes/chu-bra-todos-os-episodios",
+    "texto_original": "Chu-Bra!!",
+    "rating": 6.28,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/chu-bra.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/chu-bra/",
+    "secao": "legendados",
+    "pagina": 131,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/chu-bra"
+  }
+}

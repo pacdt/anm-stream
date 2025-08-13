@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Bishoujo Yuugekitai Battle Skipper",
+  "anime": {
+    "id": 403,
+    "nome": "Bishoujo Yuugekitai Battle Skipper",
+    "link": "https://animefire.plus/animes/bishoujo-yuugekitai-battle-skipper-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/bishoujo-yuugekitai-battle-skipper",
+    "rating": "5.23",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/bishoujo-yuugekitai-battle-skipper/1",
+      "anime_id": 403,
+      "anime_name": "Bishoujo Yuugekitai Battle Skipper"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/bishoujo-yuugekitai-battle-skipper/2",
+      "anime_id": 403,
+      "anime_name": "Bishoujo Yuugekitai Battle Skipper"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/bishoujo-yuugekitai-battle-skipper/3",
+      "anime_id": 403,
+      "anime_name": "Bishoujo Yuugekitai Battle Skipper"
+    }
+  ],
+  "total_episodes": 3
+}

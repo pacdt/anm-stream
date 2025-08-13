@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3772,
+    "nome": "Temple",
+    "link": "https://animefire.plus/animes/temple-todos-os-episodios",
+    "texto_original": "Temple",
+    "rating": 6.7,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/temple.jpg",
+    "imagem_pasta": "https://animefire.plus/img/animes/temple/",
+    "secao": "legendados,lancamentos",
+    "pagina": 22,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/temple"
+  }
+}

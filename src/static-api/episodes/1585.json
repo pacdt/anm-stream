@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Idol Jihen",
+  "anime": {
+    "id": 1585,
+    "nome": "Idol Jihen",
+    "link": "https://animefire.plus/animes/idol-jihen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/idol-jihen",
+    "rating": "5.70",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/idol-jihen/1",
+      "anime_id": 1585,
+      "anime_name": "Idol Jihen"
+    }
+  ],
+  "total_episodes": 1
+}

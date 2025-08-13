@@ -1,0 +1,74 @@
+{
+  "message": "Lista de episódios do anime: Dekiru Neko wa Kyou mo Yuuutsu",
+  "anime": {
+    "id": 783,
+    "nome": "Dekiru Neko wa Kyou mo Yuuutsu",
+    "link": "https://animefire.plus/animes/dekiru-neko-wa-kyou-mo-yuuutsu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/dekiru-neko-wa-kyou-mo-yuuutsu",
+    "rating": "7.64",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/dekiru-neko-wa-kyou-mo-yuuutsu/1",
+      "anime_id": 783,
+      "anime_name": "Dekiru Neko wa Kyou mo Yuuutsu"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/dekiru-neko-wa-kyou-mo-yuuutsu/2",
+      "anime_id": 783,
+      "anime_name": "Dekiru Neko wa Kyou mo Yuuutsu"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/dekiru-neko-wa-kyou-mo-yuuutsu/3",
+      "anime_id": 783,
+      "anime_name": "Dekiru Neko wa Kyou mo Yuuutsu"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/dekiru-neko-wa-kyou-mo-yuuutsu/4",
+      "anime_id": 783,
+      "anime_name": "Dekiru Neko wa Kyou mo Yuuutsu"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/dekiru-neko-wa-kyou-mo-yuuutsu/5",
+      "anime_id": 783,
+      "anime_name": "Dekiru Neko wa Kyou mo Yuuutsu"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/dekiru-neko-wa-kyou-mo-yuuutsu/6",
+      "anime_id": 783,
+      "anime_name": "Dekiru Neko wa Kyou mo Yuuutsu"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/dekiru-neko-wa-kyou-mo-yuuutsu/7",
+      "anime_id": 783,
+      "anime_name": "Dekiru Neko wa Kyou mo Yuuutsu"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/dekiru-neko-wa-kyou-mo-yuuutsu/8",
+      "anime_id": 783,
+      "anime_name": "Dekiru Neko wa Kyou mo Yuuutsu"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/dekiru-neko-wa-kyou-mo-yuuutsu/9",
+      "anime_id": 783,
+      "anime_name": "Dekiru Neko wa Kyou mo Yuuutsu"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/dekiru-neko-wa-kyou-mo-yuuutsu/10",
+      "anime_id": 783,
+      "anime_name": "Dekiru Neko wa Kyou mo Yuuutsu"
+    }
+  ],
+  "total_episodes": 10
+}

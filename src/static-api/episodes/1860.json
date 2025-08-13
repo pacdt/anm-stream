@@ -1,0 +1,68 @@
+{
+  "message": "Lista de episódios do anime: Kamisama No Inai Nichiyoubi",
+  "anime": {
+    "id": 1860,
+    "nome": "Kamisama No Inai Nichiyoubi",
+    "link": "https://animefire.plus/animes/kamisama-no-inai-nichiyoubi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kamisama-no-inai-nichiyoubi",
+    "rating": "7.43",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kamisama-no-inai-nichiyoubi/1",
+      "anime_id": 1860,
+      "anime_name": "Kamisama No Inai Nichiyoubi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kamisama-no-inai-nichiyoubi/2",
+      "anime_id": 1860,
+      "anime_name": "Kamisama No Inai Nichiyoubi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kamisama-no-inai-nichiyoubi/3",
+      "anime_id": 1860,
+      "anime_name": "Kamisama No Inai Nichiyoubi"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kamisama-no-inai-nichiyoubi/4",
+      "anime_id": 1860,
+      "anime_name": "Kamisama No Inai Nichiyoubi"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kamisama-no-inai-nichiyoubi/5",
+      "anime_id": 1860,
+      "anime_name": "Kamisama No Inai Nichiyoubi"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kamisama-no-inai-nichiyoubi/6",
+      "anime_id": 1860,
+      "anime_name": "Kamisama No Inai Nichiyoubi"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/kamisama-no-inai-nichiyoubi/7",
+      "anime_id": 1860,
+      "anime_name": "Kamisama No Inai Nichiyoubi"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/kamisama-no-inai-nichiyoubi/8",
+      "anime_id": 1860,
+      "anime_name": "Kamisama No Inai Nichiyoubi"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/kamisama-no-inai-nichiyoubi/9",
+      "anime_id": 1860,
+      "anime_name": "Kamisama No Inai Nichiyoubi"
+    }
+  ],
+  "total_episodes": 9
+}

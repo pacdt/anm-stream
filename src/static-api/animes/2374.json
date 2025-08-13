@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2374,
+    "nome": "Majimoji Rurumo",
+    "link": "https://animefire.plus/animes/majimoji-rurumo-todos-os-episodios",
+    "texto_original": "Majimoji Rurumo",
+    "rating": 6.9,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/majimoji-rurumo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/majimoji-rurumo/",
+    "secao": "legendados",
+    "pagina": 164,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/majimoji-rurumo"
+  }
+}

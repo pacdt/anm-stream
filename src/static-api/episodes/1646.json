@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Iria: Zeiram The Animation",
+  "anime": {
+    "id": 1646,
+    "nome": "Iria: Zeiram The Animation",
+    "link": "https://animefire.plus/animes/iria-zeiram-the-animation-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/iria-zeiram-the-animation",
+    "rating": "7.15",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/iria-zeiram-the-animation/1",
+      "anime_id": 1646,
+      "anime_name": "Iria: Zeiram The Animation"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/iria-zeiram-the-animation/2",
+      "anime_id": 1646,
+      "anime_name": "Iria: Zeiram The Animation"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/iria-zeiram-the-animation/3",
+      "anime_id": 1646,
+      "anime_name": "Iria: Zeiram The Animation"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/iria-zeiram-the-animation/4",
+      "anime_id": 1646,
+      "anime_name": "Iria: Zeiram The Animation"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/iria-zeiram-the-animation/5",
+      "anime_id": 1646,
+      "anime_name": "Iria: Zeiram The Animation"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/iria-zeiram-the-animation/6",
+      "anime_id": 1646,
+      "anime_name": "Iria: Zeiram The Animation"
+    }
+  ],
+  "total_episodes": 6
+}

@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Himitsukessha Taka no Tsume: Golden Spell",
+  "anime": {
+    "id": 1487,
+    "nome": "Himitsukessha Taka no Tsume: Golden Spell",
+    "link": "https://animefire.plus/animes/himitsukessha-taka-no-tsume-golden-spell-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/himitsukessha-taka-no-tsume-golden-spell",
+    "rating": "5.71",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/himitsukessha-taka-no-tsume-golden-spell/1",
+      "anime_id": 1487,
+      "anime_name": "Himitsukessha Taka no Tsume: Golden Spell"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/himitsukessha-taka-no-tsume-golden-spell/2",
+      "anime_id": 1487,
+      "anime_name": "Himitsukessha Taka no Tsume: Golden Spell"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/himitsukessha-taka-no-tsume-golden-spell/3",
+      "anime_id": 1487,
+      "anime_name": "Himitsukessha Taka no Tsume: Golden Spell"
+    }
+  ],
+  "total_episodes": 3
+}

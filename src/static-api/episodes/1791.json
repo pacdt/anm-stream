@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+  "anime": {
+    "id": 1791,
+    "nome": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+    "link": "https://animefire.plus/animes/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai",
+    "rating": "8.73",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai/1",
+      "anime_id": 1791,
+      "anime_name": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai/2",
+      "anime_id": 1791,
+      "anime_name": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai/3",
+      "anime_id": 1791,
+      "anime_name": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai/4",
+      "anime_id": 1791,
+      "anime_name": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai"
+    }
+  ],
+  "total_episodes": 4
+}

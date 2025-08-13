@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 561,
+    "nome": "Cardcaptor Sakura (Dublado)",
+    "link": "https://animefire.plus/animes/cardcaptor-sakura-dublado-todos-os-episodios",
+    "texto_original": "Cardcaptor Sakura (Dublado)",
+    "rating": 8.2,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/cardcaptor-sakura.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/cardcaptor-sakura/",
+    "secao": "dublados",
+    "pagina": 27,
+    "total_episodios": 15,
+    "link_video": "https://animefire.plus/video/cardcaptor-sakura-dublado"
+  }
+}

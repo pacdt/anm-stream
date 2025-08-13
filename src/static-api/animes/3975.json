@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3975,
+    "nome": "Turkey!",
+    "link": "https://animefire.plus/animes/turkey-todos-os-episodios",
+    "texto_original": "Turkey!",
+    "rating": 6.29,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/turkey.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/turkey/",
+    "secao": "legendados,lancamentos",
+    "pagina": 2,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/turkey"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3559,
+    "nome": "Smile Precure! (Dublado)",
+    "link": "https://animefire.plus/animes/smile-precure-dublado-todos-os-episodios",
+    "texto_original": "Smile Precure! (Dublado)",
+    "rating": 6.95,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/smile-precure.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/smile-precure/",
+    "secao": "dublados,legendados",
+    "pagina": 22,
+    "total_episodios": 40,
+    "link_video": "https://animefire.plus/video/smile-precure-dublado"
+  }
+}

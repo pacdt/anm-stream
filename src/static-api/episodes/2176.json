@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Kyoto Teramachi Sanjou no Holmes",
+  "anime": {
+    "id": 2176,
+    "nome": "Kyoto Teramachi Sanjou no Holmes",
+    "link": "https://animefire.plus/animes/kyoto-teramachi-sanjou-no-holmes-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kyoto-teramachi-sanjou-no-holmes",
+    "rating": "6.81",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kyoto-teramachi-sanjou-no-holmes/1",
+      "anime_id": 2176,
+      "anime_name": "Kyoto Teramachi Sanjou no Holmes"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kyoto-teramachi-sanjou-no-holmes/2",
+      "anime_id": 2176,
+      "anime_name": "Kyoto Teramachi Sanjou no Holmes"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kyoto-teramachi-sanjou-no-holmes/3",
+      "anime_id": 2176,
+      "anime_name": "Kyoto Teramachi Sanjou no Holmes"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kyoto-teramachi-sanjou-no-holmes/4",
+      "anime_id": 2176,
+      "anime_name": "Kyoto Teramachi Sanjou no Holmes"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kyoto-teramachi-sanjou-no-holmes/5",
+      "anime_id": 2176,
+      "anime_name": "Kyoto Teramachi Sanjou no Holmes"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kyoto-teramachi-sanjou-no-holmes/6",
+      "anime_id": 2176,
+      "anime_name": "Kyoto Teramachi Sanjou no Holmes"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/kyoto-teramachi-sanjou-no-holmes/7",
+      "anime_id": 2176,
+      "anime_name": "Kyoto Teramachi Sanjou no Holmes"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/kyoto-teramachi-sanjou-no-holmes/8",
+      "anime_id": 2176,
+      "anime_name": "Kyoto Teramachi Sanjou no Holmes"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/kyoto-teramachi-sanjou-no-holmes/9",
+      "anime_id": 2176,
+      "anime_name": "Kyoto Teramachi Sanjou no Holmes"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/kyoto-teramachi-sanjou-no-holmes/10",
+      "anime_id": 2176,
+      "anime_name": "Kyoto Teramachi Sanjou no Holmes"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/kyoto-teramachi-sanjou-no-holmes/11",
+      "anime_id": 2176,
+      "anime_name": "Kyoto Teramachi Sanjou no Holmes"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/kyoto-teramachi-sanjou-no-holmes/12",
+      "anime_id": 2176,
+      "anime_name": "Kyoto Teramachi Sanjou no Holmes"
+    }
+  ],
+  "total_episodes": 12
+}

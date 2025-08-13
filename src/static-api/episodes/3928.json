@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: Touken Ranbu Kai: Kyoden Moyuru Honnouji",
+  "anime": {
+    "id": 3928,
+    "nome": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
+    "link": "https://animefire.plus/animes/touken-ranbu-kai-kyoden-moyuru-honnouji-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/touken-ranbu-kai-kyoden-moyuru-honnouji",
+    "rating": "6.09",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/touken-ranbu-kai-kyoden-moyuru-honnouji/1",
+      "anime_id": 3928,
+      "anime_name": "Touken Ranbu Kai: Kyoden Moyuru Honnouji"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/touken-ranbu-kai-kyoden-moyuru-honnouji/2",
+      "anime_id": 3928,
+      "anime_name": "Touken Ranbu Kai: Kyoden Moyuru Honnouji"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/touken-ranbu-kai-kyoden-moyuru-honnouji/3",
+      "anime_id": 3928,
+      "anime_name": "Touken Ranbu Kai: Kyoden Moyuru Honnouji"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/touken-ranbu-kai-kyoden-moyuru-honnouji/4",
+      "anime_id": 3928,
+      "anime_name": "Touken Ranbu Kai: Kyoden Moyuru Honnouji"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/touken-ranbu-kai-kyoden-moyuru-honnouji/5",
+      "anime_id": 3928,
+      "anime_name": "Touken Ranbu Kai: Kyoden Moyuru Honnouji"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/touken-ranbu-kai-kyoden-moyuru-honnouji/6",
+      "anime_id": 3928,
+      "anime_name": "Touken Ranbu Kai: Kyoden Moyuru Honnouji"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/touken-ranbu-kai-kyoden-moyuru-honnouji/7",
+      "anime_id": 3928,
+      "anime_name": "Touken Ranbu Kai: Kyoden Moyuru Honnouji"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/touken-ranbu-kai-kyoden-moyuru-honnouji/8",
+      "anime_id": 3928,
+      "anime_name": "Touken Ranbu Kai: Kyoden Moyuru Honnouji"
+    }
+  ],
+  "total_episodes": 8
+}

@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Karen Senki",
+  "anime": {
+    "id": 1900,
+    "nome": "Karen Senki",
+    "link": "https://animefire.plus/animes/karen-senki-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/karen-senki",
+    "rating": "5.82",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/karen-senki/1",
+      "anime_id": 1900,
+      "anime_name": "Karen Senki"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/karen-senki/2",
+      "anime_id": 1900,
+      "anime_name": "Karen Senki"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/karen-senki/3",
+      "anime_id": 1900,
+      "anime_name": "Karen Senki"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/karen-senki/4",
+      "anime_id": 1900,
+      "anime_name": "Karen Senki"
+    }
+  ],
+  "total_episodes": 4
+}

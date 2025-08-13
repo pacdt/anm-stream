@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 56,
+    "nome": "Absolute Duo",
+    "link": "https://animefire.plus/animes/absolute-duo-todos-os-episodios",
+    "texto_original": "Absolute Duo",
+    "rating": 6.71,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/absolute-duo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/absolute-duo/",
+    "secao": "legendados",
+    "pagina": 120,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/absolute-duo"
+  }
+}

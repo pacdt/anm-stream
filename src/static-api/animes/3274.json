@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3274,
+    "nome": "School Days",
+    "link": "https://animefire.plus/animes/school-days-todos-os-episodios",
+    "texto_original": "School Days",
+    "rating": 5.93,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/school-days.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/school-days/",
+    "secao": "legendados",
+    "pagina": 158,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/school-days"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1259,
+    "nome": "Grisaia No Rakuen",
+    "link": "https://animefire.plus/animes/grisaia-no-rakuen-todos-os-episodios",
+    "texto_original": "Grisaia No Rakuen",
+    "rating": 7.98,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/grisaia-no-rakuen.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/grisaia-no-rakuen/",
+    "secao": "legendados",
+    "pagina": 91,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/grisaia-no-rakuen"
+  }
+}

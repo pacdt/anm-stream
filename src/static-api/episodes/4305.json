@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Yuru Yuri San☆Hai!",
+  "anime": {
+    "id": 4305,
+    "nome": "Yuru Yuri San☆Hai!",
+    "link": "https://animefire.plus/animes/yuru-yuri-san-hai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yuru-yuri-san-hai",
+    "rating": "7.98",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yuru-yuri-san-hai/1",
+      "anime_id": 4305,
+      "anime_name": "Yuru Yuri San☆Hai!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yuru-yuri-san-hai/2",
+      "anime_id": 4305,
+      "anime_name": "Yuru Yuri San☆Hai!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/yuru-yuri-san-hai/3",
+      "anime_id": 4305,
+      "anime_name": "Yuru Yuri San☆Hai!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/yuru-yuri-san-hai/4",
+      "anime_id": 4305,
+      "anime_name": "Yuru Yuri San☆Hai!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/yuru-yuri-san-hai/5",
+      "anime_id": 4305,
+      "anime_name": "Yuru Yuri San☆Hai!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/yuru-yuri-san-hai/6",
+      "anime_id": 4305,
+      "anime_name": "Yuru Yuri San☆Hai!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/yuru-yuri-san-hai/7",
+      "anime_id": 4305,
+      "anime_name": "Yuru Yuri San☆Hai!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/yuru-yuri-san-hai/8",
+      "anime_id": 4305,
+      "anime_name": "Yuru Yuri San☆Hai!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/yuru-yuri-san-hai/9",
+      "anime_id": 4305,
+      "anime_name": "Yuru Yuri San☆Hai!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/yuru-yuri-san-hai/10",
+      "anime_id": 4305,
+      "anime_name": "Yuru Yuri San☆Hai!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/yuru-yuri-san-hai/11",
+      "anime_id": 4305,
+      "anime_name": "Yuru Yuri San☆Hai!"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/yuru-yuri-san-hai/12",
+      "anime_id": 4305,
+      "anime_name": "Yuru Yuri San☆Hai!"
+    }
+  ],
+  "total_episodes": 12
+}

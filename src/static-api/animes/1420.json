@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1420,
+    "nome": "Hentatsu (TV)",
+    "link": "https://animefire.plus/animes/hentatsu-tv-todos-os-episodios",
+    "texto_original": "Hentatsu (TV)",
+    "rating": 5.1,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/hentatsu-tv.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hentatsu-tv/",
+    "secao": "legendados",
+    "pagina": 80,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/hentatsu-tv"
+  }
+}

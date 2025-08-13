@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Itsuka Tenma no Kuro Usagi Picture Drama",
+  "anime": {
+    "id": 1696,
+    "nome": "Itsuka Tenma no Kuro Usagi Picture Drama",
+    "link": "https://animefire.plus/animes/itsuka-tenma-no-kuro-usagi-picture-drama-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/itsuka-tenma-no-kuro-usagi-picture-drama",
+    "rating": "6.19",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/itsuka-tenma-no-kuro-usagi-picture-drama/1",
+      "anime_id": 1696,
+      "anime_name": "Itsuka Tenma no Kuro Usagi Picture Drama"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/itsuka-tenma-no-kuro-usagi-picture-drama/2",
+      "anime_id": 1696,
+      "anime_name": "Itsuka Tenma no Kuro Usagi Picture Drama"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/itsuka-tenma-no-kuro-usagi-picture-drama/3",
+      "anime_id": 1696,
+      "anime_name": "Itsuka Tenma no Kuro Usagi Picture Drama"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/itsuka-tenma-no-kuro-usagi-picture-drama/4",
+      "anime_id": 1696,
+      "anime_name": "Itsuka Tenma no Kuro Usagi Picture Drama"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/itsuka-tenma-no-kuro-usagi-picture-drama/5",
+      "anime_id": 1696,
+      "anime_name": "Itsuka Tenma no Kuro Usagi Picture Drama"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/itsuka-tenma-no-kuro-usagi-picture-drama/6",
+      "anime_id": 1696,
+      "anime_name": "Itsuka Tenma no Kuro Usagi Picture Drama"
+    }
+  ],
+  "total_episodes": 6
+}

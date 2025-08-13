@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3639,
+    "nome": "Strange+",
+    "link": "https://animefire.plus/animes/strange-todos-os-episodios",
+    "texto_original": "Strange+",
+    "rating": 6.03,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/strange.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/strange/",
+    "secao": "legendados",
+    "pagina": 100,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/strange"
+  }
+}

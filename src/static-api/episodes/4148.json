@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Wolf's Rain OVA",
+  "anime": {
+    "id": 4148,
+    "nome": "Wolf's Rain OVA",
+    "link": "https://animefire.plus/animes/wolf-s-rain-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/wolf-s-rain-ova",
+    "rating": "8.02",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/wolf-s-rain-ova/1",
+      "anime_id": 4148,
+      "anime_name": "Wolf's Rain OVA"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/wolf-s-rain-ova/2",
+      "anime_id": 4148,
+      "anime_name": "Wolf's Rain OVA"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/wolf-s-rain-ova/3",
+      "anime_id": 4148,
+      "anime_name": "Wolf's Rain OVA"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/wolf-s-rain-ova/4",
+      "anime_id": 4148,
+      "anime_name": "Wolf's Rain OVA"
+    }
+  ],
+  "total_episodes": 4
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2965,
+    "nome": "Persona 4 the Animation",
+    "link": "https://animefire.plus/animes/persona-4-the-animation-todos-os-episodios",
+    "texto_original": "Persona 4 the Animation",
+    "rating": 7.59,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/persona-4-the-animation.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/persona-4-the-animation/",
+    "secao": "legendados",
+    "pagina": 165,
+    "total_episodios": 15,
+    "link_video": "https://animefire.plus/video/persona-4-the-animation"
+  }
+}

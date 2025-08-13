@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Vandread: The Second Stage",
+  "anime": {
+    "id": 4067,
+    "nome": "Vandread: The Second Stage",
+    "link": "https://animefire.plus/animes/vandread-the-second-stage-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/vandread-the-second-stage",
+    "rating": "7.48",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/vandread-the-second-stage/1",
+      "anime_id": 4067,
+      "anime_name": "Vandread: The Second Stage"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/vandread-the-second-stage/2",
+      "anime_id": 4067,
+      "anime_name": "Vandread: The Second Stage"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/vandread-the-second-stage/3",
+      "anime_id": 4067,
+      "anime_name": "Vandread: The Second Stage"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/vandread-the-second-stage/4",
+      "anime_id": 4067,
+      "anime_name": "Vandread: The Second Stage"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/vandread-the-second-stage/5",
+      "anime_id": 4067,
+      "anime_name": "Vandread: The Second Stage"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/vandread-the-second-stage/6",
+      "anime_id": 4067,
+      "anime_name": "Vandread: The Second Stage"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/vandread-the-second-stage/7",
+      "anime_id": 4067,
+      "anime_name": "Vandread: The Second Stage"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/vandread-the-second-stage/8",
+      "anime_id": 4067,
+      "anime_name": "Vandread: The Second Stage"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/vandread-the-second-stage/9",
+      "anime_id": 4067,
+      "anime_name": "Vandread: The Second Stage"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/vandread-the-second-stage/10",
+      "anime_id": 4067,
+      "anime_name": "Vandread: The Second Stage"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/vandread-the-second-stage/11",
+      "anime_id": 4067,
+      "anime_name": "Vandread: The Second Stage"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/vandread-the-second-stage/12",
+      "anime_id": 4067,
+      "anime_name": "Vandread: The Second Stage"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/vandread-the-second-stage/13",
+      "anime_id": 4067,
+      "anime_name": "Vandread: The Second Stage"
+    }
+  ],
+  "total_episodes": 13
+}

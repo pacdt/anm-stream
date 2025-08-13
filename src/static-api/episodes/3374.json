@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Shadowverse (TV)",
+  "anime": {
+    "id": 3374,
+    "nome": "Shadowverse (TV)",
+    "link": "https://animefire.plus/animes/shadowverse-tv-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shadowverse-tv",
+    "rating": "5.10",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shadowverse-tv/1",
+      "anime_id": 3374,
+      "anime_name": "Shadowverse (TV)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shadowverse-tv/2",
+      "anime_id": 3374,
+      "anime_name": "Shadowverse (TV)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/shadowverse-tv/3",
+      "anime_id": 3374,
+      "anime_name": "Shadowverse (TV)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/shadowverse-tv/4",
+      "anime_id": 3374,
+      "anime_name": "Shadowverse (TV)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/shadowverse-tv/5",
+      "anime_id": 3374,
+      "anime_name": "Shadowverse (TV)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/shadowverse-tv/6",
+      "anime_id": 3374,
+      "anime_name": "Shadowverse (TV)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/shadowverse-tv/7",
+      "anime_id": 3374,
+      "anime_name": "Shadowverse (TV)"
+    }
+  ],
+  "total_episodes": 7
+}

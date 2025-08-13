@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3923,
+    "nome": "Totsukuni no Shoujo",
+    "link": "https://animefire.plus/animes/totsukuni-no-shoujo-todos-os-episodios",
+    "texto_original": "Totsukuni no Shoujo",
+    "rating": 7.5,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/totsukuni-no-shoujo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/totsukuni-no-shoujo/",
+    "secao": "legendados",
+    "pagina": 87,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/totsukuni-no-shoujo"
+  }
+}

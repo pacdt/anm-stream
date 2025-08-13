@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2464,
+    "nome": "Megalo Box",
+    "link": "https://animefire.plus/animes/megalo-box-todos-os-episodios",
+    "texto_original": "Megalo Box",
+    "rating": 8.02,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/megalo-box.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/megalo-box/",
+    "secao": "legendados",
+    "pagina": 95,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/megalo-box"
+  }
+}

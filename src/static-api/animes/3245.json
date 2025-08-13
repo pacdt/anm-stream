@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3245,
+    "nome": "Samurai Flamenco",
+    "link": "https://animefire.plus/animes/samurai-flamenco-todos-os-episodios",
+    "texto_original": "Samurai Flamenco",
+    "rating": 6.92,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/samurai-flamenco.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/samurai-flamenco/",
+    "secao": "legendados",
+    "pagina": 65,
+    "total_episodios": 22,
+    "link_video": "https://animefire.plus/video/samurai-flamenco"
+  }
+}

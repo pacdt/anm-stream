@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1149,
+    "nome": "Getter Robo Arc",
+    "link": "https://animefire.plus/animes/getter-robo-arc-todos-os-episodios",
+    "texto_original": "Getter Robo Arc",
+    "rating": 6.16,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/getter-robo-arc.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/getter-robo-arc/",
+    "secao": "legendados",
+    "pagina": 40,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/getter-robo-arc"
+  }
+}

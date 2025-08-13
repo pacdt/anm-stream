@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Megami Paradise",
+  "anime": {
+    "id": 2468,
+    "nome": "Megami Paradise",
+    "link": "https://animefire.plus/animes/megami-paradise-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/megami-paradise",
+    "rating": "5.54",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/megami-paradise/1",
+      "anime_id": 2468,
+      "anime_name": "Megami Paradise"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/megami-paradise/2",
+      "anime_id": 2468,
+      "anime_name": "Megami Paradise"
+    }
+  ],
+  "total_episodes": 2
+}

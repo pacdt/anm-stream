@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Green Green Specials",
+  "anime": {
+    "id": 1253,
+    "nome": "Green Green Specials",
+    "link": "https://animefire.plus/animes/green-green-specials-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/green-green-specials",
+    "rating": "6.27",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/green-green-specials/1",
+      "anime_id": 1253,
+      "anime_name": "Green Green Specials"
+    }
+  ],
+  "total_episodes": 1
+}

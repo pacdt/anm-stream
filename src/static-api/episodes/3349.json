@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Senpai wa Otokonoko",
+  "anime": {
+    "id": 3349,
+    "nome": "Senpai wa Otokonoko",
+    "link": "https://animefire.plus/animes/senpai-wa-otokonoko-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/senpai-wa-otokonoko",
+    "rating": "7.30",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/senpai-wa-otokonoko/1",
+      "anime_id": 3349,
+      "anime_name": "Senpai wa Otokonoko"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/senpai-wa-otokonoko/2",
+      "anime_id": 3349,
+      "anime_name": "Senpai wa Otokonoko"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/senpai-wa-otokonoko/3",
+      "anime_id": 3349,
+      "anime_name": "Senpai wa Otokonoko"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/senpai-wa-otokonoko/4",
+      "anime_id": 3349,
+      "anime_name": "Senpai wa Otokonoko"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/senpai-wa-otokonoko/5",
+      "anime_id": 3349,
+      "anime_name": "Senpai wa Otokonoko"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/senpai-wa-otokonoko/6",
+      "anime_id": 3349,
+      "anime_name": "Senpai wa Otokonoko"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/senpai-wa-otokonoko/7",
+      "anime_id": 3349,
+      "anime_name": "Senpai wa Otokonoko"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/senpai-wa-otokonoko/8",
+      "anime_id": 3349,
+      "anime_name": "Senpai wa Otokonoko"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/senpai-wa-otokonoko/9",
+      "anime_id": 3349,
+      "anime_name": "Senpai wa Otokonoko"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/senpai-wa-otokonoko/10",
+      "anime_id": 3349,
+      "anime_name": "Senpai wa Otokonoko"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/senpai-wa-otokonoko/11",
+      "anime_id": 3349,
+      "anime_name": "Senpai wa Otokonoko"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/senpai-wa-otokonoko/12",
+      "anime_id": 3349,
+      "anime_name": "Senpai wa Otokonoko"
+    }
+  ],
+  "total_episodes": 12
+}

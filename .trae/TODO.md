@@ -1,7 +1,9 @@
 # TODO:
 
-- [x] 7: Reescrever VideoPlayer.tsx com implementação correta do Vidstack (priority: High)
-- [x] 8: Implementar MediaProvider dentro do MediaPlayer (priority: High)
-- [x] 9: Corrigir eventos e API do Vidstack para reprodução (priority: High)
-- [x] 10: Implementar fullscreen usando useMediaState do Vidstack (priority: High)
-- [x] 11: Testar todas as funcionalidades corrigidas (priority: Medium)
+- [x] 1: Criar placeholder adequado para os cards de anime (placeholder-anime.svg) (priority: High)
+- [x] 2: Refazer design do AnimeCard.tsx com visual moderno (priority: High)
+- [x] 3: Corrigir fallback de imagens no ImageWithFallback.tsx (priority: High)
+- [x] 4: Implementar gradientes e hierarquia visual aprimorados (priority: Medium)
+- [x] 5: Melhorar animações e efeitos de hover (priority: Medium)
+- [x] 6: Otimizar responsividade dos cards (priority: Medium)
+- [x] 7: Testar o novo design dos cards (priority: Low)

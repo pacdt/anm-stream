@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1241,
+    "nome": "Grand Blue",
+    "link": "https://animefire.plus/animes/grand-blue-todos-os-episodios",
+    "texto_original": "Grand Blue",
+    "rating": 8.42,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/grand-blue.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/grand-blue/",
+    "secao": "legendados",
+    "pagina": 142,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/grand-blue"
+  }
+}

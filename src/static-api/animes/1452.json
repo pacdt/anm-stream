@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1452,
+    "nome": "High Card",
+    "link": "https://animefire.plus/animes/high-card-todos-os-episodios",
+    "texto_original": "High Card",
+    "rating": 7.16,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/high-card.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/high-card/",
+    "secao": "legendados",
+    "pagina": 27,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/high-card"
+  }
+}

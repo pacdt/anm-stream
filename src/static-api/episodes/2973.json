@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Phantasy Star Online 2: Episode Oracle",
+  "anime": {
+    "id": 2973,
+    "nome": "Phantasy Star Online 2: Episode Oracle",
+    "link": "https://animefire.plus/animes/phantasy-star-online-2-episode-oracle-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/phantasy-star-online-2-episode-oracle",
+    "rating": "6.55",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/phantasy-star-online-2-episode-oracle/1",
+      "anime_id": 2973,
+      "anime_name": "Phantasy Star Online 2: Episode Oracle"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4266,
+    "nome": "Your Forma",
+    "link": "https://animefire.plus/animes/your-forma-todos-os-episodios",
+    "texto_original": "Your Forma",
+    "rating": 6.25,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/your-forma.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/your-forma/",
+    "secao": "legendados",
+    "pagina": 5,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/your-forma"
+  }
+}

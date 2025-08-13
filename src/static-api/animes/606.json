@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 606,
+    "nome": "Chiikawa",
+    "link": "https://animefire.plus/animes/chiikawa-todos-os-episodios",
+    "texto_original": "Chiikawa",
+    "rating": 7.03,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/chiikawa.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/chiikawa/",
+    "secao": "legendados,lancamentos",
+    "pagina": 30,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/chiikawa"
+  }
+}

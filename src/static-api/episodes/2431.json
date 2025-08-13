@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Masamune Datenicle",
+  "anime": {
+    "id": 2431,
+    "nome": "Masamune Datenicle",
+    "link": "https://animefire.plus/animes/masamune-datenicle-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/masamune-datenicle",
+    "rating": "6.03",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/masamune-datenicle/1",
+      "anime_id": 2431,
+      "anime_name": "Masamune Datenicle"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/masamune-datenicle/2",
+      "anime_id": 2431,
+      "anime_name": "Masamune Datenicle"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/masamune-datenicle/3",
+      "anime_id": 2431,
+      "anime_name": "Masamune Datenicle"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/masamune-datenicle/4",
+      "anime_id": 2431,
+      "anime_name": "Masamune Datenicle"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/masamune-datenicle/5",
+      "anime_id": 2431,
+      "anime_name": "Masamune Datenicle"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/masamune-datenicle/6",
+      "anime_id": 2431,
+      "anime_name": "Masamune Datenicle"
+    }
+  ],
+  "total_episodes": 6
+}

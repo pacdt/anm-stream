@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Chaos Dragon: Sekiryuu Seneki",
+  "anime": {
+    "id": 593,
+    "nome": "Chaos Dragon: Sekiryuu Seneki",
+    "link": "https://animefire.plus/animes/chaos-dragon-sekiryuu-seneki-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/chaos-dragon-sekiryuu-seneki",
+    "rating": "5.76",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/chaos-dragon-sekiryuu-seneki/1",
+      "anime_id": 593,
+      "anime_name": "Chaos Dragon: Sekiryuu Seneki"
+    }
+  ],
+  "total_episodes": 1
+}

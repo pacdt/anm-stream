@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2361,
+    "nome": "Mahoutsukai Sally (Movie)",
+    "link": "https://animefire.plus/animes/mahoutsukai-sally-movie-todos-os-episodios",
+    "texto_original": "Mahoutsukai Sally (Movie)",
+    "rating": 5.95,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/mahoutsukai-sally-movie.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mahoutsukai-sally-movie/",
+    "secao": "legendados",
+    "pagina": 83,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/mahoutsukai-sally-movie"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1846,
+    "nome": "Kamichama Karin",
+    "link": "https://animefire.plus/animes/kamichama-karin-todos-os-episodios",
+    "texto_original": "Kamichama Karin",
+    "rating": 7.42,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kamichama-karin.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kamichama-karin/",
+    "secao": "legendados",
+    "pagina": 115,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/kamichama-karin"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Death Billiards",
+  "anime": {
+    "id": 774,
+    "nome": "Death Billiards",
+    "link": "https://animefire.plus/animes/death-billiards-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/death-billiards",
+    "rating": "7.98",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/death-billiards/1",
+      "anime_id": 774,
+      "anime_name": "Death Billiards"
+    }
+  ],
+  "total_episodes": 1
+}

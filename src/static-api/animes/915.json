@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 915,
+    "nome": "Eat-Man",
+    "link": "https://animefire.plus/animes/eat-man-todos-os-episodios",
+    "texto_original": "Eat-Man",
+    "rating": 6.57,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/eat-man.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/eat-man/",
+    "secao": "legendados",
+    "pagina": 105,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/eat-man"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Tantei Kageki Milky Holmes TD",
+  "anime": {
+    "id": 3741,
+    "nome": "Tantei Kageki Milky Holmes TD",
+    "link": "https://animefire.plus/animes/tantei-kageki-milky-holmes-td-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tantei-kageki-milky-holmes-td",
+    "rating": "6.47",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tantei-kageki-milky-holmes-td/1",
+      "anime_id": 3741,
+      "anime_name": "Tantei Kageki Milky Holmes TD"
+    }
+  ],
+  "total_episodes": 1
+}

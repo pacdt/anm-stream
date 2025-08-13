@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Initial D Extra Stage 2",
+  "anime": {
+    "id": 1626,
+    "nome": "Initial D Extra Stage 2",
+    "link": "https://animefire.plus/animes/initial-d-extra-stage-2-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/initial-d-extra-stage-2",
+    "rating": "7.42",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/initial-d-extra-stage-2/1",
+      "anime_id": 1626,
+      "anime_name": "Initial D Extra Stage 2"
+    }
+  ],
+  "total_episodes": 1
+}

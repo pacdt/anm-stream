@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Fortune Arterial: Akai Yakusoku",
+  "anime": {
+    "id": 1019,
+    "nome": "Fortune Arterial: Akai Yakusoku",
+    "link": "https://animefire.plus/animes/fortune-arterial-akai-yakusoku-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/fortune-arterial-akai-yakusoku",
+    "rating": "6.81",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/fortune-arterial-akai-yakusoku/1",
+      "anime_id": 1019,
+      "anime_name": "Fortune Arterial: Akai Yakusoku"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/fortune-arterial-akai-yakusoku/2",
+      "anime_id": 1019,
+      "anime_name": "Fortune Arterial: Akai Yakusoku"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/fortune-arterial-akai-yakusoku/3",
+      "anime_id": 1019,
+      "anime_name": "Fortune Arterial: Akai Yakusoku"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/fortune-arterial-akai-yakusoku/4",
+      "anime_id": 1019,
+      "anime_name": "Fortune Arterial: Akai Yakusoku"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/fortune-arterial-akai-yakusoku/5",
+      "anime_id": 1019,
+      "anime_name": "Fortune Arterial: Akai Yakusoku"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/fortune-arterial-akai-yakusoku/6",
+      "anime_id": 1019,
+      "anime_name": "Fortune Arterial: Akai Yakusoku"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/fortune-arterial-akai-yakusoku/7",
+      "anime_id": 1019,
+      "anime_name": "Fortune Arterial: Akai Yakusoku"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/fortune-arterial-akai-yakusoku/8",
+      "anime_id": 1019,
+      "anime_name": "Fortune Arterial: Akai Yakusoku"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/fortune-arterial-akai-yakusoku/9",
+      "anime_id": 1019,
+      "anime_name": "Fortune Arterial: Akai Yakusoku"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/fortune-arterial-akai-yakusoku/10",
+      "anime_id": 1019,
+      "anime_name": "Fortune Arterial: Akai Yakusoku"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/fortune-arterial-akai-yakusoku/11",
+      "anime_id": 1019,
+      "anime_name": "Fortune Arterial: Akai Yakusoku"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/fortune-arterial-akai-yakusoku/12",
+      "anime_id": 1019,
+      "anime_name": "Fortune Arterial: Akai Yakusoku"
+    }
+  ],
+  "total_episodes": 12
+}

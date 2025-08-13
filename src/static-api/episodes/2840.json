@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: One Punch Man 2nd Season Commemorative Special",
+  "anime": {
+    "id": 2840,
+    "nome": "One Punch Man 2nd Season Commemorative Special",
+    "link": "https://animefire.plus/animes/one-punch-man-2nd-season-commemorative-special-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/one-punch-man-2nd-season-commemorative-special",
+    "rating": "6.71",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/one-punch-man-2nd-season-commemorative-special/1",
+      "anime_id": 2840,
+      "anime_name": "One Punch Man 2nd Season Commemorative Special"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2645,
+    "nome": "Nagi no Asu kara",
+    "link": "https://animefire.plus/animes/nagi-no-asu-kara-todos-os-episodios",
+    "texto_original": "Nagi no Asu kara",
+    "rating": 8.2,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/nagi-no-asu-kara.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/nagi-no-asu-kara/",
+    "secao": "legendados",
+    "pagina": 136,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/nagi-no-asu-kara"
+  }
+}

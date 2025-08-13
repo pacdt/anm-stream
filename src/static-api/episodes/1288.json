@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Gunsmith Cats (Dublado)",
+  "anime": {
+    "id": 1288,
+    "nome": "Gunsmith Cats (Dublado)",
+    "link": "https://animefire.plus/animes/gunsmith-cats-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gunsmith-cats-dublado",
+    "rating": "7.27",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gunsmith-cats-dublado/1",
+      "anime_id": 1288,
+      "anime_name": "Gunsmith Cats (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/gunsmith-cats-dublado/2",
+      "anime_id": 1288,
+      "anime_name": "Gunsmith Cats (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/gunsmith-cats-dublado/3",
+      "anime_id": 1288,
+      "anime_name": "Gunsmith Cats (Dublado)"
+    }
+  ],
+  "total_episodes": 3
+}

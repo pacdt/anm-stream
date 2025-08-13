@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Koihime†Musou",
+  "anime": {
+    "id": 2058,
+    "nome": "Koihime†Musou",
+    "link": "https://animefire.plus/animes/koihime-musou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/koihime-musou",
+    "rating": "6.82",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/koihime-musou/1",
+      "anime_id": 2058,
+      "anime_name": "Koihime†Musou"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/koihime-musou/2",
+      "anime_id": 2058,
+      "anime_name": "Koihime†Musou"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/koihime-musou/3",
+      "anime_id": 2058,
+      "anime_name": "Koihime†Musou"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/koihime-musou/4",
+      "anime_id": 2058,
+      "anime_name": "Koihime†Musou"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/koihime-musou/5",
+      "anime_id": 2058,
+      "anime_name": "Koihime†Musou"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/koihime-musou/6",
+      "anime_id": 2058,
+      "anime_name": "Koihime†Musou"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/koihime-musou/7",
+      "anime_id": 2058,
+      "anime_name": "Koihime†Musou"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/koihime-musou/8",
+      "anime_id": 2058,
+      "anime_name": "Koihime†Musou"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/koihime-musou/9",
+      "anime_id": 2058,
+      "anime_name": "Koihime†Musou"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/koihime-musou/10",
+      "anime_id": 2058,
+      "anime_name": "Koihime†Musou"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/koihime-musou/11",
+      "anime_id": 2058,
+      "anime_name": "Koihime†Musou"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/koihime-musou/12",
+      "anime_id": 2058,
+      "anime_name": "Koihime†Musou"
+    }
+  ],
+  "total_episodes": 12
+}

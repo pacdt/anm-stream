@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3660,
+    "nome": "Submarine Super 99",
+    "link": "https://animefire.plus/animes/submarine-super-99-todos-os-episodios",
+    "texto_original": "Submarine Super 99",
+    "rating": 6.35,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/submarine-super-99.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/submarine-super-99/",
+    "secao": "legendados",
+    "pagina": 98,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/submarine-super-99"
+  }
+}

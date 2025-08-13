@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3323,
+    "nome": "Sekirei",
+    "link": "https://animefire.plus/animes/sekirei-todos-os-episodios",
+    "texto_original": "Sekirei",
+    "rating": 7.27,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/sekirei.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sekirei/",
+    "secao": "legendados",
+    "pagina": 116,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/sekirei"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1955,
+    "nome": "Kiba",
+    "link": "https://animefire.plus/animes/kiba-todos-os-episodios",
+    "texto_original": "Kiba",
+    "rating": 7.38,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kiba.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kiba/",
+    "secao": "legendados",
+    "pagina": 168,
+    "total_episodios": 51,
+    "link_video": "https://animefire.plus/video/kiba"
+  }
+}

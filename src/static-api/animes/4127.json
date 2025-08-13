@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4127,
+    "nome": "Whistle! (Dublado)",
+    "link": "https://animefire.plus/animes/whistle-dublado-todos-os-episodios",
+    "texto_original": "Whistle! (Dublado)",
+    "rating": 7.42,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/whistle.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/whistle/",
+    "secao": "dublados",
+    "pagina": 23,
+    "total_episodios": 39,
+    "link_video": "https://animefire.plus/video/whistle-dublado"
+  }
+}

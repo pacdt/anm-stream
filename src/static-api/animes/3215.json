@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3215,
+    "nome": "Saiunkoku Monogatari",
+    "link": "https://animefire.plus/animes/saiunkoku-monogatari-todos-os-episodios",
+    "texto_original": "Saiunkoku Monogatari",
+    "rating": 8.02,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/saiunkoku-monogatari.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/saiunkoku-monogatari/",
+    "secao": "legendados",
+    "pagina": 129,
+    "total_episodios": 39,
+    "link_video": "https://animefire.plus/video/saiunkoku-monogatari"
+  }
+}

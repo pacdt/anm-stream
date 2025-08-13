@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 467,
+    "nome": "Boku to Roboko",
+    "link": "https://animefire.plus/animes/boku-to-roboko-todos-os-episodios",
+    "texto_original": "Boku to Roboko",
+    "rating": 6.83,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/boku-to-roboko.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/boku-to-roboko/",
+    "secao": "legendados,lancamentos",
+    "pagina": 26,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/boku-to-roboko"
+  }
+}

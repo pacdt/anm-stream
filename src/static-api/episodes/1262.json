@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Guardian Hearts",
+  "anime": {
+    "id": 1262,
+    "nome": "Guardian Hearts",
+    "link": "https://animefire.plus/animes/guardian-hearts-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/guardian-hearts",
+    "rating": "5.92",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/guardian-hearts/1",
+      "anime_id": 1262,
+      "anime_name": "Guardian Hearts"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/guardian-hearts/2",
+      "anime_id": 1262,
+      "anime_name": "Guardian Hearts"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/guardian-hearts/3",
+      "anime_id": 1262,
+      "anime_name": "Guardian Hearts"
+    }
+  ],
+  "total_episodes": 3
+}

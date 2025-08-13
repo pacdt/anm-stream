@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Vampire Hunter",
+  "anime": {
+    "id": 4062,
+    "nome": "Vampire Hunter",
+    "link": "https://animefire.plus/animes/vampire-hunter-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/vampire-hunter",
+    "rating": "6.74",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/vampire-hunter/1",
+      "anime_id": 4062,
+      "anime_name": "Vampire Hunter"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/vampire-hunter/2",
+      "anime_id": 4062,
+      "anime_name": "Vampire Hunter"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/vampire-hunter/3",
+      "anime_id": 4062,
+      "anime_name": "Vampire Hunter"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/vampire-hunter/4",
+      "anime_id": 4062,
+      "anime_name": "Vampire Hunter"
+    }
+  ],
+  "total_episodes": 4
+}

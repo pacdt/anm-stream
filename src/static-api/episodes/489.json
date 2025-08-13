@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Boukyaku Battery (TV)",
+  "anime": {
+    "id": 489,
+    "nome": "Boukyaku Battery (TV)",
+    "link": "https://animefire.plus/animes/boukyaku-battery-tv-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/boukyaku-battery-tv",
+    "rating": "7.52",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/boukyaku-battery-tv/1",
+      "anime_id": 489,
+      "anime_name": "Boukyaku Battery (TV)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/boukyaku-battery-tv/2",
+      "anime_id": 489,
+      "anime_name": "Boukyaku Battery (TV)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/boukyaku-battery-tv/3",
+      "anime_id": 489,
+      "anime_name": "Boukyaku Battery (TV)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/boukyaku-battery-tv/4",
+      "anime_id": 489,
+      "anime_name": "Boukyaku Battery (TV)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/boukyaku-battery-tv/5",
+      "anime_id": 489,
+      "anime_name": "Boukyaku Battery (TV)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/boukyaku-battery-tv/6",
+      "anime_id": 489,
+      "anime_name": "Boukyaku Battery (TV)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/boukyaku-battery-tv/7",
+      "anime_id": 489,
+      "anime_name": "Boukyaku Battery (TV)"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/boukyaku-battery-tv/8",
+      "anime_id": 489,
+      "anime_name": "Boukyaku Battery (TV)"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/boukyaku-battery-tv/9",
+      "anime_id": 489,
+      "anime_name": "Boukyaku Battery (TV)"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/boukyaku-battery-tv/10",
+      "anime_id": 489,
+      "anime_name": "Boukyaku Battery (TV)"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/boukyaku-battery-tv/11",
+      "anime_id": 489,
+      "anime_name": "Boukyaku Battery (TV)"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/boukyaku-battery-tv/12",
+      "anime_id": 489,
+      "anime_name": "Boukyaku Battery (TV)"
+    }
+  ],
+  "total_episodes": 12
+}

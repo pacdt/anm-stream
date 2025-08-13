@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2127,
+    "nome": "Kujakuou",
+    "link": "https://animefire.plus/animes/kujakuou-todos-os-episodios",
+    "texto_original": "Kujakuou",
+    "rating": 6.04,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/kujakuou.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kujakuou/",
+    "secao": "legendados",
+    "pagina": 164,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/kujakuou"
+  }
+}

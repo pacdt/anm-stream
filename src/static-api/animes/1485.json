@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1485,
+    "nome": "Himiko-Den",
+    "link": "https://animefire.plus/animes/himiko-den-todos-os-episodios",
+    "texto_original": "Himiko-Den",
+    "rating": 6.31,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/himiko-den.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/himiko-den/",
+    "secao": "legendados",
+    "pagina": 96,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/himiko-den"
+  }
+}

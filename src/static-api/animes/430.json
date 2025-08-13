@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 430,
+    "nome": "Blood Lad",
+    "link": "https://animefire.plus/animes/blood-lad-todos-os-episodios",
+    "texto_original": "Blood Lad",
+    "rating": 7.47,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/blood-lad.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/blood-lad/",
+    "secao": "legendados",
+    "pagina": 124,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/blood-lad"
+  }
+}

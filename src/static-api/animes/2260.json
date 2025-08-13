@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2260,
+    "nome": "Love♥Love?",
+    "link": "https://animefire.plus/animes/love-love-todos-os-episodios",
+    "texto_original": "Love♥Love?",
+    "rating": 5.98,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/love-love.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/love-love/",
+    "secao": "legendados",
+    "pagina": 127,
+    "total_episodios": 9,
+    "link_video": "https://animefire.plus/video/love-love"
+  }
+}

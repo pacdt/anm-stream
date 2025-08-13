@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Super Mario World: Mario to Yoshi no Bouken Land (Dublado)",
+  "anime": {
+    "id": 3679,
+    "nome": "Super Mario World: Mario to Yoshi no Bouken Land (Dublado)",
+    "link": "https://animefire.plus/animes/super-mario-world-mario-to-yoshi-no-bouken-land-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/super-mario-world-mario-to-yoshi-no-bouken-land-dublado",
+    "rating": "5.38",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/super-mario-world-mario-to-yoshi-no-bouken-land-dublado/1",
+      "anime_id": 3679,
+      "anime_name": "Super Mario World: Mario to Yoshi no Bouken Land (Dublado)"
+    }
+  ],
+  "total_episodes": 1
+}

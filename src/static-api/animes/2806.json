@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2806,
+    "nome": "Oda Nobuna no Yabou",
+    "link": "https://animefire.plus/animes/oda-nobuna-no-yabou-todos-os-episodios",
+    "texto_original": "Oda Nobuna no Yabou",
+    "rating": 7.52,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/oda-nobuna-no-yabou.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/oda-nobuna-no-yabou/",
+    "secao": "legendados",
+    "pagina": 73,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/oda-nobuna-no-yabou"
+  }
+}

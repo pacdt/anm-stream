@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3310,
+    "nome": "Seitokai No Ichizon",
+    "link": "https://animefire.plus/animes/seitokai-no-ichizon-todos-os-episodios",
+    "texto_original": "Seitokai No Ichizon",
+    "rating": 7.42,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/seitokai-no-ichizon.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/seitokai-no-ichizon/",
+    "secao": "legendados",
+    "pagina": 99,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/seitokai-no-ichizon"
+  }
+}

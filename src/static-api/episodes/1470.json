@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Higurashi no Naku Koro ni Kira",
+  "anime": {
+    "id": 1470,
+    "nome": "Higurashi no Naku Koro ni Kira",
+    "link": "https://animefire.plus/animes/higurashi-no-naku-koro-ni-kira-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/higurashi-no-naku-koro-ni-kira",
+    "rating": "6.55",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/higurashi-no-naku-koro-ni-kira/1",
+      "anime_id": 1470,
+      "anime_name": "Higurashi no Naku Koro ni Kira"
+    }
+  ],
+  "total_episodes": 1
+}

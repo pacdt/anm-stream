@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1306,
+    "nome": "Haibane Renmei",
+    "link": "https://animefire.plus/animes/haibane-renmei-todos-os-episodios",
+    "texto_original": "Haibane Renmei",
+    "rating": 8,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/haibane-renmei.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/haibane-renmei/",
+    "secao": "legendados",
+    "pagina": 94,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/haibane-renmei"
+  }
+}

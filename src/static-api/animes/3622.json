@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3622,
+    "nome": "Star Ocean EX",
+    "link": "https://animefire.plus/animes/star-ocean-ex-todos-os-episodios",
+    "texto_original": "Star Ocean EX",
+    "rating": 6.66,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/star-ocean-ex.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/star-ocean-ex/",
+    "secao": "legendados",
+    "pagina": 119,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/star-ocean-ex"
+  }
+}

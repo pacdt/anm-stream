@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Onmyou Taisenki",
+  "anime": {
+    "id": 2860,
+    "nome": "Onmyou Taisenki",
+    "link": "https://animefire.plus/animes/onmyou-taisenki-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/onmyou-taisenki",
+    "rating": "7.26",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/onmyou-taisenki/1",
+      "anime_id": 2860,
+      "anime_name": "Onmyou Taisenki"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/onmyou-taisenki/2",
+      "anime_id": 2860,
+      "anime_name": "Onmyou Taisenki"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/onmyou-taisenki/3",
+      "anime_id": 2860,
+      "anime_name": "Onmyou Taisenki"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/onmyou-taisenki/4",
+      "anime_id": 2860,
+      "anime_name": "Onmyou Taisenki"
+    }
+  ],
+  "total_episodes": 4
+}

@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: Yamato Nadeshiko Shichihenge♥",
+  "anime": {
+    "id": 4200,
+    "nome": "Yamato Nadeshiko Shichihenge♥",
+    "link": "https://animefire.plus/animes/yamato-nadeshiko-shichihenge-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yamato-nadeshiko-shichihenge",
+    "rating": "7.84",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yamato-nadeshiko-shichihenge/1",
+      "anime_id": 4200,
+      "anime_name": "Yamato Nadeshiko Shichihenge♥"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yamato-nadeshiko-shichihenge/2",
+      "anime_id": 4200,
+      "anime_name": "Yamato Nadeshiko Shichihenge♥"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/yamato-nadeshiko-shichihenge/3",
+      "anime_id": 4200,
+      "anime_name": "Yamato Nadeshiko Shichihenge♥"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/yamato-nadeshiko-shichihenge/4",
+      "anime_id": 4200,
+      "anime_name": "Yamato Nadeshiko Shichihenge♥"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/yamato-nadeshiko-shichihenge/5",
+      "anime_id": 4200,
+      "anime_name": "Yamato Nadeshiko Shichihenge♥"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/yamato-nadeshiko-shichihenge/6",
+      "anime_id": 4200,
+      "anime_name": "Yamato Nadeshiko Shichihenge♥"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/yamato-nadeshiko-shichihenge/7",
+      "anime_id": 4200,
+      "anime_name": "Yamato Nadeshiko Shichihenge♥"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/yamato-nadeshiko-shichihenge/8",
+      "anime_id": 4200,
+      "anime_name": "Yamato Nadeshiko Shichihenge♥"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/yamato-nadeshiko-shichihenge/9",
+      "anime_id": 4200,
+      "anime_name": "Yamato Nadeshiko Shichihenge♥"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/yamato-nadeshiko-shichihenge/10",
+      "anime_id": 4200,
+      "anime_name": "Yamato Nadeshiko Shichihenge♥"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/yamato-nadeshiko-shichihenge/11",
+      "anime_id": 4200,
+      "anime_name": "Yamato Nadeshiko Shichihenge♥"
+    }
+  ],
+  "total_episodes": 11
+}

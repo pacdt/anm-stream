@@ -1,0 +1,170 @@
+{
+  "message": "Lista de episódios do anime: D.N.Angel",
+  "anime": {
+    "id": 719,
+    "nome": "D.N.Angel",
+    "link": "https://animefire.plus/animes/d-n-angel-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/d-n-angel",
+    "rating": "7.29",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/d-n-angel/1",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/d-n-angel/2",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/d-n-angel/3",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/d-n-angel/4",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/d-n-angel/5",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/d-n-angel/6",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/d-n-angel/7",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/d-n-angel/8",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/d-n-angel/9",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/d-n-angel/10",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/d-n-angel/11",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/d-n-angel/12",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/d-n-angel/13",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 14,
+      "episode_url": "https://animefire.plus/video/d-n-angel/14",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 15,
+      "episode_url": "https://animefire.plus/video/d-n-angel/15",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 16,
+      "episode_url": "https://animefire.plus/video/d-n-angel/16",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 17,
+      "episode_url": "https://animefire.plus/video/d-n-angel/17",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 18,
+      "episode_url": "https://animefire.plus/video/d-n-angel/18",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 19,
+      "episode_url": "https://animefire.plus/video/d-n-angel/19",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 20,
+      "episode_url": "https://animefire.plus/video/d-n-angel/20",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 21,
+      "episode_url": "https://animefire.plus/video/d-n-angel/21",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 22,
+      "episode_url": "https://animefire.plus/video/d-n-angel/22",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 23,
+      "episode_url": "https://animefire.plus/video/d-n-angel/23",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 24,
+      "episode_url": "https://animefire.plus/video/d-n-angel/24",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 25,
+      "episode_url": "https://animefire.plus/video/d-n-angel/25",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    },
+    {
+      "episode_number": 26,
+      "episode_url": "https://animefire.plus/video/d-n-angel/26",
+      "anime_id": 719,
+      "anime_name": "D.N.Angel"
+    }
+  ],
+  "total_episodes": 26
+}

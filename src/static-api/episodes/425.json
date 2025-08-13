@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+  "anime": {
+    "id": 425,
+    "nome": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+    "link": "https://animefire.plus/animes/bleach-sennen-kessen-hen-ketsubetsu-tan-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/bleach-sennen-kessen-hen-ketsubetsu-tan",
+    "rating": "8.70",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/bleach-sennen-kessen-hen-ketsubetsu-tan/1",
+      "anime_id": 425,
+      "anime_name": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/bleach-sennen-kessen-hen-ketsubetsu-tan/2",
+      "anime_id": 425,
+      "anime_name": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/bleach-sennen-kessen-hen-ketsubetsu-tan/3",
+      "anime_id": 425,
+      "anime_name": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/bleach-sennen-kessen-hen-ketsubetsu-tan/4",
+      "anime_id": 425,
+      "anime_name": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/bleach-sennen-kessen-hen-ketsubetsu-tan/5",
+      "anime_id": 425,
+      "anime_name": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/bleach-sennen-kessen-hen-ketsubetsu-tan/6",
+      "anime_id": 425,
+      "anime_name": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/bleach-sennen-kessen-hen-ketsubetsu-tan/7",
+      "anime_id": 425,
+      "anime_name": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan"
+    }
+  ],
+  "total_episodes": 7
+}

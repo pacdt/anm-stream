@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Satsuriku no Tenshi ONA",
+  "anime": {
+    "id": 3267,
+    "nome": "Satsuriku no Tenshi ONA",
+    "link": "https://animefire.plus/animes/satsuriku-no-tenshi-ona-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/satsuriku-no-tenshi-ona",
+    "rating": "7.22",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/satsuriku-no-tenshi-ona/1",
+      "anime_id": 3267,
+      "anime_name": "Satsuriku no Tenshi ONA"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/satsuriku-no-tenshi-ona/2",
+      "anime_id": 3267,
+      "anime_name": "Satsuriku no Tenshi ONA"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/satsuriku-no-tenshi-ona/3",
+      "anime_id": 3267,
+      "anime_name": "Satsuriku no Tenshi ONA"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/satsuriku-no-tenshi-ona/4",
+      "anime_id": 3267,
+      "anime_name": "Satsuriku no Tenshi ONA"
+    }
+  ],
+  "total_episodes": 4
+}

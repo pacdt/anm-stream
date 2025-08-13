@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Golgo 13: Queen Bee",
+  "anime": {
+    "id": 1228,
+    "nome": "Golgo 13: Queen Bee",
+    "link": "https://animefire.plus/animes/golgo-13-queen-bee-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/golgo-13-queen-bee",
+    "rating": "6.59",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/golgo-13-queen-bee/1",
+      "anime_id": 1228,
+      "anime_name": "Golgo 13: Queen Bee"
+    }
+  ],
+  "total_episodes": 1
+}

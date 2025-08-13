@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2671,
+    "nome": "Nanbaka 2",
+    "link": "https://animefire.plus/animes/nanbaka-2-todos-os-episodios",
+    "texto_original": "Nanbaka 2",
+    "rating": 7.61,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/nanbaka-2.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/nanbaka-2/",
+    "secao": "legendados",
+    "pagina": 104,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/nanbaka-2"
+  }
+}

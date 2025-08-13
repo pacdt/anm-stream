@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Yakusoku no Neverland",
+  "anime": {
+    "id": 4189,
+    "nome": "Yakusoku no Neverland",
+    "link": "https://animefire.plus/animes/yakusoku-no-neverland-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yakusoku-no-neverland",
+    "rating": "8.65",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yakusoku-no-neverland/1",
+      "anime_id": 4189,
+      "anime_name": "Yakusoku no Neverland"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yakusoku-no-neverland/2",
+      "anime_id": 4189,
+      "anime_name": "Yakusoku no Neverland"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/yakusoku-no-neverland/3",
+      "anime_id": 4189,
+      "anime_name": "Yakusoku no Neverland"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/yakusoku-no-neverland/4",
+      "anime_id": 4189,
+      "anime_name": "Yakusoku no Neverland"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/yakusoku-no-neverland/5",
+      "anime_id": 4189,
+      "anime_name": "Yakusoku no Neverland"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/yakusoku-no-neverland/6",
+      "anime_id": 4189,
+      "anime_name": "Yakusoku no Neverland"
+    }
+  ],
+  "total_episodes": 6
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Clione no Akari",
+  "anime": {
+    "id": 668,
+    "nome": "Clione no Akari",
+    "link": "https://animefire.plus/animes/clione-no-akari-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/clione-no-akari",
+    "rating": "5.43",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/clione-no-akari/1",
+      "anime_id": 668,
+      "anime_name": "Clione no Akari"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/clione-no-akari/2",
+      "anime_id": 668,
+      "anime_name": "Clione no Akari"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/clione-no-akari/3",
+      "anime_id": 668,
+      "anime_name": "Clione no Akari"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/clione-no-akari/4",
+      "anime_id": 668,
+      "anime_name": "Clione no Akari"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/clione-no-akari/5",
+      "anime_id": 668,
+      "anime_name": "Clione no Akari"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/clione-no-akari/6",
+      "anime_id": 668,
+      "anime_name": "Clione no Akari"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/clione-no-akari/7",
+      "anime_id": 668,
+      "anime_name": "Clione no Akari"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/clione-no-akari/8",
+      "anime_id": 668,
+      "anime_name": "Clione no Akari"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/clione-no-akari/9",
+      "anime_id": 668,
+      "anime_name": "Clione no Akari"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/clione-no-akari/10",
+      "anime_id": 668,
+      "anime_name": "Clione no Akari"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/clione-no-akari/11",
+      "anime_id": 668,
+      "anime_name": "Clione no Akari"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/clione-no-akari/12",
+      "anime_id": 668,
+      "anime_name": "Clione no Akari"
+    }
+  ],
+  "total_episodes": 12
+}

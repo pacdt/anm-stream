@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: High Score Girl (Dublado)",
+  "anime": {
+    "id": 1460,
+    "nome": "High Score Girl (Dublado)",
+    "link": "https://animefire.plus/animes/high-score-girl-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/high-score-girl-dublado",
+    "rating": "8.02",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/high-score-girl-dublado/1",
+      "anime_id": 1460,
+      "anime_name": "High Score Girl (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/high-score-girl-dublado/2",
+      "anime_id": 1460,
+      "anime_name": "High Score Girl (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/high-score-girl-dublado/3",
+      "anime_id": 1460,
+      "anime_name": "High Score Girl (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/high-score-girl-dublado/4",
+      "anime_id": 1460,
+      "anime_name": "High Score Girl (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/high-score-girl-dublado/5",
+      "anime_id": 1460,
+      "anime_name": "High Score Girl (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/high-score-girl-dublado/6",
+      "anime_id": 1460,
+      "anime_name": "High Score Girl (Dublado)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/high-score-girl-dublado/7",
+      "anime_id": 1460,
+      "anime_name": "High Score Girl (Dublado)"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/high-score-girl-dublado/8",
+      "anime_id": 1460,
+      "anime_name": "High Score Girl (Dublado)"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/high-score-girl-dublado/9",
+      "anime_id": 1460,
+      "anime_name": "High Score Girl (Dublado)"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/high-score-girl-dublado/10",
+      "anime_id": 1460,
+      "anime_name": "High Score Girl (Dublado)"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/high-score-girl-dublado/11",
+      "anime_id": 1460,
+      "anime_name": "High Score Girl (Dublado)"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/high-score-girl-dublado/12",
+      "anime_id": 1460,
+      "anime_name": "High Score Girl (Dublado)"
+    }
+  ],
+  "total_episodes": 12
+}

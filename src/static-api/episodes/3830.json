@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: The iDOLM@STER Cinderella Girls: Anytime, Anywhere with Cinderella.",
+  "anime": {
+    "id": 3830,
+    "nome": "The iDOLM@STER Cinderella Girls: Anytime, Anywhere with Cinderella.",
+    "link": "https://animefire.plus/animes/the-idolmaster-cinderella-girls-anytime-anywhere-with-cinderella-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/the-idolmaster-cinderella-girls-anytime-anywhere-with-cinderella",
+    "rating": "7.34",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-cinderella-girls-anytime-anywhere-with-cinderella/1",
+      "anime_id": 3830,
+      "anime_name": "The iDOLM@STER Cinderella Girls: Anytime, Anywhere with Cinderella."
+    }
+  ],
+  "total_episodes": 1
+}

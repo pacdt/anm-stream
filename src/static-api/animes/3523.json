@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3523,
+    "nome": "Shuumatsu no Izetta",
+    "link": "https://animefire.plus/animes/shuumatsu-no-izetta-todos-os-episodios",
+    "texto_original": "Shuumatsu no Izetta",
+    "rating": 6.82,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/shuumatsu-no-izetta.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shuumatsu-no-izetta/",
+    "secao": "legendados",
+    "pagina": 116,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/shuumatsu-no-izetta"
+  }
+}

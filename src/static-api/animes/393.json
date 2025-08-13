@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 393,
+    "nome": "Binzume Yousei",
+    "link": "https://animefire.plus/animes/binzume-yousei-todos-os-episodios",
+    "texto_original": "Binzume Yousei",
+    "rating": 6.5,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/binzume-yousei.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/binzume-yousei/",
+    "secao": "legendados",
+    "pagina": 141,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/binzume-yousei"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Sentai Daishikkaku",
+  "anime": {
+    "id": 3353,
+    "nome": "Sentai Daishikkaku",
+    "link": "https://animefire.plus/animes/sentai-daishikkaku-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sentai-daishikkaku",
+    "rating": "7.32",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sentai-daishikkaku/1",
+      "anime_id": 3353,
+      "anime_name": "Sentai Daishikkaku"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/sentai-daishikkaku/2",
+      "anime_id": 3353,
+      "anime_name": "Sentai Daishikkaku"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/sentai-daishikkaku/3",
+      "anime_id": 3353,
+      "anime_name": "Sentai Daishikkaku"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/sentai-daishikkaku/4",
+      "anime_id": 3353,
+      "anime_name": "Sentai Daishikkaku"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/sentai-daishikkaku/5",
+      "anime_id": 3353,
+      "anime_name": "Sentai Daishikkaku"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/sentai-daishikkaku/6",
+      "anime_id": 3353,
+      "anime_name": "Sentai Daishikkaku"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/sentai-daishikkaku/7",
+      "anime_id": 3353,
+      "anime_name": "Sentai Daishikkaku"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/sentai-daishikkaku/8",
+      "anime_id": 3353,
+      "anime_name": "Sentai Daishikkaku"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/sentai-daishikkaku/9",
+      "anime_id": 3353,
+      "anime_name": "Sentai Daishikkaku"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/sentai-daishikkaku/10",
+      "anime_id": 3353,
+      "anime_name": "Sentai Daishikkaku"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/sentai-daishikkaku/11",
+      "anime_id": 3353,
+      "anime_name": "Sentai Daishikkaku"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/sentai-daishikkaku/12",
+      "anime_id": 3353,
+      "anime_name": "Sentai Daishikkaku"
+    }
+  ],
+  "total_episodes": 12
+}

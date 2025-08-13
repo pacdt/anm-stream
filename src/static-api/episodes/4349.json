@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Zero no Tsukaima: Princesses no Rondo Picture Drama",
+  "anime": {
+    "id": 4349,
+    "nome": "Zero no Tsukaima: Princesses no Rondo Picture Drama",
+    "link": "https://animefire.plus/animes/zero-no-tsukaima-princesses-no-rondo-picture-drama-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/zero-no-tsukaima-princesses-no-rondo-picture-drama",
+    "rating": "6.98",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/zero-no-tsukaima-princesses-no-rondo-picture-drama/1",
+      "anime_id": 4349,
+      "anime_name": "Zero no Tsukaima: Princesses no Rondo Picture Drama"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/zero-no-tsukaima-princesses-no-rondo-picture-drama/2",
+      "anime_id": 4349,
+      "anime_name": "Zero no Tsukaima: Princesses no Rondo Picture Drama"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/zero-no-tsukaima-princesses-no-rondo-picture-drama/3",
+      "anime_id": 4349,
+      "anime_name": "Zero no Tsukaima: Princesses no Rondo Picture Drama"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/zero-no-tsukaima-princesses-no-rondo-picture-drama/4",
+      "anime_id": 4349,
+      "anime_name": "Zero no Tsukaima: Princesses no Rondo Picture Drama"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/zero-no-tsukaima-princesses-no-rondo-picture-drama/5",
+      "anime_id": 4349,
+      "anime_name": "Zero no Tsukaima: Princesses no Rondo Picture Drama"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/zero-no-tsukaima-princesses-no-rondo-picture-drama/6",
+      "anime_id": 4349,
+      "anime_name": "Zero no Tsukaima: Princesses no Rondo Picture Drama"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/zero-no-tsukaima-princesses-no-rondo-picture-drama/7",
+      "anime_id": 4349,
+      "anime_name": "Zero no Tsukaima: Princesses no Rondo Picture Drama"
+    }
+  ],
+  "total_episodes": 7
+}

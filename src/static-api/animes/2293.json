@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2293,
+    "nome": "Macross 7",
+    "link": "https://animefire.plus/animes/macross-7-todos-os-episodios",
+    "texto_original": "Macross 7",
+    "rating": 7.14,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/macross-7.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/macross-7/",
+    "secao": "legendados",
+    "pagina": 60,
+    "total_episodios": 49,
+    "link_video": "https://animefire.plus/video/macross-7"
+  }
+}

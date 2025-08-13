@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Hidan no Aria AA",
+  "anime": {
+    "id": 1447,
+    "nome": "Hidan no Aria AA",
+    "link": "https://animefire.plus/animes/hidan-no-aria-aa-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hidan-no-aria-aa",
+    "rating": "6.35",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hidan-no-aria-aa/1",
+      "anime_id": 1447,
+      "anime_name": "Hidan no Aria AA"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hidan-no-aria-aa/2",
+      "anime_id": 1447,
+      "anime_name": "Hidan no Aria AA"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hidan-no-aria-aa/3",
+      "anime_id": 1447,
+      "anime_name": "Hidan no Aria AA"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hidan-no-aria-aa/4",
+      "anime_id": 1447,
+      "anime_name": "Hidan no Aria AA"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hidan-no-aria-aa/5",
+      "anime_id": 1447,
+      "anime_name": "Hidan no Aria AA"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hidan-no-aria-aa/6",
+      "anime_id": 1447,
+      "anime_name": "Hidan no Aria AA"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/hidan-no-aria-aa/7",
+      "anime_id": 1447,
+      "anime_name": "Hidan no Aria AA"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/hidan-no-aria-aa/8",
+      "anime_id": 1447,
+      "anime_name": "Hidan no Aria AA"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/hidan-no-aria-aa/9",
+      "anime_id": 1447,
+      "anime_name": "Hidan no Aria AA"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/hidan-no-aria-aa/10",
+      "anime_id": 1447,
+      "anime_name": "Hidan no Aria AA"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/hidan-no-aria-aa/11",
+      "anime_id": 1447,
+      "anime_name": "Hidan no Aria AA"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/hidan-no-aria-aa/12",
+      "anime_id": 1447,
+      "anime_name": "Hidan no Aria AA"
+    }
+  ],
+  "total_episodes": 12
+}

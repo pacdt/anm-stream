@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Yuragi-sou no Yuuna-san OVA",
+  "anime": {
+    "id": 4296,
+    "nome": "Yuragi-sou no Yuuna-san OVA",
+    "link": "https://animefire.plus/animes/yuragi-sou-no-yuuna-san-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yuragi-sou-no-yuuna-san-ova",
+    "rating": "7.15",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yuragi-sou-no-yuuna-san-ova/1",
+      "anime_id": 4296,
+      "anime_name": "Yuragi-sou no Yuuna-san OVA"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yuragi-sou-no-yuuna-san-ova/2",
+      "anime_id": 4296,
+      "anime_name": "Yuragi-sou no Yuuna-san OVA"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/yuragi-sou-no-yuuna-san-ova/3",
+      "anime_id": 4296,
+      "anime_name": "Yuragi-sou no Yuuna-san OVA"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/yuragi-sou-no-yuuna-san-ova/4",
+      "anime_id": 4296,
+      "anime_name": "Yuragi-sou no Yuuna-san OVA"
+    }
+  ],
+  "total_episodes": 4
+}

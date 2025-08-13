@@ -1,0 +1,170 @@
+{
+  "message": "Lista de episódios do anime: Aikatsu!",
+  "anime": {
+    "id": 96,
+    "nome": "Aikatsu!",
+    "link": "https://animefire.plus/animes/aikatsu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/aikatsu",
+    "rating": "7.45",
+    "classificacao_etaria": "A10"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/aikatsu/1",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/aikatsu/2",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/aikatsu/3",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/aikatsu/4",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/aikatsu/5",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/aikatsu/6",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/aikatsu/7",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/aikatsu/8",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/aikatsu/9",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/aikatsu/10",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/aikatsu/11",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/aikatsu/12",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/aikatsu/13",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 14,
+      "episode_url": "https://animefire.plus/video/aikatsu/14",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 15,
+      "episode_url": "https://animefire.plus/video/aikatsu/15",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 16,
+      "episode_url": "https://animefire.plus/video/aikatsu/16",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 17,
+      "episode_url": "https://animefire.plus/video/aikatsu/17",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 18,
+      "episode_url": "https://animefire.plus/video/aikatsu/18",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 19,
+      "episode_url": "https://animefire.plus/video/aikatsu/19",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 20,
+      "episode_url": "https://animefire.plus/video/aikatsu/20",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 21,
+      "episode_url": "https://animefire.plus/video/aikatsu/21",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 22,
+      "episode_url": "https://animefire.plus/video/aikatsu/22",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 23,
+      "episode_url": "https://animefire.plus/video/aikatsu/23",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 24,
+      "episode_url": "https://animefire.plus/video/aikatsu/24",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 25,
+      "episode_url": "https://animefire.plus/video/aikatsu/25",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    },
+    {
+      "episode_number": 26,
+      "episode_url": "https://animefire.plus/video/aikatsu/26",
+      "anime_id": 96,
+      "anime_name": "Aikatsu!"
+    }
+  ],
+  "total_episodes": 26
+}

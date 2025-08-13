@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 832,
+    "nome": "Divergence Eve",
+    "link": "https://animefire.plus/animes/divergence-eve-todos-os-episodios",
+    "texto_original": "Divergence Eve",
+    "rating": 6,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/divergence-eve.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/divergence-eve/",
+    "secao": "legendados",
+    "pagina": 103,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/divergence-eve"
+  }
+}

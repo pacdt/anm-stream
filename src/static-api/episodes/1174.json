@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi",
+  "anime": {
+    "id": 1174,
+    "nome": "Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi",
+    "link": "https://animefire.plus/animes/gintama-nanigoto-mo-saiyo-ga-kanjin-nano-de-tasho-senobisuru-kurai-ga-choudoyoi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gintama-nanigoto-mo-saiyo-ga-kanjin-nano-de-tasho-senobisuru-kurai-ga-choudoyoi",
+    "rating": "8.09",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gintama-nanigoto-mo-saiyo-ga-kanjin-nano-de-tasho-senobisuru-kurai-ga-choudoyoi/1",
+      "anime_id": 1174,
+      "anime_name": "Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi"
+    }
+  ],
+  "total_episodes": 1
+}

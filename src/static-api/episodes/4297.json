@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Yurei Deco",
+  "anime": {
+    "id": 4297,
+    "nome": "Yurei Deco",
+    "link": "https://animefire.plus/animes/yurei-deco-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yurei-deco",
+    "rating": "6.03",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yurei-deco/1",
+      "anime_id": 4297,
+      "anime_name": "Yurei Deco"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yurei-deco/2",
+      "anime_id": 4297,
+      "anime_name": "Yurei Deco"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/yurei-deco/3",
+      "anime_id": 4297,
+      "anime_name": "Yurei Deco"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/yurei-deco/4",
+      "anime_id": 4297,
+      "anime_name": "Yurei Deco"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/yurei-deco/5",
+      "anime_id": 4297,
+      "anime_name": "Yurei Deco"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/yurei-deco/6",
+      "anime_id": 4297,
+      "anime_name": "Yurei Deco"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/yurei-deco/7",
+      "anime_id": 4297,
+      "anime_name": "Yurei Deco"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/yurei-deco/8",
+      "anime_id": 4297,
+      "anime_name": "Yurei Deco"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/yurei-deco/9",
+      "anime_id": 4297,
+      "anime_name": "Yurei Deco"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/yurei-deco/10",
+      "anime_id": 4297,
+      "anime_name": "Yurei Deco"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/yurei-deco/11",
+      "anime_id": 4297,
+      "anime_name": "Yurei Deco"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/yurei-deco/12",
+      "anime_id": 4297,
+      "anime_name": "Yurei Deco"
+    }
+  ],
+  "total_episodes": 12
+}

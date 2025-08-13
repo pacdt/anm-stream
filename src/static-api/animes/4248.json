@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4248,
+    "nome": "Yoru no Kuni",
+    "link": "https://animefire.plus/animes/yoru-no-kuni-todos-os-episodios",
+    "texto_original": "Yoru no Kuni",
+    "rating": 7.44,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/yoru-no-kuni.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/yoru-no-kuni/",
+    "secao": "legendados",
+    "pagina": 45,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/yoru-no-kuni"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Comic Party",
+  "anime": {
+    "id": 684,
+    "nome": "Comic Party",
+    "link": "https://animefire.plus/animes/comic-party-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/comic-party",
+    "rating": "6.64",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/comic-party/1",
+      "anime_id": 684,
+      "anime_name": "Comic Party"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/comic-party/2",
+      "anime_id": 684,
+      "anime_name": "Comic Party"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/comic-party/3",
+      "anime_id": 684,
+      "anime_name": "Comic Party"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/comic-party/4",
+      "anime_id": 684,
+      "anime_name": "Comic Party"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/comic-party/5",
+      "anime_id": 684,
+      "anime_name": "Comic Party"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/comic-party/6",
+      "anime_id": 684,
+      "anime_name": "Comic Party"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/comic-party/7",
+      "anime_id": 684,
+      "anime_name": "Comic Party"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/comic-party/8",
+      "anime_id": 684,
+      "anime_name": "Comic Party"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/comic-party/9",
+      "anime_id": 684,
+      "anime_name": "Comic Party"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/comic-party/10",
+      "anime_id": 684,
+      "anime_name": "Comic Party"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/comic-party/11",
+      "anime_id": 684,
+      "anime_name": "Comic Party"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/comic-party/12",
+      "anime_id": 684,
+      "anime_name": "Comic Party"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/comic-party/13",
+      "anime_id": 684,
+      "anime_name": "Comic Party"
+    }
+  ],
+  "total_episodes": 13
+}

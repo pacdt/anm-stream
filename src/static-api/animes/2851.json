@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2851,
+    "nome": "Onihei",
+    "link": "https://animefire.plus/animes/onihei-todos-os-episodios",
+    "texto_original": "Onihei",
+    "rating": 7.35,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/onihei.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/onihei/",
+    "secao": "legendados",
+    "pagina": 149,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/onihei"
+  }
+}

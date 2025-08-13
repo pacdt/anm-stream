@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4064,
+    "nome": "Vampire Knight",
+    "link": "https://animefire.plus/animes/vampire-knight-todos-os-episodios",
+    "texto_original": "Vampire Knight",
+    "rating": 7.25,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/vampire-knight.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/vampire-knight/",
+    "secao": "legendados",
+    "pagina": 169,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/vampire-knight"
+  }
+}

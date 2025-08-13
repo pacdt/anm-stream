@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2141,
+    "nome": "Kurayami Santa",
+    "link": "https://animefire.plus/animes/kurayami-santa-todos-os-episodios",
+    "texto_original": "Kurayami Santa",
+    "rating": 5.22,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kurayami-santa.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kurayami-santa/",
+    "secao": "legendados",
+    "pagina": 134,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/kurayami-santa"
+  }
+}

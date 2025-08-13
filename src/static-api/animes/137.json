@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 137,
+    "nome": "Aldnoah.Zero",
+    "link": "https://animefire.plus/animes/aldnoah-zero-todos-os-episodios",
+    "texto_original": "Aldnoah.Zero",
+    "rating": 7.53,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/aldnoah-zero.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/aldnoah-zero/",
+    "secao": "legendados",
+    "pagina": 170,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/aldnoah-zero"
+  }
+}

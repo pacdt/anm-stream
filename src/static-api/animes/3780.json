@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3780,
+    "nome": "Tenjou Tenge",
+    "link": "https://animefire.plus/animes/tenjou-tenge-todos-os-episodios",
+    "texto_original": "Tenjou Tenge",
+    "rating": 7.03,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/tenjou-tenge.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tenjou-tenge/",
+    "secao": "legendados",
+    "pagina": 128,
+    "total_episodios": 15,
+    "link_video": "https://animefire.plus/video/tenjou-tenge"
+  }
+}

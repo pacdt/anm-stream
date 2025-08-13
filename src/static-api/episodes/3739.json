@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Tanpen Unico: Kuroi Kumo to Shiroi Hane",
+  "anime": {
+    "id": 3739,
+    "nome": "Tanpen Unico: Kuroi Kumo to Shiroi Hane",
+    "link": "https://animefire.plus/animes/tanpen-unico-kuroi-kumo-to-shiroi-hane-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tanpen-unico-kuroi-kumo-to-shiroi-hane",
+    "rating": "6.24",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tanpen-unico-kuroi-kumo-to-shiroi-hane/1",
+      "anime_id": 3739,
+      "anime_name": "Tanpen Unico: Kuroi Kumo to Shiroi Hane"
+    }
+  ],
+  "total_episodes": 1
+}

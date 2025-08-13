@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: Strike The Blood II",
+  "anime": {
+    "id": 3647,
+    "nome": "Strike The Blood II",
+    "link": "https://animefire.plus/animes/strike-the-blood-ii-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/strike-the-blood-ii",
+    "rating": "7.25",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/strike-the-blood-ii/1",
+      "anime_id": 3647,
+      "anime_name": "Strike The Blood II"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/strike-the-blood-ii/2",
+      "anime_id": 3647,
+      "anime_name": "Strike The Blood II"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/strike-the-blood-ii/3",
+      "anime_id": 3647,
+      "anime_name": "Strike The Blood II"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/strike-the-blood-ii/4",
+      "anime_id": 3647,
+      "anime_name": "Strike The Blood II"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/strike-the-blood-ii/5",
+      "anime_id": 3647,
+      "anime_name": "Strike The Blood II"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/strike-the-blood-ii/6",
+      "anime_id": 3647,
+      "anime_name": "Strike The Blood II"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/strike-the-blood-ii/7",
+      "anime_id": 3647,
+      "anime_name": "Strike The Blood II"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/strike-the-blood-ii/8",
+      "anime_id": 3647,
+      "anime_name": "Strike The Blood II"
+    }
+  ],
+  "total_episodes": 8
+}

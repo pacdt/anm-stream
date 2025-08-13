@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3374,
+    "nome": "Shadowverse (TV)",
+    "link": "https://animefire.plus/animes/shadowverse-tv-todos-os-episodios",
+    "texto_original": "Shadowverse (TV)",
+    "rating": 5.1,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/shadowverse-tv.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shadowverse-tv/",
+    "secao": "legendados,lancamentos",
+    "pagina": 81,
+    "total_episodios": 7,
+    "link_video": "https://animefire.plus/video/shadowverse-tv"
+  }
+}

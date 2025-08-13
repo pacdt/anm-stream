@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: SSSS.Dynazenon",
+  "anime": {
+    "id": 3618,
+    "nome": "SSSS.Dynazenon",
+    "link": "https://animefire.plus/animes/ssss-dynazenon-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ssss-dynazenon",
+    "rating": "7.43",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ssss-dynazenon/1",
+      "anime_id": 3618,
+      "anime_name": "SSSS.Dynazenon"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ssss-dynazenon/2",
+      "anime_id": 3618,
+      "anime_name": "SSSS.Dynazenon"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/ssss-dynazenon/3",
+      "anime_id": 3618,
+      "anime_name": "SSSS.Dynazenon"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/ssss-dynazenon/4",
+      "anime_id": 3618,
+      "anime_name": "SSSS.Dynazenon"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/ssss-dynazenon/5",
+      "anime_id": 3618,
+      "anime_name": "SSSS.Dynazenon"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/ssss-dynazenon/6",
+      "anime_id": 3618,
+      "anime_name": "SSSS.Dynazenon"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/ssss-dynazenon/7",
+      "anime_id": 3618,
+      "anime_name": "SSSS.Dynazenon"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/ssss-dynazenon/8",
+      "anime_id": 3618,
+      "anime_name": "SSSS.Dynazenon"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/ssss-dynazenon/9",
+      "anime_id": 3618,
+      "anime_name": "SSSS.Dynazenon"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/ssss-dynazenon/10",
+      "anime_id": 3618,
+      "anime_name": "SSSS.Dynazenon"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/ssss-dynazenon/11",
+      "anime_id": 3618,
+      "anime_name": "SSSS.Dynazenon"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/ssss-dynazenon/12",
+      "anime_id": 3618,
+      "anime_name": "SSSS.Dynazenon"
+    }
+  ],
+  "total_episodes": 12
+}

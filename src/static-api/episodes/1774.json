@@ -1,0 +1,98 @@
+{
+  "message": "Lista de episódios do anime: K-On!",
+  "anime": {
+    "id": 1774,
+    "nome": "K-On!",
+    "link": "https://animefire.plus/animes/k-on-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/k-on",
+    "rating": "8.15",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/k-on/1",
+      "anime_id": 1774,
+      "anime_name": "K-On!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/k-on/2",
+      "anime_id": 1774,
+      "anime_name": "K-On!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/k-on/3",
+      "anime_id": 1774,
+      "anime_name": "K-On!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/k-on/4",
+      "anime_id": 1774,
+      "anime_name": "K-On!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/k-on/5",
+      "anime_id": 1774,
+      "anime_name": "K-On!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/k-on/6",
+      "anime_id": 1774,
+      "anime_name": "K-On!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/k-on/7",
+      "anime_id": 1774,
+      "anime_name": "K-On!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/k-on/8",
+      "anime_id": 1774,
+      "anime_name": "K-On!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/k-on/9",
+      "anime_id": 1774,
+      "anime_name": "K-On!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/k-on/10",
+      "anime_id": 1774,
+      "anime_name": "K-On!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/k-on/11",
+      "anime_id": 1774,
+      "anime_name": "K-On!"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/k-on/12",
+      "anime_id": 1774,
+      "anime_name": "K-On!"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/k-on/13",
+      "anime_id": 1774,
+      "anime_name": "K-On!"
+    },
+    {
+      "episode_number": 14,
+      "episode_url": "https://animefire.plus/video/k-on/14",
+      "anime_id": 1774,
+      "anime_name": "K-On!"
+    }
+  ],
+  "total_episodes": 14
+}

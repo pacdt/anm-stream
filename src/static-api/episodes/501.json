@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Bronze: Kouji Nanjo Cathexis",
+  "anime": {
+    "id": 501,
+    "nome": "Bronze: Kouji Nanjo Cathexis",
+    "link": "https://animefire.plus/animes/bronze-kouji-nanjo-cathexis-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/bronze-kouji-nanjo-cathexis",
+    "rating": "6.32",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/bronze-kouji-nanjo-cathexis/1",
+      "anime_id": 501,
+      "anime_name": "Bronze: Kouji Nanjo Cathexis"
+    }
+  ],
+  "total_episodes": 1
+}

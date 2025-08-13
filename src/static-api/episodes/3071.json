@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Rain Town",
+  "anime": {
+    "id": 3071,
+    "nome": "Rain Town",
+    "link": "https://animefire.plus/animes/rain-town-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/rain-town",
+    "rating": "7.22",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/rain-town/1",
+      "anime_id": 3071,
+      "anime_name": "Rain Town"
+    }
+  ],
+  "total_episodes": 1
+}

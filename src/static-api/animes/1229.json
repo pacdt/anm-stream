@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1229,
+    "nome": "Good Night World (Dublado)",
+    "link": "https://animefire.plus/animes/good-night-world-dublado-todos-os-episodios",
+    "texto_original": "Good Night World (Dublado)",
+    "rating": 7.06,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/good-night-world.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/good-night-world/",
+    "secao": "dublados,legendados",
+    "pagina": 5,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/good-night-world-dublado"
+  }
+}

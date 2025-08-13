@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 824,
+    "nome": "Digimon Tamers",
+    "link": "https://animefire.plus/animes/digimon-tamers-todos-os-episodios",
+    "texto_original": "Digimon Tamers",
+    "rating": 7.66,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/digimon-tamers.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/digimon-tamers/",
+    "secao": "legendados",
+    "pagina": 134,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/digimon-tamers"
+  }
+}

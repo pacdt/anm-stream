@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3368,
+    "nome": "Sex Pistols",
+    "link": "https://animefire.plus/animes/sex-pistols-todos-os-episodios",
+    "texto_original": "Sex Pistols",
+    "rating": 6.83,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/sex-pistols.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sex-pistols/",
+    "secao": "legendados",
+    "pagina": 96,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/sex-pistols"
+  }
+}

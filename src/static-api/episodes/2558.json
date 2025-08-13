@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Mobile Suit Gundam: The Witch from Mercury",
+  "anime": {
+    "id": 2558,
+    "nome": "Mobile Suit Gundam: The Witch from Mercury",
+    "link": "https://animefire.plus/animes/mobile-suit-gundam-the-witch-from-mercury-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mobile-suit-gundam-the-witch-from-mercury",
+    "rating": "7.85",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-the-witch-from-mercury/1",
+      "anime_id": 2558,
+      "anime_name": "Mobile Suit Gundam: The Witch from Mercury"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-the-witch-from-mercury/2",
+      "anime_id": 2558,
+      "anime_name": "Mobile Suit Gundam: The Witch from Mercury"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-the-witch-from-mercury/3",
+      "anime_id": 2558,
+      "anime_name": "Mobile Suit Gundam: The Witch from Mercury"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-the-witch-from-mercury/4",
+      "anime_id": 2558,
+      "anime_name": "Mobile Suit Gundam: The Witch from Mercury"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-the-witch-from-mercury/5",
+      "anime_id": 2558,
+      "anime_name": "Mobile Suit Gundam: The Witch from Mercury"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-the-witch-from-mercury/6",
+      "anime_id": 2558,
+      "anime_name": "Mobile Suit Gundam: The Witch from Mercury"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-the-witch-from-mercury/7",
+      "anime_id": 2558,
+      "anime_name": "Mobile Suit Gundam: The Witch from Mercury"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-the-witch-from-mercury/8",
+      "anime_id": 2558,
+      "anime_name": "Mobile Suit Gundam: The Witch from Mercury"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-the-witch-from-mercury/9",
+      "anime_id": 2558,
+      "anime_name": "Mobile Suit Gundam: The Witch from Mercury"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-the-witch-from-mercury/10",
+      "anime_id": 2558,
+      "anime_name": "Mobile Suit Gundam: The Witch from Mercury"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-the-witch-from-mercury/11",
+      "anime_id": 2558,
+      "anime_name": "Mobile Suit Gundam: The Witch from Mercury"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-the-witch-from-mercury/12",
+      "anime_id": 2558,
+      "anime_name": "Mobile Suit Gundam: The Witch from Mercury"
+    }
+  ],
+  "total_episodes": 12
+}

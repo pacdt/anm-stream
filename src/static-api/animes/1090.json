@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1090,
+    "nome": "Gakusen Toshi Asterisk",
+    "link": "https://animefire.plus/animes/gakusen-toshi-asterisk-todos-os-episodios",
+    "texto_original": "Gakusen Toshi Asterisk",
+    "rating": 7.09,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/gakusen-toshi-asterisk.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gakusen-toshi-asterisk/",
+    "secao": "legendados",
+    "pagina": 105,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/gakusen-toshi-asterisk"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 328,
+    "nome": "Ballpark de Tsukamaete!",
+    "link": "https://animefire.plus/animes/ballpark-de-tsukamaete-todos-os-episodios",
+    "texto_original": "Ballpark de Tsukamaete!",
+    "rating": 7.16,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ballpark-de-tsukamaete.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ballpark-de-tsukamaete/",
+    "secao": "legendados",
+    "pagina": 4,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/ballpark-de-tsukamaete"
+  }
+}

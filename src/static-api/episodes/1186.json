@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Gintama°: Umai-mono wa Atomawashi ni Suru to Yokodorisareru kara Yappari Saki ni Kue",
+  "anime": {
+    "id": 1186,
+    "nome": "Gintama°: Umai-mono wa Atomawashi ni Suru to Yokodorisareru kara Yappari Saki ni Kue",
+    "link": "https://animefire.plus/animes/gintama-umai-mono-wa-atomawashi-ni-suru-to-yokodorisareru-kara-yappari-saki-ni-kue-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gintama-umai-mono-wa-atomawashi-ni-suru-to-yokodorisareru-kara-yappari-saki-ni-kue",
+    "rating": "8.10",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gintama-umai-mono-wa-atomawashi-ni-suru-to-yokodorisareru-kara-yappari-saki-ni-kue/1",
+      "anime_id": 1186,
+      "anime_name": "Gintama°: Umai-mono wa Atomawashi ni Suru to Yokodorisareru kara Yappari Saki ni Kue"
+    }
+  ],
+  "total_episodes": 1
+}

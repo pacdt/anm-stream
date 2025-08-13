@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Koihime†Musou OVA Omake",
+  "anime": {
+    "id": 2059,
+    "nome": "Koihime†Musou OVA Omake",
+    "link": "https://animefire.plus/animes/koihime-musou-ova-omake-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/koihime-musou-ova-omake",
+    "rating": "6.24",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/koihime-musou-ova-omake/1",
+      "anime_id": 2059,
+      "anime_name": "Koihime†Musou OVA Omake"
+    }
+  ],
+  "total_episodes": 1
+}

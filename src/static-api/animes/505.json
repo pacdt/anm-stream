@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 505,
+    "nome": "Bubble (Dublado)",
+    "link": "https://animefire.plus/animes/bubble-dublado-todos-os-episodios",
+    "texto_original": "Bubble (Dublado)",
+    "rating": 7.24,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/bubble.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bubble/",
+    "secao": "dublados,legendados",
+    "pagina": 11,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/bubble-dublado"
+  }
+}

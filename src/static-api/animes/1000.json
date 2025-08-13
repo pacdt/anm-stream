@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1000,
+    "nome": "Fate/strange Fake",
+    "link": "https://animefire.plus/animes/fate-strange-fake-todos-os-episodios",
+    "texto_original": "Fate/strange Fake",
+    "rating": null,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/fate-strange-fake.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/fate-strange-fake/",
+    "secao": "legendados,lancamentos",
+    "pagina": 8,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/fate-strange-fake"
+  }
+}

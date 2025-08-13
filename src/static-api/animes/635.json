@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 635,
+    "nome": "Chrno Crusade",
+    "link": "https://animefire.plus/animes/chrno-crusade-todos-os-episodios",
+    "texto_original": "Chrno Crusade",
+    "rating": 7.74,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/chrno-crusade.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/chrno-crusade/",
+    "secao": "legendados",
+    "pagina": 168,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/chrno-crusade"
+  }
+}

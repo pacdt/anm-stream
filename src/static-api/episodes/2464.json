@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Megalo Box",
+  "anime": {
+    "id": 2464,
+    "nome": "Megalo Box",
+    "link": "https://animefire.plus/animes/megalo-box-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/megalo-box",
+    "rating": "8.02",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/megalo-box/1",
+      "anime_id": 2464,
+      "anime_name": "Megalo Box"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/megalo-box/2",
+      "anime_id": 2464,
+      "anime_name": "Megalo Box"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/megalo-box/3",
+      "anime_id": 2464,
+      "anime_name": "Megalo Box"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/megalo-box/4",
+      "anime_id": 2464,
+      "anime_name": "Megalo Box"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/megalo-box/5",
+      "anime_id": 2464,
+      "anime_name": "Megalo Box"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/megalo-box/6",
+      "anime_id": 2464,
+      "anime_name": "Megalo Box"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/megalo-box/7",
+      "anime_id": 2464,
+      "anime_name": "Megalo Box"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/megalo-box/8",
+      "anime_id": 2464,
+      "anime_name": "Megalo Box"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/megalo-box/9",
+      "anime_id": 2464,
+      "anime_name": "Megalo Box"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/megalo-box/10",
+      "anime_id": 2464,
+      "anime_name": "Megalo Box"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/megalo-box/11",
+      "anime_id": 2464,
+      "anime_name": "Megalo Box"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/megalo-box/12",
+      "anime_id": 2464,
+      "anime_name": "Megalo Box"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/megalo-box/13",
+      "anime_id": 2464,
+      "anime_name": "Megalo Box"
+    }
+  ],
+  "total_episodes": 13
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Renkin San-kyuu Magical? Pokaan",
+  "anime": {
+    "id": 3113,
+    "nome": "Renkin San-kyuu Magical? Pokaan",
+    "link": "https://animefire.plus/animes/renkin-san-kyuu-magical-pokaan-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/renkin-san-kyuu-magical-pokaan",
+    "rating": "7.00",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/renkin-san-kyuu-magical-pokaan/1",
+      "anime_id": 3113,
+      "anime_name": "Renkin San-kyuu Magical? Pokaan"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/renkin-san-kyuu-magical-pokaan/2",
+      "anime_id": 3113,
+      "anime_name": "Renkin San-kyuu Magical? Pokaan"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/renkin-san-kyuu-magical-pokaan/3",
+      "anime_id": 3113,
+      "anime_name": "Renkin San-kyuu Magical? Pokaan"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/renkin-san-kyuu-magical-pokaan/4",
+      "anime_id": 3113,
+      "anime_name": "Renkin San-kyuu Magical? Pokaan"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/renkin-san-kyuu-magical-pokaan/5",
+      "anime_id": 3113,
+      "anime_name": "Renkin San-kyuu Magical? Pokaan"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/renkin-san-kyuu-magical-pokaan/6",
+      "anime_id": 3113,
+      "anime_name": "Renkin San-kyuu Magical? Pokaan"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/renkin-san-kyuu-magical-pokaan/7",
+      "anime_id": 3113,
+      "anime_name": "Renkin San-kyuu Magical? Pokaan"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/renkin-san-kyuu-magical-pokaan/8",
+      "anime_id": 3113,
+      "anime_name": "Renkin San-kyuu Magical? Pokaan"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/renkin-san-kyuu-magical-pokaan/9",
+      "anime_id": 3113,
+      "anime_name": "Renkin San-kyuu Magical? Pokaan"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/renkin-san-kyuu-magical-pokaan/10",
+      "anime_id": 3113,
+      "anime_name": "Renkin San-kyuu Magical? Pokaan"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/renkin-san-kyuu-magical-pokaan/11",
+      "anime_id": 3113,
+      "anime_name": "Renkin San-kyuu Magical? Pokaan"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/renkin-san-kyuu-magical-pokaan/12",
+      "anime_id": 3113,
+      "anime_name": "Renkin San-kyuu Magical? Pokaan"
+    }
+  ],
+  "total_episodes": 12
+}

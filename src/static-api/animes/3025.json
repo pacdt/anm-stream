@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3025,
+    "nome": "Princess Connect! Re:Dive",
+    "link": "https://animefire.plus/animes/princess-connect-re-dive-todos-os-episodios",
+    "texto_original": "Princess Connect! Re:Dive",
+    "rating": 7.06,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/princess-connect-re-dive.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/princess-connect-re-dive/",
+    "secao": "legendados",
+    "pagina": 81,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/princess-connect-re-dive"
+  }
+}

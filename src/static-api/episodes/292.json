@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: B-Project: Netsuretsu*Love Call",
+  "anime": {
+    "id": 292,
+    "nome": "B-Project: Netsuretsu*Love Call",
+    "link": "https://animefire.plus/animes/b-project-netsuretsu-love-call-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/b-project-netsuretsu-love-call",
+    "rating": "6.30",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/b-project-netsuretsu-love-call/1",
+      "anime_id": 292,
+      "anime_name": "B-Project: Netsuretsu*Love Call"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/b-project-netsuretsu-love-call/2",
+      "anime_id": 292,
+      "anime_name": "B-Project: Netsuretsu*Love Call"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/b-project-netsuretsu-love-call/3",
+      "anime_id": 292,
+      "anime_name": "B-Project: Netsuretsu*Love Call"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/b-project-netsuretsu-love-call/4",
+      "anime_id": 292,
+      "anime_name": "B-Project: Netsuretsu*Love Call"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/b-project-netsuretsu-love-call/5",
+      "anime_id": 292,
+      "anime_name": "B-Project: Netsuretsu*Love Call"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/b-project-netsuretsu-love-call/6",
+      "anime_id": 292,
+      "anime_name": "B-Project: Netsuretsu*Love Call"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/b-project-netsuretsu-love-call/7",
+      "anime_id": 292,
+      "anime_name": "B-Project: Netsuretsu*Love Call"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/b-project-netsuretsu-love-call/8",
+      "anime_id": 292,
+      "anime_name": "B-Project: Netsuretsu*Love Call"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/b-project-netsuretsu-love-call/9",
+      "anime_id": 292,
+      "anime_name": "B-Project: Netsuretsu*Love Call"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/b-project-netsuretsu-love-call/10",
+      "anime_id": 292,
+      "anime_name": "B-Project: Netsuretsu*Love Call"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/b-project-netsuretsu-love-call/11",
+      "anime_id": 292,
+      "anime_name": "B-Project: Netsuretsu*Love Call"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/b-project-netsuretsu-love-call/12",
+      "anime_id": 292,
+      "anime_name": "B-Project: Netsuretsu*Love Call"
+    }
+  ],
+  "total_episodes": 12
+}

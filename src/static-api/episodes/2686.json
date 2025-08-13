@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: Natsume Yuujinchou Go",
+  "anime": {
+    "id": 2686,
+    "nome": "Natsume Yuujinchou Go",
+    "link": "https://animefire.plus/animes/natsume-yuujinchou-go-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/natsume-yuujinchou-go",
+    "rating": "8.62",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-go/1",
+      "anime_id": 2686,
+      "anime_name": "Natsume Yuujinchou Go"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-go/2",
+      "anime_id": 2686,
+      "anime_name": "Natsume Yuujinchou Go"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-go/3",
+      "anime_id": 2686,
+      "anime_name": "Natsume Yuujinchou Go"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-go/4",
+      "anime_id": 2686,
+      "anime_name": "Natsume Yuujinchou Go"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-go/5",
+      "anime_id": 2686,
+      "anime_name": "Natsume Yuujinchou Go"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-go/6",
+      "anime_id": 2686,
+      "anime_name": "Natsume Yuujinchou Go"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-go/7",
+      "anime_id": 2686,
+      "anime_name": "Natsume Yuujinchou Go"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-go/8",
+      "anime_id": 2686,
+      "anime_name": "Natsume Yuujinchou Go"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-go/9",
+      "anime_id": 2686,
+      "anime_name": "Natsume Yuujinchou Go"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-go/10",
+      "anime_id": 2686,
+      "anime_name": "Natsume Yuujinchou Go"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-go/11",
+      "anime_id": 2686,
+      "anime_name": "Natsume Yuujinchou Go"
+    }
+  ],
+  "total_episodes": 11
+}

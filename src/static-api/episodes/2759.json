@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Noblesse: Pamyeol-ui Sijak",
+  "anime": {
+    "id": 2759,
+    "nome": "Noblesse: Pamyeol-ui Sijak",
+    "link": "https://animefire.plus/animes/noblesse-pamyeol-ui-sijak-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/noblesse-pamyeol-ui-sijak",
+    "rating": "7.43",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/noblesse-pamyeol-ui-sijak/1",
+      "anime_id": 2759,
+      "anime_name": "Noblesse: Pamyeol-ui Sijak"
+    }
+  ],
+  "total_episodes": 1
+}

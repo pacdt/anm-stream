@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1285,
+    "nome": "Gunslinger Girl",
+    "link": "https://animefire.plus/animes/gunslinger-girl-todos-os-episodios",
+    "texto_original": "Gunslinger Girl",
+    "rating": 7.48,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/gunslinger-girl.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gunslinger-girl/",
+    "secao": "legendados",
+    "pagina": 101,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/gunslinger-girl"
+  }
+}

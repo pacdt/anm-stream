@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: Onimusha (Dublado)",
+  "anime": {
+    "id": 2857,
+    "nome": "Onimusha (Dublado)",
+    "link": "https://animefire.plus/animes/onimusha-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/onimusha-dublado",
+    "rating": "6.55",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/onimusha-dublado/1",
+      "anime_id": 2857,
+      "anime_name": "Onimusha (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/onimusha-dublado/2",
+      "anime_id": 2857,
+      "anime_name": "Onimusha (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/onimusha-dublado/3",
+      "anime_id": 2857,
+      "anime_name": "Onimusha (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/onimusha-dublado/4",
+      "anime_id": 2857,
+      "anime_name": "Onimusha (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/onimusha-dublado/5",
+      "anime_id": 2857,
+      "anime_name": "Onimusha (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/onimusha-dublado/6",
+      "anime_id": 2857,
+      "anime_name": "Onimusha (Dublado)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/onimusha-dublado/7",
+      "anime_id": 2857,
+      "anime_name": "Onimusha (Dublado)"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/onimusha-dublado/8",
+      "anime_id": 2857,
+      "anime_name": "Onimusha (Dublado)"
+    }
+  ],
+  "total_episodes": 8
+}

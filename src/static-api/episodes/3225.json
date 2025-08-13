@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Sakamoto Days Part 2 (Dublado)",
+  "anime": {
+    "id": 3225,
+    "nome": "Sakamoto Days Part 2 (Dublado)",
+    "link": "https://animefire.plus/animes/sakamoto-days-part-2-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sakamoto-days-part-2-dublado",
+    "rating": "7.88",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sakamoto-days-part-2-dublado/1",
+      "anime_id": 3225,
+      "anime_name": "Sakamoto Days Part 2 (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/sakamoto-days-part-2-dublado/2",
+      "anime_id": 3225,
+      "anime_name": "Sakamoto Days Part 2 (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/sakamoto-days-part-2-dublado/3",
+      "anime_id": 3225,
+      "anime_name": "Sakamoto Days Part 2 (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/sakamoto-days-part-2-dublado/4",
+      "anime_id": 3225,
+      "anime_name": "Sakamoto Days Part 2 (Dublado)"
+    }
+  ],
+  "total_episodes": 4
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1488,
+    "nome": "Himote House",
+    "link": "https://animefire.plus/animes/himote-house-todos-os-episodios",
+    "texto_original": "Himote House",
+    "rating": 5.8,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/himote-house.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/himote-house/",
+    "secao": "legendados",
+    "pagina": 115,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/himote-house"
+  }
+}

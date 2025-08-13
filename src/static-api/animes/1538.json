@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1538,
+    "nome": "Houkago No Pleiades",
+    "link": "https://animefire.plus/animes/houkago-no-pleiades-todos-os-episodios",
+    "texto_original": "Houkago No Pleiades",
+    "rating": 6.16,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/houkago-no-pleiades.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/houkago-no-pleiades/",
+    "secao": "legendados",
+    "pagina": 59,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/houkago-no-pleiades"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 855,
+    "nome": "Double Circle",
+    "link": "https://animefire.plus/animes/double-circle-todos-os-episodios",
+    "texto_original": "Double Circle",
+    "rating": 4.94,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/double-circle.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/double-circle/",
+    "secao": "legendados",
+    "pagina": 113,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/double-circle"
+  }
+}

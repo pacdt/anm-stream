@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Gakuen Handsome",
+  "anime": {
+    "id": 1086,
+    "nome": "Gakuen Handsome",
+    "link": "https://animefire.plus/animes/gakuen-handsome-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gakuen-handsome",
+    "rating": "6.52",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gakuen-handsome/1",
+      "anime_id": 1086,
+      "anime_name": "Gakuen Handsome"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/gakuen-handsome/2",
+      "anime_id": 1086,
+      "anime_name": "Gakuen Handsome"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/gakuen-handsome/3",
+      "anime_id": 1086,
+      "anime_name": "Gakuen Handsome"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/gakuen-handsome/4",
+      "anime_id": 1086,
+      "anime_name": "Gakuen Handsome"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/gakuen-handsome/5",
+      "anime_id": 1086,
+      "anime_name": "Gakuen Handsome"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/gakuen-handsome/6",
+      "anime_id": 1086,
+      "anime_name": "Gakuen Handsome"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/gakuen-handsome/7",
+      "anime_id": 1086,
+      "anime_name": "Gakuen Handsome"
+    }
+  ],
+  "total_episodes": 7
+}

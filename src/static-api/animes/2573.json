@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2573,
+    "nome": "Monochrome Factor",
+    "link": "https://animefire.plus/animes/monochrome-factor-todos-os-episodios",
+    "texto_original": "Monochrome Factor",
+    "rating": 7.07,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/monochrome-factor.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/monochrome-factor/",
+    "secao": "legendados",
+    "pagina": 176,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/monochrome-factor"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 160,
+    "nome": "Ame-iro Cocoa",
+    "link": "https://animefire.plus/animes/ame-iro-cocoa-todos-os-episodios",
+    "texto_original": "Ame-iro Cocoa",
+    "rating": 4.76,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ame-iro-cocoa.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ame-iro-cocoa/",
+    "secao": "legendados",
+    "pagina": 136,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/ame-iro-cocoa"
+  }
+}

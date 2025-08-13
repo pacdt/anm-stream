@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Ojisan to Marshmallow",
+  "anime": {
+    "id": 2811,
+    "nome": "Ojisan to Marshmallow",
+    "link": "https://animefire.plus/animes/ojisan-to-marshmallow-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ojisan-to-marshmallow",
+    "rating": "6.63",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ojisan-to-marshmallow/1",
+      "anime_id": 2811,
+      "anime_name": "Ojisan to Marshmallow"
+    }
+  ],
+  "total_episodes": 1
+}

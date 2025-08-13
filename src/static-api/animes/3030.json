@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3030,
+    "nome": "Princess Principal",
+    "link": "https://animefire.plus/animes/princess-principal-todos-os-episodios",
+    "texto_original": "Princess Principal",
+    "rating": 7.7,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/princess-principal.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/princess-principal/",
+    "secao": "legendados",
+    "pagina": 123,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/princess-principal"
+  }
+}

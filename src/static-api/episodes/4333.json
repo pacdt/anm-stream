@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Zankyou no Terror",
+  "anime": {
+    "id": 4333,
+    "nome": "Zankyou no Terror",
+    "link": "https://animefire.plus/animes/zankyou-no-terror-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/zankyou-no-terror",
+    "rating": "8.18",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/zankyou-no-terror/1",
+      "anime_id": 4333,
+      "anime_name": "Zankyou no Terror"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/zankyou-no-terror/2",
+      "anime_id": 4333,
+      "anime_name": "Zankyou no Terror"
+    }
+  ],
+  "total_episodes": 2
+}

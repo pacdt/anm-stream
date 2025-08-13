@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: The iDOLM@STER SideM: 315 Variety Pack! Made In Passion!",
+  "anime": {
+    "id": 3835,
+    "nome": "The iDOLM@STER SideM: 315 Variety Pack! Made In Passion!",
+    "link": "https://animefire.plus/animes/the-idolmatster-sidem-315-variety-pack-made-in-passion-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/the-idolmatster-sidem-315-variety-pack-made-in-passion",
+    "rating": "6.53",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/the-idolmatster-sidem-315-variety-pack-made-in-passion/1",
+      "anime_id": 3835,
+      "anime_name": "The iDOLM@STER SideM: 315 Variety Pack! Made In Passion!"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: Tokyo Magnitude 8.0",
+  "anime": {
+    "id": 3887,
+    "nome": "Tokyo Magnitude 8.0",
+    "link": "https://animefire.plus/animes/tokyo-magnitude-8-0-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tokyo-magnitude-8-0",
+    "rating": "8.13",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tokyo-magnitude-8-0/1",
+      "anime_id": 3887,
+      "anime_name": "Tokyo Magnitude 8.0"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tokyo-magnitude-8-0/2",
+      "anime_id": 3887,
+      "anime_name": "Tokyo Magnitude 8.0"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tokyo-magnitude-8-0/3",
+      "anime_id": 3887,
+      "anime_name": "Tokyo Magnitude 8.0"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tokyo-magnitude-8-0/4",
+      "anime_id": 3887,
+      "anime_name": "Tokyo Magnitude 8.0"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/tokyo-magnitude-8-0/5",
+      "anime_id": 3887,
+      "anime_name": "Tokyo Magnitude 8.0"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/tokyo-magnitude-8-0/6",
+      "anime_id": 3887,
+      "anime_name": "Tokyo Magnitude 8.0"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/tokyo-magnitude-8-0/7",
+      "anime_id": 3887,
+      "anime_name": "Tokyo Magnitude 8.0"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/tokyo-magnitude-8-0/8",
+      "anime_id": 3887,
+      "anime_name": "Tokyo Magnitude 8.0"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/tokyo-magnitude-8-0/9",
+      "anime_id": 3887,
+      "anime_name": "Tokyo Magnitude 8.0"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/tokyo-magnitude-8-0/10",
+      "anime_id": 3887,
+      "anime_name": "Tokyo Magnitude 8.0"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/tokyo-magnitude-8-0/11",
+      "anime_id": 3887,
+      "anime_name": "Tokyo Magnitude 8.0"
+    }
+  ],
+  "total_episodes": 11
+}

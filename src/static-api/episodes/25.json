@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: 22/7",
+  "anime": {
+    "id": 25,
+    "nome": "22/7",
+    "link": "https://animefire.plus/animes/22-7-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/22-7",
+    "rating": "6.81",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/22-7/1",
+      "anime_id": 25,
+      "anime_name": "22/7"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/22-7/2",
+      "anime_id": 25,
+      "anime_name": "22/7"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/22-7/3",
+      "anime_id": 25,
+      "anime_name": "22/7"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/22-7/4",
+      "anime_id": 25,
+      "anime_name": "22/7"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/22-7/5",
+      "anime_id": 25,
+      "anime_name": "22/7"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/22-7/6",
+      "anime_id": 25,
+      "anime_name": "22/7"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/22-7/7",
+      "anime_id": 25,
+      "anime_name": "22/7"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/22-7/8",
+      "anime_id": 25,
+      "anime_name": "22/7"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/22-7/9",
+      "anime_id": 25,
+      "anime_name": "22/7"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/22-7/10",
+      "anime_id": 25,
+      "anime_name": "22/7"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/22-7/11",
+      "anime_id": 25,
+      "anime_name": "22/7"
+    }
+  ],
+  "total_episodes": 11
+}

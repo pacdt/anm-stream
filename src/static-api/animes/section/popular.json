@@ -1,0 +1,76 @@
+{
+  "message": "Animes da seção: popular",
+  "section": "popular",
+  "data": [
+    {
+      "id": 3601,
+      "nome": "Sousou no Frieren (Dublado)",
+      "link": "https://animefire.plus/animes/sousou-no-frieren-dublado-todos-os-episodios",
+      "texto_original": "Sousou no Frieren (Dublado)",
+      "rating": 9.3,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/sousou-no-frieren.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/sousou-no-frieren/",
+      "secao": "dublados,legendados",
+      "pagina": 5,
+      "total_episodios": 28,
+      "link_video": "https://animefire.plus/video/sousou-no-frieren-dublado"
+    },
+    {
+      "id": 1047,
+      "nome": "Fullmetal Alchemist: Brotherhood (Dublado)",
+      "link": "https://animefire.plus/animes/fullmetal-alchemist-brotherhood-dublado-todos-os-episodios",
+      "texto_original": "Fullmetal Alchemist: Brotherhood (Dublado)",
+      "rating": 9.23,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/fullmetal-alchemist-brotherhood.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/fullmetal-alchemist-brotherhood/",
+      "secao": "dublados",
+      "pagina": 25,
+      "total_episodios": 64,
+      "link_video": "https://animefire.plus/video/fullmetal-alchemist-brotherhood-dublado"
+    },
+    {
+      "id": 3449,
+      "nome": "Shingeki no Kyojin: The Final Season (Dublado)",
+      "link": "https://animefire.plus/animes/shingeki-no-kyojin-the-final-season-dublado-todos-os-episodios",
+      "texto_original": "Shingeki no Kyojin: The Final Season (Dublado)",
+      "rating": 9.14,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/shingeki-no-kyojin-the-final-season.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/shingeki-no-kyojin-the-final-season/",
+      "secao": "dublados,legendados",
+      "pagina": 18,
+      "total_episodios": 9,
+      "link_video": "https://animefire.plus/video/shingeki-no-kyojin-the-final-season-dublado"
+    },
+    {
+      "id": 3631,
+      "nome": "Steins;Gate (Dublado)",
+      "link": "https://animefire.plus/animes/steins-gate-dublado-todos-os-episodios",
+      "texto_original": "Steins;Gate (Dublado)",
+      "rating": 9.12,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/steins-gate.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/steins-gate/",
+      "secao": "dublados,legendados",
+      "pagina": 19,
+      "total_episodios": 25,
+      "link_video": "https://animefire.plus/video/steins-gate-dublado"
+    },
+    {
+      "id": 1185,
+      "nome": "Gintama°",
+      "link": "https://animefire.plus/animes/gintama-season-4-todos-os-episodios",
+      "texto_original": "Gintama°",
+      "rating": 9.11,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/gintama-season-4.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/gintama-season-4/",
+      "secao": "legendados",
+      "pagina": 53,
+      "total_episodios": 51,
+      "link_video": "https://animefire.plus/video/gintama-season-4"
+    }
+  ]
+}

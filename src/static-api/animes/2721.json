@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2721,
+    "nome": "New Game!",
+    "link": "https://animefire.plus/animes/new-game-todos-os-episodios",
+    "texto_original": "New Game!",
+    "rating": 7.66,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/new-game.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/new-game/",
+    "secao": "legendados",
+    "pagina": 57,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/new-game"
+  }
+}

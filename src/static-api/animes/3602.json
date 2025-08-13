@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3602,
+    "nome": "Soutai Sekai",
+    "link": "https://animefire.plus/animes/soutai-sekai-todos-os-episodios",
+    "texto_original": "Soutai Sekai",
+    "rating": 5.89,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/soutai-sekai.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/soutai-sekai/",
+    "secao": "legendados",
+    "pagina": 86,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/soutai-sekai"
+  }
+}

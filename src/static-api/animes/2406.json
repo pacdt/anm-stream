@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2406,
+    "nome": "Mangirl!",
+    "link": "https://animefire.plus/animes/mangirl-todos-os-episodios",
+    "texto_original": "Mangirl!",
+    "rating": 5.97,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/mangirl.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mangirl/",
+    "secao": "legendados",
+    "pagina": 167,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/mangirl"
+  }
+}

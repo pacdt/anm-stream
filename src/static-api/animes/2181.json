@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2181,
+    "nome": "Kyou no Asuka Show",
+    "link": "https://animefire.plus/animes/kyou-no-asuka-show-todos-os-episodios",
+    "texto_original": "Kyou no Asuka Show",
+    "rating": 6.57,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kyou-no-asuka-show.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kyou-no-asuka-show/",
+    "secao": "legendados",
+    "pagina": 12,
+    "total_episodios": 20,
+    "link_video": "https://animefire.plus/video/kyou-no-asuka-show"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Houkago Shounen Hanako-kun",
+  "anime": {
+    "id": 1540,
+    "nome": "Houkago Shounen Hanako-kun",
+    "link": "https://animefire.plus/animes/houkago-shounen-hanako-kun-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/houkago-shounen-hanako-kun",
+    "rating": "7.10",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/houkago-shounen-hanako-kun/1",
+      "anime_id": 1540,
+      "anime_name": "Houkago Shounen Hanako-kun"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/houkago-shounen-hanako-kun/2",
+      "anime_id": 1540,
+      "anime_name": "Houkago Shounen Hanako-kun"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/houkago-shounen-hanako-kun/3",
+      "anime_id": 1540,
+      "anime_name": "Houkago Shounen Hanako-kun"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/houkago-shounen-hanako-kun/4",
+      "anime_id": 1540,
+      "anime_name": "Houkago Shounen Hanako-kun"
+    }
+  ],
+  "total_episodes": 4
+}

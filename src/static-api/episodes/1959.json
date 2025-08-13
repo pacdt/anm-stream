@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Kidou Keisatsu Patlabor",
+  "anime": {
+    "id": 1959,
+    "nome": "Kidou Keisatsu Patlabor",
+    "link": "https://animefire.plus/animes/kidou-keisatsu-patlabor-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kidou-keisatsu-patlabor",
+    "rating": "7.29",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kidou-keisatsu-patlabor/1",
+      "anime_id": 1959,
+      "anime_name": "Kidou Keisatsu Patlabor"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kidou-keisatsu-patlabor/2",
+      "anime_id": 1959,
+      "anime_name": "Kidou Keisatsu Patlabor"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kidou-keisatsu-patlabor/3",
+      "anime_id": 1959,
+      "anime_name": "Kidou Keisatsu Patlabor"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kidou-keisatsu-patlabor/4",
+      "anime_id": 1959,
+      "anime_name": "Kidou Keisatsu Patlabor"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kidou-keisatsu-patlabor/5",
+      "anime_id": 1959,
+      "anime_name": "Kidou Keisatsu Patlabor"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kidou-keisatsu-patlabor/6",
+      "anime_id": 1959,
+      "anime_name": "Kidou Keisatsu Patlabor"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/kidou-keisatsu-patlabor/7",
+      "anime_id": 1959,
+      "anime_name": "Kidou Keisatsu Patlabor"
+    }
+  ],
+  "total_episodes": 7
+}

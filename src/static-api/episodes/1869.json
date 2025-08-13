@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: KanColle: Itsuka Ano Umi de",
+  "anime": {
+    "id": 1869,
+    "nome": "KanColle: Itsuka Ano Umi de",
+    "link": "https://animefire.plus/animes/kancolle-itsuka-ano-umi-de-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kancolle-itsuka-ano-umi-de",
+    "rating": "6.26",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kancolle-itsuka-ano-umi-de/1",
+      "anime_id": 1869,
+      "anime_name": "KanColle: Itsuka Ano Umi de"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kancolle-itsuka-ano-umi-de/2",
+      "anime_id": 1869,
+      "anime_name": "KanColle: Itsuka Ano Umi de"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kancolle-itsuka-ano-umi-de/3",
+      "anime_id": 1869,
+      "anime_name": "KanColle: Itsuka Ano Umi de"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kancolle-itsuka-ano-umi-de/4",
+      "anime_id": 1869,
+      "anime_name": "KanColle: Itsuka Ano Umi de"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kancolle-itsuka-ano-umi-de/5",
+      "anime_id": 1869,
+      "anime_name": "KanColle: Itsuka Ano Umi de"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kancolle-itsuka-ano-umi-de/6",
+      "anime_id": 1869,
+      "anime_name": "KanColle: Itsuka Ano Umi de"
+    }
+  ],
+  "total_episodes": 6
+}

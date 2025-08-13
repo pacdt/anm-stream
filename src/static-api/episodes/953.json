@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Eromanga-sensei",
+  "anime": {
+    "id": 953,
+    "nome": "Eromanga-sensei",
+    "link": "https://animefire.plus/animes/eromanga-sensei-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/eromanga-sensei",
+    "rating": "6.79",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/eromanga-sensei/1",
+      "anime_id": 953,
+      "anime_name": "Eromanga-sensei"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/eromanga-sensei/2",
+      "anime_id": 953,
+      "anime_name": "Eromanga-sensei"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/eromanga-sensei/3",
+      "anime_id": 953,
+      "anime_name": "Eromanga-sensei"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/eromanga-sensei/4",
+      "anime_id": 953,
+      "anime_name": "Eromanga-sensei"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/eromanga-sensei/5",
+      "anime_id": 953,
+      "anime_name": "Eromanga-sensei"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/eromanga-sensei/6",
+      "anime_id": 953,
+      "anime_name": "Eromanga-sensei"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/eromanga-sensei/7",
+      "anime_id": 953,
+      "anime_name": "Eromanga-sensei"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/eromanga-sensei/8",
+      "anime_id": 953,
+      "anime_name": "Eromanga-sensei"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/eromanga-sensei/9",
+      "anime_id": 953,
+      "anime_name": "Eromanga-sensei"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/eromanga-sensei/10",
+      "anime_id": 953,
+      "anime_name": "Eromanga-sensei"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/eromanga-sensei/11",
+      "anime_id": 953,
+      "anime_name": "Eromanga-sensei"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/eromanga-sensei/12",
+      "anime_id": 953,
+      "anime_name": "Eromanga-sensei"
+    }
+  ],
+  "total_episodes": 12
+}

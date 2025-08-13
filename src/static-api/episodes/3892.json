@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Tokyo Mew Mew New ♡",
+  "anime": {
+    "id": 3892,
+    "nome": "Tokyo Mew Mew New ♡",
+    "link": "https://animefire.plus/animes/tokyo-mew-mew-new-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tokyo-mew-mew-new",
+    "rating": "6.61",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tokyo-mew-mew-new/1",
+      "anime_id": 3892,
+      "anime_name": "Tokyo Mew Mew New ♡"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tokyo-mew-mew-new/2",
+      "anime_id": 3892,
+      "anime_name": "Tokyo Mew Mew New ♡"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tokyo-mew-mew-new/3",
+      "anime_id": 3892,
+      "anime_name": "Tokyo Mew Mew New ♡"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tokyo-mew-mew-new/4",
+      "anime_id": 3892,
+      "anime_name": "Tokyo Mew Mew New ♡"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/tokyo-mew-mew-new/5",
+      "anime_id": 3892,
+      "anime_name": "Tokyo Mew Mew New ♡"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/tokyo-mew-mew-new/6",
+      "anime_id": 3892,
+      "anime_name": "Tokyo Mew Mew New ♡"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/tokyo-mew-mew-new/7",
+      "anime_id": 3892,
+      "anime_name": "Tokyo Mew Mew New ♡"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/tokyo-mew-mew-new/8",
+      "anime_id": 3892,
+      "anime_name": "Tokyo Mew Mew New ♡"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/tokyo-mew-mew-new/9",
+      "anime_id": 3892,
+      "anime_name": "Tokyo Mew Mew New ♡"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/tokyo-mew-mew-new/10",
+      "anime_id": 3892,
+      "anime_name": "Tokyo Mew Mew New ♡"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/tokyo-mew-mew-new/11",
+      "anime_id": 3892,
+      "anime_name": "Tokyo Mew Mew New ♡"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/tokyo-mew-mew-new/12",
+      "anime_id": 3892,
+      "anime_name": "Tokyo Mew Mew New ♡"
+    }
+  ],
+  "total_episodes": 12
+}

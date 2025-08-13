@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Suisei no Gargantia: Meguru Kouro, Haruka",
+  "anime": {
+    "id": 3665,
+    "nome": "Suisei no Gargantia: Meguru Kouro, Haruka",
+    "link": "https://animefire.plus/animes/suisei-no-gargantia-meguru-kouro-haruka-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/suisei-no-gargantia-meguru-kouro-haruka",
+    "rating": "7.36",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/suisei-no-gargantia-meguru-kouro-haruka/1",
+      "anime_id": 3665,
+      "anime_name": "Suisei no Gargantia: Meguru Kouro, Haruka"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/suisei-no-gargantia-meguru-kouro-haruka/2",
+      "anime_id": 3665,
+      "anime_name": "Suisei no Gargantia: Meguru Kouro, Haruka"
+    }
+  ],
+  "total_episodes": 2
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: BanG Dream! Garupa☆Pico: Oomori",
+  "anime": {
+    "id": 338,
+    "nome": "BanG Dream! Garupa☆Pico: Oomori",
+    "link": "https://animefire.plus/animes/bang-dream-garupa-pico-oomori-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/bang-dream-garupa-pico-oomori",
+    "rating": "7.63",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/bang-dream-garupa-pico-oomori/1",
+      "anime_id": 338,
+      "anime_name": "BanG Dream! Garupa☆Pico: Oomori"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: King of Fighters: Another Day (Dublado)",
+  "anime": {
+    "id": 1999,
+    "nome": "King of Fighters: Another Day (Dublado)",
+    "link": "https://animefire.plus/animes/king-of-fighters-another-day-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/king-of-fighters-another-day-dublado",
+    "rating": "6.33",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/king-of-fighters-another-day-dublado/1",
+      "anime_id": 1999,
+      "anime_name": "King of Fighters: Another Day (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/king-of-fighters-another-day-dublado/2",
+      "anime_id": 1999,
+      "anime_name": "King of Fighters: Another Day (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/king-of-fighters-another-day-dublado/3",
+      "anime_id": 1999,
+      "anime_name": "King of Fighters: Another Day (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/king-of-fighters-another-day-dublado/4",
+      "anime_id": 1999,
+      "anime_name": "King of Fighters: Another Day (Dublado)"
+    }
+  ],
+  "total_episodes": 4
+}

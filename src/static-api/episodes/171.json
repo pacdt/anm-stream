@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Angolmois: Genkou Kassenki",
+  "anime": {
+    "id": 171,
+    "nome": "Angolmois: Genkou Kassenki",
+    "link": "https://animefire.plus/animes/angolmois-genkou-kassenki-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/angolmois-genkou-kassenki",
+    "rating": "7.21",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/angolmois-genkou-kassenki/1",
+      "anime_id": 171,
+      "anime_name": "Angolmois: Genkou Kassenki"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/angolmois-genkou-kassenki/2",
+      "anime_id": 171,
+      "anime_name": "Angolmois: Genkou Kassenki"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/angolmois-genkou-kassenki/3",
+      "anime_id": 171,
+      "anime_name": "Angolmois: Genkou Kassenki"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/angolmois-genkou-kassenki/4",
+      "anime_id": 171,
+      "anime_name": "Angolmois: Genkou Kassenki"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/angolmois-genkou-kassenki/5",
+      "anime_id": 171,
+      "anime_name": "Angolmois: Genkou Kassenki"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/angolmois-genkou-kassenki/6",
+      "anime_id": 171,
+      "anime_name": "Angolmois: Genkou Kassenki"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/angolmois-genkou-kassenki/7",
+      "anime_id": 171,
+      "anime_name": "Angolmois: Genkou Kassenki"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/angolmois-genkou-kassenki/8",
+      "anime_id": 171,
+      "anime_name": "Angolmois: Genkou Kassenki"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/angolmois-genkou-kassenki/9",
+      "anime_id": 171,
+      "anime_name": "Angolmois: Genkou Kassenki"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/angolmois-genkou-kassenki/10",
+      "anime_id": 171,
+      "anime_name": "Angolmois: Genkou Kassenki"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/angolmois-genkou-kassenki/11",
+      "anime_id": 171,
+      "anime_name": "Angolmois: Genkou Kassenki"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/angolmois-genkou-kassenki/12",
+      "anime_id": 171,
+      "anime_name": "Angolmois: Genkou Kassenki"
+    }
+  ],
+  "total_episodes": 12
+}

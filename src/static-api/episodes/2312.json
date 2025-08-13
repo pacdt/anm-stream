@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Magic Kaito",
+  "anime": {
+    "id": 2312,
+    "nome": "Magic Kaito",
+    "link": "https://animefire.plus/animes/magic-kaito-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/magic-kaito",
+    "rating": "7.94",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/magic-kaito/1",
+      "anime_id": 2312,
+      "anime_name": "Magic Kaito"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/magic-kaito/2",
+      "anime_id": 2312,
+      "anime_name": "Magic Kaito"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/magic-kaito/3",
+      "anime_id": 2312,
+      "anime_name": "Magic Kaito"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/magic-kaito/4",
+      "anime_id": 2312,
+      "anime_name": "Magic Kaito"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/magic-kaito/5",
+      "anime_id": 2312,
+      "anime_name": "Magic Kaito"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/magic-kaito/6",
+      "anime_id": 2312,
+      "anime_name": "Magic Kaito"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/magic-kaito/7",
+      "anime_id": 2312,
+      "anime_name": "Magic Kaito"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/magic-kaito/8",
+      "anime_id": 2312,
+      "anime_name": "Magic Kaito"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/magic-kaito/9",
+      "anime_id": 2312,
+      "anime_name": "Magic Kaito"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/magic-kaito/10",
+      "anime_id": 2312,
+      "anime_name": "Magic Kaito"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/magic-kaito/11",
+      "anime_id": 2312,
+      "anime_name": "Magic Kaito"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/magic-kaito/12",
+      "anime_id": 2312,
+      "anime_name": "Magic Kaito"
+    }
+  ],
+  "total_episodes": 12
+}

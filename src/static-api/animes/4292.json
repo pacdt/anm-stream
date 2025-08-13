@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4292,
+    "nome": "Yumekui Merry",
+    "link": "https://animefire.plus/animes/yumekui-merry-todos-os-episodios",
+    "texto_original": "Yumekui Merry",
+    "rating": 7.01,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/yumekui-merry.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/yumekui-merry/",
+    "secao": "legendados",
+    "pagina": 112,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/yumekui-merry"
+  }
+}

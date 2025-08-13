@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Bakumatsu",
+  "anime": {
+    "id": 315,
+    "nome": "Bakumatsu",
+    "link": "https://animefire.plus/animes/bakumatsu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/bakumatsu",
+    "rating": "5.89",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/bakumatsu/1",
+      "anime_id": 315,
+      "anime_name": "Bakumatsu"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/bakumatsu/2",
+      "anime_id": 315,
+      "anime_name": "Bakumatsu"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/bakumatsu/3",
+      "anime_id": 315,
+      "anime_name": "Bakumatsu"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/bakumatsu/4",
+      "anime_id": 315,
+      "anime_name": "Bakumatsu"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/bakumatsu/5",
+      "anime_id": 315,
+      "anime_name": "Bakumatsu"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/bakumatsu/6",
+      "anime_id": 315,
+      "anime_name": "Bakumatsu"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/bakumatsu/7",
+      "anime_id": 315,
+      "anime_name": "Bakumatsu"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/bakumatsu/8",
+      "anime_id": 315,
+      "anime_name": "Bakumatsu"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/bakumatsu/9",
+      "anime_id": 315,
+      "anime_name": "Bakumatsu"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/bakumatsu/10",
+      "anime_id": 315,
+      "anime_name": "Bakumatsu"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/bakumatsu/11",
+      "anime_id": 315,
+      "anime_name": "Bakumatsu"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/bakumatsu/12",
+      "anime_id": 315,
+      "anime_name": "Bakumatsu"
+    }
+  ],
+  "total_episodes": 12
+}

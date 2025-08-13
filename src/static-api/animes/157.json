@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 157,
+    "nome": "Amanchu! Advance",
+    "link": "https://animefire.plus/animes/amanchu-advance-todos-os-episodios",
+    "texto_original": "Amanchu! Advance",
+    "rating": 7.18,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/amanchu-advance.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/amanchu-advance/",
+    "secao": "legendados",
+    "pagina": 117,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/amanchu-advance"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2985,
+    "nome": "Pingu in the City",
+    "link": "https://animefire.plus/animes/pingu-in-the-city-todos-os-episodios",
+    "texto_original": "Pingu in the City",
+    "rating": 8.45,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/pingu-in-the-city.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/pingu-in-the-city/",
+    "secao": "legendados",
+    "pagina": 126,
+    "total_episodios": 15,
+    "link_video": "https://animefire.plus/video/pingu-in-the-city"
+  }
+}

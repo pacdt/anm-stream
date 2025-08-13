@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1387,
+    "nome": "Hataraku Saibou (TV)",
+    "link": "https://animefire.plus/animes/hataraku-saibou-tv-todos-os-episodios",
+    "texto_original": "Hataraku Saibou (TV)",
+    "rating": 7.75,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hataraku-saibou-tv.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hataraku-saibou-tv/",
+    "secao": "legendados",
+    "pagina": 85,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/hataraku-saibou-tv"
+  }
+}

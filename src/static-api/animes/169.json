@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 169,
+    "nome": "Angel Beats! (Dublado)",
+    "link": "https://animefire.plus/animes/angel-beats-dublado-todos-os-episodios",
+    "texto_original": "Angel Beats! (Dublado)",
+    "rating": 8.2,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/angel-beats.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/angel-beats/",
+    "secao": "dublados,legendados",
+    "pagina": 21,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/angel-beats-dublado"
+  }
+}

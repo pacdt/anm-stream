@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4345,
+    "nome": "Zero no Tsukaima",
+    "link": "https://animefire.plus/animes/zero-no-tsukaima-todos-os-episodios",
+    "texto_original": "Zero no Tsukaima",
+    "rating": 7.48,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/zero-no-tsukaima.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/zero-no-tsukaima/",
+    "secao": "legendados",
+    "pagina": 169,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/zero-no-tsukaima"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1774,
+    "nome": "K-On!",
+    "link": "https://animefire.plus/animes/k-on-todos-os-episodios",
+    "texto_original": "K-On!",
+    "rating": 8.15,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/k-on.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/k-on/",
+    "secao": "legendados",
+    "pagina": 143,
+    "total_episodios": 14,
+    "link_video": "https://animefire.plus/video/k-on"
+  }
+}

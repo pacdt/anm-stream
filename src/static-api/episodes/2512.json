@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Minami-ke Omatase",
+  "anime": {
+    "id": 2512,
+    "nome": "Minami-ke Omatase",
+    "link": "https://animefire.plus/animes/minami-ke-omatase-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/minami-ke-omatase",
+    "rating": "7.42",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/minami-ke-omatase/1",
+      "anime_id": 2512,
+      "anime_name": "Minami-ke Omatase"
+    }
+  ],
+  "total_episodes": 1
+}

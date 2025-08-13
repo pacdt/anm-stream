@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: Nodame Cantabile: Finale",
+  "anime": {
+    "id": 2767,
+    "nome": "Nodame Cantabile: Finale",
+    "link": "https://animefire.plus/animes/nodame-cantabile-finale-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nodame-cantabile-finale",
+    "rating": "8.32",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-finale/1",
+      "anime_id": 2767,
+      "anime_name": "Nodame Cantabile: Finale"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-finale/2",
+      "anime_id": 2767,
+      "anime_name": "Nodame Cantabile: Finale"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-finale/3",
+      "anime_id": 2767,
+      "anime_name": "Nodame Cantabile: Finale"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-finale/4",
+      "anime_id": 2767,
+      "anime_name": "Nodame Cantabile: Finale"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-finale/5",
+      "anime_id": 2767,
+      "anime_name": "Nodame Cantabile: Finale"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-finale/6",
+      "anime_id": 2767,
+      "anime_name": "Nodame Cantabile: Finale"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-finale/7",
+      "anime_id": 2767,
+      "anime_name": "Nodame Cantabile: Finale"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-finale/8",
+      "anime_id": 2767,
+      "anime_name": "Nodame Cantabile: Finale"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-finale/9",
+      "anime_id": 2767,
+      "anime_name": "Nodame Cantabile: Finale"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-finale/10",
+      "anime_id": 2767,
+      "anime_name": "Nodame Cantabile: Finale"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/nodame-cantabile-finale/11",
+      "anime_id": 2767,
+      "anime_name": "Nodame Cantabile: Finale"
+    }
+  ],
+  "total_episodes": 11
+}

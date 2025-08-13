@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3852,
+    "nome": "To Heart",
+    "link": "https://animefire.plus/animes/to-heart-todos-os-episodios",
+    "texto_original": "To Heart",
+    "rating": 6.65,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/to-heart.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/to-heart/",
+    "secao": "legendados",
+    "pagina": 161,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/to-heart"
+  }
+}

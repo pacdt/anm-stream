@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 888,
+    "nome": "Dragonaut: The Resonance",
+    "link": "https://animefire.plus/animes/dragonaut-the-resonance-todos-os-episodios",
+    "texto_original": "Dragonaut: The Resonance",
+    "rating": 6.73,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/dragonaut-the-resonance.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dragonaut-the-resonance/",
+    "secao": "legendados",
+    "pagina": 145,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/dragonaut-the-resonance"
+  }
+}

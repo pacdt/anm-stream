@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Escha Chron",
+  "anime": {
+    "id": 955,
+    "nome": "Escha Chron",
+    "link": "https://animefire.plus/animes/escha-chron-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/escha-chron",
+    "rating": "6.54",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/escha-chron/1",
+      "anime_id": 955,
+      "anime_name": "Escha Chron"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/escha-chron/2",
+      "anime_id": 955,
+      "anime_name": "Escha Chron"
+    }
+  ],
+  "total_episodes": 2
+}

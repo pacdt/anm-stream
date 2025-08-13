@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3403,
+    "nome": "Shigurui",
+    "link": "https://animefire.plus/animes/shigurui-todos-os-episodios",
+    "texto_original": "Shigurui",
+    "rating": 7.47,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/shigurui.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shigurui/",
+    "secao": "legendados",
+    "pagina": 151,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/shigurui"
+  }
+}

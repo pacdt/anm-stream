@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: GJ-bu",
+  "anime": {
+    "id": 1196,
+    "nome": "GJ-bu",
+    "link": "https://animefire.plus/animes/gj-bu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gj-bu",
+    "rating": "7.41",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gj-bu/1",
+      "anime_id": 1196,
+      "anime_name": "GJ-bu"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/gj-bu/2",
+      "anime_id": 1196,
+      "anime_name": "GJ-bu"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/gj-bu/3",
+      "anime_id": 1196,
+      "anime_name": "GJ-bu"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/gj-bu/4",
+      "anime_id": 1196,
+      "anime_name": "GJ-bu"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/gj-bu/5",
+      "anime_id": 1196,
+      "anime_name": "GJ-bu"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/gj-bu/6",
+      "anime_id": 1196,
+      "anime_name": "GJ-bu"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/gj-bu/7",
+      "anime_id": 1196,
+      "anime_name": "GJ-bu"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/gj-bu/8",
+      "anime_id": 1196,
+      "anime_name": "GJ-bu"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/gj-bu/9",
+      "anime_id": 1196,
+      "anime_name": "GJ-bu"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/gj-bu/10",
+      "anime_id": 1196,
+      "anime_name": "GJ-bu"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/gj-bu/11",
+      "anime_id": 1196,
+      "anime_name": "GJ-bu"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/gj-bu/12",
+      "anime_id": 1196,
+      "anime_name": "GJ-bu"
+    }
+  ],
+  "total_episodes": 12
+}

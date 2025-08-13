@@ -1,0 +1,74 @@
+{
+  "message": "Lista de episódios do anime: Peeping Life TV: Season 1??",
+  "anime": {
+    "id": 2963,
+    "nome": "Peeping Life TV: Season 1??",
+    "link": "https://animefire.plus/animes/peeping-life-tv-season-1-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/peeping-life-tv-season-1",
+    "rating": "5.72",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/peeping-life-tv-season-1/1",
+      "anime_id": 2963,
+      "anime_name": "Peeping Life TV: Season 1??"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/peeping-life-tv-season-1/2",
+      "anime_id": 2963,
+      "anime_name": "Peeping Life TV: Season 1??"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/peeping-life-tv-season-1/3",
+      "anime_id": 2963,
+      "anime_name": "Peeping Life TV: Season 1??"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/peeping-life-tv-season-1/4",
+      "anime_id": 2963,
+      "anime_name": "Peeping Life TV: Season 1??"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/peeping-life-tv-season-1/5",
+      "anime_id": 2963,
+      "anime_name": "Peeping Life TV: Season 1??"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/peeping-life-tv-season-1/6",
+      "anime_id": 2963,
+      "anime_name": "Peeping Life TV: Season 1??"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/peeping-life-tv-season-1/7",
+      "anime_id": 2963,
+      "anime_name": "Peeping Life TV: Season 1??"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/peeping-life-tv-season-1/8",
+      "anime_id": 2963,
+      "anime_name": "Peeping Life TV: Season 1??"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/peeping-life-tv-season-1/9",
+      "anime_id": 2963,
+      "anime_name": "Peeping Life TV: Season 1??"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/peeping-life-tv-season-1/10",
+      "anime_id": 2963,
+      "anime_name": "Peeping Life TV: Season 1??"
+    }
+  ],
+  "total_episodes": 10
+}

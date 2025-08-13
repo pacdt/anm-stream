@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2025,
+    "nome": "Kiss x Sis",
+    "link": "https://animefire.plus/animes/kiss-x-sis-todos-os-episodios",
+    "texto_original": "Kiss x Sis",
+    "rating": 7.11,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/kiss-x-sis.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kiss-x-sis/",
+    "secao": "legendados",
+    "pagina": 154,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/kiss-x-sis"
+  }
+}

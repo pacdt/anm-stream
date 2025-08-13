@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Battle Programmer Shirase",
+  "anime": {
+    "id": 358,
+    "nome": "Battle Programmer Shirase",
+    "link": "https://animefire.plus/animes/battle-programmer-shirase-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/battle-programmer-shirase",
+    "rating": "7.00",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/battle-programmer-shirase/1",
+      "anime_id": 358,
+      "anime_name": "Battle Programmer Shirase"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/battle-programmer-shirase/2",
+      "anime_id": 358,
+      "anime_name": "Battle Programmer Shirase"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/battle-programmer-shirase/3",
+      "anime_id": 358,
+      "anime_name": "Battle Programmer Shirase"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/battle-programmer-shirase/4",
+      "anime_id": 358,
+      "anime_name": "Battle Programmer Shirase"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/battle-programmer-shirase/5",
+      "anime_id": 358,
+      "anime_name": "Battle Programmer Shirase"
+    }
+  ],
+  "total_episodes": 5
+}

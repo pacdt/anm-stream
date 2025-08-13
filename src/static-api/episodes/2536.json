@@ -1,0 +1,104 @@
+{
+  "message": "Lista de episódios do anime: Mo Dao Zu Shi",
+  "anime": {
+    "id": 2536,
+    "nome": "Mo Dao Zu Shi",
+    "link": "https://animefire.plus/animes/mo-dao-zu-shi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mo-dao-zu-shi",
+    "rating": "8.56",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mo-dao-zu-shi/1",
+      "anime_id": 2536,
+      "anime_name": "Mo Dao Zu Shi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mo-dao-zu-shi/2",
+      "anime_id": 2536,
+      "anime_name": "Mo Dao Zu Shi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mo-dao-zu-shi/3",
+      "anime_id": 2536,
+      "anime_name": "Mo Dao Zu Shi"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/mo-dao-zu-shi/4",
+      "anime_id": 2536,
+      "anime_name": "Mo Dao Zu Shi"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/mo-dao-zu-shi/5",
+      "anime_id": 2536,
+      "anime_name": "Mo Dao Zu Shi"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/mo-dao-zu-shi/6",
+      "anime_id": 2536,
+      "anime_name": "Mo Dao Zu Shi"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/mo-dao-zu-shi/7",
+      "anime_id": 2536,
+      "anime_name": "Mo Dao Zu Shi"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/mo-dao-zu-shi/8",
+      "anime_id": 2536,
+      "anime_name": "Mo Dao Zu Shi"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/mo-dao-zu-shi/9",
+      "anime_id": 2536,
+      "anime_name": "Mo Dao Zu Shi"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/mo-dao-zu-shi/10",
+      "anime_id": 2536,
+      "anime_name": "Mo Dao Zu Shi"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/mo-dao-zu-shi/11",
+      "anime_id": 2536,
+      "anime_name": "Mo Dao Zu Shi"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/mo-dao-zu-shi/12",
+      "anime_id": 2536,
+      "anime_name": "Mo Dao Zu Shi"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/mo-dao-zu-shi/13",
+      "anime_id": 2536,
+      "anime_name": "Mo Dao Zu Shi"
+    },
+    {
+      "episode_number": 14,
+      "episode_url": "https://animefire.plus/video/mo-dao-zu-shi/14",
+      "anime_id": 2536,
+      "anime_name": "Mo Dao Zu Shi"
+    },
+    {
+      "episode_number": 15,
+      "episode_url": "https://animefire.plus/video/mo-dao-zu-shi/15",
+      "anime_id": 2536,
+      "anime_name": "Mo Dao Zu Shi"
+    }
+  ],
+  "total_episodes": 15
+}

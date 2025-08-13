@@ -1,0 +1,74 @@
+{
+  "message": "Lista de episódios do anime: Hangyakusei Million Arthur",
+  "anime": {
+    "id": 1364,
+    "nome": "Hangyakusei Million Arthur",
+    "link": "https://animefire.plus/animes/hangyakusei-million-arthur-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hangyakusei-million-arthur",
+    "rating": "6.28",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hangyakusei-million-arthur/1",
+      "anime_id": 1364,
+      "anime_name": "Hangyakusei Million Arthur"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hangyakusei-million-arthur/2",
+      "anime_id": 1364,
+      "anime_name": "Hangyakusei Million Arthur"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hangyakusei-million-arthur/3",
+      "anime_id": 1364,
+      "anime_name": "Hangyakusei Million Arthur"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hangyakusei-million-arthur/4",
+      "anime_id": 1364,
+      "anime_name": "Hangyakusei Million Arthur"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hangyakusei-million-arthur/5",
+      "anime_id": 1364,
+      "anime_name": "Hangyakusei Million Arthur"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hangyakusei-million-arthur/6",
+      "anime_id": 1364,
+      "anime_name": "Hangyakusei Million Arthur"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/hangyakusei-million-arthur/7",
+      "anime_id": 1364,
+      "anime_name": "Hangyakusei Million Arthur"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/hangyakusei-million-arthur/8",
+      "anime_id": 1364,
+      "anime_name": "Hangyakusei Million Arthur"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/hangyakusei-million-arthur/9",
+      "anime_id": 1364,
+      "anime_name": "Hangyakusei Million Arthur"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/hangyakusei-million-arthur/10",
+      "anime_id": 1364,
+      "anime_name": "Hangyakusei Million Arthur"
+    }
+  ],
+  "total_episodes": 10
+}

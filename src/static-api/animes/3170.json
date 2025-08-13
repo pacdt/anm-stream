@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3170,
+    "nome": "Ryman's Club",
+    "link": "https://animefire.plus/animes/ryman-s-club-todos-os-episodios",
+    "texto_original": "Ryman's Club",
+    "rating": 7.34,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ryman-s-club.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ryman-s-club/",
+    "secao": "legendados",
+    "pagina": 35,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/ryman-s-club"
+  }
+}

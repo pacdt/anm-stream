@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Nu Wushen de Canzhuo",
+  "anime": {
+    "id": 2789,
+    "nome": "Nu Wushen de Canzhuo",
+    "link": "https://animefire.plus/animes/nu-wushen-de-canzhuo-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nu-wushen-de-canzhuo",
+    "rating": "6.89",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nu-wushen-de-canzhuo/1",
+      "anime_id": 2789,
+      "anime_name": "Nu Wushen de Canzhuo"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/nu-wushen-de-canzhuo/2",
+      "anime_id": 2789,
+      "anime_name": "Nu Wushen de Canzhuo"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/nu-wushen-de-canzhuo/3",
+      "anime_id": 2789,
+      "anime_name": "Nu Wushen de Canzhuo"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/nu-wushen-de-canzhuo/4",
+      "anime_id": 2789,
+      "anime_name": "Nu Wushen de Canzhuo"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/nu-wushen-de-canzhuo/5",
+      "anime_id": 2789,
+      "anime_name": "Nu Wushen de Canzhuo"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/nu-wushen-de-canzhuo/6",
+      "anime_id": 2789,
+      "anime_name": "Nu Wushen de Canzhuo"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/nu-wushen-de-canzhuo/7",
+      "anime_id": 2789,
+      "anime_name": "Nu Wushen de Canzhuo"
+    }
+  ],
+  "total_episodes": 7
+}

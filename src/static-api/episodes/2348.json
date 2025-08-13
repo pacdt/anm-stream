@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Mahouka Koukou no Rettousei: Tsuioku-hen",
+  "anime": {
+    "id": 2348,
+    "nome": "Mahouka Koukou no Rettousei: Tsuioku-hen",
+    "link": "https://animefire.plus/animes/mahouka-koukou-no-rettousei-tsuioku-hen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mahouka-koukou-no-rettousei-tsuioku-hen",
+    "rating": "7.66",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mahouka-koukou-no-rettousei-tsuioku-hen/1",
+      "anime_id": 2348,
+      "anime_name": "Mahouka Koukou no Rettousei: Tsuioku-hen"
+    }
+  ],
+  "total_episodes": 1
+}

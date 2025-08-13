@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Baldr Force Exe Resolution",
+  "anime": {
+    "id": 327,
+    "nome": "Baldr Force Exe Resolution",
+    "link": "https://animefire.plus/animes/baldr-force-exe-resolution-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/baldr-force-exe-resolution",
+    "rating": "6.50",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/baldr-force-exe-resolution/1",
+      "anime_id": 327,
+      "anime_name": "Baldr Force Exe Resolution"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/baldr-force-exe-resolution/2",
+      "anime_id": 327,
+      "anime_name": "Baldr Force Exe Resolution"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/baldr-force-exe-resolution/3",
+      "anime_id": 327,
+      "anime_name": "Baldr Force Exe Resolution"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/baldr-force-exe-resolution/4",
+      "anime_id": 327,
+      "anime_name": "Baldr Force Exe Resolution"
+    }
+  ],
+  "total_episodes": 4
+}

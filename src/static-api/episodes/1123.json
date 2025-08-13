@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Gekiganger 3: The Movie",
+  "anime": {
+    "id": 1123,
+    "nome": "Gekiganger 3: The Movie",
+    "link": "https://animefire.plus/animes/gekiganger-3-the-movie-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gekiganger-3-the-movie",
+    "rating": "6.51",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gekiganger-3-the-movie/1",
+      "anime_id": 1123,
+      "anime_name": "Gekiganger 3: The Movie"
+    }
+  ],
+  "total_episodes": 1
+}

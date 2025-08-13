@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2838,
+    "nome": "One Punch Man (Dublado)",
+    "link": "https://animefire.plus/animes/one-punch-man-dublado-todos-os-episodios",
+    "texto_original": "One Punch Man (Dublado)",
+    "rating": 8.7,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/one-punch-man.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/one-punch-man/",
+    "secao": "dublados,legendados",
+    "pagina": 28,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/one-punch-man-dublado"
+  }
+}

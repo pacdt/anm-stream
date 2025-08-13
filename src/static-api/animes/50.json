@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 50,
+    "nome": "A3! Season Spring & Summer",
+    "link": "https://animefire.plus/animes/a3-season-spring-summer-todos-os-episodios",
+    "texto_original": "A3! Season Spring & Summer",
+    "rating": 7.14,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/a3-season-spring-summer.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/a3-season-spring-summer/",
+    "secao": "legendados",
+    "pagina": 92,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/a3-season-spring-summer"
+  }
+}

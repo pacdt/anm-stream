@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Chuunibyou demo Koi ga Shitai!",
+  "anime": {
+    "id": 643,
+    "nome": "Chuunibyou demo Koi ga Shitai!",
+    "link": "https://animefire.plus/animes/chuunibyou-demo-koi-ga-shitai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/chuunibyou-demo-koi-ga-shitai",
+    "rating": "7.86",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/chuunibyou-demo-koi-ga-shitai/1",
+      "anime_id": 643,
+      "anime_name": "Chuunibyou demo Koi ga Shitai!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/chuunibyou-demo-koi-ga-shitai/2",
+      "anime_id": 643,
+      "anime_name": "Chuunibyou demo Koi ga Shitai!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/chuunibyou-demo-koi-ga-shitai/3",
+      "anime_id": 643,
+      "anime_name": "Chuunibyou demo Koi ga Shitai!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/chuunibyou-demo-koi-ga-shitai/4",
+      "anime_id": 643,
+      "anime_name": "Chuunibyou demo Koi ga Shitai!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/chuunibyou-demo-koi-ga-shitai/5",
+      "anime_id": 643,
+      "anime_name": "Chuunibyou demo Koi ga Shitai!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/chuunibyou-demo-koi-ga-shitai/6",
+      "anime_id": 643,
+      "anime_name": "Chuunibyou demo Koi ga Shitai!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/chuunibyou-demo-koi-ga-shitai/7",
+      "anime_id": 643,
+      "anime_name": "Chuunibyou demo Koi ga Shitai!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/chuunibyou-demo-koi-ga-shitai/8",
+      "anime_id": 643,
+      "anime_name": "Chuunibyou demo Koi ga Shitai!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/chuunibyou-demo-koi-ga-shitai/9",
+      "anime_id": 643,
+      "anime_name": "Chuunibyou demo Koi ga Shitai!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/chuunibyou-demo-koi-ga-shitai/10",
+      "anime_id": 643,
+      "anime_name": "Chuunibyou demo Koi ga Shitai!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/chuunibyou-demo-koi-ga-shitai/11",
+      "anime_id": 643,
+      "anime_name": "Chuunibyou demo Koi ga Shitai!"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/chuunibyou-demo-koi-ga-shitai/12",
+      "anime_id": 643,
+      "anime_name": "Chuunibyou demo Koi ga Shitai!"
+    }
+  ],
+  "total_episodes": 12
+}

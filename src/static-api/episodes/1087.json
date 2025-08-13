@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Gakuen Heaven",
+  "anime": {
+    "id": 1087,
+    "nome": "Gakuen Heaven",
+    "link": "https://animefire.plus/animes/gakuen-heaven-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gakuen-heaven",
+    "rating": "6.69",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gakuen-heaven/1",
+      "anime_id": 1087,
+      "anime_name": "Gakuen Heaven"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/gakuen-heaven/2",
+      "anime_id": 1087,
+      "anime_name": "Gakuen Heaven"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/gakuen-heaven/3",
+      "anime_id": 1087,
+      "anime_name": "Gakuen Heaven"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/gakuen-heaven/4",
+      "anime_id": 1087,
+      "anime_name": "Gakuen Heaven"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/gakuen-heaven/5",
+      "anime_id": 1087,
+      "anime_name": "Gakuen Heaven"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/gakuen-heaven/6",
+      "anime_id": 1087,
+      "anime_name": "Gakuen Heaven"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/gakuen-heaven/7",
+      "anime_id": 1087,
+      "anime_name": "Gakuen Heaven"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/gakuen-heaven/8",
+      "anime_id": 1087,
+      "anime_name": "Gakuen Heaven"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/gakuen-heaven/9",
+      "anime_id": 1087,
+      "anime_name": "Gakuen Heaven"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/gakuen-heaven/10",
+      "anime_id": 1087,
+      "anime_name": "Gakuen Heaven"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/gakuen-heaven/11",
+      "anime_id": 1087,
+      "anime_name": "Gakuen Heaven"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/gakuen-heaven/12",
+      "anime_id": 1087,
+      "anime_name": "Gakuen Heaven"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/gakuen-heaven/13",
+      "anime_id": 1087,
+      "anime_name": "Gakuen Heaven"
+    }
+  ],
+  "total_episodes": 13
+}

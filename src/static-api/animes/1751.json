@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1751,
+    "nome": "Joshiraku",
+    "link": "https://animefire.plus/animes/joshiraku-todos-os-episodios",
+    "texto_original": "Joshiraku",
+    "rating": 7.52,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/joshiraku.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/joshiraku/",
+    "secao": "legendados",
+    "pagina": 149,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/joshiraku"
+  }
+}

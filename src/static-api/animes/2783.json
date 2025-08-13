@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2783,
+    "nome": "Noragami OVA",
+    "link": "https://animefire.plus/animes/noragami-ova-todos-os-episodios",
+    "texto_original": "Noragami OVA",
+    "rating": 7.82,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/noragami-ova.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/noragami-ova/",
+    "secao": "legendados",
+    "pagina": 62,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/noragami-ova"
+  }
+}

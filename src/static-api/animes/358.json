@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 358,
+    "nome": "Battle Programmer Shirase",
+    "link": "https://animefire.plus/animes/battle-programmer-shirase-todos-os-episodios",
+    "texto_original": "Battle Programmer Shirase",
+    "rating": 7,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/battle-programmer-shirase.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/battle-programmer-shirase/",
+    "secao": "legendados",
+    "pagina": 165,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/battle-programmer-shirase"
+  }
+}

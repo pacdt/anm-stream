@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3325,
+    "nome": "Sekkou Boys",
+    "link": "https://animefire.plus/animes/sekkou-boys-todos-os-episodios",
+    "texto_original": "Sekkou Boys",
+    "rating": 6.33,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/sekkou-boys.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sekkou-boys/",
+    "secao": "legendados",
+    "pagina": 97,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/sekkou-boys"
+  }
+}

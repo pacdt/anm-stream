@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Senki Zesshou Symphogear XV",
+  "anime": {
+    "id": 3346,
+    "nome": "Senki Zesshou Symphogear XV",
+    "link": "https://animefire.plus/animes/senki-zesshou-symphogear-xv-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/senki-zesshou-symphogear-xv",
+    "rating": "8.21",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/senki-zesshou-symphogear-xv/1",
+      "anime_id": 3346,
+      "anime_name": "Senki Zesshou Symphogear XV"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/senki-zesshou-symphogear-xv/2",
+      "anime_id": 3346,
+      "anime_name": "Senki Zesshou Symphogear XV"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/senki-zesshou-symphogear-xv/3",
+      "anime_id": 3346,
+      "anime_name": "Senki Zesshou Symphogear XV"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/senki-zesshou-symphogear-xv/4",
+      "anime_id": 3346,
+      "anime_name": "Senki Zesshou Symphogear XV"
+    }
+  ],
+  "total_episodes": 4
+}

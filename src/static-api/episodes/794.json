@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Denpa Kyoushi (TV)",
+  "anime": {
+    "id": 794,
+    "nome": "Denpa Kyoushi (TV)",
+    "link": "https://animefire.plus/animes/denpa-kyoushi-tv-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/denpa-kyoushi-tv",
+    "rating": "6.96",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/denpa-kyoushi-tv/1",
+      "anime_id": 794,
+      "anime_name": "Denpa Kyoushi (TV)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/denpa-kyoushi-tv/2",
+      "anime_id": 794,
+      "anime_name": "Denpa Kyoushi (TV)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/denpa-kyoushi-tv/3",
+      "anime_id": 794,
+      "anime_name": "Denpa Kyoushi (TV)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/denpa-kyoushi-tv/4",
+      "anime_id": 794,
+      "anime_name": "Denpa Kyoushi (TV)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/denpa-kyoushi-tv/5",
+      "anime_id": 794,
+      "anime_name": "Denpa Kyoushi (TV)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/denpa-kyoushi-tv/6",
+      "anime_id": 794,
+      "anime_name": "Denpa Kyoushi (TV)"
+    }
+  ],
+  "total_episodes": 6
+}

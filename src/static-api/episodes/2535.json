@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Mnemosyne: Mnemosyne no Musume-tachi",
+  "anime": {
+    "id": 2535,
+    "nome": "Mnemosyne: Mnemosyne no Musume-tachi",
+    "link": "https://animefire.plus/animes/mnemosyne-mnemosyne-no-musume-tachi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mnemosyne-mnemosyne-no-musume-tachi",
+    "rating": "7.40",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mnemosyne-mnemosyne-no-musume-tachi/1",
+      "anime_id": 2535,
+      "anime_name": "Mnemosyne: Mnemosyne no Musume-tachi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mnemosyne-mnemosyne-no-musume-tachi/2",
+      "anime_id": 2535,
+      "anime_name": "Mnemosyne: Mnemosyne no Musume-tachi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mnemosyne-mnemosyne-no-musume-tachi/3",
+      "anime_id": 2535,
+      "anime_name": "Mnemosyne: Mnemosyne no Musume-tachi"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/mnemosyne-mnemosyne-no-musume-tachi/4",
+      "anime_id": 2535,
+      "anime_name": "Mnemosyne: Mnemosyne no Musume-tachi"
+    }
+  ],
+  "total_episodes": 4
+}

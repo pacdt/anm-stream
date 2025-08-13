@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3666,
+    "nome": "Suite Precure♪",
+    "link": "https://animefire.plus/animes/suite-precure-todos-os-episodios",
+    "texto_original": "Suite Precure♪",
+    "rating": 7.35,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/suite-precure.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/suite-precure/",
+    "secao": "legendados",
+    "pagina": 139,
+    "total_episodios": 46,
+    "link_video": "https://animefire.plus/video/suite-precure"
+  }
+}

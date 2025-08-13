@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 485,
+    "nome": "Bouken Ou Beet",
+    "link": "https://animefire.plus/animes/bouken-ou-beet-todos-os-episodios",
+    "texto_original": "Bouken Ou Beet",
+    "rating": 7.03,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/bouken-ou-beet.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bouken-ou-beet/",
+    "secao": "legendados",
+    "pagina": 123,
+    "total_episodios": 52,
+    "link_video": "https://animefire.plus/video/bouken-ou-beet"
+  }
+}

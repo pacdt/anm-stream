@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Dororon Enma-kun Meeramera",
+  "anime": {
+    "id": 852,
+    "nome": "Dororon Enma-kun Meeramera",
+    "link": "https://animefire.plus/animes/dororon-enma-kun-meeramera-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/dororon-enma-kun-meeramera",
+    "rating": "6.55",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/dororon-enma-kun-meeramera/1",
+      "anime_id": 852,
+      "anime_name": "Dororon Enma-kun Meeramera"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/dororon-enma-kun-meeramera/2",
+      "anime_id": 852,
+      "anime_name": "Dororon Enma-kun Meeramera"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/dororon-enma-kun-meeramera/3",
+      "anime_id": 852,
+      "anime_name": "Dororon Enma-kun Meeramera"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/dororon-enma-kun-meeramera/4",
+      "anime_id": 852,
+      "anime_name": "Dororon Enma-kun Meeramera"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/dororon-enma-kun-meeramera/5",
+      "anime_id": 852,
+      "anime_name": "Dororon Enma-kun Meeramera"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/dororon-enma-kun-meeramera/6",
+      "anime_id": 852,
+      "anime_name": "Dororon Enma-kun Meeramera"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/dororon-enma-kun-meeramera/7",
+      "anime_id": 852,
+      "anime_name": "Dororon Enma-kun Meeramera"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/dororon-enma-kun-meeramera/8",
+      "anime_id": 852,
+      "anime_name": "Dororon Enma-kun Meeramera"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/dororon-enma-kun-meeramera/9",
+      "anime_id": 852,
+      "anime_name": "Dororon Enma-kun Meeramera"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/dororon-enma-kun-meeramera/10",
+      "anime_id": 852,
+      "anime_name": "Dororon Enma-kun Meeramera"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/dororon-enma-kun-meeramera/11",
+      "anime_id": 852,
+      "anime_name": "Dororon Enma-kun Meeramera"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/dororon-enma-kun-meeramera/12",
+      "anime_id": 852,
+      "anime_name": "Dororon Enma-kun Meeramera"
+    }
+  ],
+  "total_episodes": 12
+}

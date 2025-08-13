@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Hanayamata",
+  "anime": {
+    "id": 1356,
+    "nome": "Hanayamata",
+    "link": "https://animefire.plus/animes/hanayamata-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hanayamata",
+    "rating": "7.37",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hanayamata/1",
+      "anime_id": 1356,
+      "anime_name": "Hanayamata"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hanayamata/2",
+      "anime_id": 1356,
+      "anime_name": "Hanayamata"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hanayamata/3",
+      "anime_id": 1356,
+      "anime_name": "Hanayamata"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hanayamata/4",
+      "anime_id": 1356,
+      "anime_name": "Hanayamata"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hanayamata/5",
+      "anime_id": 1356,
+      "anime_name": "Hanayamata"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hanayamata/6",
+      "anime_id": 1356,
+      "anime_name": "Hanayamata"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/hanayamata/7",
+      "anime_id": 1356,
+      "anime_name": "Hanayamata"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/hanayamata/8",
+      "anime_id": 1356,
+      "anime_name": "Hanayamata"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/hanayamata/9",
+      "anime_id": 1356,
+      "anime_name": "Hanayamata"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/hanayamata/10",
+      "anime_id": 1356,
+      "anime_name": "Hanayamata"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/hanayamata/11",
+      "anime_id": 1356,
+      "anime_name": "Hanayamata"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/hanayamata/12",
+      "anime_id": 1356,
+      "anime_name": "Hanayamata"
+    }
+  ],
+  "total_episodes": 12
+}

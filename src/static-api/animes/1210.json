@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1210,
+    "nome": "Godzilla: S.P (Dublado)",
+    "link": "https://animefire.plus/animes/godzilla-s-p-dublado-todos-os-episodios",
+    "texto_original": "Godzilla: S.P (Dublado)",
+    "rating": 6.65,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/godzilla-s-p.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/godzilla-s-p/",
+    "secao": "dublados,legendados",
+    "pagina": 17,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/godzilla-s-p-dublado"
+  }
+}

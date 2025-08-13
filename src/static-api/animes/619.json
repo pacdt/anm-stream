@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 619,
+    "nome": "Chocolate Underground",
+    "link": "https://animefire.plus/animes/chocolate-underground-todos-os-episodios",
+    "texto_original": "Chocolate Underground",
+    "rating": 6.22,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/chocolate-underground.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/chocolate-underground/",
+    "secao": "legendados",
+    "pagina": 122,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/chocolate-underground"
+  }
+}

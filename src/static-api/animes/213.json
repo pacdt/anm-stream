@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 213,
+    "nome": "Aoki Honoo",
+    "link": "https://animefire.plus/animes/aoki-honoo-todos-os-episodios",
+    "texto_original": "Aoki Honoo",
+    "rating": 5.02,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/aoki-honoo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/aoki-honoo/",
+    "secao": "legendados",
+    "pagina": 65,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/aoki-honoo"
+  }
+}

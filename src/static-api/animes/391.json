@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 391,
+    "nome": "Binbougami ga!",
+    "link": "https://animefire.plus/animes/binbougami-ga-todos-os-episodios",
+    "texto_original": "Binbougami ga!",
+    "rating": 7.8,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/binbougami-ga.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/binbougami-ga/",
+    "secao": "legendados",
+    "pagina": 119,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/binbougami-ga"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "generated_at": "2025-08-13T02:56:50.446Z",
+  "total_anime_files": 3942,
+  "total_animes_processed": 4368,
+  "animes_without_episodes": 426,
+  "source_file": "animes_unificados_2025.json",
+  "description": "Arquivos JSON de episódios gerados automaticamente para cada anime"
+}

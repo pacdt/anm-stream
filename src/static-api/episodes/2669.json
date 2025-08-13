@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Nanatsu no Taizai: Seisen no Shirushi",
+  "anime": {
+    "id": 2669,
+    "nome": "Nanatsu no Taizai: Seisen no Shirushi",
+    "link": "https://animefire.plus/animes/nanatsu-no-taizai-seisen-no-shirushi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nanatsu-no-taizai-seisen-no-shirushi",
+    "rating": "7.39",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nanatsu-no-taizai-seisen-no-shirushi/1",
+      "anime_id": 2669,
+      "anime_name": "Nanatsu no Taizai: Seisen no Shirushi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/nanatsu-no-taizai-seisen-no-shirushi/2",
+      "anime_id": 2669,
+      "anime_name": "Nanatsu no Taizai: Seisen no Shirushi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/nanatsu-no-taizai-seisen-no-shirushi/3",
+      "anime_id": 2669,
+      "anime_name": "Nanatsu no Taizai: Seisen no Shirushi"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/nanatsu-no-taizai-seisen-no-shirushi/4",
+      "anime_id": 2669,
+      "anime_name": "Nanatsu no Taizai: Seisen no Shirushi"
+    }
+  ],
+  "total_episodes": 4
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1193,
+    "nome": "Girly Air Force",
+    "link": "https://animefire.plus/animes/girly-air-force-todos-os-episodios",
+    "texto_original": "Girly Air Force",
+    "rating": 6.18,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/girly-air-force.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/girly-air-force/",
+    "secao": "legendados",
+    "pagina": 117,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/girly-air-force"
+  }
+}

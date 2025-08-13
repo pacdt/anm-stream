@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: Kimetsu no Yaiba: Hashira Geiko-hen",
+  "anime": {
+    "id": 1977,
+    "nome": "Kimetsu no Yaiba: Hashira Geiko-hen",
+    "link": "https://animefire.plus/animes/kimetsu-no-yaiba-hashira-geiko-hen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kimetsu-no-yaiba-hashira-geiko-hen",
+    "rating": "N/A",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kimetsu-no-yaiba-hashira-geiko-hen/1",
+      "anime_id": 1977,
+      "anime_name": "Kimetsu no Yaiba: Hashira Geiko-hen"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kimetsu-no-yaiba-hashira-geiko-hen/2",
+      "anime_id": 1977,
+      "anime_name": "Kimetsu no Yaiba: Hashira Geiko-hen"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kimetsu-no-yaiba-hashira-geiko-hen/3",
+      "anime_id": 1977,
+      "anime_name": "Kimetsu no Yaiba: Hashira Geiko-hen"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kimetsu-no-yaiba-hashira-geiko-hen/4",
+      "anime_id": 1977,
+      "anime_name": "Kimetsu no Yaiba: Hashira Geiko-hen"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kimetsu-no-yaiba-hashira-geiko-hen/5",
+      "anime_id": 1977,
+      "anime_name": "Kimetsu no Yaiba: Hashira Geiko-hen"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kimetsu-no-yaiba-hashira-geiko-hen/6",
+      "anime_id": 1977,
+      "anime_name": "Kimetsu no Yaiba: Hashira Geiko-hen"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/kimetsu-no-yaiba-hashira-geiko-hen/7",
+      "anime_id": 1977,
+      "anime_name": "Kimetsu no Yaiba: Hashira Geiko-hen"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/kimetsu-no-yaiba-hashira-geiko-hen/8",
+      "anime_id": 1977,
+      "anime_name": "Kimetsu no Yaiba: Hashira Geiko-hen"
+    }
+  ],
+  "total_episodes": 8
+}

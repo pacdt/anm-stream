@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Dai Mahou Touge",
+  "anime": {
+    "id": 727,
+    "nome": "Dai Mahou Touge",
+    "link": "https://animefire.plus/animes/dai-mahou-touge-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/dai-mahou-touge",
+    "rating": "7.02",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/dai-mahou-touge/1",
+      "anime_id": 727,
+      "anime_name": "Dai Mahou Touge"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/dai-mahou-touge/2",
+      "anime_id": 727,
+      "anime_name": "Dai Mahou Touge"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/dai-mahou-touge/3",
+      "anime_id": 727,
+      "anime_name": "Dai Mahou Touge"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/dai-mahou-touge/4",
+      "anime_id": 727,
+      "anime_name": "Dai Mahou Touge"
+    }
+  ],
+  "total_episodes": 4
+}

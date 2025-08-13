@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: No.6",
+  "anime": {
+    "id": 2756,
+    "nome": "No.6",
+    "link": "https://animefire.plus/animes/no-6-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/no-6",
+    "rating": "7.69",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/no-6/1",
+      "anime_id": 2756,
+      "anime_name": "No.6"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/no-6/2",
+      "anime_id": 2756,
+      "anime_name": "No.6"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/no-6/3",
+      "anime_id": 2756,
+      "anime_name": "No.6"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/no-6/4",
+      "anime_id": 2756,
+      "anime_name": "No.6"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/no-6/5",
+      "anime_id": 2756,
+      "anime_name": "No.6"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/no-6/6",
+      "anime_id": 2756,
+      "anime_name": "No.6"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/no-6/7",
+      "anime_id": 2756,
+      "anime_name": "No.6"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/no-6/8",
+      "anime_id": 2756,
+      "anime_name": "No.6"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/no-6/9",
+      "anime_id": 2756,
+      "anime_name": "No.6"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/no-6/10",
+      "anime_id": 2756,
+      "anime_name": "No.6"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/no-6/11",
+      "anime_id": 2756,
+      "anime_name": "No.6"
+    }
+  ],
+  "total_episodes": 11
+}

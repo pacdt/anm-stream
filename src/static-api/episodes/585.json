@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Casshern: Robot Hunter",
+  "anime": {
+    "id": 585,
+    "nome": "Casshern: Robot Hunter",
+    "link": "https://animefire.plus/animes/casshern-robot-hunter-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/casshern-robot-hunter",
+    "rating": "6.36",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/casshern-robot-hunter/1",
+      "anime_id": 585,
+      "anime_name": "Casshern: Robot Hunter"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/casshern-robot-hunter/2",
+      "anime_id": 585,
+      "anime_name": "Casshern: Robot Hunter"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/casshern-robot-hunter/3",
+      "anime_id": 585,
+      "anime_name": "Casshern: Robot Hunter"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/casshern-robot-hunter/4",
+      "anime_id": 585,
+      "anime_name": "Casshern: Robot Hunter"
+    }
+  ],
+  "total_episodes": 4
+}

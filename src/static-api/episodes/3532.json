@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Sidonia No Kishi: Daikyuu Wakusei Seneki",
+  "anime": {
+    "id": 3532,
+    "nome": "Sidonia No Kishi: Daikyuu Wakusei Seneki",
+    "link": "https://animefire.plus/animes/sidonia-no-kishi-daikyuu-wakusei-seneki-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sidonia-no-kishi-daikyuu-wakusei-seneki",
+    "rating": "7.84",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sidonia-no-kishi-daikyuu-wakusei-seneki/1",
+      "anime_id": 3532,
+      "anime_name": "Sidonia No Kishi: Daikyuu Wakusei Seneki"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/sidonia-no-kishi-daikyuu-wakusei-seneki/2",
+      "anime_id": 3532,
+      "anime_name": "Sidonia No Kishi: Daikyuu Wakusei Seneki"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/sidonia-no-kishi-daikyuu-wakusei-seneki/3",
+      "anime_id": 3532,
+      "anime_name": "Sidonia No Kishi: Daikyuu Wakusei Seneki"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/sidonia-no-kishi-daikyuu-wakusei-seneki/4",
+      "anime_id": 3532,
+      "anime_name": "Sidonia No Kishi: Daikyuu Wakusei Seneki"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/sidonia-no-kishi-daikyuu-wakusei-seneki/5",
+      "anime_id": 3532,
+      "anime_name": "Sidonia No Kishi: Daikyuu Wakusei Seneki"
+    }
+  ],
+  "total_episodes": 5
+}

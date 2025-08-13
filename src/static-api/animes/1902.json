@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1902,
+    "nome": "Karin",
+    "link": "https://animefire.plus/animes/karin-todos-os-episodios",
+    "texto_original": "Karin",
+    "rating": 7.25,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/karin.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/karin/",
+    "secao": "legendados",
+    "pagina": 161,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/karin"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 82,
+    "nome": "AI no Idenshi",
+    "link": "https://animefire.plus/animes/ai-no-idenshi-todos-os-episodios",
+    "texto_original": "AI no Idenshi",
+    "rating": 6.52,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/aI-no-idenshi.jpg",
+    "imagem_pasta": "https://animefire.plus/img/animes/aI-no-idenshi/",
+    "secao": "legendados",
+    "pagina": 22,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/ai-no-idenshi"
+  }
+}

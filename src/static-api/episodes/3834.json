@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: The iDOLM@STER SideM",
+  "anime": {
+    "id": 3834,
+    "nome": "The iDOLM@STER SideM",
+    "link": "https://animefire.plus/animes/the-idolmaster-sidem-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/the-idolmaster-sidem",
+    "rating": "7.25",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-sidem/1",
+      "anime_id": 3834,
+      "anime_name": "The iDOLM@STER SideM"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-sidem/2",
+      "anime_id": 3834,
+      "anime_name": "The iDOLM@STER SideM"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-sidem/3",
+      "anime_id": 3834,
+      "anime_name": "The iDOLM@STER SideM"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-sidem/4",
+      "anime_id": 3834,
+      "anime_name": "The iDOLM@STER SideM"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-sidem/5",
+      "anime_id": 3834,
+      "anime_name": "The iDOLM@STER SideM"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-sidem/6",
+      "anime_id": 3834,
+      "anime_name": "The iDOLM@STER SideM"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-sidem/7",
+      "anime_id": 3834,
+      "anime_name": "The iDOLM@STER SideM"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-sidem/8",
+      "anime_id": 3834,
+      "anime_name": "The iDOLM@STER SideM"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-sidem/9",
+      "anime_id": 3834,
+      "anime_name": "The iDOLM@STER SideM"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-sidem/10",
+      "anime_id": 3834,
+      "anime_name": "The iDOLM@STER SideM"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-sidem/11",
+      "anime_id": 3834,
+      "anime_name": "The iDOLM@STER SideM"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-sidem/12",
+      "anime_id": 3834,
+      "anime_name": "The iDOLM@STER SideM"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/the-idolmaster-sidem/13",
+      "anime_id": 3834,
+      "anime_name": "The iDOLM@STER SideM"
+    }
+  ],
+  "total_episodes": 13
+}

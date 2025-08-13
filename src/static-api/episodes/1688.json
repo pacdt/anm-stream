@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Itazuraguma no Gloomy",
+  "anime": {
+    "id": 1688,
+    "nome": "Itazuraguma no Gloomy",
+    "link": "https://animefire.plus/animes/itazuraguma-no-gloomy-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/itazuraguma-no-gloomy",
+    "rating": "5.28",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/itazuraguma-no-gloomy/1",
+      "anime_id": 1688,
+      "anime_name": "Itazuraguma no Gloomy"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/itazuraguma-no-gloomy/2",
+      "anime_id": 1688,
+      "anime_name": "Itazuraguma no Gloomy"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/itazuraguma-no-gloomy/3",
+      "anime_id": 1688,
+      "anime_name": "Itazuraguma no Gloomy"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/itazuraguma-no-gloomy/4",
+      "anime_id": 1688,
+      "anime_name": "Itazuraguma no Gloomy"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/itazuraguma-no-gloomy/5",
+      "anime_id": 1688,
+      "anime_name": "Itazuraguma no Gloomy"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/itazuraguma-no-gloomy/6",
+      "anime_id": 1688,
+      "anime_name": "Itazuraguma no Gloomy"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/itazuraguma-no-gloomy/7",
+      "anime_id": 1688,
+      "anime_name": "Itazuraguma no Gloomy"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/itazuraguma-no-gloomy/8",
+      "anime_id": 1688,
+      "anime_name": "Itazuraguma no Gloomy"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/itazuraguma-no-gloomy/9",
+      "anime_id": 1688,
+      "anime_name": "Itazuraguma no Gloomy"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/itazuraguma-no-gloomy/10",
+      "anime_id": 1688,
+      "anime_name": "Itazuraguma no Gloomy"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/itazuraguma-no-gloomy/11",
+      "anime_id": 1688,
+      "anime_name": "Itazuraguma no Gloomy"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/itazuraguma-no-gloomy/12",
+      "anime_id": 1688,
+      "anime_name": "Itazuraguma no Gloomy"
+    }
+  ],
+  "total_episodes": 12
+}

@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Cop Craft",
+  "anime": {
+    "id": 690,
+    "nome": "Cop Craft",
+    "link": "https://animefire.plus/animes/cop-craft-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/cop-craft",
+    "rating": "6.74",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/cop-craft/1",
+      "anime_id": 690,
+      "anime_name": "Cop Craft"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/cop-craft/2",
+      "anime_id": 690,
+      "anime_name": "Cop Craft"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/cop-craft/3",
+      "anime_id": 690,
+      "anime_name": "Cop Craft"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/cop-craft/4",
+      "anime_id": 690,
+      "anime_name": "Cop Craft"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/cop-craft/5",
+      "anime_id": 690,
+      "anime_name": "Cop Craft"
+    }
+  ],
+  "total_episodes": 5
+}

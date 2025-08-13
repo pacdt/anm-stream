@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Inazuma Eleven Go",
+  "anime": {
+    "id": 1614,
+    "nome": "Inazuma Eleven Go",
+    "link": "https://animefire.plus/animes/inazuma-eleven-go-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/inazuma-eleven-go",
+    "rating": "7.04",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/inazuma-eleven-go/1",
+      "anime_id": 1614,
+      "anime_name": "Inazuma Eleven Go"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/inazuma-eleven-go/2",
+      "anime_id": 1614,
+      "anime_name": "Inazuma Eleven Go"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/inazuma-eleven-go/3",
+      "anime_id": 1614,
+      "anime_name": "Inazuma Eleven Go"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/inazuma-eleven-go/4",
+      "anime_id": 1614,
+      "anime_name": "Inazuma Eleven Go"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/inazuma-eleven-go/5",
+      "anime_id": 1614,
+      "anime_name": "Inazuma Eleven Go"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/inazuma-eleven-go/6",
+      "anime_id": 1614,
+      "anime_name": "Inazuma Eleven Go"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/inazuma-eleven-go/7",
+      "anime_id": 1614,
+      "anime_name": "Inazuma Eleven Go"
+    }
+  ],
+  "total_episodes": 7
+}

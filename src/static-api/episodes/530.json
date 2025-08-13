@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Burn Up!",
+  "anime": {
+    "id": 530,
+    "nome": "Burn Up!",
+    "link": "https://animefire.plus/animes/burn-up-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/burn-up",
+    "rating": "6.09",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/burn-up/1",
+      "anime_id": 530,
+      "anime_name": "Burn Up!"
+    }
+  ],
+  "total_episodes": 1
+}

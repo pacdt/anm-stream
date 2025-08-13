@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Monster Strike: Mermaid Rhapsody",
+  "anime": {
+    "id": 2587,
+    "nome": "Monster Strike: Mermaid Rhapsody",
+    "link": "https://animefire.plus/animes/monster-strike-mermaid-rhapsody-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/monster-strike-mermaid-rhapsody",
+    "rating": "6.73",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/monster-strike-mermaid-rhapsody/1",
+      "anime_id": 2587,
+      "anime_name": "Monster Strike: Mermaid Rhapsody"
+    }
+  ],
+  "total_episodes": 1
+}

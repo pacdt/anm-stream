@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3516,
+    "nome": "Shuffle!",
+    "link": "https://animefire.plus/animes/shuffle-todos-os-episodios",
+    "texto_original": "Shuffle!",
+    "rating": 7.19,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/shuffle.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shuffle/",
+    "secao": "legendados",
+    "pagina": 115,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/shuffle"
+  }
+}

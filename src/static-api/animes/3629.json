@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3629,
+    "nome": "Starry☆Sky",
+    "link": "https://animefire.plus/animes/starry-sky-todos-os-episodios",
+    "texto_original": "Starry☆Sky",
+    "rating": 6.23,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/starry-sky.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/starry-sky/",
+    "secao": "legendados",
+    "pagina": 119,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/starry-sky"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3553,
+    "nome": "Slayers Special",
+    "link": "https://animefire.plus/animes/slayers-special-todos-os-episodios",
+    "texto_original": "Slayers Special",
+    "rating": 7.37,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/slayers-special.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/slayers-special/",
+    "secao": "legendados",
+    "pagina": 45,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/slayers-special"
+  }
+}

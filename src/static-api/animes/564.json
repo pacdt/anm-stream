@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 564,
+    "nome": "Cardfight!! Vanguard G",
+    "link": "https://animefire.plus/animes/cardfight-vanguard-g-todos-os-episodios",
+    "texto_original": "Cardfight!! Vanguard G",
+    "rating": 6.62,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/cardfight-vanguard-g.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/cardfight-vanguard-g/",
+    "secao": "legendados",
+    "pagina": 66,
+    "total_episodios": 48,
+    "link_video": "https://animefire.plus/video/cardfight-vanguard-g"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2326,
+    "nome": "Mahou Senshi Louie",
+    "link": "https://animefire.plus/animes/mahou-senshi-louie-todos-os-episodios",
+    "texto_original": "Mahou Senshi Louie",
+    "rating": 7.22,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/mahou-senshi-louie.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mahou-senshi-louie/",
+    "secao": "legendados",
+    "pagina": 126,
+    "total_episodios": 8,
+    "link_video": "https://animefire.plus/video/mahou-senshi-louie"
+  }
+}

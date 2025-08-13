@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1564,
+    "nome": "Hyakko Extra",
+    "link": "https://animefire.plus/animes/hyakko-extra-todos-os-episodios",
+    "texto_original": "Hyakko Extra",
+    "rating": 6.78,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hyakko-extra.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hyakko-extra/",
+    "secao": "legendados",
+    "pagina": 71,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/hyakko-extra"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Romantica Clock",
+  "anime": {
+    "id": 3152,
+    "nome": "Romantica Clock",
+    "link": "https://animefire.plus/animes/romantica-clock-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/romantica-clock",
+    "rating": "5.72",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/romantica-clock/1",
+      "anime_id": 3152,
+      "anime_name": "Romantica Clock"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/romantica-clock/2",
+      "anime_id": 3152,
+      "anime_name": "Romantica Clock"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/romantica-clock/3",
+      "anime_id": 3152,
+      "anime_name": "Romantica Clock"
+    }
+  ],
+  "total_episodes": 3
+}

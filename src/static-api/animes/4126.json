@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4126,
+    "nome": "Weiß Kreuz",
+    "link": "https://animefire.plus/animes/weiss-kreuz-todos-os-episodios",
+    "texto_original": "Weiß Kreuz",
+    "rating": 6.79,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/weiss-kreuz.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/weiss-kreuz/",
+    "secao": "legendados",
+    "pagina": 150,
+    "total_episodios": 22,
+    "link_video": "https://animefire.plus/video/weiss-kreuz"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 14,
+    "nome": "1+2=Paradise",
+    "link": "https://animefire.plus/animes/1-2-paradise-todos-os-episodios",
+    "texto_original": "1+2=Paradise",
+    "rating": 5.06,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/1-2-paradise.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/1-2-paradise/",
+    "secao": "legendados",
+    "pagina": 109,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/1-2-paradise"
+  }
+}

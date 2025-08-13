@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Chi.: Chikyuu no Undou ni Tsuite",
+  "anime": {
+    "id": 600,
+    "nome": "Chi.: Chikyuu no Undou ni Tsuite",
+    "link": "https://animefire.plus/animes/chi-chikyuu-no-undou-ni-tsuite-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/chi-chikyuu-no-undou-ni-tsuite",
+    "rating": "8.71",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/chi-chikyuu-no-undou-ni-tsuite/1",
+      "anime_id": 600,
+      "anime_name": "Chi.: Chikyuu no Undou ni Tsuite"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/chi-chikyuu-no-undou-ni-tsuite/2",
+      "anime_id": 600,
+      "anime_name": "Chi.: Chikyuu no Undou ni Tsuite"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/chi-chikyuu-no-undou-ni-tsuite/3",
+      "anime_id": 600,
+      "anime_name": "Chi.: Chikyuu no Undou ni Tsuite"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/chi-chikyuu-no-undou-ni-tsuite/4",
+      "anime_id": 600,
+      "anime_name": "Chi.: Chikyuu no Undou ni Tsuite"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/chi-chikyuu-no-undou-ni-tsuite/5",
+      "anime_id": 600,
+      "anime_name": "Chi.: Chikyuu no Undou ni Tsuite"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/chi-chikyuu-no-undou-ni-tsuite/6",
+      "anime_id": 600,
+      "anime_name": "Chi.: Chikyuu no Undou ni Tsuite"
+    }
+  ],
+  "total_episodes": 6
+}

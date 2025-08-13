@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1815,
+    "nome": "Kaitou Joker",
+    "link": "https://animefire.plus/animes/kaitou-joker-todos-os-episodios",
+    "texto_original": "Kaitou Joker",
+    "rating": 6.99,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/kaitou-joker.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kaitou-joker/",
+    "secao": "legendados",
+    "pagina": 163,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/kaitou-joker"
+  }
+}

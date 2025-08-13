@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1063,
+    "nome": "Futoku no Guild",
+    "link": "https://animefire.plus/animes/futoku-no-guild-todos-os-episodios",
+    "texto_original": "Futoku no Guild",
+    "rating": 6.54,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/futoku-no-guild.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/futoku-no-guild/",
+    "secao": "legendados",
+    "pagina": 29,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/futoku-no-guild"
+  }
+}

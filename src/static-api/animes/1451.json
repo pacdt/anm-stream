@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1451,
+    "nome": "Higepiyo",
+    "link": "https://animefire.plus/animes/higepiyo-todos-os-episodios",
+    "texto_original": "Higepiyo",
+    "rating": 7.13,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/higepiyo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/higepiyo/",
+    "secao": "legendados",
+    "pagina": 78,
+    "total_episodios": 30,
+    "link_video": "https://animefire.plus/video/higepiyo"
+  }
+}

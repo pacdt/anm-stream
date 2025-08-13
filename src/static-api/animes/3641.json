@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3641,
+    "nome": "Stratos 4 Advance",
+    "link": "https://animefire.plus/animes/stratos-4-advance-todos-os-episodios",
+    "texto_original": "Stratos 4 Advance",
+    "rating": 6.87,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/stratos-4-advance.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/stratos-4-advance/",
+    "secao": "legendados",
+    "pagina": 79,
+    "total_episodios": 8,
+    "link_video": "https://animefire.plus/video/stratos-4-advance"
+  }
+}

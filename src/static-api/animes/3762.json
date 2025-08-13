@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3762,
+    "nome": "Tattoon Master",
+    "link": "https://animefire.plus/animes/tattoon-master-todos-os-episodios",
+    "texto_original": "Tattoon Master",
+    "rating": 6.16,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/tattoon-master.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tattoon-master/",
+    "secao": "legendados",
+    "pagina": 69,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/tattoon-master"
+  }
+}

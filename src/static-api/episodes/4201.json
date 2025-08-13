@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Yami no Matsuei",
+  "anime": {
+    "id": 4201,
+    "nome": "Yami no Matsuei",
+    "link": "https://animefire.plus/animes/yami-no-matsuei-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yami-no-matsuei",
+    "rating": "7.17",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yami-no-matsuei/1",
+      "anime_id": 4201,
+      "anime_name": "Yami no Matsuei"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yami-no-matsuei/2",
+      "anime_id": 4201,
+      "anime_name": "Yami no Matsuei"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/yami-no-matsuei/3",
+      "anime_id": 4201,
+      "anime_name": "Yami no Matsuei"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/yami-no-matsuei/4",
+      "anime_id": 4201,
+      "anime_name": "Yami no Matsuei"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/yami-no-matsuei/5",
+      "anime_id": 4201,
+      "anime_name": "Yami no Matsuei"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/yami-no-matsuei/6",
+      "anime_id": 4201,
+      "anime_name": "Yami no Matsuei"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/yami-no-matsuei/7",
+      "anime_id": 4201,
+      "anime_name": "Yami no Matsuei"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/yami-no-matsuei/8",
+      "anime_id": 4201,
+      "anime_name": "Yami no Matsuei"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/yami-no-matsuei/9",
+      "anime_id": 4201,
+      "anime_name": "Yami no Matsuei"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/yami-no-matsuei/10",
+      "anime_id": 4201,
+      "anime_name": "Yami no Matsuei"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/yami-no-matsuei/11",
+      "anime_id": 4201,
+      "anime_name": "Yami no Matsuei"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/yami-no-matsuei/12",
+      "anime_id": 4201,
+      "anime_name": "Yami no Matsuei"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/yami-no-matsuei/13",
+      "anime_id": 4201,
+      "anime_name": "Yami no Matsuei"
+    }
+  ],
+  "total_episodes": 13
+}

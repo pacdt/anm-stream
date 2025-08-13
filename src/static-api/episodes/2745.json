@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Ninja Slayer From Animation",
+  "anime": {
+    "id": 2745,
+    "nome": "Ninja Slayer From Animation",
+    "link": "https://animefire.plus/animes/ninja-slayer-from-animation-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ninja-slayer-from-animation",
+    "rating": "6.59",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ninja-slayer-from-animation/1",
+      "anime_id": 2745,
+      "anime_name": "Ninja Slayer From Animation"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ninja-slayer-from-animation/2",
+      "anime_id": 2745,
+      "anime_name": "Ninja Slayer From Animation"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/ninja-slayer-from-animation/3",
+      "anime_id": 2745,
+      "anime_name": "Ninja Slayer From Animation"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/ninja-slayer-from-animation/4",
+      "anime_id": 2745,
+      "anime_name": "Ninja Slayer From Animation"
+    }
+  ],
+  "total_episodes": 4
+}

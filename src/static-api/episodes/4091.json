@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: W: Wish",
+  "anime": {
+    "id": 4091,
+    "nome": "W: Wish",
+    "link": "https://animefire.plus/animes/w-wish-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/w-wish",
+    "rating": "6.24",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/w-wish/1",
+      "anime_id": 4091,
+      "anime_name": "W: Wish"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/w-wish/2",
+      "anime_id": 4091,
+      "anime_name": "W: Wish"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/w-wish/3",
+      "anime_id": 4091,
+      "anime_name": "W: Wish"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/w-wish/4",
+      "anime_id": 4091,
+      "anime_name": "W: Wish"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/w-wish/5",
+      "anime_id": 4091,
+      "anime_name": "W: Wish"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/w-wish/6",
+      "anime_id": 4091,
+      "anime_name": "W: Wish"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/w-wish/7",
+      "anime_id": 4091,
+      "anime_name": "W: Wish"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/w-wish/8",
+      "anime_id": 4091,
+      "anime_name": "W: Wish"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/w-wish/9",
+      "anime_id": 4091,
+      "anime_name": "W: Wish"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/w-wish/10",
+      "anime_id": 4091,
+      "anime_name": "W: Wish"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/w-wish/11",
+      "anime_id": 4091,
+      "anime_name": "W: Wish"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/w-wish/12",
+      "anime_id": 4091,
+      "anime_name": "W: Wish"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/w-wish/13",
+      "anime_id": 4091,
+      "anime_name": "W: Wish"
+    }
+  ],
+  "total_episodes": 13
+}

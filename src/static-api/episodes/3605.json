@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Souten no Ken: Regenesis",
+  "anime": {
+    "id": 3605,
+    "nome": "Souten no Ken: Regenesis",
+    "link": "https://animefire.plus/animes/souten-no-ken-regenesis-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/souten-no-ken-regenesis",
+    "rating": "5.70",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/souten-no-ken-regenesis/1",
+      "anime_id": 3605,
+      "anime_name": "Souten no Ken: Regenesis"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/souten-no-ken-regenesis/2",
+      "anime_id": 3605,
+      "anime_name": "Souten no Ken: Regenesis"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/souten-no-ken-regenesis/3",
+      "anime_id": 3605,
+      "anime_name": "Souten no Ken: Regenesis"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/souten-no-ken-regenesis/4",
+      "anime_id": 3605,
+      "anime_name": "Souten no Ken: Regenesis"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/souten-no-ken-regenesis/5",
+      "anime_id": 3605,
+      "anime_name": "Souten no Ken: Regenesis"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/souten-no-ken-regenesis/6",
+      "anime_id": 3605,
+      "anime_name": "Souten no Ken: Regenesis"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/souten-no-ken-regenesis/7",
+      "anime_id": 3605,
+      "anime_name": "Souten no Ken: Regenesis"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/souten-no-ken-regenesis/8",
+      "anime_id": 3605,
+      "anime_name": "Souten no Ken: Regenesis"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/souten-no-ken-regenesis/9",
+      "anime_id": 3605,
+      "anime_name": "Souten no Ken: Regenesis"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/souten-no-ken-regenesis/10",
+      "anime_id": 3605,
+      "anime_name": "Souten no Ken: Regenesis"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/souten-no-ken-regenesis/11",
+      "anime_id": 3605,
+      "anime_name": "Souten no Ken: Regenesis"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/souten-no-ken-regenesis/12",
+      "anime_id": 3605,
+      "anime_name": "Souten no Ken: Regenesis"
+    }
+  ],
+  "total_episodes": 12
+}

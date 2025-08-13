@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Ao Haru Ride OVA",
+  "anime": {
+    "id": 197,
+    "nome": "Ao Haru Ride OVA",
+    "link": "https://animefire.plus/animes/ao-haru-ride-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ao-haru-ride-ova",
+    "rating": "7.64",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ao-haru-ride-ova/1",
+      "anime_id": 197,
+      "anime_name": "Ao Haru Ride OVA"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ao-haru-ride-ova/2",
+      "anime_id": 197,
+      "anime_name": "Ao Haru Ride OVA"
+    }
+  ],
+  "total_episodes": 2
+}

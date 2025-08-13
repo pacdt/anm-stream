@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Ring Ni Kakero 1: Kage Dou-hen",
+  "anime": {
+    "id": 3127,
+    "nome": "Ring Ni Kakero 1: Kage Dou-hen",
+    "link": "https://animefire.plus/animes/ring-ni-kakero-1-kage-dou-hen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ring-ni-kakero-1-kage-dou-hen",
+    "rating": "6.75",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ring-ni-kakero-1-kage-dou-hen/1",
+      "anime_id": 3127,
+      "anime_name": "Ring Ni Kakero 1: Kage Dou-hen"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ring-ni-kakero-1-kage-dou-hen/2",
+      "anime_id": 3127,
+      "anime_name": "Ring Ni Kakero 1: Kage Dou-hen"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/ring-ni-kakero-1-kage-dou-hen/3",
+      "anime_id": 3127,
+      "anime_name": "Ring Ni Kakero 1: Kage Dou-hen"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/ring-ni-kakero-1-kage-dou-hen/4",
+      "anime_id": 3127,
+      "anime_name": "Ring Ni Kakero 1: Kage Dou-hen"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/ring-ni-kakero-1-kage-dou-hen/5",
+      "anime_id": 3127,
+      "anime_name": "Ring Ni Kakero 1: Kage Dou-hen"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/ring-ni-kakero-1-kage-dou-hen/6",
+      "anime_id": 3127,
+      "anime_name": "Ring Ni Kakero 1: Kage Dou-hen"
+    }
+  ],
+  "total_episodes": 6
+}

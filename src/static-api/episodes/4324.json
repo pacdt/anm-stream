@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Yuusha, Yamemasu",
+  "anime": {
+    "id": 4324,
+    "nome": "Yuusha, Yamemasu",
+    "link": "https://animefire.plus/animes/yuusha-yamemasu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yuusha-yamemasu",
+    "rating": "7.00",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yuusha-yamemasu/1",
+      "anime_id": 4324,
+      "anime_name": "Yuusha, Yamemasu"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yuusha-yamemasu/2",
+      "anime_id": 4324,
+      "anime_name": "Yuusha, Yamemasu"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/yuusha-yamemasu/3",
+      "anime_id": 4324,
+      "anime_name": "Yuusha, Yamemasu"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/yuusha-yamemasu/4",
+      "anime_id": 4324,
+      "anime_name": "Yuusha, Yamemasu"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/yuusha-yamemasu/5",
+      "anime_id": 4324,
+      "anime_name": "Yuusha, Yamemasu"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/yuusha-yamemasu/6",
+      "anime_id": 4324,
+      "anime_name": "Yuusha, Yamemasu"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/yuusha-yamemasu/7",
+      "anime_id": 4324,
+      "anime_name": "Yuusha, Yamemasu"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/yuusha-yamemasu/8",
+      "anime_id": 4324,
+      "anime_name": "Yuusha, Yamemasu"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/yuusha-yamemasu/9",
+      "anime_id": 4324,
+      "anime_name": "Yuusha, Yamemasu"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/yuusha-yamemasu/10",
+      "anime_id": 4324,
+      "anime_name": "Yuusha, Yamemasu"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/yuusha-yamemasu/11",
+      "anime_id": 4324,
+      "anime_name": "Yuusha, Yamemasu"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/yuusha-yamemasu/12",
+      "anime_id": 4324,
+      "anime_name": "Yuusha, Yamemasu"
+    }
+  ],
+  "total_episodes": 12
+}

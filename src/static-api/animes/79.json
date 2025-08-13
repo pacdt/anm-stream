@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 79,
+    "nome": "Aho Girl",
+    "link": "https://animefire.plus/animes/aho-girl-todos-os-episodios",
+    "texto_original": "Aho Girl",
+    "rating": 7.14,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/aho-girl.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/aho-girl/",
+    "secao": "legendados",
+    "pagina": 167,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/aho-girl"
+  }
+}

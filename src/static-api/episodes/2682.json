@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Natsu no Arashi!",
+  "anime": {
+    "id": 2682,
+    "nome": "Natsu no Arashi!",
+    "link": "https://animefire.plus/animes/natsu-no-arashi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/natsu-no-arashi",
+    "rating": "7.33",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/natsu-no-arashi/1",
+      "anime_id": 2682,
+      "anime_name": "Natsu no Arashi!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/natsu-no-arashi/2",
+      "anime_id": 2682,
+      "anime_name": "Natsu no Arashi!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/natsu-no-arashi/3",
+      "anime_id": 2682,
+      "anime_name": "Natsu no Arashi!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/natsu-no-arashi/4",
+      "anime_id": 2682,
+      "anime_name": "Natsu no Arashi!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/natsu-no-arashi/5",
+      "anime_id": 2682,
+      "anime_name": "Natsu no Arashi!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/natsu-no-arashi/6",
+      "anime_id": 2682,
+      "anime_name": "Natsu no Arashi!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/natsu-no-arashi/7",
+      "anime_id": 2682,
+      "anime_name": "Natsu no Arashi!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/natsu-no-arashi/8",
+      "anime_id": 2682,
+      "anime_name": "Natsu no Arashi!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/natsu-no-arashi/9",
+      "anime_id": 2682,
+      "anime_name": "Natsu no Arashi!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/natsu-no-arashi/10",
+      "anime_id": 2682,
+      "anime_name": "Natsu no Arashi!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/natsu-no-arashi/11",
+      "anime_id": 2682,
+      "anime_name": "Natsu no Arashi!"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/natsu-no-arashi/12",
+      "anime_id": 2682,
+      "anime_name": "Natsu no Arashi!"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/natsu-no-arashi/13",
+      "anime_id": 2682,
+      "anime_name": "Natsu no Arashi!"
+    }
+  ],
+  "total_episodes": 13
+}

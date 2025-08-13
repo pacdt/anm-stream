@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3545,
+    "nome": "Skull Man",
+    "link": "https://animefire.plus/animes/skull-man-todos-os-episodios",
+    "texto_original": "Skull Man",
+    "rating": 6.71,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/skull-man.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/skull-man/",
+    "secao": "legendados",
+    "pagina": 138,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/skull-man"
+  }
+}

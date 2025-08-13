@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Shingeki! Kyojin Chuugakkou",
+  "anime": {
+    "id": 3451,
+    "nome": "Shingeki! Kyojin Chuugakkou",
+    "link": "https://animefire.plus/animes/shingeki-kyojin-chuugakkou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shingeki-kyojin-chuugakkou",
+    "rating": "7.07",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shingeki-kyojin-chuugakkou/1",
+      "anime_id": 3451,
+      "anime_name": "Shingeki! Kyojin Chuugakkou"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shingeki-kyojin-chuugakkou/2",
+      "anime_id": 3451,
+      "anime_name": "Shingeki! Kyojin Chuugakkou"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/shingeki-kyojin-chuugakkou/3",
+      "anime_id": 3451,
+      "anime_name": "Shingeki! Kyojin Chuugakkou"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/shingeki-kyojin-chuugakkou/4",
+      "anime_id": 3451,
+      "anime_name": "Shingeki! Kyojin Chuugakkou"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/shingeki-kyojin-chuugakkou/5",
+      "anime_id": 3451,
+      "anime_name": "Shingeki! Kyojin Chuugakkou"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/shingeki-kyojin-chuugakkou/6",
+      "anime_id": 3451,
+      "anime_name": "Shingeki! Kyojin Chuugakkou"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/shingeki-kyojin-chuugakkou/7",
+      "anime_id": 3451,
+      "anime_name": "Shingeki! Kyojin Chuugakkou"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/shingeki-kyojin-chuugakkou/8",
+      "anime_id": 3451,
+      "anime_name": "Shingeki! Kyojin Chuugakkou"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/shingeki-kyojin-chuugakkou/9",
+      "anime_id": 3451,
+      "anime_name": "Shingeki! Kyojin Chuugakkou"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/shingeki-kyojin-chuugakkou/10",
+      "anime_id": 3451,
+      "anime_name": "Shingeki! Kyojin Chuugakkou"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/shingeki-kyojin-chuugakkou/11",
+      "anime_id": 3451,
+      "anime_name": "Shingeki! Kyojin Chuugakkou"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/shingeki-kyojin-chuugakkou/12",
+      "anime_id": 3451,
+      "anime_name": "Shingeki! Kyojin Chuugakkou"
+    }
+  ],
+  "total_episodes": 12
+}

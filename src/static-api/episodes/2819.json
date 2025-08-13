@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Okusama wa Mahou Shoujo",
+  "anime": {
+    "id": 2819,
+    "nome": "Okusama wa Mahou Shoujo",
+    "link": "https://animefire.plus/animes/okusama-wa-mahou-shoujo-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/okusama-wa-mahou-shoujo",
+    "rating": "6.36",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/okusama-wa-mahou-shoujo/1",
+      "anime_id": 2819,
+      "anime_name": "Okusama wa Mahou Shoujo"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/okusama-wa-mahou-shoujo/2",
+      "anime_id": 2819,
+      "anime_name": "Okusama wa Mahou Shoujo"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/okusama-wa-mahou-shoujo/3",
+      "anime_id": 2819,
+      "anime_name": "Okusama wa Mahou Shoujo"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/okusama-wa-mahou-shoujo/4",
+      "anime_id": 2819,
+      "anime_name": "Okusama wa Mahou Shoujo"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/okusama-wa-mahou-shoujo/5",
+      "anime_id": 2819,
+      "anime_name": "Okusama wa Mahou Shoujo"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/okusama-wa-mahou-shoujo/6",
+      "anime_id": 2819,
+      "anime_name": "Okusama wa Mahou Shoujo"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/okusama-wa-mahou-shoujo/7",
+      "anime_id": 2819,
+      "anime_name": "Okusama wa Mahou Shoujo"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/okusama-wa-mahou-shoujo/8",
+      "anime_id": 2819,
+      "anime_name": "Okusama wa Mahou Shoujo"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/okusama-wa-mahou-shoujo/9",
+      "anime_id": 2819,
+      "anime_name": "Okusama wa Mahou Shoujo"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/okusama-wa-mahou-shoujo/10",
+      "anime_id": 2819,
+      "anime_name": "Okusama wa Mahou Shoujo"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/okusama-wa-mahou-shoujo/11",
+      "anime_id": 2819,
+      "anime_name": "Okusama wa Mahou Shoujo"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/okusama-wa-mahou-shoujo/12",
+      "anime_id": 2819,
+      "anime_name": "Okusama wa Mahou Shoujo"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/okusama-wa-mahou-shoujo/13",
+      "anime_id": 2819,
+      "anime_name": "Okusama wa Mahou Shoujo"
+    }
+  ],
+  "total_episodes": 13
+}

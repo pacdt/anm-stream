@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Akuma-kun (ONA) (Dublado)",
+  "anime": {
+    "id": 133,
+    "nome": "Akuma-kun (ONA) (Dublado)",
+    "link": "https://animefire.plus/animes/akuma-kun-ona-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/akuma-kun-ona-dublado",
+    "rating": "6.70",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/akuma-kun-ona-dublado/1",
+      "anime_id": 133,
+      "anime_name": "Akuma-kun (ONA) (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/akuma-kun-ona-dublado/2",
+      "anime_id": 133,
+      "anime_name": "Akuma-kun (ONA) (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/akuma-kun-ona-dublado/3",
+      "anime_id": 133,
+      "anime_name": "Akuma-kun (ONA) (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/akuma-kun-ona-dublado/4",
+      "anime_id": 133,
+      "anime_name": "Akuma-kun (ONA) (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/akuma-kun-ona-dublado/5",
+      "anime_id": 133,
+      "anime_name": "Akuma-kun (ONA) (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/akuma-kun-ona-dublado/6",
+      "anime_id": 133,
+      "anime_name": "Akuma-kun (ONA) (Dublado)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/akuma-kun-ona-dublado/7",
+      "anime_id": 133,
+      "anime_name": "Akuma-kun (ONA) (Dublado)"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/akuma-kun-ona-dublado/8",
+      "anime_id": 133,
+      "anime_name": "Akuma-kun (ONA) (Dublado)"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/akuma-kun-ona-dublado/9",
+      "anime_id": 133,
+      "anime_name": "Akuma-kun (ONA) (Dublado)"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/akuma-kun-ona-dublado/10",
+      "anime_id": 133,
+      "anime_name": "Akuma-kun (ONA) (Dublado)"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/akuma-kun-ona-dublado/11",
+      "anime_id": 133,
+      "anime_name": "Akuma-kun (ONA) (Dublado)"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/akuma-kun-ona-dublado/12",
+      "anime_id": 133,
+      "anime_name": "Akuma-kun (ONA) (Dublado)"
+    }
+  ],
+  "total_episodes": 12
+}

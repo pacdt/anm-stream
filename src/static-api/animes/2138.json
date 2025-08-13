@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2138,
+    "nome": "Kuragehime",
+    "link": "https://animefire.plus/animes/kuragehime-todos-os-episodios",
+    "texto_original": "Kuragehime",
+    "rating": 8.19,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kuragehime.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kuragehime/",
+    "secao": "legendados",
+    "pagina": 141,
+    "total_episodios": 8,
+    "link_video": "https://animefire.plus/video/kuragehime"
+  }
+}

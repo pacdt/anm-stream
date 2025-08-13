@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3349,
+    "nome": "Senpai wa Otokonoko",
+    "link": "https://animefire.plus/animes/senpai-wa-otokonoko-todos-os-episodios",
+    "texto_original": "Senpai wa Otokonoko",
+    "rating": 7.3,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/senpai-wa-otokonoko.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/senpai-wa-otokonoko/",
+    "secao": "legendados",
+    "pagina": 12,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/senpai-wa-otokonoko"
+  }
+}

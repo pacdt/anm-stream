@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 20,
+    "nome": "16bit Sensation: Another Layer",
+    "link": "https://animefire.plus/animes/16bit-sensation-another-layer-todos-os-episodios",
+    "texto_original": "16bit Sensation: Another Layer",
+    "rating": 6.89,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/16bit-sensation-another-layer.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/16bit-sensation-another-layer/",
+    "secao": "legendados",
+    "pagina": 20,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/16bit-sensation-another-layer"
+  }
+}

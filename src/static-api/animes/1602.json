@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1602,
+    "nome": "Ikebukuro West Gate Park",
+    "link": "https://animefire.plus/animes/ikebukuro-west-gate-park-todos-os-episodios",
+    "texto_original": "Ikebukuro West Gate Park",
+    "rating": null,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ikebukuro-west-gate-park.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ikebukuro-west-gate-park/",
+    "secao": "legendados",
+    "pagina": 52,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/ikebukuro-west-gate-park"
+  }
+}

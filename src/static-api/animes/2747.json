@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2747,
+    "nome": "Nisekoi",
+    "link": "https://animefire.plus/animes/nisekoi-todos-os-episodios",
+    "texto_original": "Nisekoi",
+    "rating": 7.71,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/nisekoi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/nisekoi/",
+    "secao": "legendados",
+    "pagina": 79,
+    "total_episodios": 20,
+    "link_video": "https://animefire.plus/video/nisekoi"
+  }
+}

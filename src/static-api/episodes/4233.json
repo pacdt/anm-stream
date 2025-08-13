@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Yesterday Wo Utatte",
+  "anime": {
+    "id": 4233,
+    "nome": "Yesterday Wo Utatte",
+    "link": "https://animefire.plus/animes/yesterday-wo-utatte-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yesterday-wo-utatte",
+    "rating": "7.01",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yesterday-wo-utatte/1",
+      "anime_id": 4233,
+      "anime_name": "Yesterday Wo Utatte"
+    }
+  ],
+  "total_episodes": 1
+}

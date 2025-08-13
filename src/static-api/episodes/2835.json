@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: One Piece: Heart of Gold",
+  "anime": {
+    "id": 2835,
+    "nome": "One Piece: Heart of Gold",
+    "link": "https://animefire.plus/animes/one-piece-heart-of-gold-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/one-piece-heart-of-gold",
+    "rating": "7.58",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/one-piece-heart-of-gold/1",
+      "anime_id": 2835,
+      "anime_name": "One Piece: Heart of Gold"
+    }
+  ],
+  "total_episodes": 1
+}

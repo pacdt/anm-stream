@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3995,
+    "nome": "Uchuu no Senshi",
+    "link": "https://animefire.plus/animes/uchuu-no-senshi-todos-os-episodios",
+    "texto_original": "Uchuu no Senshi",
+    "rating": 6.21,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/uchuu-no-senshi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/uchuu-no-senshi/",
+    "secao": "legendados",
+    "pagina": 55,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/uchuu-no-senshi"
+  }
+}

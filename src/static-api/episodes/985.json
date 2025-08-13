@@ -1,0 +1,74 @@
+{
+  "message": "Lista de episódios do anime: Fate/Extra: Last Encore (Dublado)",
+  "anime": {
+    "id": 985,
+    "nome": "Fate/Extra: Last Encore (Dublado)",
+    "link": "https://animefire.plus/animes/fate-extra-last-encore-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/fate-extra-last-encore-dublado",
+    "rating": "6.38",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/fate-extra-last-encore-dublado/1",
+      "anime_id": 985,
+      "anime_name": "Fate/Extra: Last Encore (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/fate-extra-last-encore-dublado/2",
+      "anime_id": 985,
+      "anime_name": "Fate/Extra: Last Encore (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/fate-extra-last-encore-dublado/3",
+      "anime_id": 985,
+      "anime_name": "Fate/Extra: Last Encore (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/fate-extra-last-encore-dublado/4",
+      "anime_id": 985,
+      "anime_name": "Fate/Extra: Last Encore (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/fate-extra-last-encore-dublado/5",
+      "anime_id": 985,
+      "anime_name": "Fate/Extra: Last Encore (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/fate-extra-last-encore-dublado/6",
+      "anime_id": 985,
+      "anime_name": "Fate/Extra: Last Encore (Dublado)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/fate-extra-last-encore-dublado/7",
+      "anime_id": 985,
+      "anime_name": "Fate/Extra: Last Encore (Dublado)"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/fate-extra-last-encore-dublado/8",
+      "anime_id": 985,
+      "anime_name": "Fate/Extra: Last Encore (Dublado)"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/fate-extra-last-encore-dublado/9",
+      "anime_id": 985,
+      "anime_name": "Fate/Extra: Last Encore (Dublado)"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/fate-extra-last-encore-dublado/10",
+      "anime_id": 985,
+      "anime_name": "Fate/Extra: Last Encore (Dublado)"
+    }
+  ],
+  "total_episodes": 10
+}

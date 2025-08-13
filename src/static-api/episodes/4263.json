@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+  "anime": {
+    "id": 4263,
+    "nome": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+    "link": "https://animefire.plus/animes/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season",
+    "rating": "7.95",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season/1",
+      "anime_id": 4263,
+      "anime_name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season/2",
+      "anime_id": 4263,
+      "anime_name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season/3",
+      "anime_id": 4263,
+      "anime_name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-3rd-season/4",
+      "anime_id": 4263,
+      "anime_name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season"
+    }
+  ],
+  "total_episodes": 4
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Katte ni Shirokuma",
+  "anime": {
+    "id": 1913,
+    "nome": "Katte ni Shirokuma",
+    "link": "https://animefire.plus/animes/katte-ni-shirokuma-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/katte-ni-shirokuma",
+    "rating": "5.64",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/katte-ni-shirokuma/1",
+      "anime_id": 1913,
+      "anime_name": "Katte ni Shirokuma"
+    }
+  ],
+  "total_episodes": 1
+}

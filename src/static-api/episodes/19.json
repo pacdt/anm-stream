@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: 12-sai.: Chicchana Mune no Tokimeki 2nd Season",
+  "anime": {
+    "id": 19,
+    "nome": "12-sai.: Chicchana Mune no Tokimeki 2nd Season",
+    "link": "https://animefire.plus/animes/12-sai-chicchana-mune-no-tokimeki-2nd-season-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/12-sai-chicchana-mune-no-tokimeki-2nd-season",
+    "rating": "6.77",
+    "classificacao_etaria": "A10"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/12-sai-chicchana-mune-no-tokimeki-2nd-season/1",
+      "anime_id": 19,
+      "anime_name": "12-sai.: Chicchana Mune no Tokimeki 2nd Season"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/12-sai-chicchana-mune-no-tokimeki-2nd-season/2",
+      "anime_id": 19,
+      "anime_name": "12-sai.: Chicchana Mune no Tokimeki 2nd Season"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/12-sai-chicchana-mune-no-tokimeki-2nd-season/3",
+      "anime_id": 19,
+      "anime_name": "12-sai.: Chicchana Mune no Tokimeki 2nd Season"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/12-sai-chicchana-mune-no-tokimeki-2nd-season/4",
+      "anime_id": 19,
+      "anime_name": "12-sai.: Chicchana Mune no Tokimeki 2nd Season"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/12-sai-chicchana-mune-no-tokimeki-2nd-season/5",
+      "anime_id": 19,
+      "anime_name": "12-sai.: Chicchana Mune no Tokimeki 2nd Season"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/12-sai-chicchana-mune-no-tokimeki-2nd-season/6",
+      "anime_id": 19,
+      "anime_name": "12-sai.: Chicchana Mune no Tokimeki 2nd Season"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/12-sai-chicchana-mune-no-tokimeki-2nd-season/7",
+      "anime_id": 19,
+      "anime_name": "12-sai.: Chicchana Mune no Tokimeki 2nd Season"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/12-sai-chicchana-mune-no-tokimeki-2nd-season/8",
+      "anime_id": 19,
+      "anime_name": "12-sai.: Chicchana Mune no Tokimeki 2nd Season"
+    }
+  ],
+  "total_episodes": 8
+}

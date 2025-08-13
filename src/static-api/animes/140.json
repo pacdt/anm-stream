@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 140,
+    "nome": "Alice in Deadly School",
+    "link": "https://animefire.plus/animes/alice-in-deadly-school-todos-os-episodios",
+    "texto_original": "Alice in Deadly School",
+    "rating": 5.18,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/alice-in-deadly-school.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/alice-in-deadly-school/",
+    "secao": "legendados",
+    "pagina": 46,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/alice-in-deadly-school"
+  }
+}

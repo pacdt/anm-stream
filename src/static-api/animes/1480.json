@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1480,
+    "nome": "Hikaru no Go (Dublado)",
+    "link": "https://animefire.plus/animes/hikaru-no-go-dublado-todos-os-episodios",
+    "texto_original": "Hikaru no Go (Dublado)",
+    "rating": 8.07,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hikaru-no-go.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hikaru-no-go/",
+    "secao": "dublados",
+    "pagina": 3,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/hikaru-no-go-dublado"
+  }
+}

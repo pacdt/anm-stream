@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1278,
+    "nome": "Gundam Build Fighters",
+    "link": "https://animefire.plus/animes/gundam-build-fighters-todos-os-episodios",
+    "texto_original": "Gundam Build Fighters",
+    "rating": 7.89,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/gundam-build-fighters.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gundam-build-fighters/",
+    "secao": "legendados",
+    "pagina": 122,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/gundam-build-fighters"
+  }
+}

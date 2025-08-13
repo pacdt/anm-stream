@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Yumeria",
+  "anime": {
+    "id": 4294,
+    "nome": "Yumeria",
+    "link": "https://animefire.plus/animes/yumeria-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yumeria",
+    "rating": "6.19",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yumeria/1",
+      "anime_id": 4294,
+      "anime_name": "Yumeria"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yumeria/2",
+      "anime_id": 4294,
+      "anime_name": "Yumeria"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/yumeria/3",
+      "anime_id": 4294,
+      "anime_name": "Yumeria"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/yumeria/4",
+      "anime_id": 4294,
+      "anime_name": "Yumeria"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/yumeria/5",
+      "anime_id": 4294,
+      "anime_name": "Yumeria"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/yumeria/6",
+      "anime_id": 4294,
+      "anime_name": "Yumeria"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/yumeria/7",
+      "anime_id": 4294,
+      "anime_name": "Yumeria"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/yumeria/8",
+      "anime_id": 4294,
+      "anime_name": "Yumeria"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/yumeria/9",
+      "anime_id": 4294,
+      "anime_name": "Yumeria"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/yumeria/10",
+      "anime_id": 4294,
+      "anime_name": "Yumeria"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/yumeria/11",
+      "anime_id": 4294,
+      "anime_name": "Yumeria"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/yumeria/12",
+      "anime_id": 4294,
+      "anime_name": "Yumeria"
+    }
+  ],
+  "total_episodes": 12
+}

@@ -1,0 +1,77 @@
+{
+  "message": "5 animes aleatórios",
+  "data": [
+    {
+      "id": 601,
+      "nome": "Chiba Pedal: Yowamushi Pedal to Manabu Jitensha Koutsuu Anzen",
+      "link": "https://animefire.plus/animes/chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuu-anzen-todos-os-episodios",
+      "texto_original": "Chiba Pedal: Yowamushi Pedal to Manabu Jitensha Koutsuu Anzen",
+      "rating": 6.31,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuu-anzen.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuu-anzen/",
+      "secao": "legendados",
+      "pagina": 86,
+      "total_episodios": 6,
+      "link_video": "https://animefire.plus/video/chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuu-anzen"
+    },
+    {
+      "id": 556,
+      "nome": "Captain Earth",
+      "link": "https://animefire.plus/animes/captain-earth-todos-os-episodios",
+      "texto_original": "Captain Earth",
+      "rating": 6.46,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/captain-earth.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/captain-earth/",
+      "secao": "legendados",
+      "pagina": 124,
+      "total_episodios": 25,
+      "link_video": "https://animefire.plus/video/captain-earth"
+    },
+    {
+      "id": 115,
+      "nome": "Akame ga Kill!: AkaKill! Gekijou",
+      "link": "https://animefire.plus/animes/akame-ga-kill-akakill-gekijou-todos-os-episodios",
+      "texto_original": "Akame ga Kill!: AkaKill! Gekijou",
+      "rating": 6.62,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/akame-ga-kill-akakill-gekijou.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/akame-ga-kill-akakill-gekijou/",
+      "secao": "legendados",
+      "pagina": 89,
+      "total_episodios": 24,
+      "link_video": "https://animefire.plus/video/akame-ga-kill-akakill-gekijou"
+    },
+    {
+      "id": 252,
+      "nome": "Aru Tabibito no Nikki Specials",
+      "link": "https://animefire.plus/animes/aru-tabibito-no-nikki-specials-todos-os-episodios",
+      "texto_original": "Aru Tabibito no Nikki Specials",
+      "rating": 6.41,
+      "classificacao_etaria": null,
+      "imagem_original": "https://animefire.plus/img/animes/aru-tabibito-no-nikki-specials.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/aru-tabibito-no-nikki-specials/",
+      "secao": "legendados",
+      "pagina": 72,
+      "total_episodios": 3,
+      "link_video": "https://animefire.plus/video/aru-tabibito-no-nikki-specials"
+    },
+    {
+      "id": 106,
+      "nome": "Ajin 2nd Season",
+      "link": "https://animefire.plus/animes/ajin-2nd-season-todos-os-episodios",
+      "texto_original": "Ajin 2nd Season",
+      "rating": 7.82,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/ajin-2nd-season.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/ajin-2nd-season/",
+      "secao": "legendados",
+      "pagina": 136,
+      "total_episodios": 13,
+      "link_video": "https://animefire.plus/video/ajin-2nd-season"
+    }
+  ],
+  "total": 5,
+  "version": 4
+}

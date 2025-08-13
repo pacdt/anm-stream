@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3119,
+    "nome": "Rewrite",
+    "link": "https://animefire.plus/animes/rewrite-todos-os-episodios",
+    "texto_original": "Rewrite",
+    "rating": 6.74,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/rewrite.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/rewrite/",
+    "secao": "legendados",
+    "pagina": 64,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/rewrite"
+  }
+}

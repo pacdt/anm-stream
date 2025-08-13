@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Kishuku Gakkou no Juliet",
+  "anime": {
+    "id": 2023,
+    "nome": "Kishuku Gakkou no Juliet",
+    "link": "https://animefire.plus/animes/kishuku-gakkou-no-juliet-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kishuku-gakkou-no-juliet",
+    "rating": "7.61",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kishuku-gakkou-no-juliet/1",
+      "anime_id": 2023,
+      "anime_name": "Kishuku Gakkou no Juliet"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kishuku-gakkou-no-juliet/2",
+      "anime_id": 2023,
+      "anime_name": "Kishuku Gakkou no Juliet"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kishuku-gakkou-no-juliet/3",
+      "anime_id": 2023,
+      "anime_name": "Kishuku Gakkou no Juliet"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kishuku-gakkou-no-juliet/4",
+      "anime_id": 2023,
+      "anime_name": "Kishuku Gakkou no Juliet"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kishuku-gakkou-no-juliet/5",
+      "anime_id": 2023,
+      "anime_name": "Kishuku Gakkou no Juliet"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kishuku-gakkou-no-juliet/6",
+      "anime_id": 2023,
+      "anime_name": "Kishuku Gakkou no Juliet"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/kishuku-gakkou-no-juliet/7",
+      "anime_id": 2023,
+      "anime_name": "Kishuku Gakkou no Juliet"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/kishuku-gakkou-no-juliet/8",
+      "anime_id": 2023,
+      "anime_name": "Kishuku Gakkou no Juliet"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/kishuku-gakkou-no-juliet/9",
+      "anime_id": 2023,
+      "anime_name": "Kishuku Gakkou no Juliet"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/kishuku-gakkou-no-juliet/10",
+      "anime_id": 2023,
+      "anime_name": "Kishuku Gakkou no Juliet"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/kishuku-gakkou-no-juliet/11",
+      "anime_id": 2023,
+      "anime_name": "Kishuku Gakkou no Juliet"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/kishuku-gakkou-no-juliet/12",
+      "anime_id": 2023,
+      "anime_name": "Kishuku Gakkou no Juliet"
+    }
+  ],
+  "total_episodes": 12
+}

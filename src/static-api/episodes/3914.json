@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Tonikaku Kawaii: Seifuku (Dublado)",
+  "anime": {
+    "id": 3914,
+    "nome": "Tonikaku Kawaii: Seifuku (Dublado)",
+    "link": "https://animefire.plus/animes/tonikaku-kawaii-seifuku-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tonikaku-kawaii-seifuku-dublado",
+    "rating": "7.72",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tonikaku-kawaii-seifuku-dublado/1",
+      "anime_id": 3914,
+      "anime_name": "Tonikaku Kawaii: Seifuku (Dublado)"
+    }
+  ],
+  "total_episodes": 1
+}

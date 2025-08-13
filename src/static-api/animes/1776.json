@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1776,
+    "nome": "K: Return Of Kings",
+    "link": "https://animefire.plus/animes/k-return-of-kings-todos-os-episodios",
+    "texto_original": "K: Return Of Kings",
+    "rating": 7.74,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/k-return-of-kings.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/k-return-of-kings/",
+    "secao": "legendados",
+    "pagina": 107,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/k-return-of-kings"
+  }
+}

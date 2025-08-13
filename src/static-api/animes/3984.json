@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3984,
+    "nome": "Übel Blatt",
+    "link": "https://animefire.plus/animes/uebel-blatt-todos-os-episodios",
+    "texto_original": "Übel Blatt",
+    "rating": 6.3,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/uebel-blatt.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/uebel-blatt/",
+    "secao": "legendados",
+    "pagina": 8,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/uebel-blatt"
+  }
+}

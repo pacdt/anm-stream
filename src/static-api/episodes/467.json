@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Boku to Roboko",
+  "anime": {
+    "id": 467,
+    "nome": "Boku to Roboko",
+    "link": "https://animefire.plus/animes/boku-to-roboko-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/boku-to-roboko",
+    "rating": "6.83",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/boku-to-roboko/1",
+      "anime_id": 467,
+      "anime_name": "Boku to Roboko"
+    }
+  ],
+  "total_episodes": 1
+}

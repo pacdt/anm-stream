@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Busou Shinki",
+  "anime": {
+    "id": 535,
+    "nome": "Busou Shinki",
+    "link": "https://animefire.plus/animes/busou-shinki-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/busou-shinki",
+    "rating": "6.36",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/busou-shinki/1",
+      "anime_id": 535,
+      "anime_name": "Busou Shinki"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/busou-shinki/2",
+      "anime_id": 535,
+      "anime_name": "Busou Shinki"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/busou-shinki/3",
+      "anime_id": 535,
+      "anime_name": "Busou Shinki"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/busou-shinki/4",
+      "anime_id": 535,
+      "anime_name": "Busou Shinki"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/busou-shinki/5",
+      "anime_id": 535,
+      "anime_name": "Busou Shinki"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/busou-shinki/6",
+      "anime_id": 535,
+      "anime_name": "Busou Shinki"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/busou-shinki/7",
+      "anime_id": 535,
+      "anime_name": "Busou Shinki"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/busou-shinki/8",
+      "anime_id": 535,
+      "anime_name": "Busou Shinki"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/busou-shinki/9",
+      "anime_id": 535,
+      "anime_name": "Busou Shinki"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/busou-shinki/10",
+      "anime_id": 535,
+      "anime_name": "Busou Shinki"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/busou-shinki/11",
+      "anime_id": 535,
+      "anime_name": "Busou Shinki"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/busou-shinki/12",
+      "anime_id": 535,
+      "anime_name": "Busou Shinki"
+    }
+  ],
+  "total_episodes": 12
+}

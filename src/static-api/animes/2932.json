@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2932,
+    "nome": "Over Drive",
+    "link": "https://animefire.plus/animes/over-drive-todos-os-episodios",
+    "texto_original": "Over Drive",
+    "rating": 7.66,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/over-drive.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/over-drive/",
+    "secao": "legendados",
+    "pagina": 159,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/over-drive"
+  }
+}

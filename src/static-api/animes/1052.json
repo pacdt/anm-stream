@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1052,
+    "nome": "Fune wo Amu",
+    "link": "https://animefire.plus/animes/fune-wo-amu-todos-os-episodios",
+    "texto_original": "Fune wo Amu",
+    "rating": 7.68,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/fune-wo-amu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/fune-wo-amu/",
+    "secao": "legendados",
+    "pagina": 133,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/fune-wo-amu"
+  }
+}

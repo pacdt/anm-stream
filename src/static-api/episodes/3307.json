@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Seisenshi Dunbine OVA",
+  "anime": {
+    "id": 3307,
+    "nome": "Seisenshi Dunbine OVA",
+    "link": "https://animefire.plus/animes/seisenshi-dunbine-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/seisenshi-dunbine-ova",
+    "rating": "5.80",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/seisenshi-dunbine-ova/1",
+      "anime_id": 3307,
+      "anime_name": "Seisenshi Dunbine OVA"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/seisenshi-dunbine-ova/2",
+      "anime_id": 3307,
+      "anime_name": "Seisenshi Dunbine OVA"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/seisenshi-dunbine-ova/3",
+      "anime_id": 3307,
+      "anime_name": "Seisenshi Dunbine OVA"
+    }
+  ],
+  "total_episodes": 3
+}

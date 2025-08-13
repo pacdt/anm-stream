@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3506,
+    "nome": "Shounen Onmyouji",
+    "link": "https://animefire.plus/animes/shounen-onmyouji-todos-os-episodios",
+    "texto_original": "Shounen Onmyouji",
+    "rating": 7.65,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/shounen-onmyouji.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shounen-onmyouji/",
+    "secao": "legendados",
+    "pagina": 122,
+    "total_episodios": 21,
+    "link_video": "https://animefire.plus/video/shounen-onmyouji"
+  }
+}

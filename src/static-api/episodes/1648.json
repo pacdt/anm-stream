@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Iron Virgin Jun",
+  "anime": {
+    "id": 1648,
+    "nome": "Iron Virgin Jun",
+    "link": "https://animefire.plus/animes/iron-virgin-jun-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/iron-virgin-jun",
+    "rating": "4.58",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/iron-virgin-jun/1",
+      "anime_id": 1648,
+      "anime_name": "Iron Virgin Jun"
+    }
+  ],
+  "total_episodes": 1
+}

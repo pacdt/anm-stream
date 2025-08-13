@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 112,
+    "nome": "Akai Hayate",
+    "link": "https://animefire.plus/animes/akai-hayate-todos-os-episodios",
+    "texto_original": "Akai Hayate",
+    "rating": 5.48,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/akai-hayate.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/akai-hayate/",
+    "secao": "legendados",
+    "pagina": 76,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/akai-hayate"
+  }
+}

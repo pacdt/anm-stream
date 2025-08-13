@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4364,
+    "nome": "Zombieland Saga",
+    "link": "https://animefire.plus/animes/zombieland-saga-todos-os-episodios",
+    "texto_original": "Zombieland Saga",
+    "rating": 7.69,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/zombieland-saga.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/zombieland-saga/",
+    "secao": "legendados",
+    "pagina": 139,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/zombieland-saga"
+  }
+}

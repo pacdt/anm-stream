@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Tensei shitara Slime Datta Ken: Kanwa - Veldora Nikki (Dublado)",
+  "anime": {
+    "id": 3806,
+    "nome": "Tensei shitara Slime Datta Ken: Kanwa - Veldora Nikki (Dublado)",
+    "link": "https://animefire.plus/animes/tensei-shitara-slime-datta-ken-kanwa---veldora-nikki-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tensei-shitara-slime-datta-ken-kanwa---veldora-nikki-dublado",
+    "rating": "6.57",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tensei-shitara-slime-datta-ken-kanwa---veldora-nikki-dublado/1",
+      "anime_id": 3806,
+      "anime_name": "Tensei shitara Slime Datta Ken: Kanwa - Veldora Nikki (Dublado)"
+    }
+  ],
+  "total_episodes": 1
+}

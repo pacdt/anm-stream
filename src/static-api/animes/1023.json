@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1023,
+    "nome": "Free! (Dublado)",
+    "link": "https://animefire.plus/animes/free-dublado-todos-os-episodios",
+    "texto_original": "Free! (Dublado)",
+    "rating": 7.48,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/free.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/free/",
+    "secao": "dublados,legendados",
+    "pagina": 24,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/free-dublado"
+  }
+}

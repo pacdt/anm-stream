@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: DearS: Kin no Tama Desu no?",
+  "anime": {
+    "id": 773,
+    "nome": "DearS: Kin no Tama Desu no?",
+    "link": "https://animefire.plus/animes/dears-kin-no-tama-desu-no-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/dears-kin-no-tama-desu-no",
+    "rating": "6.83",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/dears-kin-no-tama-desu-no/1",
+      "anime_id": 773,
+      "anime_name": "DearS: Kin no Tama Desu no?"
+    }
+  ],
+  "total_episodes": 1
+}

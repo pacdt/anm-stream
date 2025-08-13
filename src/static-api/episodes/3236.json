@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Sakura Trick",
+  "anime": {
+    "id": 3236,
+    "nome": "Sakura Trick",
+    "link": "https://animefire.plus/animes/sakura-trick-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sakura-trick",
+    "rating": "7.12",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sakura-trick/1",
+      "anime_id": 3236,
+      "anime_name": "Sakura Trick"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/sakura-trick/2",
+      "anime_id": 3236,
+      "anime_name": "Sakura Trick"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/sakura-trick/3",
+      "anime_id": 3236,
+      "anime_name": "Sakura Trick"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/sakura-trick/4",
+      "anime_id": 3236,
+      "anime_name": "Sakura Trick"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/sakura-trick/5",
+      "anime_id": 3236,
+      "anime_name": "Sakura Trick"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/sakura-trick/6",
+      "anime_id": 3236,
+      "anime_name": "Sakura Trick"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/sakura-trick/7",
+      "anime_id": 3236,
+      "anime_name": "Sakura Trick"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/sakura-trick/8",
+      "anime_id": 3236,
+      "anime_name": "Sakura Trick"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/sakura-trick/9",
+      "anime_id": 3236,
+      "anime_name": "Sakura Trick"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/sakura-trick/10",
+      "anime_id": 3236,
+      "anime_name": "Sakura Trick"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/sakura-trick/11",
+      "anime_id": 3236,
+      "anime_name": "Sakura Trick"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/sakura-trick/12",
+      "anime_id": 3236,
+      "anime_name": "Sakura Trick"
+    }
+  ],
+  "total_episodes": 12
+}

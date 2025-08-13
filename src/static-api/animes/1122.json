@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1122,
+    "nome": "Gekidol",
+    "link": "https://animefire.plus/animes/gekidol-todos-os-episodios",
+    "texto_original": "Gekidol",
+    "rating": 5.5,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/gekidol.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gekidol/",
+    "secao": "legendados",
+    "pagina": 48,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/gekidol"
+  }
+}

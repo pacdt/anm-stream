@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Zan Sayonara Zetsubou Sensei",
+  "anime": {
+    "id": 4331,
+    "nome": "Zan Sayonara Zetsubou Sensei",
+    "link": "https://animefire.plus/animes/zan-sayonara-zetsubou-sensei-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/zan-sayonara-zetsubou-sensei",
+    "rating": "7.95",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/zan-sayonara-zetsubou-sensei/1",
+      "anime_id": 4331,
+      "anime_name": "Zan Sayonara Zetsubou Sensei"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Cardfight!! Vanguard Gaiden: If",
+  "anime": {
+    "id": 569,
+    "nome": "Cardfight!! Vanguard Gaiden: If",
+    "link": "https://animefire.plus/animes/cardfight-vanguard-gaiden-if-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/cardfight-vanguard-gaiden-if",
+    "rating": "6.41",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/cardfight-vanguard-gaiden-if/1",
+      "anime_id": 569,
+      "anime_name": "Cardfight!! Vanguard Gaiden: If"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/cardfight-vanguard-gaiden-if/2",
+      "anime_id": 569,
+      "anime_name": "Cardfight!! Vanguard Gaiden: If"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/cardfight-vanguard-gaiden-if/3",
+      "anime_id": 569,
+      "anime_name": "Cardfight!! Vanguard Gaiden: If"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/cardfight-vanguard-gaiden-if/4",
+      "anime_id": 569,
+      "anime_name": "Cardfight!! Vanguard Gaiden: If"
+    }
+  ],
+  "total_episodes": 4
+}

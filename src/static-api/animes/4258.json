@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4258,
+    "nome": "Youkai Watch",
+    "link": "https://animefire.plus/animes/youkai-watch-todos-os-episodios",
+    "texto_original": "Youkai Watch",
+    "rating": 7.01,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/youkai-watch.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/youkai-watch/",
+    "secao": "legendados",
+    "pagina": 167,
+    "total_episodios": 46,
+    "link_video": "https://animefire.plus/video/youkai-watch"
+  }
+}

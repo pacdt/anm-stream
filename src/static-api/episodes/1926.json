@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana OVA",
+  "anime": {
+    "id": 1926,
+    "nome": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana OVA",
+    "link": "https://animefire.plus/animes/keishichou-tokumubu-tokushu-kyouakuhan-taisakushitsu-dainanaka-tokunana-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/keishichou-tokumubu-tokushu-kyouakuhan-taisakushitsu-dainanaka-tokunana-ova",
+    "rating": "6.03",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/keishichou-tokumubu-tokushu-kyouakuhan-taisakushitsu-dainanaka-tokunana-ova/1",
+      "anime_id": 1926,
+      "anime_name": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana OVA"
+    }
+  ],
+  "total_episodes": 1
+}

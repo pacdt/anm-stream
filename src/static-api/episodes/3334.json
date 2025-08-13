@@ -1,0 +1,68 @@
+{
+  "message": "Lista de episódios do anime: Sengoku Night Blood",
+  "anime": {
+    "id": 3334,
+    "nome": "Sengoku Night Blood",
+    "link": "https://animefire.plus/animes/sengoku-night-blood-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sengoku-night-blood",
+    "rating": "6.16",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sengoku-night-blood/1",
+      "anime_id": 3334,
+      "anime_name": "Sengoku Night Blood"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/sengoku-night-blood/2",
+      "anime_id": 3334,
+      "anime_name": "Sengoku Night Blood"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/sengoku-night-blood/3",
+      "anime_id": 3334,
+      "anime_name": "Sengoku Night Blood"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/sengoku-night-blood/4",
+      "anime_id": 3334,
+      "anime_name": "Sengoku Night Blood"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/sengoku-night-blood/5",
+      "anime_id": 3334,
+      "anime_name": "Sengoku Night Blood"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/sengoku-night-blood/6",
+      "anime_id": 3334,
+      "anime_name": "Sengoku Night Blood"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/sengoku-night-blood/7",
+      "anime_id": 3334,
+      "anime_name": "Sengoku Night Blood"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/sengoku-night-blood/8",
+      "anime_id": 3334,
+      "anime_name": "Sengoku Night Blood"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/sengoku-night-blood/9",
+      "anime_id": 3334,
+      "anime_name": "Sengoku Night Blood"
+    }
+  ],
+  "total_episodes": 9
+}

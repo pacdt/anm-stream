@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Tattoon Master",
+  "anime": {
+    "id": 3762,
+    "nome": "Tattoon Master",
+    "link": "https://animefire.plus/animes/tattoon-master-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tattoon-master",
+    "rating": "6.16",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tattoon-master/1",
+      "anime_id": 3762,
+      "anime_name": "Tattoon Master"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tattoon-master/2",
+      "anime_id": 3762,
+      "anime_name": "Tattoon Master"
+    }
+  ],
+  "total_episodes": 2
+}

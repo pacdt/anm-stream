@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: Nana",
+  "anime": {
+    "id": 2651,
+    "nome": "Nana",
+    "link": "https://animefire.plus/animes/nana-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nana",
+    "rating": "8.48",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nana/1",
+      "anime_id": 2651,
+      "anime_name": "Nana"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/nana/2",
+      "anime_id": 2651,
+      "anime_name": "Nana"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/nana/3",
+      "anime_id": 2651,
+      "anime_name": "Nana"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/nana/4",
+      "anime_id": 2651,
+      "anime_name": "Nana"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/nana/5",
+      "anime_id": 2651,
+      "anime_name": "Nana"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/nana/6",
+      "anime_id": 2651,
+      "anime_name": "Nana"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/nana/7",
+      "anime_id": 2651,
+      "anime_name": "Nana"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/nana/8",
+      "anime_id": 2651,
+      "anime_name": "Nana"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/nana/9",
+      "anime_id": 2651,
+      "anime_name": "Nana"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/nana/10",
+      "anime_id": 2651,
+      "anime_name": "Nana"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/nana/11",
+      "anime_id": 2651,
+      "anime_name": "Nana"
+    }
+  ],
+  "total_episodes": 11
+}

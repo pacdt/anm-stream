@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Amaenaide yo!! Katsu!!",
+  "anime": {
+    "id": 149,
+    "nome": "Amaenaide yo!! Katsu!!",
+    "link": "https://animefire.plus/animes/amaenaide-yo-katsu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/amaenaide-yo-katsu",
+    "rating": "6.80",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/amaenaide-yo-katsu/1",
+      "anime_id": 149,
+      "anime_name": "Amaenaide yo!! Katsu!!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/amaenaide-yo-katsu/2",
+      "anime_id": 149,
+      "anime_name": "Amaenaide yo!! Katsu!!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/amaenaide-yo-katsu/3",
+      "anime_id": 149,
+      "anime_name": "Amaenaide yo!! Katsu!!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/amaenaide-yo-katsu/4",
+      "anime_id": 149,
+      "anime_name": "Amaenaide yo!! Katsu!!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/amaenaide-yo-katsu/5",
+      "anime_id": 149,
+      "anime_name": "Amaenaide yo!! Katsu!!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/amaenaide-yo-katsu/6",
+      "anime_id": 149,
+      "anime_name": "Amaenaide yo!! Katsu!!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/amaenaide-yo-katsu/7",
+      "anime_id": 149,
+      "anime_name": "Amaenaide yo!! Katsu!!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/amaenaide-yo-katsu/8",
+      "anime_id": 149,
+      "anime_name": "Amaenaide yo!! Katsu!!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/amaenaide-yo-katsu/9",
+      "anime_id": 149,
+      "anime_name": "Amaenaide yo!! Katsu!!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/amaenaide-yo-katsu/10",
+      "anime_id": 149,
+      "anime_name": "Amaenaide yo!! Katsu!!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/amaenaide-yo-katsu/11",
+      "anime_id": 149,
+      "anime_name": "Amaenaide yo!! Katsu!!"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/amaenaide-yo-katsu/12",
+      "anime_id": 149,
+      "anime_name": "Amaenaide yo!! Katsu!!"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/amaenaide-yo-katsu/13",
+      "anime_id": 149,
+      "anime_name": "Amaenaide yo!! Katsu!!"
+    }
+  ],
+  "total_episodes": 13
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2926,
+    "nome": "Ouran Koukou Host Club",
+    "link": "https://animefire.plus/animes/ouran-koukou-host-club-todos-os-episodios",
+    "texto_original": "Ouran Koukou Host Club",
+    "rating": 8.31,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ouran-koukou-host-club.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ouran-koukou-host-club/",
+    "secao": "legendados",
+    "pagina": 116,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/ouran-koukou-host-club"
+  }
+}

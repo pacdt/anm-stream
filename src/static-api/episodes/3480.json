@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Shirogane no Ishi: Argevollen",
+  "anime": {
+    "id": 3480,
+    "nome": "Shirogane no Ishi: Argevollen",
+    "link": "https://animefire.plus/animes/shirogane-no-ishi-argevollen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shirogane-no-ishi-argevollen",
+    "rating": "6.53",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shirogane-no-ishi-argevollen/1",
+      "anime_id": 3480,
+      "anime_name": "Shirogane no Ishi: Argevollen"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shirogane-no-ishi-argevollen/2",
+      "anime_id": 3480,
+      "anime_name": "Shirogane no Ishi: Argevollen"
+    }
+  ],
+  "total_episodes": 2
+}

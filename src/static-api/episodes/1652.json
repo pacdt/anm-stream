@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Isekai Cheat Magician",
+  "anime": {
+    "id": 1652,
+    "nome": "Isekai Cheat Magician",
+    "link": "https://animefire.plus/animes/isekai-cheat-magician-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/isekai-cheat-magician",
+    "rating": "5.38",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/isekai-cheat-magician/1",
+      "anime_id": 1652,
+      "anime_name": "Isekai Cheat Magician"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/isekai-cheat-magician/2",
+      "anime_id": 1652,
+      "anime_name": "Isekai Cheat Magician"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/isekai-cheat-magician/3",
+      "anime_id": 1652,
+      "anime_name": "Isekai Cheat Magician"
+    }
+  ],
+  "total_episodes": 3
+}

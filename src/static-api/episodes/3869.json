@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Toaru Majutsu no Index-tan II",
+  "anime": {
+    "id": 3869,
+    "nome": "Toaru Majutsu no Index-tan II",
+    "link": "https://animefire.plus/animes/toaru-majutsu-no-index-tan-ii-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/toaru-majutsu-no-index-tan-ii",
+    "rating": "6.99",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/toaru-majutsu-no-index-tan-ii/1",
+      "anime_id": 3869,
+      "anime_name": "Toaru Majutsu no Index-tan II"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/toaru-majutsu-no-index-tan-ii/2",
+      "anime_id": 3869,
+      "anime_name": "Toaru Majutsu no Index-tan II"
+    }
+  ],
+  "total_episodes": 2
+}

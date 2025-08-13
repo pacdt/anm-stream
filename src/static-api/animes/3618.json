@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3618,
+    "nome": "SSSS.Dynazenon",
+    "link": "https://animefire.plus/animes/ssss-dynazenon-todos-os-episodios",
+    "texto_original": "SSSS.Dynazenon",
+    "rating": 7.43,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ssss-dynazenon.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ssss-dynazenon/",
+    "secao": "legendados",
+    "pagina": 47,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/ssss-dynazenon"
+  }
+}

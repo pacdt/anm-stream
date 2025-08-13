@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Hinako Note",
+  "anime": {
+    "id": 1492,
+    "nome": "Hinako Note",
+    "link": "https://animefire.plus/animes/hinako-note-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hinako-note",
+    "rating": "6.82",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hinako-note/1",
+      "anime_id": 1492,
+      "anime_name": "Hinako Note"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hinako-note/2",
+      "anime_id": 1492,
+      "anime_name": "Hinako Note"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hinako-note/3",
+      "anime_id": 1492,
+      "anime_name": "Hinako Note"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hinako-note/4",
+      "anime_id": 1492,
+      "anime_name": "Hinako Note"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hinako-note/5",
+      "anime_id": 1492,
+      "anime_name": "Hinako Note"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hinako-note/6",
+      "anime_id": 1492,
+      "anime_name": "Hinako Note"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/hinako-note/7",
+      "anime_id": 1492,
+      "anime_name": "Hinako Note"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/hinako-note/8",
+      "anime_id": 1492,
+      "anime_name": "Hinako Note"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/hinako-note/9",
+      "anime_id": 1492,
+      "anime_name": "Hinako Note"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/hinako-note/10",
+      "anime_id": 1492,
+      "anime_name": "Hinako Note"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/hinako-note/11",
+      "anime_id": 1492,
+      "anime_name": "Hinako Note"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/hinako-note/12",
+      "anime_id": 1492,
+      "anime_name": "Hinako Note"
+    }
+  ],
+  "total_episodes": 12
+}

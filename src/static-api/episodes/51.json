@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Aa! Megami-sama!",
+  "anime": {
+    "id": 51,
+    "nome": "Aa! Megami-sama!",
+    "link": "https://animefire.plus/animes/aa-megami-sama-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/aa-megami-sama",
+    "rating": "7.31",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/aa-megami-sama/1",
+      "anime_id": 51,
+      "anime_name": "Aa! Megami-sama!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/aa-megami-sama/2",
+      "anime_id": 51,
+      "anime_name": "Aa! Megami-sama!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/aa-megami-sama/3",
+      "anime_id": 51,
+      "anime_name": "Aa! Megami-sama!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/aa-megami-sama/4",
+      "anime_id": 51,
+      "anime_name": "Aa! Megami-sama!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/aa-megami-sama/5",
+      "anime_id": 51,
+      "anime_name": "Aa! Megami-sama!"
+    }
+  ],
+  "total_episodes": 5
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Gall Force 3: Stardust War",
+  "anime": {
+    "id": 1098,
+    "nome": "Gall Force 3: Stardust War",
+    "link": "https://animefire.plus/animes/gall-force-3-stardust-war-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gall-force-3-stardust-war",
+    "rating": "6.36",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gall-force-3-stardust-war/1",
+      "anime_id": 1098,
+      "anime_name": "Gall Force 3: Stardust War"
+    }
+  ],
+  "total_episodes": 1
+}

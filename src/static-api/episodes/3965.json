@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Tsurezure Children",
+  "anime": {
+    "id": 3965,
+    "nome": "Tsurezure Children",
+    "link": "https://animefire.plus/animes/tsurezure-children-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tsurezure-children",
+    "rating": "7.76",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tsurezure-children/1",
+      "anime_id": 3965,
+      "anime_name": "Tsurezure Children"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tsurezure-children/2",
+      "anime_id": 3965,
+      "anime_name": "Tsurezure Children"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tsurezure-children/3",
+      "anime_id": 3965,
+      "anime_name": "Tsurezure Children"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tsurezure-children/4",
+      "anime_id": 3965,
+      "anime_name": "Tsurezure Children"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/tsurezure-children/5",
+      "anime_id": 3965,
+      "anime_name": "Tsurezure Children"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/tsurezure-children/6",
+      "anime_id": 3965,
+      "anime_name": "Tsurezure Children"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/tsurezure-children/7",
+      "anime_id": 3965,
+      "anime_name": "Tsurezure Children"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/tsurezure-children/8",
+      "anime_id": 3965,
+      "anime_name": "Tsurezure Children"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/tsurezure-children/9",
+      "anime_id": 3965,
+      "anime_name": "Tsurezure Children"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/tsurezure-children/10",
+      "anime_id": 3965,
+      "anime_name": "Tsurezure Children"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/tsurezure-children/11",
+      "anime_id": 3965,
+      "anime_name": "Tsurezure Children"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/tsurezure-children/12",
+      "anime_id": 3965,
+      "anime_name": "Tsurezure Children"
+    }
+  ],
+  "total_episodes": 12
+}

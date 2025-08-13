@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 556,
+    "nome": "Captain Earth",
+    "link": "https://animefire.plus/animes/captain-earth-todos-os-episodios",
+    "texto_original": "Captain Earth",
+    "rating": 6.46,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/captain-earth.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/captain-earth/",
+    "secao": "legendados",
+    "pagina": 124,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/captain-earth"
+  }
+}

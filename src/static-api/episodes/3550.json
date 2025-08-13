@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Slayers Excellent",
+  "anime": {
+    "id": 3550,
+    "nome": "Slayers Excellent",
+    "link": "https://animefire.plus/animes/slayers-excellent-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/slayers-excellent",
+    "rating": "7.33",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/slayers-excellent/1",
+      "anime_id": 3550,
+      "anime_name": "Slayers Excellent"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/slayers-excellent/2",
+      "anime_id": 3550,
+      "anime_name": "Slayers Excellent"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/slayers-excellent/3",
+      "anime_id": 3550,
+      "anime_name": "Slayers Excellent"
+    }
+  ],
+  "total_episodes": 3
+}

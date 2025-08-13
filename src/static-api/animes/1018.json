@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1018,
+    "nome": "Forest Fairy Five",
+    "link": "https://animefire.plus/animes/forest-fairy-five-todos-os-episodios",
+    "texto_original": "Forest Fairy Five",
+    "rating": 3.26,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/forest-fairy-five.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/forest-fairy-five/",
+    "secao": "legendados",
+    "pagina": 113,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/forest-fairy-five"
+  }
+}

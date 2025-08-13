@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 952,
+    "nome": "Ergo Proxy",
+    "link": "https://animefire.plus/animes/ergo-proxy-todos-os-episodios",
+    "texto_original": "Ergo Proxy",
+    "rating": 7.97,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/ergo-proxy.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ergo-proxy/",
+    "secao": "legendados",
+    "pagina": 172,
+    "total_episodios": 23,
+    "link_video": "https://animefire.plus/video/ergo-proxy"
+  }
+}

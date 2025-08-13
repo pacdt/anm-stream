@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Guraburu!",
+  "anime": {
+    "id": 1293,
+    "nome": "Guraburu!",
+    "link": "https://animefire.plus/animes/guraburu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/guraburu",
+    "rating": "N/A",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/guraburu/1",
+      "anime_id": 1293,
+      "anime_name": "Guraburu!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/guraburu/2",
+      "anime_id": 1293,
+      "anime_name": "Guraburu!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/guraburu/3",
+      "anime_id": 1293,
+      "anime_name": "Guraburu!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/guraburu/4",
+      "anime_id": 1293,
+      "anime_name": "Guraburu!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/guraburu/5",
+      "anime_id": 1293,
+      "anime_name": "Guraburu!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/guraburu/6",
+      "anime_id": 1293,
+      "anime_name": "Guraburu!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/guraburu/7",
+      "anime_id": 1293,
+      "anime_name": "Guraburu!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/guraburu/8",
+      "anime_id": 1293,
+      "anime_name": "Guraburu!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/guraburu/9",
+      "anime_id": 1293,
+      "anime_name": "Guraburu!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/guraburu/10",
+      "anime_id": 1293,
+      "anime_name": "Guraburu!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/guraburu/11",
+      "anime_id": 1293,
+      "anime_name": "Guraburu!"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/guraburu/12",
+      "anime_id": 1293,
+      "anime_name": "Guraburu!"
+    }
+  ],
+  "total_episodes": 12
+}

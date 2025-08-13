@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 547,
+    "nome": "Caligula",
+    "link": "https://animefire.plus/animes/caligula-todos-os-episodios",
+    "texto_original": "Caligula",
+    "rating": 6.17,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/caligula.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/caligula/",
+    "secao": "legendados",
+    "pagina": 117,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/caligula"
+  }
+}

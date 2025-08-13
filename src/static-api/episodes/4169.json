@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Xian Feng Jian Yu Lu",
+  "anime": {
+    "id": 4169,
+    "nome": "Xian Feng Jian Yu Lu",
+    "link": "https://animefire.plus/animes/xian-feng-jian-yu-lu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/xian-feng-jian-yu-lu",
+    "rating": "N/A",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/xian-feng-jian-yu-lu/1",
+      "anime_id": 4169,
+      "anime_name": "Xian Feng Jian Yu Lu"
+    }
+  ],
+  "total_episodes": 1
+}

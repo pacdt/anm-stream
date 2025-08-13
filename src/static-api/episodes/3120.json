@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Rhea Gall Force",
+  "anime": {
+    "id": 3120,
+    "nome": "Rhea Gall Force",
+    "link": "https://animefire.plus/animes/rhea-gall-force-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/rhea-gall-force",
+    "rating": "6.30",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/rhea-gall-force/1",
+      "anime_id": 3120,
+      "anime_name": "Rhea Gall Force"
+    }
+  ],
+  "total_episodes": 1
+}

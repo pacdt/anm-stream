@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2212,
+    "nome": "Legend of Duo",
+    "link": "https://animefire.plus/animes/legend-of-duo-todos-os-episodios",
+    "texto_original": "Legend of Duo",
+    "rating": 5.02,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/legend-of-duo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/legend-of-duo/",
+    "secao": "legendados",
+    "pagina": 176,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/legend-of-duo"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2364,
+    "nome": "Mai-HiME",
+    "link": "https://animefire.plus/animes/mai-hime-todos-os-episodios",
+    "texto_original": "Mai-HiME",
+    "rating": 7.52,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/mai-hime.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mai-hime/",
+    "secao": "legendados",
+    "pagina": 172,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/mai-hime"
+  }
+}

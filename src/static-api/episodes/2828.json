@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: One Piece Film: Strong World Episode 0",
+  "anime": {
+    "id": 2828,
+    "nome": "One Piece Film: Strong World Episode 0",
+    "link": "https://animefire.plus/animes/one-piece-film-strong-world-episode-0-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/one-piece-film-strong-world-episode-0",
+    "rating": "8.04",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/one-piece-film-strong-world-episode-0/1",
+      "anime_id": 2828,
+      "anime_name": "One Piece Film: Strong World Episode 0"
+    }
+  ],
+  "total_episodes": 1
+}

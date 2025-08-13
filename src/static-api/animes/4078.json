@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4078,
+    "nome": "Viewtiful Joe (Dublado)",
+    "link": "https://animefire.plus/animes/viewtiful-joe-dublado-todos-os-episodios",
+    "texto_original": "Viewtiful Joe (Dublado)",
+    "rating": 6.76,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/viewtiful-joe.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/viewtiful-joe/",
+    "secao": "dublados",
+    "pagina": 20,
+    "total_episodios": 51,
+    "link_video": "https://animefire.plus/video/viewtiful-joe-dublado"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 496,
+    "nome": "Brave Story",
+    "link": "https://animefire.plus/animes/brave-story-todos-os-episodios",
+    "texto_original": "Brave Story",
+    "rating": 7.52,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/brave-story.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/brave-story/",
+    "secao": "legendados",
+    "pagina": 161,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/brave-story"
+  }
+}

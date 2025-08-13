@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3390,
+    "nome": "Shelter",
+    "link": "https://animefire.plus/animes/shelter-todos-os-episodios",
+    "texto_original": "Shelter",
+    "rating": 8.41,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/shelter.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shelter/",
+    "secao": "legendados",
+    "pagina": 119,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/shelter"
+  }
+}

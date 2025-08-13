@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Tokyo Ghoul: \"Pinto\" (Dublado)",
+  "anime": {
+    "id": 3884,
+    "nome": "Tokyo Ghoul: \"Pinto\" (Dublado)",
+    "link": "https://animefire.plus/animes/tokyo-ghoul-pinto-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tokyo-ghoul-pinto-dublado",
+    "rating": "7.24",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tokyo-ghoul-pinto-dublado/1",
+      "anime_id": 3884,
+      "anime_name": "Tokyo Ghoul: \"Pinto\" (Dublado)"
+    }
+  ],
+  "total_episodes": 1
+}

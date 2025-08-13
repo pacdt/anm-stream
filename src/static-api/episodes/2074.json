@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Konbini Kareshi",
+  "anime": {
+    "id": 2074,
+    "nome": "Konbini Kareshi",
+    "link": "https://animefire.plus/animes/konbini-kareshi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/konbini-kareshi",
+    "rating": "6.40",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/konbini-kareshi/1",
+      "anime_id": 2074,
+      "anime_name": "Konbini Kareshi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/konbini-kareshi/2",
+      "anime_id": 2074,
+      "anime_name": "Konbini Kareshi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/konbini-kareshi/3",
+      "anime_id": 2074,
+      "anime_name": "Konbini Kareshi"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/konbini-kareshi/4",
+      "anime_id": 2074,
+      "anime_name": "Konbini Kareshi"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/konbini-kareshi/5",
+      "anime_id": 2074,
+      "anime_name": "Konbini Kareshi"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/konbini-kareshi/6",
+      "anime_id": 2074,
+      "anime_name": "Konbini Kareshi"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/konbini-kareshi/7",
+      "anime_id": 2074,
+      "anime_name": "Konbini Kareshi"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/konbini-kareshi/8",
+      "anime_id": 2074,
+      "anime_name": "Konbini Kareshi"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/konbini-kareshi/9",
+      "anime_id": 2074,
+      "anime_name": "Konbini Kareshi"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/konbini-kareshi/10",
+      "anime_id": 2074,
+      "anime_name": "Konbini Kareshi"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/konbini-kareshi/11",
+      "anime_id": 2074,
+      "anime_name": "Konbini Kareshi"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/konbini-kareshi/12",
+      "anime_id": 2074,
+      "anime_name": "Konbini Kareshi"
+    }
+  ],
+  "total_episodes": 12
+}

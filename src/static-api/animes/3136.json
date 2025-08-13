@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3136,
+    "nome": "Rizelmine",
+    "link": "https://animefire.plus/animes/rizelmine-todos-os-episodios",
+    "texto_original": "Rizelmine",
+    "rating": 6.6,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/rizelmine.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/rizelmine/",
+    "secao": "legendados",
+    "pagina": 115,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/rizelmine"
+  }
+}

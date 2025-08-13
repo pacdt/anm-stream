@@ -1,0 +1,68 @@
+{
+  "message": "Lista de episódios do anime: Star Wars: Visions (Dublado)",
+  "anime": {
+    "id": 3623,
+    "nome": "Star Wars: Visions (Dublado)",
+    "link": "https://animefire.plus/animes/star-wars-visions-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/star-wars-visions-dublado",
+    "rating": "7.09",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/star-wars-visions-dublado/1",
+      "anime_id": 3623,
+      "anime_name": "Star Wars: Visions (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/star-wars-visions-dublado/2",
+      "anime_id": 3623,
+      "anime_name": "Star Wars: Visions (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/star-wars-visions-dublado/3",
+      "anime_id": 3623,
+      "anime_name": "Star Wars: Visions (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/star-wars-visions-dublado/4",
+      "anime_id": 3623,
+      "anime_name": "Star Wars: Visions (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/star-wars-visions-dublado/5",
+      "anime_id": 3623,
+      "anime_name": "Star Wars: Visions (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/star-wars-visions-dublado/6",
+      "anime_id": 3623,
+      "anime_name": "Star Wars: Visions (Dublado)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/star-wars-visions-dublado/7",
+      "anime_id": 3623,
+      "anime_name": "Star Wars: Visions (Dublado)"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/star-wars-visions-dublado/8",
+      "anime_id": 3623,
+      "anime_name": "Star Wars: Visions (Dublado)"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/star-wars-visions-dublado/9",
+      "anime_id": 3623,
+      "anime_name": "Star Wars: Visions (Dublado)"
+    }
+  ],
+  "total_episodes": 9
+}

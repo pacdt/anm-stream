@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Mobile Suit Gundam: The Origin",
+  "anime": {
+    "id": 2557,
+    "nome": "Mobile Suit Gundam: The Origin",
+    "link": "https://animefire.plus/animes/mobile-suit-gundam-the-origin-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mobile-suit-gundam-the-origin",
+    "rating": "8.33",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-the-origin/1",
+      "anime_id": 2557,
+      "anime_name": "Mobile Suit Gundam: The Origin"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-the-origin/2",
+      "anime_id": 2557,
+      "anime_name": "Mobile Suit Gundam: The Origin"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-the-origin/3",
+      "anime_id": 2557,
+      "anime_name": "Mobile Suit Gundam: The Origin"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-the-origin/4",
+      "anime_id": 2557,
+      "anime_name": "Mobile Suit Gundam: The Origin"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-the-origin/5",
+      "anime_id": 2557,
+      "anime_name": "Mobile Suit Gundam: The Origin"
+    }
+  ],
+  "total_episodes": 5
+}

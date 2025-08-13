@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Oniichan dakedo Ai sae Areba Kankeinai yo ne! Specials",
+  "anime": {
+    "id": 2853,
+    "nome": "Oniichan dakedo Ai sae Areba Kankeinai yo ne! Specials",
+    "link": "https://animefire.plus/animes/oniichan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/oniichan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials",
+    "rating": "6.29",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/oniichan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials/1",
+      "anime_id": 2853,
+      "anime_name": "Oniichan dakedo Ai sae Areba Kankeinai yo ne! Specials"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/oniichan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials/2",
+      "anime_id": 2853,
+      "anime_name": "Oniichan dakedo Ai sae Areba Kankeinai yo ne! Specials"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/oniichan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials/3",
+      "anime_id": 2853,
+      "anime_name": "Oniichan dakedo Ai sae Areba Kankeinai yo ne! Specials"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/oniichan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials/4",
+      "anime_id": 2853,
+      "anime_name": "Oniichan dakedo Ai sae Areba Kankeinai yo ne! Specials"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/oniichan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials/5",
+      "anime_id": 2853,
+      "anime_name": "Oniichan dakedo Ai sae Areba Kankeinai yo ne! Specials"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/oniichan-dakedo-ai-sae-areba-kankeinai-yo-ne-specials/6",
+      "anime_id": 2853,
+      "anime_name": "Oniichan dakedo Ai sae Areba Kankeinai yo ne! Specials"
+    }
+  ],
+  "total_episodes": 6
+}

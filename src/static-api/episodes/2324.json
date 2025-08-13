@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Mahoromatic: Tadaima Okaeri",
+  "anime": {
+    "id": 2324,
+    "nome": "Mahoromatic: Tadaima Okaeri",
+    "link": "https://animefire.plus/animes/mahoromatic-tadaima-okaeri-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mahoromatic-tadaima-okaeri",
+    "rating": "7.09",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mahoromatic-tadaima-okaeri/1",
+      "anime_id": 2324,
+      "anime_name": "Mahoromatic: Tadaima Okaeri"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mahoromatic-tadaima-okaeri/2",
+      "anime_id": 2324,
+      "anime_name": "Mahoromatic: Tadaima Okaeri"
+    }
+  ],
+  "total_episodes": 2
+}

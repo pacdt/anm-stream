@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 511,
+    "nome": "Bucchigiri?! (Dublado)",
+    "link": "https://animefire.plus/animes/bucchigiri-dublado-todos-os-episodios",
+    "texto_original": "Bucchigiri?! (Dublado)",
+    "rating": 6.51,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/bucchigiri.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bucchigiri/",
+    "secao": "dublados,legendados",
+    "pagina": 3,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/bucchigiri-dublado"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 104,
+    "nome": "Aiura",
+    "link": "https://animefire.plus/animes/aiura-todos-os-episodios",
+    "texto_original": "Aiura",
+    "rating": 6.75,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/aiura.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/aiura/",
+    "secao": "legendados",
+    "pagina": 109,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/aiura"
+  }
+}

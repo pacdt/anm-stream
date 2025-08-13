@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Bio Hunter",
+  "anime": {
+    "id": 394,
+    "nome": "Bio Hunter",
+    "link": "https://animefire.plus/animes/bio-hunter-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/bio-hunter",
+    "rating": "5.96",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/bio-hunter/1",
+      "anime_id": 394,
+      "anime_name": "Bio Hunter"
+    }
+  ],
+  "total_episodes": 1
+}

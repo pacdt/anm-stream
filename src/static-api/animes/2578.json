@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2578,
+    "nome": "Mononoke",
+    "link": "https://animefire.plus/animes/mononoke-todos-os-episodios",
+    "texto_original": "Mononoke",
+    "rating": 8.42,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/mononoke.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mononoke/",
+    "secao": "legendados",
+    "pagina": 64,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/mononoke"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Date A Live III (Dublado)",
+  "anime": {
+    "id": 759,
+    "nome": "Date A Live III (Dublado)",
+    "link": "https://animefire.plus/animes/date-a-live-iii-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/date-a-live-iii-dublado",
+    "rating": "7.19",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/date-a-live-iii-dublado/1",
+      "anime_id": 759,
+      "anime_name": "Date A Live III (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/date-a-live-iii-dublado/2",
+      "anime_id": 759,
+      "anime_name": "Date A Live III (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/date-a-live-iii-dublado/3",
+      "anime_id": 759,
+      "anime_name": "Date A Live III (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/date-a-live-iii-dublado/4",
+      "anime_id": 759,
+      "anime_name": "Date A Live III (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/date-a-live-iii-dublado/5",
+      "anime_id": 759,
+      "anime_name": "Date A Live III (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/date-a-live-iii-dublado/6",
+      "anime_id": 759,
+      "anime_name": "Date A Live III (Dublado)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/date-a-live-iii-dublado/7",
+      "anime_id": 759,
+      "anime_name": "Date A Live III (Dublado)"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/date-a-live-iii-dublado/8",
+      "anime_id": 759,
+      "anime_name": "Date A Live III (Dublado)"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/date-a-live-iii-dublado/9",
+      "anime_id": 759,
+      "anime_name": "Date A Live III (Dublado)"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/date-a-live-iii-dublado/10",
+      "anime_id": 759,
+      "anime_name": "Date A Live III (Dublado)"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/date-a-live-iii-dublado/11",
+      "anime_id": 759,
+      "anime_name": "Date A Live III (Dublado)"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/date-a-live-iii-dublado/12",
+      "anime_id": 759,
+      "anime_name": "Date A Live III (Dublado)"
+    }
+  ],
+  "total_episodes": 12
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3084,
+    "nome": "RDG: Red Data Girl",
+    "link": "https://animefire.plus/animes/rdg-red-data-girl-todos-os-episodios",
+    "texto_original": "RDG: Red Data Girl",
+    "rating": 6.65,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/rdg-red-data-girl.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/rdg-red-data-girl/",
+    "secao": "legendados",
+    "pagina": 175,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/rdg-red-data-girl"
+  }
+}

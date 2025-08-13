@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 45,
+    "nome": "A-Channel",
+    "link": "https://animefire.plus/animes/a-channel-todos-os-episodios",
+    "texto_original": "A-Channel",
+    "rating": 7,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/a-channel.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/a-channel/",
+    "secao": "legendados",
+    "pagina": 90,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/a-channel"
+  }
+}

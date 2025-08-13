@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Hajimete no Gal: Hajimete no Bunkasai",
+  "anime": {
+    "id": 1325,
+    "nome": "Hajimete no Gal: Hajimete no Bunkasai",
+    "link": "https://animefire.plus/animes/hajimete-no-gal-hajimete-no-bunkasai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hajimete-no-gal-hajimete-no-bunkasai",
+    "rating": "6.50",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hajimete-no-gal-hajimete-no-bunkasai/1",
+      "anime_id": 1325,
+      "anime_name": "Hajimete no Gal: Hajimete no Bunkasai"
+    }
+  ],
+  "total_episodes": 1
+}

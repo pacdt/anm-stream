@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Extreme Hearts",
+  "anime": {
+    "id": 964,
+    "nome": "Extreme Hearts",
+    "link": "https://animefire.plus/animes/extreme-hearts-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/extreme-hearts",
+    "rating": "6.54",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/extreme-hearts/1",
+      "anime_id": 964,
+      "anime_name": "Extreme Hearts"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/extreme-hearts/2",
+      "anime_id": 964,
+      "anime_name": "Extreme Hearts"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/extreme-hearts/3",
+      "anime_id": 964,
+      "anime_name": "Extreme Hearts"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/extreme-hearts/4",
+      "anime_id": 964,
+      "anime_name": "Extreme Hearts"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/extreme-hearts/5",
+      "anime_id": 964,
+      "anime_name": "Extreme Hearts"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/extreme-hearts/6",
+      "anime_id": 964,
+      "anime_name": "Extreme Hearts"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/extreme-hearts/7",
+      "anime_id": 964,
+      "anime_name": "Extreme Hearts"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/extreme-hearts/8",
+      "anime_id": 964,
+      "anime_name": "Extreme Hearts"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/extreme-hearts/9",
+      "anime_id": 964,
+      "anime_name": "Extreme Hearts"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/extreme-hearts/10",
+      "anime_id": 964,
+      "anime_name": "Extreme Hearts"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/extreme-hearts/11",
+      "anime_id": 964,
+      "anime_name": "Extreme Hearts"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/extreme-hearts/12",
+      "anime_id": 964,
+      "anime_name": "Extreme Hearts"
+    }
+  ],
+  "total_episodes": 12
+}

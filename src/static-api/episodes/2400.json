@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Makura no Danshi",
+  "anime": {
+    "id": 2400,
+    "nome": "Makura no Danshi",
+    "link": "https://animefire.plus/animes/makura-no-danshi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/makura-no-danshi",
+    "rating": "4.69",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/makura-no-danshi/1",
+      "anime_id": 2400,
+      "anime_name": "Makura no Danshi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/makura-no-danshi/2",
+      "anime_id": 2400,
+      "anime_name": "Makura no Danshi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/makura-no-danshi/3",
+      "anime_id": 2400,
+      "anime_name": "Makura no Danshi"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/makura-no-danshi/4",
+      "anime_id": 2400,
+      "anime_name": "Makura no Danshi"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/makura-no-danshi/5",
+      "anime_id": 2400,
+      "anime_name": "Makura no Danshi"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/makura-no-danshi/6",
+      "anime_id": 2400,
+      "anime_name": "Makura no Danshi"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/makura-no-danshi/7",
+      "anime_id": 2400,
+      "anime_name": "Makura no Danshi"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/makura-no-danshi/8",
+      "anime_id": 2400,
+      "anime_name": "Makura no Danshi"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/makura-no-danshi/9",
+      "anime_id": 2400,
+      "anime_name": "Makura no Danshi"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/makura-no-danshi/10",
+      "anime_id": 2400,
+      "anime_name": "Makura no Danshi"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/makura-no-danshi/11",
+      "anime_id": 2400,
+      "anime_name": "Makura no Danshi"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/makura-no-danshi/12",
+      "anime_id": 2400,
+      "anime_name": "Makura no Danshi"
+    }
+  ],
+  "total_episodes": 12
+}

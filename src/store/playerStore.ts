@@ -53,7 +53,7 @@ interface PlayerState {
   // Utility actions
   togglePlay: () => void
   toggleMute: () => void
-  toggleFullscreen: () => void
+  toggleFullscreen: (element: HTMLElement) => void
   seekTo: (time: number) => void
   reset: () => void
 }
@@ -121,9 +121,32 @@ export const usePlayerStore = create<PlayerState>((set, get) => ({
     set({ isMuted: !isMuted })
   },
   
-  toggleFullscreen: () => {
+  toggleFullscreen: async (element: HTMLElement) => {
     const { isFullscreen } = get()
-    set({ isFullscreen: !isFullscreen })
+    
+    try {
+      if (!isFullscreen) {
+        // Enter fullscreen
+        if (element.requestFullscreen) {
+          await element.requestFullscreen()
+        } else if ((element as any).webkitRequestFullscreen) {
+          await (element as any).webkitRequestFullscreen()
+        } else if ((element as any).msRequestFullscreen) {
+          await (element as any).msRequestFullscreen()
+        }
+      } else {
+        // Exit fullscreen
+        if (document.exitFullscreen) {
+          await document.exitFullscreen()
+        } else if ((document as any).webkitExitFullscreen) {
+          await (document as any).webkitExitFullscreen()
+        } else if ((document as any).msExitFullscreen) {
+          await (document as any).msExitFullscreen()
+        }
+      }
+    } catch (error) {
+      console.error('Erro ao alternar fullscreen:', error)
+    }
   },
   
   seekTo: (time: number) => {

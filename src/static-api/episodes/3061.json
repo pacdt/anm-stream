@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Queen's Blade: Rurou no Senshi",
+  "anime": {
+    "id": 3061,
+    "nome": "Queen's Blade: Rurou no Senshi",
+    "link": "https://animefire.plus/animes/queen-s-blade-rurou-no-senshi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/queen-s-blade-rurou-no-senshi",
+    "rating": "6.25",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/queen-s-blade-rurou-no-senshi/1",
+      "anime_id": 3061,
+      "anime_name": "Queen's Blade: Rurou no Senshi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/queen-s-blade-rurou-no-senshi/2",
+      "anime_id": 3061,
+      "anime_name": "Queen's Blade: Rurou no Senshi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/queen-s-blade-rurou-no-senshi/3",
+      "anime_id": 3061,
+      "anime_name": "Queen's Blade: Rurou no Senshi"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/queen-s-blade-rurou-no-senshi/4",
+      "anime_id": 3061,
+      "anime_name": "Queen's Blade: Rurou no Senshi"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/queen-s-blade-rurou-no-senshi/5",
+      "anime_id": 3061,
+      "anime_name": "Queen's Blade: Rurou no Senshi"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/queen-s-blade-rurou-no-senshi/6",
+      "anime_id": 3061,
+      "anime_name": "Queen's Blade: Rurou no Senshi"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/queen-s-blade-rurou-no-senshi/7",
+      "anime_id": 3061,
+      "anime_name": "Queen's Blade: Rurou no Senshi"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/queen-s-blade-rurou-no-senshi/8",
+      "anime_id": 3061,
+      "anime_name": "Queen's Blade: Rurou no Senshi"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/queen-s-blade-rurou-no-senshi/9",
+      "anime_id": 3061,
+      "anime_name": "Queen's Blade: Rurou no Senshi"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/queen-s-blade-rurou-no-senshi/10",
+      "anime_id": 3061,
+      "anime_name": "Queen's Blade: Rurou no Senshi"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/queen-s-blade-rurou-no-senshi/11",
+      "anime_id": 3061,
+      "anime_name": "Queen's Blade: Rurou no Senshi"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/queen-s-blade-rurou-no-senshi/12",
+      "anime_id": 3061,
+      "anime_name": "Queen's Blade: Rurou no Senshi"
+    }
+  ],
+  "total_episodes": 12
+}

@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Tennis no Ouji-sama: Another Story - Kako to Mirai no Message",
+  "anime": {
+    "id": 3786,
+    "nome": "Tennis no Ouji-sama: Another Story - Kako to Mirai no Message",
+    "link": "https://animefire.plus/animes/tennis-no-ouji-sama-another-story---kako-to-mirai-no-message-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tennis-no-ouji-sama-another-story---kako-to-mirai-no-message",
+    "rating": "7.66",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tennis-no-ouji-sama-another-story---kako-to-mirai-no-message/1",
+      "anime_id": 3786,
+      "anime_name": "Tennis no Ouji-sama: Another Story - Kako to Mirai no Message"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tennis-no-ouji-sama-another-story---kako-to-mirai-no-message/2",
+      "anime_id": 3786,
+      "anime_name": "Tennis no Ouji-sama: Another Story - Kako to Mirai no Message"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tennis-no-ouji-sama-another-story---kako-to-mirai-no-message/3",
+      "anime_id": 3786,
+      "anime_name": "Tennis no Ouji-sama: Another Story - Kako to Mirai no Message"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tennis-no-ouji-sama-another-story---kako-to-mirai-no-message/4",
+      "anime_id": 3786,
+      "anime_name": "Tennis no Ouji-sama: Another Story - Kako to Mirai no Message"
+    }
+  ],
+  "total_episodes": 4
+}

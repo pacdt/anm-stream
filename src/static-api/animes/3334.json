@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3334,
+    "nome": "Sengoku Night Blood",
+    "link": "https://animefire.plus/animes/sengoku-night-blood-todos-os-episodios",
+    "texto_original": "Sengoku Night Blood",
+    "rating": 6.16,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/sengoku-night-blood.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sengoku-night-blood/",
+    "secao": "legendados",
+    "pagina": 102,
+    "total_episodios": 9,
+    "link_video": "https://animefire.plus/video/sengoku-night-blood"
+  }
+}

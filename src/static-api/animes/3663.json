@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3663,
+    "nome": "Sugar Sugar Rune",
+    "link": "https://animefire.plus/animes/sugar-sugar-rune-todos-os-episodios",
+    "texto_original": "Sugar Sugar Rune",
+    "rating": 7.45,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/sugar-sugar-rune.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sugar-sugar-rune/",
+    "secao": "legendados",
+    "pagina": 55,
+    "total_episodios": 51,
+    "link_video": "https://animefire.plus/video/sugar-sugar-rune"
+  }
+}

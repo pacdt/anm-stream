@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Yoru no Kuni",
+  "anime": {
+    "id": 4248,
+    "nome": "Yoru no Kuni",
+    "link": "https://animefire.plus/animes/yoru-no-kuni-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yoru-no-kuni",
+    "rating": "7.44",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yoru-no-kuni/1",
+      "anime_id": 4248,
+      "anime_name": "Yoru no Kuni"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yoru-no-kuni/2",
+      "anime_id": 4248,
+      "anime_name": "Yoru no Kuni"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/yoru-no-kuni/3",
+      "anime_id": 4248,
+      "anime_name": "Yoru no Kuni"
+    }
+  ],
+  "total_episodes": 3
+}

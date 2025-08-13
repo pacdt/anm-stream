@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: The Legend of Heroes: Sen no Kiseki - Northern War",
+  "anime": {
+    "id": 3838,
+    "nome": "The Legend of Heroes: Sen no Kiseki - Northern War",
+    "link": "https://animefire.plus/animes/the-legend-of-heroes-sen-no-kiseki---northern-war-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/the-legend-of-heroes-sen-no-kiseki---northern-war",
+    "rating": "5.63",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/the-legend-of-heroes-sen-no-kiseki---northern-war/1",
+      "anime_id": 3838,
+      "anime_name": "The Legend of Heroes: Sen no Kiseki - Northern War"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/the-legend-of-heroes-sen-no-kiseki---northern-war/2",
+      "anime_id": 3838,
+      "anime_name": "The Legend of Heroes: Sen no Kiseki - Northern War"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/the-legend-of-heroes-sen-no-kiseki---northern-war/3",
+      "anime_id": 3838,
+      "anime_name": "The Legend of Heroes: Sen no Kiseki - Northern War"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/the-legend-of-heroes-sen-no-kiseki---northern-war/4",
+      "anime_id": 3838,
+      "anime_name": "The Legend of Heroes: Sen no Kiseki - Northern War"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/the-legend-of-heroes-sen-no-kiseki---northern-war/5",
+      "anime_id": 3838,
+      "anime_name": "The Legend of Heroes: Sen no Kiseki - Northern War"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/the-legend-of-heroes-sen-no-kiseki---northern-war/6",
+      "anime_id": 3838,
+      "anime_name": "The Legend of Heroes: Sen no Kiseki - Northern War"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/the-legend-of-heroes-sen-no-kiseki---northern-war/7",
+      "anime_id": 3838,
+      "anime_name": "The Legend of Heroes: Sen no Kiseki - Northern War"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/the-legend-of-heroes-sen-no-kiseki---northern-war/8",
+      "anime_id": 3838,
+      "anime_name": "The Legend of Heroes: Sen no Kiseki - Northern War"
+    }
+  ],
+  "total_episodes": 8
+}

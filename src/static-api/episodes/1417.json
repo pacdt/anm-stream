@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Henjin no Salad Bowl",
+  "anime": {
+    "id": 1417,
+    "nome": "Henjin no Salad Bowl",
+    "link": "https://animefire.plus/animes/henjin-no-salad-bowl-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/henjin-no-salad-bowl",
+    "rating": "7.27",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/henjin-no-salad-bowl/1",
+      "anime_id": 1417,
+      "anime_name": "Henjin no Salad Bowl"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/henjin-no-salad-bowl/2",
+      "anime_id": 1417,
+      "anime_name": "Henjin no Salad Bowl"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/henjin-no-salad-bowl/3",
+      "anime_id": 1417,
+      "anime_name": "Henjin no Salad Bowl"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/henjin-no-salad-bowl/4",
+      "anime_id": 1417,
+      "anime_name": "Henjin no Salad Bowl"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/henjin-no-salad-bowl/5",
+      "anime_id": 1417,
+      "anime_name": "Henjin no Salad Bowl"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/henjin-no-salad-bowl/6",
+      "anime_id": 1417,
+      "anime_name": "Henjin no Salad Bowl"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/henjin-no-salad-bowl/7",
+      "anime_id": 1417,
+      "anime_name": "Henjin no Salad Bowl"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/henjin-no-salad-bowl/8",
+      "anime_id": 1417,
+      "anime_name": "Henjin no Salad Bowl"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/henjin-no-salad-bowl/9",
+      "anime_id": 1417,
+      "anime_name": "Henjin no Salad Bowl"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/henjin-no-salad-bowl/10",
+      "anime_id": 1417,
+      "anime_name": "Henjin no Salad Bowl"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/henjin-no-salad-bowl/11",
+      "anime_id": 1417,
+      "anime_name": "Henjin no Salad Bowl"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/henjin-no-salad-bowl/12",
+      "anime_id": 1417,
+      "anime_name": "Henjin no Salad Bowl"
+    }
+  ],
+  "total_episodes": 12
+}

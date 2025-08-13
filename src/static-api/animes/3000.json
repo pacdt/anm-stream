@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3000,
+    "nome": "Pokemon Advanced Generation (Dublado)",
+    "link": "https://animefire.plus/animes/pokemon-advanced-generation-dublado-todos-os-episodios",
+    "texto_original": "Pokemon Advanced Generation (Dublado)",
+    "rating": 7.18,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/pokemon-advanced-generation.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/pokemon-advanced-generation/",
+    "secao": "dublados,legendados",
+    "pagina": 28,
+    "total_episodios": 104,
+    "link_video": "https://animefire.plus/video/pokemon-advanced-generation-dublado"
+  }
+}

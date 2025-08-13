@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 385,
+    "nome": "Bihada Ichizoku",
+    "link": "https://animefire.plus/animes/bihada-ichizoku-todos-os-episodios",
+    "texto_original": "Bihada Ichizoku",
+    "rating": 5.8,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/bihada-ichizoku.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bihada-ichizoku/",
+    "secao": "legendados",
+    "pagina": 139,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/bihada-ichizoku"
+  }
+}

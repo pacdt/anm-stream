@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 672,
+    "nome": "Cobra The Animation",
+    "link": "https://animefire.plus/animes/cobra-the-animation-todos-os-episodios",
+    "texto_original": "Cobra The Animation",
+    "rating": 7.17,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/cobra-the-animation.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/cobra-the-animation/",
+    "secao": "legendados",
+    "pagina": 164,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/cobra-the-animation"
+  }
+}

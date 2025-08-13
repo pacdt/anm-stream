@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 41,
+    "nome": "86 (Dublado)",
+    "link": "https://animefire.plus/animes/86-dublado-todos-os-episodios",
+    "texto_original": "86 (Dublado)",
+    "rating": 8.33,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/86.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/86/",
+    "secao": "dublados",
+    "pagina": 17,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/86-dublado"
+  }
+}

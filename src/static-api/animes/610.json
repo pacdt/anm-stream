@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 610,
+    "nome": "Chimimo",
+    "link": "https://animefire.plus/animes/chimimo-todos-os-episodios",
+    "texto_original": "Chimimo",
+    "rating": 6.9,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/chimimo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/chimimo/",
+    "secao": "legendados",
+    "pagina": 31,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/chimimo"
+  }
+}

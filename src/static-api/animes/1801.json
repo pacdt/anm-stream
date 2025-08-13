@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1801,
+    "nome": "Kaibutsu Oujo",
+    "link": "https://animefire.plus/animes/kaibutsu-oujo-todos-os-episodios",
+    "texto_original": "Kaibutsu Oujo",
+    "rating": 7.09,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kaibutsu-oujo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kaibutsu-oujo/",
+    "secao": "legendados",
+    "pagina": 165,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/kaibutsu-oujo"
+  }
+}

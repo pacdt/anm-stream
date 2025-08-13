@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Fantasista Doll",
+  "anime": {
+    "id": 976,
+    "nome": "Fantasista Doll",
+    "link": "https://animefire.plus/animes/fantasista-doll-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/fantasista-doll",
+    "rating": "6.21",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/fantasista-doll/1",
+      "anime_id": 976,
+      "anime_name": "Fantasista Doll"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/fantasista-doll/2",
+      "anime_id": 976,
+      "anime_name": "Fantasista Doll"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/fantasista-doll/3",
+      "anime_id": 976,
+      "anime_name": "Fantasista Doll"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/fantasista-doll/4",
+      "anime_id": 976,
+      "anime_name": "Fantasista Doll"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/fantasista-doll/5",
+      "anime_id": 976,
+      "anime_name": "Fantasista Doll"
+    }
+  ],
+  "total_episodes": 5
+}

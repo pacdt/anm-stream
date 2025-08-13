@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 876,
+    "nome": "Dragon Ball GT (Dublado)",
+    "link": "https://animefire.plus/animes/dragon-ball-gt-dublado-todos-os-episodios",
+    "texto_original": "Dragon Ball GT (Dublado)",
+    "rating": 6.64,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/dragon-ball-gt.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dragon-ball-gt/",
+    "secao": "dublados",
+    "pagina": 26,
+    "total_episodios": 61,
+    "link_video": "https://animefire.plus/video/dragon-ball-gt-dublado"
+  }
+}

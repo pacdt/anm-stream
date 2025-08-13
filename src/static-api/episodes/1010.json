@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Final Fantasy",
+  "anime": {
+    "id": 1010,
+    "nome": "Final Fantasy",
+    "link": "https://animefire.plus/animes/final-fantasy-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/final-fantasy",
+    "rating": "6.10",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/final-fantasy/1",
+      "anime_id": 1010,
+      "anime_name": "Final Fantasy"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/final-fantasy/2",
+      "anime_id": 1010,
+      "anime_name": "Final Fantasy"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/final-fantasy/3",
+      "anime_id": 1010,
+      "anime_name": "Final Fantasy"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/final-fantasy/4",
+      "anime_id": 1010,
+      "anime_name": "Final Fantasy"
+    }
+  ],
+  "total_episodes": 4
+}

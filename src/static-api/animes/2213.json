@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2213,
+    "nome": "Lemon Angel Project",
+    "link": "https://animefire.plus/animes/lemon-angel-project-todos-os-episodios",
+    "texto_original": "Lemon Angel Project",
+    "rating": 6.71,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/lemon-angel-project.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/lemon-angel-project/",
+    "secao": "legendados",
+    "pagina": 169,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/lemon-angel-project"
+  }
+}

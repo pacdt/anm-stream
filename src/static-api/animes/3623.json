@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3623,
+    "nome": "Star Wars: Visions (Dublado)",
+    "link": "https://animefire.plus/animes/star-wars-visions-dublado-todos-os-episodios",
+    "texto_original": "Star Wars: Visions (Dublado)",
+    "rating": 7.09,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/star-wars-visions.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/star-wars-visions/",
+    "secao": "dublados,legendados",
+    "pagina": 15,
+    "total_episodios": 9,
+    "link_video": "https://animefire.plus/video/star-wars-visions-dublado"
+  }
+}

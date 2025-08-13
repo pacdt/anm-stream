@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1024,
+    "nome": "Free!: Dive to the Future",
+    "link": "https://animefire.plus/animes/free-dive-to-the-future-todos-os-episodios",
+    "texto_original": "Free!: Dive to the Future",
+    "rating": 7.71,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/free-dive-to-the-future.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/free-dive-to-the-future/",
+    "secao": "legendados",
+    "pagina": 139,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/free-dive-to-the-future"
+  }
+}

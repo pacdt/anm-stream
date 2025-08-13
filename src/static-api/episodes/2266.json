@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Lucky☆Star: Original na Visual to Animation",
+  "anime": {
+    "id": 2266,
+    "nome": "Lucky☆Star: Original na Visual to Animation",
+    "link": "https://animefire.plus/animes/lucky-star-original-na-visual-to-animation-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/lucky-star-original-na-visual-to-animation",
+    "rating": "7.84",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/lucky-star-original-na-visual-to-animation/1",
+      "anime_id": 2266,
+      "anime_name": "Lucky☆Star: Original na Visual to Animation"
+    }
+  ],
+  "total_episodes": 1
+}

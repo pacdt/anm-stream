@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4201,
+    "nome": "Yami no Matsuei",
+    "link": "https://animefire.plus/animes/yami-no-matsuei-todos-os-episodios",
+    "texto_original": "Yami no Matsuei",
+    "rating": 7.17,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/yami-no-matsuei.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/yami-no-matsuei/",
+    "secao": "legendados",
+    "pagina": 146,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/yami-no-matsuei"
+  }
+}

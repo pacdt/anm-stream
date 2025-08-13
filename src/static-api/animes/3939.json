@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3939,
+    "nome": "Tropical-Rouge! Precure",
+    "link": "https://animefire.plus/animes/tropical-rouge-precure-todos-os-episodios",
+    "texto_original": "Tropical-Rouge! Precure",
+    "rating": 7.4,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/tropical-rouge-precure.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tropical-rouge-precure/",
+    "secao": "legendados",
+    "pagina": 48,
+    "total_episodios": 18,
+    "link_video": "https://animefire.plus/video/tropical-rouge-precure"
+  }
+}

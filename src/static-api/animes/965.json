@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 965,
+    "nome": "Eyeshield 21 (Dublado)",
+    "link": "https://animefire.plus/animes/eyeshield-21-dublado-todos-os-episodios",
+    "texto_original": "Eyeshield 21 (Dublado)",
+    "rating": 7.92,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/eyeshield-21.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/eyeshield-21/",
+    "secao": "dublados,legendados",
+    "pagina": 4,
+    "total_episodios": 142,
+    "link_video": "https://animefire.plus/video/eyeshield-21-dublado"
+  }
+}

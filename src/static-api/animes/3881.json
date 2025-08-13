@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3881,
+    "nome": "Tokyo Ghoul (Dublado)",
+    "link": "https://animefire.plus/animes/tokyo-ghoul-dublado-todos-os-episodios",
+    "texto_original": "Tokyo Ghoul (Dublado)",
+    "rating": 7.82,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/tokyo-ghoul.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tokyo-ghoul/",
+    "secao": "dublados,legendados",
+    "pagina": 19,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/tokyo-ghoul-dublado"
+  }
+}

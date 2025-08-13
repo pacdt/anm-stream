@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1102,
+    "nome": "Ganbare Douki-chan",
+    "link": "https://animefire.plus/animes/ganbare-douki-chan-todos-os-episodios",
+    "texto_original": "Ganbare Douki-chan",
+    "rating": 6.52,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ganbare-douki-chan.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ganbare-douki-chan/",
+    "secao": "legendados",
+    "pagina": 39,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/ganbare-douki-chan"
+  }
+}

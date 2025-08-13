@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3050,
+    "nome": "Pupipo!",
+    "link": "https://animefire.plus/animes/pupipo-todos-os-episodios",
+    "texto_original": "Pupipo!",
+    "rating": 6.83,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/pupipo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/pupipo/",
+    "secao": "legendados",
+    "pagina": 79,
+    "total_episodios": 14,
+    "link_video": "https://animefire.plus/video/pupipo"
+  }
+}

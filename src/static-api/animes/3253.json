@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3253,
+    "nome": "Sanrio Danshi",
+    "link": "https://animefire.plus/animes/sanrio-danshi-todos-os-episodios",
+    "texto_original": "Sanrio Danshi",
+    "rating": 6.65,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/sanrio-danshi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sanrio-danshi/",
+    "secao": "legendados",
+    "pagina": 98,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/sanrio-danshi"
+  }
+}

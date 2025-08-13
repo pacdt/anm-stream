@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 124,
+    "nome": "Akiba Maid Sensou",
+    "link": "https://animefire.plus/animes/akiba-maid-sensou-todos-os-episodios",
+    "texto_original": "Akiba Maid Sensou",
+    "rating": 7.58,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/akiba-maid-sensou.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/akiba-maid-sensou/",
+    "secao": "legendados",
+    "pagina": 28,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/akiba-maid-sensou"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "message": "Lista de episódios do anime: Yu☆Gi☆Oh!: Sevens",
+  "anime": {
+    "id": 4284,
+    "nome": "Yu☆Gi☆Oh!: Sevens",
+    "link": "https://animefire.plus/animes/yu-gi-oh-sevens-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yu-gi-oh-sevens",
+    "rating": "5.40",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yu-gi-oh-sevens/1",
+      "anime_id": 4284,
+      "anime_name": "Yu☆Gi☆Oh!: Sevens"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yu-gi-oh-sevens/2",
+      "anime_id": 4284,
+      "anime_name": "Yu☆Gi☆Oh!: Sevens"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/yu-gi-oh-sevens/3",
+      "anime_id": 4284,
+      "anime_name": "Yu☆Gi☆Oh!: Sevens"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/yu-gi-oh-sevens/4",
+      "anime_id": 4284,
+      "anime_name": "Yu☆Gi☆Oh!: Sevens"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/yu-gi-oh-sevens/5",
+      "anime_id": 4284,
+      "anime_name": "Yu☆Gi☆Oh!: Sevens"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/yu-gi-oh-sevens/6",
+      "anime_id": 4284,
+      "anime_name": "Yu☆Gi☆Oh!: Sevens"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/yu-gi-oh-sevens/7",
+      "anime_id": 4284,
+      "anime_name": "Yu☆Gi☆Oh!: Sevens"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/yu-gi-oh-sevens/8",
+      "anime_id": 4284,
+      "anime_name": "Yu☆Gi☆Oh!: Sevens"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/yu-gi-oh-sevens/9",
+      "anime_id": 4284,
+      "anime_name": "Yu☆Gi☆Oh!: Sevens"
+    }
+  ],
+  "total_episodes": 9
+}

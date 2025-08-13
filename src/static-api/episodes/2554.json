@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Mobile Suit Gundam: Iron-Blooded Orphans",
+  "anime": {
+    "id": 2554,
+    "nome": "Mobile Suit Gundam: Iron-Blooded Orphans",
+    "link": "https://animefire.plus/animes/mobile-suit-gundam-iron-blooded-orphans-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mobile-suit-gundam-iron-blooded-orphans",
+    "rating": "8.03",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-iron-blooded-orphans/1",
+      "anime_id": 2554,
+      "anime_name": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mobile-suit-gundam-iron-blooded-orphans/2",
+      "anime_id": 2554,
+      "anime_name": "Mobile Suit Gundam: Iron-Blooded Orphans"
+    }
+  ],
+  "total_episodes": 2
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3115,
+    "nome": "Rental Magica",
+    "link": "https://animefire.plus/animes/rental-magica-todos-os-episodios",
+    "texto_original": "Rental Magica",
+    "rating": 7.12,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/rental-magica.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/rental-magica/",
+    "secao": "legendados",
+    "pagina": 141,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/rental-magica"
+  }
+}

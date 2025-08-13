@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 599,
+    "nome": "Cheer Danshi!!",
+    "link": "https://animefire.plus/animes/cheer-danshi-todos-os-episodios",
+    "texto_original": "Cheer Danshi!!",
+    "rating": 6.81,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/cheer-danshi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/cheer-danshi/",
+    "secao": "legendados",
+    "pagina": 162,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/cheer-danshi"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3982,
+    "nome": "Two Car",
+    "link": "https://animefire.plus/animes/two-car-todos-os-episodios",
+    "texto_original": "Two Car",
+    "rating": 5.73,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/two-car.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/two-car/",
+    "secao": "legendados",
+    "pagina": 108,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/two-car"
+  }
+}

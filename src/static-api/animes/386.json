@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 386,
+    "nome": "Bikini Warriors",
+    "link": "https://animefire.plus/animes/bikini-warriors-todos-os-episodios",
+    "texto_original": "Bikini Warriors",
+    "rating": 5.28,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/bikini-warriors.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bikini-warriors/",
+    "secao": "legendados",
+    "pagina": 103,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/bikini-warriors"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Non Non Biyori Movie: Vacation",
+  "anime": {
+    "id": 2776,
+    "nome": "Non Non Biyori Movie: Vacation",
+    "link": "https://animefire.plus/animes/non-non-biyori-movie-vacation-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/non-non-biyori-movie-vacation",
+    "rating": "8.26",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/non-non-biyori-movie-vacation/1",
+      "anime_id": 2776,
+      "anime_name": "Non Non Biyori Movie: Vacation"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/non-non-biyori-movie-vacation/2",
+      "anime_id": 2776,
+      "anime_name": "Non Non Biyori Movie: Vacation"
+    }
+  ],
+  "total_episodes": 2
+}

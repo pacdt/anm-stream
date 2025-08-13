@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2314,
+    "nome": "Magic Knight Rayearth",
+    "link": "https://animefire.plus/animes/magic-knight-rayearth-todos-os-episodios",
+    "texto_original": "Magic Knight Rayearth",
+    "rating": 7.52,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/magic-knight-rayearth.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/magic-knight-rayearth/",
+    "secao": "legendados",
+    "pagina": 171,
+    "total_episodios": 20,
+    "link_video": "https://animefire.plus/video/magic-knight-rayearth"
+  }
+}

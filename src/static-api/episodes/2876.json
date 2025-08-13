@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: Ooyukiumi no Kaina",
+  "anime": {
+    "id": 2876,
+    "nome": "Ooyukiumi no Kaina",
+    "link": "https://animefire.plus/animes/ooyukiumi-no-kaina-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ooyukiumi-no-kaina",
+    "rating": "6.68",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ooyukiumi-no-kaina/1",
+      "anime_id": 2876,
+      "anime_name": "Ooyukiumi no Kaina"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ooyukiumi-no-kaina/2",
+      "anime_id": 2876,
+      "anime_name": "Ooyukiumi no Kaina"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/ooyukiumi-no-kaina/3",
+      "anime_id": 2876,
+      "anime_name": "Ooyukiumi no Kaina"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/ooyukiumi-no-kaina/4",
+      "anime_id": 2876,
+      "anime_name": "Ooyukiumi no Kaina"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/ooyukiumi-no-kaina/5",
+      "anime_id": 2876,
+      "anime_name": "Ooyukiumi no Kaina"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/ooyukiumi-no-kaina/6",
+      "anime_id": 2876,
+      "anime_name": "Ooyukiumi no Kaina"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/ooyukiumi-no-kaina/7",
+      "anime_id": 2876,
+      "anime_name": "Ooyukiumi no Kaina"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/ooyukiumi-no-kaina/8",
+      "anime_id": 2876,
+      "anime_name": "Ooyukiumi no Kaina"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/ooyukiumi-no-kaina/9",
+      "anime_id": 2876,
+      "anime_name": "Ooyukiumi no Kaina"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/ooyukiumi-no-kaina/10",
+      "anime_id": 2876,
+      "anime_name": "Ooyukiumi no Kaina"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/ooyukiumi-no-kaina/11",
+      "anime_id": 2876,
+      "anime_name": "Ooyukiumi no Kaina"
+    }
+  ],
+  "total_episodes": 11
+}

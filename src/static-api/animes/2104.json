@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2104,
+    "nome": "Koufuku Graffiti",
+    "link": "https://animefire.plus/animes/koufuku-graffiti-todos-os-episodios",
+    "texto_original": "Koufuku Graffiti",
+    "rating": 6.83,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/koufuku-graffiti.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/koufuku-graffiti/",
+    "secao": "legendados",
+    "pagina": 112,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/koufuku-graffiti"
+  }
+}

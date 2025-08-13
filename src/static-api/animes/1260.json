@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1260,
+    "nome": "Grisaia: Phantom Trigger",
+    "link": "https://animefire.plus/animes/grisaia-phantom-trigger-todos-os-episodios",
+    "texto_original": "Grisaia: Phantom Trigger",
+    "rating": 6.38,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/grisaia-phantom-trigger.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/grisaia-phantom-trigger/",
+    "secao": "legendados",
+    "pagina": 8,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/grisaia-phantom-trigger"
+  }
+}

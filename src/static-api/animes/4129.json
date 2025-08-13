@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4129,
+    "nome": "White Album 2",
+    "link": "https://animefire.plus/animes/white-album-2-todos-os-episodios",
+    "texto_original": "White Album 2",
+    "rating": 7.83,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/white-album-2.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/white-album-2/",
+    "secao": "legendados",
+    "pagina": 171,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/white-album-2"
+  }
+}

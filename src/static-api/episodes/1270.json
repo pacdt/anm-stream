@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Guimi Zhi Zhu: Xiaochou Pian",
+  "anime": {
+    "id": 1270,
+    "nome": "Guimi Zhi Zhu: Xiaochou Pian",
+    "link": "https://animefire.plus/animes/guimi-zhi-zhu-xiaochou-pian-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/guimi-zhi-zhu-xiaochou-pian",
+    "rating": "8.46",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/guimi-zhi-zhu-xiaochou-pian/1",
+      "anime_id": 1270,
+      "anime_name": "Guimi Zhi Zhu: Xiaochou Pian"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/guimi-zhi-zhu-xiaochou-pian/2",
+      "anime_id": 1270,
+      "anime_name": "Guimi Zhi Zhu: Xiaochou Pian"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/guimi-zhi-zhu-xiaochou-pian/3",
+      "anime_id": 1270,
+      "anime_name": "Guimi Zhi Zhu: Xiaochou Pian"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/guimi-zhi-zhu-xiaochou-pian/4",
+      "anime_id": 1270,
+      "anime_name": "Guimi Zhi Zhu: Xiaochou Pian"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/guimi-zhi-zhu-xiaochou-pian/5",
+      "anime_id": 1270,
+      "anime_name": "Guimi Zhi Zhu: Xiaochou Pian"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/guimi-zhi-zhu-xiaochou-pian/6",
+      "anime_id": 1270,
+      "anime_name": "Guimi Zhi Zhu: Xiaochou Pian"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/guimi-zhi-zhu-xiaochou-pian/7",
+      "anime_id": 1270,
+      "anime_name": "Guimi Zhi Zhu: Xiaochou Pian"
+    }
+  ],
+  "total_episodes": 7
+}

@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Arslan Senki (TV)",
+  "anime": {
+    "id": 246,
+    "nome": "Arslan Senki (TV)",
+    "link": "https://animefire.plus/animes/arslan-senki-tv-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/arslan-senki-tv",
+    "rating": "7.77",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/arslan-senki-tv/1",
+      "anime_id": 246,
+      "anime_name": "Arslan Senki (TV)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/arslan-senki-tv/2",
+      "anime_id": 246,
+      "anime_name": "Arslan Senki (TV)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/arslan-senki-tv/3",
+      "anime_id": 246,
+      "anime_name": "Arslan Senki (TV)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/arslan-senki-tv/4",
+      "anime_id": 246,
+      "anime_name": "Arslan Senki (TV)"
+    }
+  ],
+  "total_episodes": 4
+}

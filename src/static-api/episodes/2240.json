@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
+  "anime": {
+    "id": 2240,
+    "nome": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
+    "link": "https://animefire.plus/animes/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note",
+    "rating": "7.36",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note/1",
+      "anime_id": 2240,
+      "anime_name": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note/2",
+      "anime_id": 2240,
+      "anime_name": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note/3",
+      "anime_id": 2240,
+      "anime_name": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note/4",
+      "anime_id": 2240,
+      "anime_name": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note/5",
+      "anime_id": 2240,
+      "anime_name": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note"
+    }
+  ],
+  "total_episodes": 5
+}

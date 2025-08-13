@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3631,
+    "nome": "Steins;Gate (Dublado)",
+    "link": "https://animefire.plus/animes/steins-gate-dublado-todos-os-episodios",
+    "texto_original": "Steins;Gate (Dublado)",
+    "rating": 9.12,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/steins-gate.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/steins-gate/",
+    "secao": "dublados,legendados",
+    "pagina": 19,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/steins-gate-dublado"
+  }
+}

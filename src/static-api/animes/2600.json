@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2600,
+    "nome": "Mousou Dairinin",
+    "link": "https://animefire.plus/animes/mousou-dairinin-todos-os-episodios",
+    "texto_original": "Mousou Dairinin",
+    "rating": 7.72,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/mousou-dairinin.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mousou-dairinin/",
+    "secao": "legendados",
+    "pagina": 111,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/mousou-dairinin"
+  }
+}

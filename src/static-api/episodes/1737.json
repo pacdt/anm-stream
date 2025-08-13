@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Jitsu wa Ore, Saikyou deshita?",
+  "anime": {
+    "id": 1737,
+    "nome": "Jitsu wa Ore, Saikyou deshita?",
+    "link": "https://animefire.plus/animes/jitsu-wa-ore-saikyou-deshita-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/jitsu-wa-ore-saikyou-deshita",
+    "rating": "6.48",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/jitsu-wa-ore-saikyou-deshita/1",
+      "anime_id": 1737,
+      "anime_name": "Jitsu wa Ore, Saikyou deshita?"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/jitsu-wa-ore-saikyou-deshita/2",
+      "anime_id": 1737,
+      "anime_name": "Jitsu wa Ore, Saikyou deshita?"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/jitsu-wa-ore-saikyou-deshita/3",
+      "anime_id": 1737,
+      "anime_name": "Jitsu wa Ore, Saikyou deshita?"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/jitsu-wa-ore-saikyou-deshita/4",
+      "anime_id": 1737,
+      "anime_name": "Jitsu wa Ore, Saikyou deshita?"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/jitsu-wa-ore-saikyou-deshita/5",
+      "anime_id": 1737,
+      "anime_name": "Jitsu wa Ore, Saikyou deshita?"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/jitsu-wa-ore-saikyou-deshita/6",
+      "anime_id": 1737,
+      "anime_name": "Jitsu wa Ore, Saikyou deshita?"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/jitsu-wa-ore-saikyou-deshita/7",
+      "anime_id": 1737,
+      "anime_name": "Jitsu wa Ore, Saikyou deshita?"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/jitsu-wa-ore-saikyou-deshita/8",
+      "anime_id": 1737,
+      "anime_name": "Jitsu wa Ore, Saikyou deshita?"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/jitsu-wa-ore-saikyou-deshita/9",
+      "anime_id": 1737,
+      "anime_name": "Jitsu wa Ore, Saikyou deshita?"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/jitsu-wa-ore-saikyou-deshita/10",
+      "anime_id": 1737,
+      "anime_name": "Jitsu wa Ore, Saikyou deshita?"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/jitsu-wa-ore-saikyou-deshita/11",
+      "anime_id": 1737,
+      "anime_name": "Jitsu wa Ore, Saikyou deshita?"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/jitsu-wa-ore-saikyou-deshita/12",
+      "anime_id": 1737,
+      "anime_name": "Jitsu wa Ore, Saikyou deshita?"
+    }
+  ],
+  "total_episodes": 12
+}

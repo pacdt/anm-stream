@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Inu ni Nattara Suki na Hito ni Hirowareta. Specials",
+  "anime": {
+    "id": 1636,
+    "nome": "Inu ni Nattara Suki na Hito ni Hirowareta. Specials",
+    "link": "https://animefire.plus/animes/inu-ni-nattara-suki-na-hito-ni-hirowareta-specials-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/inu-ni-nattara-suki-na-hito-ni-hirowareta-specials",
+    "rating": "5.30",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/inu-ni-nattara-suki-na-hito-ni-hirowareta-specials/1",
+      "anime_id": 1636,
+      "anime_name": "Inu ni Nattara Suki na Hito ni Hirowareta. Specials"
+    }
+  ],
+  "total_episodes": 1
+}

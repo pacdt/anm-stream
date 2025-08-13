@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: Jyu Oh Sei",
+  "anime": {
+    "id": 1773,
+    "nome": "Jyu Oh Sei",
+    "link": "https://animefire.plus/animes/jyu-oh-sei-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/jyu-oh-sei",
+    "rating": "7.32",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/jyu-oh-sei/1",
+      "anime_id": 1773,
+      "anime_name": "Jyu Oh Sei"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/jyu-oh-sei/2",
+      "anime_id": 1773,
+      "anime_name": "Jyu Oh Sei"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/jyu-oh-sei/3",
+      "anime_id": 1773,
+      "anime_name": "Jyu Oh Sei"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/jyu-oh-sei/4",
+      "anime_id": 1773,
+      "anime_name": "Jyu Oh Sei"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/jyu-oh-sei/5",
+      "anime_id": 1773,
+      "anime_name": "Jyu Oh Sei"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/jyu-oh-sei/6",
+      "anime_id": 1773,
+      "anime_name": "Jyu Oh Sei"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/jyu-oh-sei/7",
+      "anime_id": 1773,
+      "anime_name": "Jyu Oh Sei"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/jyu-oh-sei/8",
+      "anime_id": 1773,
+      "anime_name": "Jyu Oh Sei"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/jyu-oh-sei/9",
+      "anime_id": 1773,
+      "anime_name": "Jyu Oh Sei"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/jyu-oh-sei/10",
+      "anime_id": 1773,
+      "anime_name": "Jyu Oh Sei"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/jyu-oh-sei/11",
+      "anime_id": 1773,
+      "anime_name": "Jyu Oh Sei"
+    }
+  ],
+  "total_episodes": 11
+}

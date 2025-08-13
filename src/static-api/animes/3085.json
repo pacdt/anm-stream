@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3085,
+    "nome": "Re-Kan!",
+    "link": "https://animefire.plus/animes/re-kan-todos-os-episodios",
+    "texto_original": "Re-Kan!",
+    "rating": 6.8,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/re-kan.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/re-kan/",
+    "secao": "legendados",
+    "pagina": 91,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/re-kan"
+  }
+}

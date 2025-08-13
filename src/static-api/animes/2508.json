@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2508,
+    "nome": "Minami-ke",
+    "link": "https://animefire.plus/animes/minami-ke-todos-os-episodios",
+    "texto_original": "Minami-ke",
+    "rating": 7.74,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/minami-ke.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/minami-ke/",
+    "secao": "legendados",
+    "pagina": 176,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/minami-ke"
+  }
+}

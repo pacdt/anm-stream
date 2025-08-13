@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Dandadan 2nd Season (Dublado)",
+  "anime": {
+    "id": 740,
+    "nome": "Dandadan 2nd Season (Dublado)",
+    "link": "https://animefire.plus/animes/dandadan-2nd-season-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/dandadan-2nd-season-dublado",
+    "rating": "8.49",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/dandadan-2nd-season-dublado/1",
+      "anime_id": 740,
+      "anime_name": "Dandadan 2nd Season (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/dandadan-2nd-season-dublado/2",
+      "anime_id": 740,
+      "anime_name": "Dandadan 2nd Season (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/dandadan-2nd-season-dublado/3",
+      "anime_id": 740,
+      "anime_name": "Dandadan 2nd Season (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/dandadan-2nd-season-dublado/4",
+      "anime_id": 740,
+      "anime_name": "Dandadan 2nd Season (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/dandadan-2nd-season-dublado/5",
+      "anime_id": 740,
+      "anime_name": "Dandadan 2nd Season (Dublado)"
+    }
+  ],
+  "total_episodes": 5
+}

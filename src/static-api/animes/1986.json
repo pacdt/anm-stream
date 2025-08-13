@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1986,
+    "nome": "Kimi no Iru Machi",
+    "link": "https://animefire.plus/animes/kimi-no-iru-machi-todos-os-episodios",
+    "texto_original": "Kimi no Iru Machi",
+    "rating": 7.08,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/kimi-no-iru-machi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kimi-no-iru-machi/",
+    "secao": "legendados",
+    "pagina": 155,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/kimi-no-iru-machi"
+  }
+}

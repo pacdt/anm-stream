@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Hangyakusei Million Arthur 2nd Season",
+  "anime": {
+    "id": 1365,
+    "nome": "Hangyakusei Million Arthur 2nd Season",
+    "link": "https://animefire.plus/animes/hangyakusei-million-arthur-2nd-season-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hangyakusei-million-arthur-2nd-season",
+    "rating": "6.35",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hangyakusei-million-arthur-2nd-season/1",
+      "anime_id": 1365,
+      "anime_name": "Hangyakusei Million Arthur 2nd Season"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hangyakusei-million-arthur-2nd-season/2",
+      "anime_id": 1365,
+      "anime_name": "Hangyakusei Million Arthur 2nd Season"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hangyakusei-million-arthur-2nd-season/3",
+      "anime_id": 1365,
+      "anime_name": "Hangyakusei Million Arthur 2nd Season"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hangyakusei-million-arthur-2nd-season/4",
+      "anime_id": 1365,
+      "anime_name": "Hangyakusei Million Arthur 2nd Season"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hangyakusei-million-arthur-2nd-season/5",
+      "anime_id": 1365,
+      "anime_name": "Hangyakusei Million Arthur 2nd Season"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hangyakusei-million-arthur-2nd-season/6",
+      "anime_id": 1365,
+      "anime_name": "Hangyakusei Million Arthur 2nd Season"
+    }
+  ],
+  "total_episodes": 6
+}

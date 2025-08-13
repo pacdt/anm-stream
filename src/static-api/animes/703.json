@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 703,
+    "nome": "Cross Game",
+    "link": "https://animefire.plus/animes/cross-game-todos-os-episodios",
+    "texto_original": "Cross Game",
+    "rating": 8.46,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/cross-game.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/cross-game/",
+    "secao": "legendados",
+    "pagina": 178,
+    "total_episodios": 50,
+    "link_video": "https://animefire.plus/video/cross-game"
+  }
+}

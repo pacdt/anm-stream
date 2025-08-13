@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Dorohedoro: Ma no Omake",
+  "anime": {
+    "id": 849,
+    "nome": "Dorohedoro: Ma no Omake",
+    "link": "https://animefire.plus/animes/dorohedoro-ma-no-omake-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/dorohedoro-ma-no-omake",
+    "rating": "7.11",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/dorohedoro-ma-no-omake/1",
+      "anime_id": 849,
+      "anime_name": "Dorohedoro: Ma no Omake"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/dorohedoro-ma-no-omake/2",
+      "anime_id": 849,
+      "anime_name": "Dorohedoro: Ma no Omake"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/dorohedoro-ma-no-omake/3",
+      "anime_id": 849,
+      "anime_name": "Dorohedoro: Ma no Omake"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/dorohedoro-ma-no-omake/4",
+      "anime_id": 849,
+      "anime_name": "Dorohedoro: Ma no Omake"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/dorohedoro-ma-no-omake/5",
+      "anime_id": 849,
+      "anime_name": "Dorohedoro: Ma no Omake"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/dorohedoro-ma-no-omake/6",
+      "anime_id": 849,
+      "anime_name": "Dorohedoro: Ma no Omake"
+    }
+  ],
+  "total_episodes": 6
+}

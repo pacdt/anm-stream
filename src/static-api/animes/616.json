@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 616,
+    "nome": "Chobits",
+    "link": "https://animefire.plus/animes/chobits-todos-os-episodios",
+    "texto_original": "Chobits",
+    "rating": 7.5,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/chobits.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/chobits/",
+    "secao": "legendados",
+    "pagina": 137,
+    "total_episodios": 15,
+    "link_video": "https://animefire.plus/video/chobits"
+  }
+}

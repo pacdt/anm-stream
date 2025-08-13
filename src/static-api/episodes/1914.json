@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Kawagoe Boys Sing",
+  "anime": {
+    "id": 1914,
+    "nome": "Kawagoe Boys Sing",
+    "link": "https://animefire.plus/animes/kawagoe-boys-sing-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kawagoe-boys-sing",
+    "rating": "5.66",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kawagoe-boys-sing/1",
+      "anime_id": 1914,
+      "anime_name": "Kawagoe Boys Sing"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kawagoe-boys-sing/2",
+      "anime_id": 1914,
+      "anime_name": "Kawagoe Boys Sing"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kawagoe-boys-sing/3",
+      "anime_id": 1914,
+      "anime_name": "Kawagoe Boys Sing"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kawagoe-boys-sing/4",
+      "anime_id": 1914,
+      "anime_name": "Kawagoe Boys Sing"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kawagoe-boys-sing/5",
+      "anime_id": 1914,
+      "anime_name": "Kawagoe Boys Sing"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kawagoe-boys-sing/6",
+      "anime_id": 1914,
+      "anime_name": "Kawagoe Boys Sing"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/kawagoe-boys-sing/7",
+      "anime_id": 1914,
+      "anime_name": "Kawagoe Boys Sing"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/kawagoe-boys-sing/8",
+      "anime_id": 1914,
+      "anime_name": "Kawagoe Boys Sing"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/kawagoe-boys-sing/9",
+      "anime_id": 1914,
+      "anime_name": "Kawagoe Boys Sing"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/kawagoe-boys-sing/10",
+      "anime_id": 1914,
+      "anime_name": "Kawagoe Boys Sing"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/kawagoe-boys-sing/11",
+      "anime_id": 1914,
+      "anime_name": "Kawagoe Boys Sing"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/kawagoe-boys-sing/12",
+      "anime_id": 1914,
+      "anime_name": "Kawagoe Boys Sing"
+    }
+  ],
+  "total_episodes": 12
+}

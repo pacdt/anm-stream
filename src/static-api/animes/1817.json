@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1817,
+    "nome": "Kakegurui (Dublado)",
+    "link": "https://animefire.plus/animes/kakegurui-dublado-todos-os-episodios",
+    "texto_original": "Kakegurui (Dublado)",
+    "rating": 7.55,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/kakegurui.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kakegurui/",
+    "secao": "dublados,legendados",
+    "pagina": 26,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/kakegurui-dublado"
+  }
+}

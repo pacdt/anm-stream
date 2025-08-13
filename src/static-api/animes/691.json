@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 691,
+    "nome": "Copihan",
+    "link": "https://animefire.plus/animes/copihan-todos-os-episodios",
+    "texto_original": "Copihan",
+    "rating": 5.49,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/copihan.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/copihan/",
+    "secao": "legendados",
+    "pagina": 172,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/copihan"
+  }
+}

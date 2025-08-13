@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Hanbun no Tsuki ga Noboru Sora",
+  "anime": {
+    "id": 1357,
+    "nome": "Hanbun no Tsuki ga Noboru Sora",
+    "link": "https://animefire.plus/animes/hanbun-no-tsuki-ga-noboru-sora-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hanbun-no-tsuki-ga-noboru-sora",
+    "rating": "7.59",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hanbun-no-tsuki-ga-noboru-sora/1",
+      "anime_id": 1357,
+      "anime_name": "Hanbun no Tsuki ga Noboru Sora"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hanbun-no-tsuki-ga-noboru-sora/2",
+      "anime_id": 1357,
+      "anime_name": "Hanbun no Tsuki ga Noboru Sora"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hanbun-no-tsuki-ga-noboru-sora/3",
+      "anime_id": 1357,
+      "anime_name": "Hanbun no Tsuki ga Noboru Sora"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hanbun-no-tsuki-ga-noboru-sora/4",
+      "anime_id": 1357,
+      "anime_name": "Hanbun no Tsuki ga Noboru Sora"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hanbun-no-tsuki-ga-noboru-sora/5",
+      "anime_id": 1357,
+      "anime_name": "Hanbun no Tsuki ga Noboru Sora"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hanbun-no-tsuki-ga-noboru-sora/6",
+      "anime_id": 1357,
+      "anime_name": "Hanbun no Tsuki ga Noboru Sora"
+    }
+  ],
+  "total_episodes": 6
+}

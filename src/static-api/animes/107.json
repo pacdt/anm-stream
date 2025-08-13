@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 107,
+    "nome": "Akagami no Shirayuki-hime",
+    "link": "https://animefire.plus/animes/akagami-no-shirayuki-hime-todos-os-episodios",
+    "texto_original": "Akagami no Shirayuki-hime",
+    "rating": 7.9,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/akagami-no-shirayuki-hime.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/akagami-no-shirayuki-hime/",
+    "secao": "legendados",
+    "pagina": 178,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/akagami-no-shirayuki-hime"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 776,
+    "nome": "Death Note (Dublado)",
+    "link": "https://animefire.plus/animes/death-note-dublado-todos-os-episodios",
+    "texto_original": "Death Note (Dublado)",
+    "rating": 8.66,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/death-note.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/death-note/",
+    "secao": "dublados,legendados",
+    "pagina": 26,
+    "total_episodios": 37,
+    "link_video": "https://animefire.plus/video/death-note-dublado"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3410,
+    "nome": "Shiki",
+    "link": "https://animefire.plus/animes/shiki-todos-os-episodios",
+    "texto_original": "Shiki",
+    "rating": 7.87,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/shiki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shiki/",
+    "secao": "legendados",
+    "pagina": 154,
+    "total_episodios": 22,
+    "link_video": "https://animefire.plus/video/shiki"
+  }
+}

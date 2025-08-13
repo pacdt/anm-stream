@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Yarichin☆Bitch-bu",
+  "anime": {
+    "id": 4222,
+    "nome": "Yarichin☆Bitch-bu",
+    "link": "https://animefire.plus/animes/yarichin-bitch-bu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yarichin-bitch-bu",
+    "rating": "7.11",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yarichin-bitch-bu/1",
+      "anime_id": 4222,
+      "anime_name": "Yarichin☆Bitch-bu"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yarichin-bitch-bu/2",
+      "anime_id": 4222,
+      "anime_name": "Yarichin☆Bitch-bu"
+    }
+  ],
+  "total_episodes": 2
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1072,
+    "nome": "G-On Riders",
+    "link": "https://animefire.plus/animes/g-on-riders-todos-os-episodios",
+    "texto_original": "G-On Riders",
+    "rating": 5.87,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/g-on-riders.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/g-on-riders/",
+    "secao": "legendados",
+    "pagina": 69,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/g-on-riders"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1620,
+    "nome": "Infini-T Force",
+    "link": "https://animefire.plus/animes/infini-t-force-todos-os-episodios",
+    "texto_original": "Infini-T Force",
+    "rating": 6.55,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/infini-t-force.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/infini-t-force/",
+    "secao": "legendados",
+    "pagina": 86,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/infini-t-force"
+  }
+}

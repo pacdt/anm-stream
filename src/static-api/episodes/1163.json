@@ -1,0 +1,146 @@
+{
+  "message": "Lista de episódios do anime: Ginga e Kickoff!!",
+  "anime": {
+    "id": 1163,
+    "nome": "Ginga e Kickoff!!",
+    "link": "https://animefire.plus/animes/ginga-e-kickoff-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ginga-e-kickoff",
+    "rating": "7.33",
+    "classificacao_etaria": "A10"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/1",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/2",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/3",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/4",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/5",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/6",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/7",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/8",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/9",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/10",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/11",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/12",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/13",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    },
+    {
+      "episode_number": 14,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/14",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    },
+    {
+      "episode_number": 15,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/15",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    },
+    {
+      "episode_number": 16,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/16",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    },
+    {
+      "episode_number": 17,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/17",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    },
+    {
+      "episode_number": 18,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/18",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    },
+    {
+      "episode_number": 19,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/19",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    },
+    {
+      "episode_number": 20,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/20",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    },
+    {
+      "episode_number": 21,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/21",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    },
+    {
+      "episode_number": 22,
+      "episode_url": "https://animefire.plus/video/ginga-e-kickoff/22",
+      "anime_id": 1163,
+      "anime_name": "Ginga e Kickoff!!"
+    }
+  ],
+  "total_episodes": 22
+}

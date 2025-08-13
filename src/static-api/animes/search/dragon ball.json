@@ -1,0 +1,112 @@
+{
+  "message": "Resultados da busca por: \"dragon ball\"",
+  "query": "dragon ball",
+  "data": [
+    {
+      "id": 874,
+      "nome": "Dragon Ball (Dublado)",
+      "link": "https://animefire.plus/animes/dragon-ball-dublado-todos-os-episodios",
+      "texto_original": "Dragon Ball (Dublado)",
+      "rating": 7.98,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/dragon-ball.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/dragon-ball/",
+      "secao": "dublados",
+      "pagina": 17,
+      "total_episodios": 153,
+      "link_video": "https://animefire.plus/video/dragon-ball-dublado"
+    },
+    {
+      "id": 875,
+      "nome": "Dragon Ball Daima (Dublado)",
+      "link": "https://animefire.plus/animes/dragon-ball-daima-dublado-todos-os-episodios",
+      "texto_original": "Dragon Ball Daima (Dublado)",
+      "rating": 7.63,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/dragon-ball-daima.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/dragon-ball-daima/",
+      "secao": "dublados,legendados",
+      "pagina": 1,
+      "total_episodios": 20,
+      "link_video": "https://animefire.plus/video/dragon-ball-daima-dublado"
+    },
+    {
+      "id": 876,
+      "nome": "Dragon Ball GT (Dublado)",
+      "link": "https://animefire.plus/animes/dragon-ball-gt-dublado-todos-os-episodios",
+      "texto_original": "Dragon Ball GT (Dublado)",
+      "rating": 6.64,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/dragon-ball-gt.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/dragon-ball-gt/",
+      "secao": "dublados",
+      "pagina": 26,
+      "total_episodios": 61,
+      "link_video": "https://animefire.plus/video/dragon-ball-gt-dublado"
+    },
+    {
+      "id": 877,
+      "nome": "Dragon Ball Heroes (Dublado)",
+      "link": "https://animefire.plus/animes/dragon-ball-heroes-dublado-todos-os-episodios",
+      "texto_original": "Dragon Ball Heroes (Dublado)",
+      "rating": 5.62,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/dragon-ball-heroes.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/dragon-ball-heroes/",
+      "secao": "dublados,legendados,lancamentos",
+      "pagina": 26,
+      "total_episodios": 16,
+      "link_video": "https://animefire.plus/video/dragon-ball-heroes-dublado"
+    },
+    {
+      "id": 878,
+      "nome": "Dragon Ball Kai (Dublado)",
+      "link": "https://animefire.plus/animes/dragon-ball-kai-dublado-todos-os-episodios",
+      "texto_original": "Dragon Ball Kai (Dublado)",
+      "rating": 7.79,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/dragon-ball-kai.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/dragon-ball-kai/",
+      "secao": "dublados",
+      "pagina": 21,
+      "total_episodios": 26,
+      "link_video": "https://animefire.plus/video/dragon-ball-kai-dublado"
+    },
+    {
+      "id": 879,
+      "nome": "Dragon Ball Super (Dublado)",
+      "link": "https://animefire.plus/animes/dragon-ball-super-dublado-todos-os-episodios",
+      "texto_original": "Dragon Ball Super (Dublado)",
+      "rating": 7.66,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/dragon-ball-super.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/dragon-ball-super/",
+      "secao": "dublados",
+      "pagina": 27,
+      "total_episodios": 0,
+      "link_video": "https://animefire.plus/video/dragon-ball-super-dublado"
+    },
+    {
+      "id": 880,
+      "nome": "Dragon Ball Z (Dublado)",
+      "link": "https://animefire.plus/animes/dragon-ball-z-dublado-todos-os-episodios",
+      "texto_original": "Dragon Ball Z (Dublado)",
+      "rating": 8.15,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/dragon-ball-z.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/dragon-ball-z/",
+      "secao": "dublados",
+      "pagina": 17,
+      "total_episodios": 291,
+      "link_video": "https://animefire.plus/video/dragon-ball-z-dublado"
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "per_page": 20,
+    "total_items": 7,
+    "total_pages": 1,
+    "has_next": false,
+    "has_prev": false
+  }
+}

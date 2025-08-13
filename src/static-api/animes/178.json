@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 178,
+    "nome": "Anime Tenchou",
+    "link": "https://animefire.plus/animes/anime-tenchou-todos-os-episodios",
+    "texto_original": "Anime Tenchou",
+    "rating": 6.08,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/anime-tenchou.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/anime-tenchou/",
+    "secao": "legendados",
+    "pagina": 85,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/anime-tenchou"
+  }
+}

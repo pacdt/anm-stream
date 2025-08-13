@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Rifle Is Beautiful",
+  "anime": {
+    "id": 3123,
+    "nome": "Rifle Is Beautiful",
+    "link": "https://animefire.plus/animes/rifle-is-beautiful-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/rifle-is-beautiful",
+    "rating": "6.19",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/rifle-is-beautiful/1",
+      "anime_id": 3123,
+      "anime_name": "Rifle Is Beautiful"
+    }
+  ],
+  "total_episodes": 1
+}

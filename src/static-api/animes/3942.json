@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3942,
+    "nome": "Tsubasa Chronicle",
+    "link": "https://animefire.plus/animes/tsubasa-chronicle-todos-os-episodios",
+    "texto_original": "Tsubasa Chronicle",
+    "rating": 7.62,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/tsubasa-chronicle.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tsubasa-chronicle/",
+    "secao": "legendados",
+    "pagina": 162,
+    "total_episodios": 52,
+    "link_video": "https://animefire.plus/video/tsubasa-chronicle"
+  }
+}

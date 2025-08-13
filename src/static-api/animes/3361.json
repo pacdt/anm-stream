@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3361,
+    "nome": "Serial Experiments Lain (Dublado)",
+    "link": "https://animefire.plus/animes/serial-experiments-lain-dublado-todos-os-episodios",
+    "texto_original": "Serial Experiments Lain (Dublado)",
+    "rating": 8.01,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/serial-experiments-lain.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/serial-experiments-lain/",
+    "secao": "dublados,legendados",
+    "pagina": 25,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/serial-experiments-lain-dublado"
+  }
+}

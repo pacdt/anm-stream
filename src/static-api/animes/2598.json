@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2598,
+    "nome": "Mouryou no Hako",
+    "link": "https://animefire.plus/animes/mouryou-no-hako-todos-os-episodios",
+    "texto_original": "Mouryou no Hako",
+    "rating": 7.25,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/mouryou-no-hako.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mouryou-no-hako/",
+    "secao": "legendados",
+    "pagina": 151,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/mouryou-no-hako"
+  }
+}

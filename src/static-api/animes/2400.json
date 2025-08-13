@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2400,
+    "nome": "Makura no Danshi",
+    "link": "https://animefire.plus/animes/makura-no-danshi-todos-os-episodios",
+    "texto_original": "Makura no Danshi",
+    "rating": 4.69,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/makura-no-danshi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/makura-no-danshi/",
+    "secao": "legendados",
+    "pagina": 135,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/makura-no-danshi"
+  }
+}

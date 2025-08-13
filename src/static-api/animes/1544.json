@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1544,
+    "nome": "Houseki no Kuni",
+    "link": "https://animefire.plus/animes/houseki-no-kuni-todos-os-episodios",
+    "texto_original": "Houseki no Kuni",
+    "rating": 6.54,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/houseki-no-kuni.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/houseki-no-kuni/",
+    "secao": "legendados",
+    "pagina": 62,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/houseki-no-kuni"
+  }
+}

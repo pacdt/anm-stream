@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1508,
+    "nome": "Hitorijime My Hero",
+    "link": "https://animefire.plus/animes/hitorijime-my-hero-todos-os-episodios",
+    "texto_original": "Hitorijime My Hero",
+    "rating": 7.6,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hitorijime-my-hero.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hitorijime-my-hero/",
+    "secao": "legendados",
+    "pagina": 120,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/hitorijime-my-hero"
+  }
+}

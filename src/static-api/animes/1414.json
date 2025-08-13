@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1414,
+    "nome": "Hellsing (Dublado)",
+    "link": "https://animefire.plus/animes/hellsing-dublado-todos-os-episodios",
+    "texto_original": "Hellsing (Dublado)",
+    "rating": 7.58,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/hellsing.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hellsing/",
+    "secao": "dublados,legendados",
+    "pagina": 26,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/hellsing-dublado"
+  }
+}

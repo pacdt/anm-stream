@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Ontama!",
+  "anime": {
+    "id": 2863,
+    "nome": "Ontama!",
+    "link": "https://animefire.plus/animes/ontama-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ontama",
+    "rating": "6.74",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ontama/1",
+      "anime_id": 2863,
+      "anime_name": "Ontama!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ontama/2",
+      "anime_id": 2863,
+      "anime_name": "Ontama!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/ontama/3",
+      "anime_id": 2863,
+      "anime_name": "Ontama!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/ontama/4",
+      "anime_id": 2863,
+      "anime_name": "Ontama!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/ontama/5",
+      "anime_id": 2863,
+      "anime_name": "Ontama!"
+    }
+  ],
+  "total_episodes": 5
+}

@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Jungle de Ikou!",
+  "anime": {
+    "id": 1757,
+    "nome": "Jungle de Ikou!",
+    "link": "https://animefire.plus/animes/jungle-de-ikou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/jungle-de-ikou",
+    "rating": "5.51",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/jungle-de-ikou/1",
+      "anime_id": 1757,
+      "anime_name": "Jungle de Ikou!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/jungle-de-ikou/2",
+      "anime_id": 1757,
+      "anime_name": "Jungle de Ikou!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/jungle-de-ikou/3",
+      "anime_id": 1757,
+      "anime_name": "Jungle de Ikou!"
+    }
+  ],
+  "total_episodes": 3
+}

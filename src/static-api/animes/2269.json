@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2269,
+    "nome": "Lupin III (2015)",
+    "link": "https://animefire.plus/animes/lupin-iii-2015-todos-os-episodios",
+    "texto_original": "Lupin III (2015)",
+    "rating": 7.94,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/lupin-iii-2015.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/lupin-iii-2015/",
+    "secao": "legendados",
+    "pagina": 76,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/lupin-iii-2015"
+  }
+}

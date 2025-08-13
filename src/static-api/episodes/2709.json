@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Nekogami Yaoyorozu",
+  "anime": {
+    "id": 2709,
+    "nome": "Nekogami Yaoyorozu",
+    "link": "https://animefire.plus/animes/nekogami-yaoyorozu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nekogami-yaoyorozu",
+    "rating": "6.68",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nekogami-yaoyorozu/1",
+      "anime_id": 2709,
+      "anime_name": "Nekogami Yaoyorozu"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/nekogami-yaoyorozu/2",
+      "anime_id": 2709,
+      "anime_name": "Nekogami Yaoyorozu"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/nekogami-yaoyorozu/3",
+      "anime_id": 2709,
+      "anime_name": "Nekogami Yaoyorozu"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/nekogami-yaoyorozu/4",
+      "anime_id": 2709,
+      "anime_name": "Nekogami Yaoyorozu"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/nekogami-yaoyorozu/5",
+      "anime_id": 2709,
+      "anime_name": "Nekogami Yaoyorozu"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/nekogami-yaoyorozu/6",
+      "anime_id": 2709,
+      "anime_name": "Nekogami Yaoyorozu"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/nekogami-yaoyorozu/7",
+      "anime_id": 2709,
+      "anime_name": "Nekogami Yaoyorozu"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/nekogami-yaoyorozu/8",
+      "anime_id": 2709,
+      "anime_name": "Nekogami Yaoyorozu"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/nekogami-yaoyorozu/9",
+      "anime_id": 2709,
+      "anime_name": "Nekogami Yaoyorozu"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/nekogami-yaoyorozu/10",
+      "anime_id": 2709,
+      "anime_name": "Nekogami Yaoyorozu"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/nekogami-yaoyorozu/11",
+      "anime_id": 2709,
+      "anime_name": "Nekogami Yaoyorozu"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/nekogami-yaoyorozu/12",
+      "anime_id": 2709,
+      "anime_name": "Nekogami Yaoyorozu"
+    }
+  ],
+  "total_episodes": 12
+}

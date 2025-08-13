@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Caligula",
+  "anime": {
+    "id": 547,
+    "nome": "Caligula",
+    "link": "https://animefire.plus/animes/caligula-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/caligula",
+    "rating": "6.17",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/caligula/1",
+      "anime_id": 547,
+      "anime_name": "Caligula"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/caligula/2",
+      "anime_id": 547,
+      "anime_name": "Caligula"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/caligula/3",
+      "anime_id": 547,
+      "anime_name": "Caligula"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/caligula/4",
+      "anime_id": 547,
+      "anime_name": "Caligula"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/caligula/5",
+      "anime_id": 547,
+      "anime_name": "Caligula"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/caligula/6",
+      "anime_id": 547,
+      "anime_name": "Caligula"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/caligula/7",
+      "anime_id": 547,
+      "anime_name": "Caligula"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/caligula/8",
+      "anime_id": 547,
+      "anime_name": "Caligula"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/caligula/9",
+      "anime_id": 547,
+      "anime_name": "Caligula"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/caligula/10",
+      "anime_id": 547,
+      "anime_name": "Caligula"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/caligula/11",
+      "anime_id": 547,
+      "anime_name": "Caligula"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/caligula/12",
+      "anime_id": 547,
+      "anime_name": "Caligula"
+    }
+  ],
+  "total_episodes": 12
+}

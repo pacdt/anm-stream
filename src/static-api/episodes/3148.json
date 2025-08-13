@@ -1,0 +1,68 @@
+{
+  "message": "Lista de episódios do anime: Rokuhoudou Yotsuiro Biyori",
+  "anime": {
+    "id": 3148,
+    "nome": "Rokuhoudou Yotsuiro Biyori",
+    "link": "https://animefire.plus/animes/rokuhoudou-yotsuiro-biyori-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/rokuhoudou-yotsuiro-biyori",
+    "rating": "7.64",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/rokuhoudou-yotsuiro-biyori/1",
+      "anime_id": 3148,
+      "anime_name": "Rokuhoudou Yotsuiro Biyori"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/rokuhoudou-yotsuiro-biyori/2",
+      "anime_id": 3148,
+      "anime_name": "Rokuhoudou Yotsuiro Biyori"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/rokuhoudou-yotsuiro-biyori/3",
+      "anime_id": 3148,
+      "anime_name": "Rokuhoudou Yotsuiro Biyori"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/rokuhoudou-yotsuiro-biyori/4",
+      "anime_id": 3148,
+      "anime_name": "Rokuhoudou Yotsuiro Biyori"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/rokuhoudou-yotsuiro-biyori/5",
+      "anime_id": 3148,
+      "anime_name": "Rokuhoudou Yotsuiro Biyori"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/rokuhoudou-yotsuiro-biyori/6",
+      "anime_id": 3148,
+      "anime_name": "Rokuhoudou Yotsuiro Biyori"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/rokuhoudou-yotsuiro-biyori/7",
+      "anime_id": 3148,
+      "anime_name": "Rokuhoudou Yotsuiro Biyori"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/rokuhoudou-yotsuiro-biyori/8",
+      "anime_id": 3148,
+      "anime_name": "Rokuhoudou Yotsuiro Biyori"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/rokuhoudou-yotsuiro-biyori/9",
+      "anime_id": 3148,
+      "anime_name": "Rokuhoudou Yotsuiro Biyori"
+    }
+  ],
+  "total_episodes": 9
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 771,
+    "nome": "Dear Boys (Dublado)",
+    "link": "https://animefire.plus/animes/dear-boys-dublado-todos-os-episodios",
+    "texto_original": "Dear Boys (Dublado)",
+    "rating": 6.88,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/dear-boys.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dear-boys/",
+    "secao": "dublados",
+    "pagina": 22,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/dear-boys-dublado"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Gift: Eternal Rainbow",
+  "anime": {
+    "id": 1154,
+    "nome": "Gift: Eternal Rainbow",
+    "link": "https://animefire.plus/animes/gift-eternal-rainbow-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gift-eternal-rainbow",
+    "rating": "6.70",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gift-eternal-rainbow/1",
+      "anime_id": 1154,
+      "anime_name": "Gift: Eternal Rainbow"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/gift-eternal-rainbow/2",
+      "anime_id": 1154,
+      "anime_name": "Gift: Eternal Rainbow"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/gift-eternal-rainbow/3",
+      "anime_id": 1154,
+      "anime_name": "Gift: Eternal Rainbow"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/gift-eternal-rainbow/4",
+      "anime_id": 1154,
+      "anime_name": "Gift: Eternal Rainbow"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/gift-eternal-rainbow/5",
+      "anime_id": 1154,
+      "anime_name": "Gift: Eternal Rainbow"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/gift-eternal-rainbow/6",
+      "anime_id": 1154,
+      "anime_name": "Gift: Eternal Rainbow"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/gift-eternal-rainbow/7",
+      "anime_id": 1154,
+      "anime_name": "Gift: Eternal Rainbow"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/gift-eternal-rainbow/8",
+      "anime_id": 1154,
+      "anime_name": "Gift: Eternal Rainbow"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/gift-eternal-rainbow/9",
+      "anime_id": 1154,
+      "anime_name": "Gift: Eternal Rainbow"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/gift-eternal-rainbow/10",
+      "anime_id": 1154,
+      "anime_name": "Gift: Eternal Rainbow"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/gift-eternal-rainbow/11",
+      "anime_id": 1154,
+      "anime_name": "Gift: Eternal Rainbow"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/gift-eternal-rainbow/12",
+      "anime_id": 1154,
+      "anime_name": "Gift: Eternal Rainbow"
+    }
+  ],
+  "total_episodes": 12
+}

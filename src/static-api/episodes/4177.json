@@ -1,0 +1,158 @@
+{
+  "message": "Lista de episódios do anime: xxxHOLiC",
+  "anime": {
+    "id": 4177,
+    "nome": "xxxHOLiC",
+    "link": "https://animefire.plus/animes/xxxholic-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/xxxholic",
+    "rating": "8.07",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/xxxholic/1",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/xxxholic/2",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/xxxholic/3",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/xxxholic/4",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/xxxholic/5",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/xxxholic/6",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/xxxholic/7",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/xxxholic/8",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/xxxholic/9",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/xxxholic/10",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/xxxholic/11",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/xxxholic/12",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/xxxholic/13",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 14,
+      "episode_url": "https://animefire.plus/video/xxxholic/14",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 15,
+      "episode_url": "https://animefire.plus/video/xxxholic/15",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 16,
+      "episode_url": "https://animefire.plus/video/xxxholic/16",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 17,
+      "episode_url": "https://animefire.plus/video/xxxholic/17",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 18,
+      "episode_url": "https://animefire.plus/video/xxxholic/18",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 19,
+      "episode_url": "https://animefire.plus/video/xxxholic/19",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 20,
+      "episode_url": "https://animefire.plus/video/xxxholic/20",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 21,
+      "episode_url": "https://animefire.plus/video/xxxholic/21",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 22,
+      "episode_url": "https://animefire.plus/video/xxxholic/22",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 23,
+      "episode_url": "https://animefire.plus/video/xxxholic/23",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    },
+    {
+      "episode_number": 24,
+      "episode_url": "https://animefire.plus/video/xxxholic/24",
+      "anime_id": 4177,
+      "anime_name": "xxxHOLiC"
+    }
+  ],
+  "total_episodes": 24
+}

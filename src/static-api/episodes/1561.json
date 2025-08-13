@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Hyakka Ryouran: Samurai Bride",
+  "anime": {
+    "id": 1561,
+    "nome": "Hyakka Ryouran: Samurai Bride",
+    "link": "https://animefire.plus/animes/hyakka-ryouran-samurai-bride-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hyakka-ryouran-samurai-bride",
+    "rating": "6.85",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hyakka-ryouran-samurai-bride/1",
+      "anime_id": 1561,
+      "anime_name": "Hyakka Ryouran: Samurai Bride"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hyakka-ryouran-samurai-bride/2",
+      "anime_id": 1561,
+      "anime_name": "Hyakka Ryouran: Samurai Bride"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hyakka-ryouran-samurai-bride/3",
+      "anime_id": 1561,
+      "anime_name": "Hyakka Ryouran: Samurai Bride"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hyakka-ryouran-samurai-bride/4",
+      "anime_id": 1561,
+      "anime_name": "Hyakka Ryouran: Samurai Bride"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hyakka-ryouran-samurai-bride/5",
+      "anime_id": 1561,
+      "anime_name": "Hyakka Ryouran: Samurai Bride"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hyakka-ryouran-samurai-bride/6",
+      "anime_id": 1561,
+      "anime_name": "Hyakka Ryouran: Samurai Bride"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/hyakka-ryouran-samurai-bride/7",
+      "anime_id": 1561,
+      "anime_name": "Hyakka Ryouran: Samurai Bride"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/hyakka-ryouran-samurai-bride/8",
+      "anime_id": 1561,
+      "anime_name": "Hyakka Ryouran: Samurai Bride"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/hyakka-ryouran-samurai-bride/9",
+      "anime_id": 1561,
+      "anime_name": "Hyakka Ryouran: Samurai Bride"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/hyakka-ryouran-samurai-bride/10",
+      "anime_id": 1561,
+      "anime_name": "Hyakka Ryouran: Samurai Bride"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/hyakka-ryouran-samurai-bride/11",
+      "anime_id": 1561,
+      "anime_name": "Hyakka Ryouran: Samurai Bride"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/hyakka-ryouran-samurai-bride/12",
+      "anime_id": 1561,
+      "anime_name": "Hyakka Ryouran: Samurai Bride"
+    }
+  ],
+  "total_episodes": 12
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3932,
+    "nome": "Triage X",
+    "link": "https://animefire.plus/animes/triage-x-todos-os-episodios",
+    "texto_original": "Triage X",
+    "rating": 6.36,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/triage-x.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/triage-x/",
+    "secao": "legendados",
+    "pagina": 73,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/triage-x"
+  }
+}

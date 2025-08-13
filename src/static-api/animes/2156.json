@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2156,
+    "nome": "Kuromukuro",
+    "link": "https://animefire.plus/animes/kuromukuro-todos-os-episodios",
+    "texto_original": "Kuromukuro",
+    "rating": 7.32,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/kuromukuro.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kuromukuro/",
+    "secao": "legendados",
+    "pagina": 106,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/kuromukuro"
+  }
+}

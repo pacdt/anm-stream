@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Fugou Keiji: Balance:Unlimited",
+  "anime": {
+    "id": 1036,
+    "nome": "Fugou Keiji: Balance:Unlimited",
+    "link": "https://animefire.plus/animes/fugou-keiji-balance-unlimited-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/fugou-keiji-balance-unlimited",
+    "rating": "7.56",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/fugou-keiji-balance-unlimited/1",
+      "anime_id": 1036,
+      "anime_name": "Fugou Keiji: Balance:Unlimited"
+    }
+  ],
+  "total_episodes": 1
+}

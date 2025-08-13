@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3880,
+    "nome": "Tokyo 24-ku",
+    "link": "https://animefire.plus/animes/tokyo-24-ku-todos-os-episodios",
+    "texto_original": "Tokyo 24-ku",
+    "rating": 6.34,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/tokyo-24-ku.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tokyo-24-ku/",
+    "secao": "legendados",
+    "pagina": 35,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/tokyo-24-ku"
+  }
+}

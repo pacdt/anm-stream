@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1535,
+    "nome": "Hotaru Kagayaku",
+    "link": "https://animefire.plus/animes/hotaru-kagayaku-todos-os-episodios",
+    "texto_original": "Hotaru Kagayaku",
+    "rating": null,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/hotaru-kagayaku.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hotaru-kagayaku/",
+    "secao": "legendados",
+    "pagina": 82,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/hotaru-kagayaku"
+  }
+}

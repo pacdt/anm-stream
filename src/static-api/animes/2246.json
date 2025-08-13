@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2246,
+    "nome": "Love All Play",
+    "link": "https://animefire.plus/animes/love-all-play-todos-os-episodios",
+    "texto_original": "Love All Play",
+    "rating": 6.54,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/love-all-play.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/love-all-play/",
+    "secao": "legendados",
+    "pagina": 34,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/love-all-play"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3927,
+    "nome": "Touka Gettan",
+    "link": "https://animefire.plus/animes/touka-gettan-todos-os-episodios",
+    "texto_original": "Touka Gettan",
+    "rating": 6.63,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/touka-gettan.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/touka-gettan/",
+    "secao": "legendados",
+    "pagina": 121,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/touka-gettan"
+  }
+}

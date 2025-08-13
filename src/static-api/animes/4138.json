@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4138,
+    "nome": "Witchblade",
+    "link": "https://animefire.plus/animes/witchblade-todos-os-episodios",
+    "texto_original": "Witchblade",
+    "rating": 7.34,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/witchblade.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/witchblade/",
+    "secao": "legendados",
+    "pagina": 134,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/witchblade"
+  }
+}

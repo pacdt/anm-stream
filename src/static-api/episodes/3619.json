@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: SSSS.Gridman",
+  "anime": {
+    "id": 3619,
+    "nome": "SSSS.Gridman",
+    "link": "https://animefire.plus/animes/ssss-gridman-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ssss-gridman",
+    "rating": "7.35",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ssss-gridman/1",
+      "anime_id": 3619,
+      "anime_name": "SSSS.Gridman"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ssss-gridman/2",
+      "anime_id": 3619,
+      "anime_name": "SSSS.Gridman"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/ssss-gridman/3",
+      "anime_id": 3619,
+      "anime_name": "SSSS.Gridman"
+    }
+  ],
+  "total_episodes": 3
+}

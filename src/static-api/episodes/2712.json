@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Nekopara",
+  "anime": {
+    "id": 2712,
+    "nome": "Nekopara",
+    "link": "https://animefire.plus/animes/nekopara-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nekopara",
+    "rating": "6.76",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nekopara/1",
+      "anime_id": 2712,
+      "anime_name": "Nekopara"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/nekopara/2",
+      "anime_id": 2712,
+      "anime_name": "Nekopara"
+    }
+  ],
+  "total_episodes": 2
+}

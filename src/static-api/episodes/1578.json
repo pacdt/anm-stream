@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Ichigo 100%",
+  "anime": {
+    "id": 1578,
+    "nome": "Ichigo 100%",
+    "link": "https://animefire.plus/animes/ichigo-100-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ichigo-100",
+    "rating": "6.75",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ichigo-100/1",
+      "anime_id": 1578,
+      "anime_name": "Ichigo 100%"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ichigo-100/2",
+      "anime_id": 1578,
+      "anime_name": "Ichigo 100%"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/ichigo-100/3",
+      "anime_id": 1578,
+      "anime_name": "Ichigo 100%"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/ichigo-100/4",
+      "anime_id": 1578,
+      "anime_name": "Ichigo 100%"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/ichigo-100/5",
+      "anime_id": 1578,
+      "anime_name": "Ichigo 100%"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/ichigo-100/6",
+      "anime_id": 1578,
+      "anime_name": "Ichigo 100%"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/ichigo-100/7",
+      "anime_id": 1578,
+      "anime_name": "Ichigo 100%"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/ichigo-100/8",
+      "anime_id": 1578,
+      "anime_name": "Ichigo 100%"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/ichigo-100/9",
+      "anime_id": 1578,
+      "anime_name": "Ichigo 100%"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/ichigo-100/10",
+      "anime_id": 1578,
+      "anime_name": "Ichigo 100%"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/ichigo-100/11",
+      "anime_id": 1578,
+      "anime_name": "Ichigo 100%"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/ichigo-100/12",
+      "anime_id": 1578,
+      "anime_name": "Ichigo 100%"
+    }
+  ],
+  "total_episodes": 12
+}

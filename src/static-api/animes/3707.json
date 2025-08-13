@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3707,
+    "nome": "Tactics",
+    "link": "https://animefire.plus/animes/tactics-todos-os-episodios",
+    "texto_original": "Tactics",
+    "rating": 7.28,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/tactics.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tactics/",
+    "secao": "legendados",
+    "pagina": 142,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/tactics"
+  }
+}

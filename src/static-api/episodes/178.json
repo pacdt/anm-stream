@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Anime Tenchou",
+  "anime": {
+    "id": 178,
+    "nome": "Anime Tenchou",
+    "link": "https://animefire.plus/animes/anime-tenchou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/anime-tenchou",
+    "rating": "6.08",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/anime-tenchou/1",
+      "anime_id": 178,
+      "anime_name": "Anime Tenchou"
+    }
+  ],
+  "total_episodes": 1
+}

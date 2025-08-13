@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3839,
+    "nome": "The Marginal Service",
+    "link": "https://animefire.plus/animes/the-marginal-service-todos-os-episodios",
+    "texto_original": "The Marginal Service",
+    "rating": 5.5,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/the-marginal-service.jpg",
+    "imagem_pasta": "https://animefire.plus/img/animes/the-marginal-service/",
+    "secao": "legendados",
+    "pagina": 24,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/the-marginal-service"
+  }
+}

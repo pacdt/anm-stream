@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Baka to Test to Shoukanjuu Mini Anime",
+  "anime": {
+    "id": 306,
+    "nome": "Baka to Test to Shoukanjuu Mini Anime",
+    "link": "https://animefire.plus/animes/baka-to-test-to-shoukanjuu-mini-anime-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/baka-to-test-to-shoukanjuu-mini-anime",
+    "rating": "6.75",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/baka-to-test-to-shoukanjuu-mini-anime/1",
+      "anime_id": 306,
+      "anime_name": "Baka to Test to Shoukanjuu Mini Anime"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Strike Witches: Operation Victory Arrow",
+  "anime": {
+    "id": 3656,
+    "nome": "Strike Witches: Operation Victory Arrow",
+    "link": "https://animefire.plus/animes/strike-witches-operation-victory-arrow-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/strike-witches-operation-victory-arrow",
+    "rating": "7.36",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/strike-witches-operation-victory-arrow/1",
+      "anime_id": 3656,
+      "anime_name": "Strike Witches: Operation Victory Arrow"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/strike-witches-operation-victory-arrow/2",
+      "anime_id": 3656,
+      "anime_name": "Strike Witches: Operation Victory Arrow"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/strike-witches-operation-victory-arrow/3",
+      "anime_id": 3656,
+      "anime_name": "Strike Witches: Operation Victory Arrow"
+    }
+  ],
+  "total_episodes": 3
+}

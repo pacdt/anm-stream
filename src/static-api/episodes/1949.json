@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Kennel Tokorozawa",
+  "anime": {
+    "id": 1949,
+    "nome": "Kennel Tokorozawa",
+    "link": "https://animefire.plus/animes/kennel-tokorozawa-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kennel-tokorozawa",
+    "rating": "4.44",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kennel-tokorozawa/1",
+      "anime_id": 1949,
+      "anime_name": "Kennel Tokorozawa"
+    }
+  ],
+  "total_episodes": 1
+}

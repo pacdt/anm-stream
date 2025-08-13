@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1789,
+    "nome": "Kaginado",
+    "link": "https://animefire.plus/animes/kaginado-todos-os-episodios",
+    "texto_original": "Kaginado",
+    "rating": 7.13,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kaginado.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kaginado/",
+    "secao": "legendados",
+    "pagina": 37,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/kaginado"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Genshiken Nidaime OVA",
+  "anime": {
+    "id": 1139,
+    "nome": "Genshiken Nidaime OVA",
+    "link": "https://animefire.plus/animes/genshiken-nidaime-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/genshiken-nidaime-ova",
+    "rating": "7.20",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/genshiken-nidaime-ova/1",
+      "anime_id": 1139,
+      "anime_name": "Genshiken Nidaime OVA"
+    }
+  ],
+  "total_episodes": 1
+}

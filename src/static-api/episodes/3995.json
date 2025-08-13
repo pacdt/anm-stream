@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Uchuu no Senshi",
+  "anime": {
+    "id": 3995,
+    "nome": "Uchuu no Senshi",
+    "link": "https://animefire.plus/animes/uchuu-no-senshi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/uchuu-no-senshi",
+    "rating": "6.21",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/uchuu-no-senshi/1",
+      "anime_id": 3995,
+      "anime_name": "Uchuu no Senshi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/uchuu-no-senshi/2",
+      "anime_id": 3995,
+      "anime_name": "Uchuu no Senshi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/uchuu-no-senshi/3",
+      "anime_id": 3995,
+      "anime_name": "Uchuu no Senshi"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/uchuu-no-senshi/4",
+      "anime_id": 3995,
+      "anime_name": "Uchuu no Senshi"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/uchuu-no-senshi/5",
+      "anime_id": 3995,
+      "anime_name": "Uchuu no Senshi"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/uchuu-no-senshi/6",
+      "anime_id": 3995,
+      "anime_name": "Uchuu no Senshi"
+    }
+  ],
+  "total_episodes": 6
+}

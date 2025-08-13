@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4306,
+    "nome": "Yurumates 3D",
+    "link": "https://animefire.plus/animes/yurumates-3d-todos-os-episodios",
+    "texto_original": "Yurumates 3D",
+    "rating": 6.34,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/yurumates-3d.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/yurumates-3d/",
+    "secao": "legendados",
+    "pagina": 101,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/yurumates-3d"
+  }
+}

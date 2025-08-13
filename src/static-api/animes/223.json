@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 223,
+    "nome": "Arc The Lad",
+    "link": "https://animefire.plus/animes/arc-the-lad-todos-os-episodios",
+    "texto_original": "Arc The Lad",
+    "rating": 6.58,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/arc-the-lad.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/arc-the-lad/",
+    "secao": "legendados",
+    "pagina": 96,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/arc-the-lad"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1170,
+    "nome": "Gingitsune",
+    "link": "https://animefire.plus/animes/gingitsune-todos-os-episodios",
+    "texto_original": "Gingitsune",
+    "rating": 7.21,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/gingitsune.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gingitsune/",
+    "secao": "legendados",
+    "pagina": 94,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/gingitsune"
+  }
+}

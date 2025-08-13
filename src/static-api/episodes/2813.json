@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Okashi na Tensei",
+  "anime": {
+    "id": 2813,
+    "nome": "Okashi na Tensei",
+    "link": "https://animefire.plus/animes/okashi-na-tensei-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/okashi-na-tensei",
+    "rating": "6.70",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/okashi-na-tensei/1",
+      "anime_id": 2813,
+      "anime_name": "Okashi na Tensei"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/okashi-na-tensei/2",
+      "anime_id": 2813,
+      "anime_name": "Okashi na Tensei"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/okashi-na-tensei/3",
+      "anime_id": 2813,
+      "anime_name": "Okashi na Tensei"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/okashi-na-tensei/4",
+      "anime_id": 2813,
+      "anime_name": "Okashi na Tensei"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/okashi-na-tensei/5",
+      "anime_id": 2813,
+      "anime_name": "Okashi na Tensei"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/okashi-na-tensei/6",
+      "anime_id": 2813,
+      "anime_name": "Okashi na Tensei"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/okashi-na-tensei/7",
+      "anime_id": 2813,
+      "anime_name": "Okashi na Tensei"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/okashi-na-tensei/8",
+      "anime_id": 2813,
+      "anime_name": "Okashi na Tensei"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/okashi-na-tensei/9",
+      "anime_id": 2813,
+      "anime_name": "Okashi na Tensei"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/okashi-na-tensei/10",
+      "anime_id": 2813,
+      "anime_name": "Okashi na Tensei"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/okashi-na-tensei/11",
+      "anime_id": 2813,
+      "anime_name": "Okashi na Tensei"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/okashi-na-tensei/12",
+      "anime_id": 2813,
+      "anime_name": "Okashi na Tensei"
+    }
+  ],
+  "total_episodes": 12
+}

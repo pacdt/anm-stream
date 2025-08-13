@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 251,
+    "nome": "Aru Tabibito no Nikki",
+    "link": "https://animefire.plus/animes/aru-tabibito-no-nikki-todos-os-episodios",
+    "texto_original": "Aru Tabibito no Nikki",
+    "rating": 7.16,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/aru-tabibito-no-nikki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/aru-tabibito-no-nikki/",
+    "secao": "legendados",
+    "pagina": 69,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/aru-tabibito-no-nikki"
+  }
+}

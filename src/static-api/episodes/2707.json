@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Neko Hiki no Oruorane",
+  "anime": {
+    "id": 2707,
+    "nome": "Neko Hiki no Oruorane",
+    "link": "https://animefire.plus/animes/neko-hiki-no-oruorane-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/neko-hiki-no-oruorane",
+    "rating": "6.33",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/neko-hiki-no-oruorane/1",
+      "anime_id": 2707,
+      "anime_name": "Neko Hiki no Oruorane"
+    }
+  ],
+  "total_episodes": 1
+}

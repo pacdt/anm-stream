@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3899,
+    "nome": "Tomo-chan wa Onnanoko!",
+    "link": "https://animefire.plus/animes/tomo-chan-wa-onnanoko-todos-os-episodios",
+    "texto_original": "Tomo-chan wa Onnanoko!",
+    "rating": 7.73,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/tomo-chan-wa-onnanoko.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tomo-chan-wa-onnanoko/",
+    "secao": "legendados",
+    "pagina": 27,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/tomo-chan-wa-onnanoko"
+  }
+}

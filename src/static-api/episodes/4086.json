@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: ViVid Strike!",
+  "anime": {
+    "id": 4086,
+    "nome": "ViVid Strike!",
+    "link": "https://animefire.plus/animes/vivid-strike-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/vivid-strike",
+    "rating": "7.22",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/vivid-strike/1",
+      "anime_id": 4086,
+      "anime_name": "ViVid Strike!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/vivid-strike/2",
+      "anime_id": 4086,
+      "anime_name": "ViVid Strike!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/vivid-strike/3",
+      "anime_id": 4086,
+      "anime_name": "ViVid Strike!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/vivid-strike/4",
+      "anime_id": 4086,
+      "anime_name": "ViVid Strike!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/vivid-strike/5",
+      "anime_id": 4086,
+      "anime_name": "ViVid Strike!"
+    }
+  ],
+  "total_episodes": 5
+}

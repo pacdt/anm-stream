@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 712,
+    "nome": "D-Frag!",
+    "link": "https://animefire.plus/animes/d-frag-todos-os-episodios",
+    "texto_original": "D-Frag!",
+    "rating": 7.67,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/d-frag.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/d-frag/",
+    "secao": "legendados",
+    "pagina": 107,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/d-frag"
+  }
+}

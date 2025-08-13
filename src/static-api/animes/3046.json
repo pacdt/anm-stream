@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3046,
+    "nome": "Punch Line",
+    "link": "https://animefire.plus/animes/punch-line-todos-os-episodios",
+    "texto_original": "Punch Line",
+    "rating": 7.05,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/punch-line.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/punch-line/",
+    "secao": "legendados",
+    "pagina": 64,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/punch-line"
+  }
+}

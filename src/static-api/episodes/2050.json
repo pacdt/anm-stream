@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Koi to Senkyo to Chocolate",
+  "anime": {
+    "id": 2050,
+    "nome": "Koi to Senkyo to Chocolate",
+    "link": "https://animefire.plus/animes/koi-to-senkyo-to-chocolate-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/koi-to-senkyo-to-chocolate",
+    "rating": "7.21",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/koi-to-senkyo-to-chocolate/1",
+      "anime_id": 2050,
+      "anime_name": "Koi to Senkyo to Chocolate"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/koi-to-senkyo-to-chocolate/2",
+      "anime_id": 2050,
+      "anime_name": "Koi to Senkyo to Chocolate"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/koi-to-senkyo-to-chocolate/3",
+      "anime_id": 2050,
+      "anime_name": "Koi to Senkyo to Chocolate"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/koi-to-senkyo-to-chocolate/4",
+      "anime_id": 2050,
+      "anime_name": "Koi to Senkyo to Chocolate"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/koi-to-senkyo-to-chocolate/5",
+      "anime_id": 2050,
+      "anime_name": "Koi to Senkyo to Chocolate"
+    }
+  ],
+  "total_episodes": 5
+}

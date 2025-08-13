@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Chainsaw Man (Dublado)",
+  "anime": {
+    "id": 590,
+    "nome": "Chainsaw Man (Dublado)",
+    "link": "https://animefire.plus/animes/chainsaw-man-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/chainsaw-man-dublado",
+    "rating": "8.44",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/chainsaw-man-dublado/1",
+      "anime_id": 590,
+      "anime_name": "Chainsaw Man (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/chainsaw-man-dublado/2",
+      "anime_id": 590,
+      "anime_name": "Chainsaw Man (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/chainsaw-man-dublado/3",
+      "anime_id": 590,
+      "anime_name": "Chainsaw Man (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/chainsaw-man-dublado/4",
+      "anime_id": 590,
+      "anime_name": "Chainsaw Man (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/chainsaw-man-dublado/5",
+      "anime_id": 590,
+      "anime_name": "Chainsaw Man (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/chainsaw-man-dublado/6",
+      "anime_id": 590,
+      "anime_name": "Chainsaw Man (Dublado)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/chainsaw-man-dublado/7",
+      "anime_id": 590,
+      "anime_name": "Chainsaw Man (Dublado)"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/chainsaw-man-dublado/8",
+      "anime_id": 590,
+      "anime_name": "Chainsaw Man (Dublado)"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/chainsaw-man-dublado/9",
+      "anime_id": 590,
+      "anime_name": "Chainsaw Man (Dublado)"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/chainsaw-man-dublado/10",
+      "anime_id": 590,
+      "anime_name": "Chainsaw Man (Dublado)"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/chainsaw-man-dublado/11",
+      "anime_id": 590,
+      "anime_name": "Chainsaw Man (Dublado)"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/chainsaw-man-dublado/12",
+      "anime_id": 590,
+      "anime_name": "Chainsaw Man (Dublado)"
+    }
+  ],
+  "total_episodes": 12
+}

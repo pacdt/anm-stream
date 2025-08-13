@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4065,
+    "nome": "Vampire Knight: Guilty",
+    "link": "https://animefire.plus/animes/vampire-knight-guilty-todos-os-episodios",
+    "texto_original": "Vampire Knight: Guilty",
+    "rating": 7.41,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/vampire-knight-guilty.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/vampire-knight-guilty/",
+    "secao": "legendados",
+    "pagina": 155,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/vampire-knight-guilty"
+  }
+}

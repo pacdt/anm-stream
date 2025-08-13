@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Null Peta Special",
+  "anime": {
+    "id": 2791,
+    "nome": "Null Peta Special",
+    "link": "https://animefire.plus/animes/null-peta-special-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/null-peta-special",
+    "rating": "5.62",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/null-peta-special/1",
+      "anime_id": 2791,
+      "anime_name": "Null Peta Special"
+    }
+  ],
+  "total_episodes": 1
+}

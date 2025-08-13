@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2878,
+    "nome": "Orange (Dublado)",
+    "link": "https://animefire.plus/animes/orange-dublado-todos-os-episodios",
+    "texto_original": "Orange (Dublado)",
+    "rating": 7.66,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/orange.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/orange/",
+    "secao": "dublados,legendados",
+    "pagina": 25,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/orange-dublado"
+  }
+}

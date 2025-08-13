@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Akuma no Riddle",
+  "anime": {
+    "id": 132,
+    "nome": "Akuma no Riddle",
+    "link": "https://animefire.plus/animes/akuma-no-riddle-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/akuma-no-riddle",
+    "rating": "6.74",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/akuma-no-riddle/1",
+      "anime_id": 132,
+      "anime_name": "Akuma no Riddle"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/akuma-no-riddle/2",
+      "anime_id": 132,
+      "anime_name": "Akuma no Riddle"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/akuma-no-riddle/3",
+      "anime_id": 132,
+      "anime_name": "Akuma no Riddle"
+    }
+  ],
+  "total_episodes": 3
+}

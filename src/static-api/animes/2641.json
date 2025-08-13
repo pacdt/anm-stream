@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2641,
+    "nome": "Nagareboshi Lens",
+    "link": "https://animefire.plus/animes/nagareboshi-lens-todos-os-episodios",
+    "texto_original": "Nagareboshi Lens",
+    "rating": 6.72,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/nagareboshi-lens.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/nagareboshi-lens/",
+    "secao": "legendados",
+    "pagina": 106,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/nagareboshi-lens"
+  }
+}

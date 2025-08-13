@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Keijo!!!!!!!!",
+  "anime": {
+    "id": 1923,
+    "nome": "Keijo!!!!!!!!",
+    "link": "https://animefire.plus/animes/keijo-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/keijo",
+    "rating": "7.24",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/keijo/1",
+      "anime_id": 1923,
+      "anime_name": "Keijo!!!!!!!!"
+    }
+  ],
+  "total_episodes": 1
+}

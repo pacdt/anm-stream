@@ -1,0 +1,74 @@
+{
+  "message": "Lista de episódios do anime: Devilman: Crybaby (Dublado)",
+  "anime": {
+    "id": 805,
+    "nome": "Devilman: Crybaby (Dublado)",
+    "link": "https://animefire.plus/animes/devilman-crybaby-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/devilman-crybaby-dublado",
+    "rating": "7.90",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/devilman-crybaby-dublado/1",
+      "anime_id": 805,
+      "anime_name": "Devilman: Crybaby (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/devilman-crybaby-dublado/2",
+      "anime_id": 805,
+      "anime_name": "Devilman: Crybaby (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/devilman-crybaby-dublado/3",
+      "anime_id": 805,
+      "anime_name": "Devilman: Crybaby (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/devilman-crybaby-dublado/4",
+      "anime_id": 805,
+      "anime_name": "Devilman: Crybaby (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/devilman-crybaby-dublado/5",
+      "anime_id": 805,
+      "anime_name": "Devilman: Crybaby (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/devilman-crybaby-dublado/6",
+      "anime_id": 805,
+      "anime_name": "Devilman: Crybaby (Dublado)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/devilman-crybaby-dublado/7",
+      "anime_id": 805,
+      "anime_name": "Devilman: Crybaby (Dublado)"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/devilman-crybaby-dublado/8",
+      "anime_id": 805,
+      "anime_name": "Devilman: Crybaby (Dublado)"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/devilman-crybaby-dublado/9",
+      "anime_id": 805,
+      "anime_name": "Devilman: Crybaby (Dublado)"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/devilman-crybaby-dublado/10",
+      "anime_id": 805,
+      "anime_name": "Devilman: Crybaby (Dublado)"
+    }
+  ],
+  "total_episodes": 10
+}

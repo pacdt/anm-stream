@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2002,
+    "nome": "Kingdom",
+    "link": "https://animefire.plus/animes/kingdom-todos-os-episodios",
+    "texto_original": "Kingdom",
+    "rating": 8.14,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/kingdom.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kingdom/",
+    "secao": "legendados",
+    "pagina": 141,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/kingdom"
+  }
+}

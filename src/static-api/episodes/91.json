@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Aika Zero",
+  "anime": {
+    "id": 91,
+    "nome": "Aika Zero",
+    "link": "https://animefire.plus/animes/aika-zero-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/aika-zero",
+    "rating": "5.99",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/aika-zero/1",
+      "anime_id": 91,
+      "anime_name": "Aika Zero"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/aika-zero/2",
+      "anime_id": 91,
+      "anime_name": "Aika Zero"
+    }
+  ],
+  "total_episodes": 2
+}

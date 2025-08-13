@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 684,
+    "nome": "Comic Party",
+    "link": "https://animefire.plus/animes/comic-party-todos-os-episodios",
+    "texto_original": "Comic Party",
+    "rating": 6.64,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/comic-party.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/comic-party/",
+    "secao": "legendados",
+    "pagina": 99,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/comic-party"
+  }
+}

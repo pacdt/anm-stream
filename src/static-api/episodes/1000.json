@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Fate/strange Fake",
+  "anime": {
+    "id": 1000,
+    "nome": "Fate/strange Fake",
+    "link": "https://animefire.plus/animes/fate-strange-fake-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/fate-strange-fake",
+    "rating": "N/A",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/fate-strange-fake/1",
+      "anime_id": 1000,
+      "anime_name": "Fate/strange Fake"
+    }
+  ],
+  "total_episodes": 1
+}

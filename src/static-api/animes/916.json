@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 916,
+    "nome": "Eat-Man '98",
+    "link": "https://animefire.plus/animes/eat-man-98-todos-os-episodios",
+    "texto_original": "Eat-Man '98",
+    "rating": 6.84,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/eat-man-98.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/eat-man-98/",
+    "secao": "legendados",
+    "pagina": 97,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/eat-man-98"
+  }
+}

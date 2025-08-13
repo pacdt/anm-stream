@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Aggressive Retsuko: We Wish You a Metal Christmas (Dublado)",
+  "anime": {
+    "id": 74,
+    "nome": "Aggressive Retsuko: We Wish You a Metal Christmas (Dublado)",
+    "link": "https://animefire.plus/animes/aggressive-retsuko-we-wish-you-a-metal-christmas-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/aggressive-retsuko-we-wish-you-a-metal-christmas-dublado",
+    "rating": "7.33",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/aggressive-retsuko-we-wish-you-a-metal-christmas-dublado/1",
+      "anime_id": 74,
+      "anime_name": "Aggressive Retsuko: We Wish You a Metal Christmas (Dublado)"
+    }
+  ],
+  "total_episodes": 1
+}

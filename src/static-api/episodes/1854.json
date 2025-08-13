@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Kamisama Hajimemashita (Dublado)",
+  "anime": {
+    "id": 1854,
+    "nome": "Kamisama Hajimemashita (Dublado)",
+    "link": "https://animefire.plus/animes/kamisama-hajimemashita-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kamisama-hajimemashita-dublado",
+    "rating": "8.10",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kamisama-hajimemashita-dublado/1",
+      "anime_id": 1854,
+      "anime_name": "Kamisama Hajimemashita (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kamisama-hajimemashita-dublado/2",
+      "anime_id": 1854,
+      "anime_name": "Kamisama Hajimemashita (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kamisama-hajimemashita-dublado/3",
+      "anime_id": 1854,
+      "anime_name": "Kamisama Hajimemashita (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kamisama-hajimemashita-dublado/4",
+      "anime_id": 1854,
+      "anime_name": "Kamisama Hajimemashita (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kamisama-hajimemashita-dublado/5",
+      "anime_id": 1854,
+      "anime_name": "Kamisama Hajimemashita (Dublado)"
+    }
+  ],
+  "total_episodes": 5
+}

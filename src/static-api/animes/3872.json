@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3872,
+    "nome": "Togainu no Chi",
+    "link": "https://animefire.plus/animes/togainu-no-chi-todos-os-episodios",
+    "texto_original": "Togainu no Chi",
+    "rating": 6.38,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/togainu-no-chi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/togainu-no-chi/",
+    "secao": "legendados",
+    "pagina": 175,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/togainu-no-chi"
+  }
+}

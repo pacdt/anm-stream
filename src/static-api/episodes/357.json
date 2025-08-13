@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Battle Girl High School",
+  "anime": {
+    "id": 357,
+    "nome": "Battle Girl High School",
+    "link": "https://animefire.plus/animes/battle-girl-high-school-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/battle-girl-high-school",
+    "rating": "5.90",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/battle-girl-high-school/1",
+      "anime_id": 357,
+      "anime_name": "Battle Girl High School"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/battle-girl-high-school/2",
+      "anime_id": 357,
+      "anime_name": "Battle Girl High School"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/battle-girl-high-school/3",
+      "anime_id": 357,
+      "anime_name": "Battle Girl High School"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/battle-girl-high-school/4",
+      "anime_id": 357,
+      "anime_name": "Battle Girl High School"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/battle-girl-high-school/5",
+      "anime_id": 357,
+      "anime_name": "Battle Girl High School"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/battle-girl-high-school/6",
+      "anime_id": 357,
+      "anime_name": "Battle Girl High School"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/battle-girl-high-school/7",
+      "anime_id": 357,
+      "anime_name": "Battle Girl High School"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/battle-girl-high-school/8",
+      "anime_id": 357,
+      "anime_name": "Battle Girl High School"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/battle-girl-high-school/9",
+      "anime_id": 357,
+      "anime_name": "Battle Girl High School"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/battle-girl-high-school/10",
+      "anime_id": 357,
+      "anime_name": "Battle Girl High School"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/battle-girl-high-school/11",
+      "anime_id": 357,
+      "anime_name": "Battle Girl High School"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/battle-girl-high-school/12",
+      "anime_id": 357,
+      "anime_name": "Battle Girl High School"
+    }
+  ],
+  "total_episodes": 12
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 841,
+    "nome": "Dokidoki! Precure (Dublado)",
+    "link": "https://animefire.plus/animes/dokidoki-precure-dublado-todos-os-episodios",
+    "texto_original": "Dokidoki! Precure (Dublado)",
+    "rating": 6.73,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/dokidoki-precure.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dokidoki-precure/",
+    "secao": "dublados,legendados",
+    "pagina": 22,
+    "total_episodios": 30,
+    "link_video": "https://animefire.plus/video/dokidoki-precure-dublado"
+  }
+}

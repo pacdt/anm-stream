@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Rinne no Lagrange",
+  "anime": {
+    "id": 3130,
+    "nome": "Rinne no Lagrange",
+    "link": "https://animefire.plus/animes/rinne-no-lagrange-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/rinne-no-lagrange",
+    "rating": "6.97",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/rinne-no-lagrange/1",
+      "anime_id": 3130,
+      "anime_name": "Rinne no Lagrange"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/rinne-no-lagrange/2",
+      "anime_id": 3130,
+      "anime_name": "Rinne no Lagrange"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/rinne-no-lagrange/3",
+      "anime_id": 3130,
+      "anime_name": "Rinne no Lagrange"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/rinne-no-lagrange/4",
+      "anime_id": 3130,
+      "anime_name": "Rinne no Lagrange"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/rinne-no-lagrange/5",
+      "anime_id": 3130,
+      "anime_name": "Rinne no Lagrange"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/rinne-no-lagrange/6",
+      "anime_id": 3130,
+      "anime_name": "Rinne no Lagrange"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/rinne-no-lagrange/7",
+      "anime_id": 3130,
+      "anime_name": "Rinne no Lagrange"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/rinne-no-lagrange/8",
+      "anime_id": 3130,
+      "anime_name": "Rinne no Lagrange"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/rinne-no-lagrange/9",
+      "anime_id": 3130,
+      "anime_name": "Rinne no Lagrange"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/rinne-no-lagrange/10",
+      "anime_id": 3130,
+      "anime_name": "Rinne no Lagrange"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/rinne-no-lagrange/11",
+      "anime_id": 3130,
+      "anime_name": "Rinne no Lagrange"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/rinne-no-lagrange/12",
+      "anime_id": 3130,
+      "anime_name": "Rinne no Lagrange"
+    }
+  ],
+  "total_episodes": 12
+}

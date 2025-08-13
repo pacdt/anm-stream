@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Neko Neko Fantasia",
+  "anime": {
+    "id": 2708,
+    "nome": "Neko Neko Fantasia",
+    "link": "https://animefire.plus/animes/neko-neko-fantasia-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/neko-neko-fantasia",
+    "rating": "5.96",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/neko-neko-fantasia/1",
+      "anime_id": 2708,
+      "anime_name": "Neko Neko Fantasia"
+    }
+  ],
+  "total_episodes": 1
+}

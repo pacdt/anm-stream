@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 290,
+    "nome": "B-gata H-kei",
+    "link": "https://animefire.plus/animes/b-gata-h-kei-todos-os-episodios",
+    "texto_original": "B-gata H-kei",
+    "rating": 7.06,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/b-gata-h-kei.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/b-gata-h-kei/",
+    "secao": "legendados",
+    "pagina": 150,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/b-gata-h-kei"
+  }
+}

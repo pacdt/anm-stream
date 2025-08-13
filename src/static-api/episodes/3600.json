@@ -1,0 +1,74 @@
+{
+  "message": "Lista de episódios do anime: Soushin Shoujo Matoi",
+  "anime": {
+    "id": 3600,
+    "nome": "Soushin Shoujo Matoi",
+    "link": "https://animefire.plus/animes/soushin-shoujo-matoi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/soushin-shoujo-matoi",
+    "rating": "6.76",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/soushin-shoujo-matoi/1",
+      "anime_id": 3600,
+      "anime_name": "Soushin Shoujo Matoi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/soushin-shoujo-matoi/2",
+      "anime_id": 3600,
+      "anime_name": "Soushin Shoujo Matoi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/soushin-shoujo-matoi/3",
+      "anime_id": 3600,
+      "anime_name": "Soushin Shoujo Matoi"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/soushin-shoujo-matoi/4",
+      "anime_id": 3600,
+      "anime_name": "Soushin Shoujo Matoi"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/soushin-shoujo-matoi/5",
+      "anime_id": 3600,
+      "anime_name": "Soushin Shoujo Matoi"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/soushin-shoujo-matoi/6",
+      "anime_id": 3600,
+      "anime_name": "Soushin Shoujo Matoi"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/soushin-shoujo-matoi/7",
+      "anime_id": 3600,
+      "anime_name": "Soushin Shoujo Matoi"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/soushin-shoujo-matoi/8",
+      "anime_id": 3600,
+      "anime_name": "Soushin Shoujo Matoi"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/soushin-shoujo-matoi/9",
+      "anime_id": 3600,
+      "anime_name": "Soushin Shoujo Matoi"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/soushin-shoujo-matoi/10",
+      "anime_id": 3600,
+      "anime_name": "Soushin Shoujo Matoi"
+    }
+  ],
+  "total_episodes": 10
+}

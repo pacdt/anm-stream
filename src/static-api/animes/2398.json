@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2398,
+    "nome": "Maken-Ki! Two",
+    "link": "https://animefire.plus/animes/maken-ki-two-todos-os-episodios",
+    "texto_original": "Maken-Ki! Two",
+    "rating": 6.33,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/maken-ki-two.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/maken-ki-two/",
+    "secao": "legendados",
+    "pagina": 157,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/maken-ki-two"
+  }
+}

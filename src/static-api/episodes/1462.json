@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: High Score Girl: Extra Stage (Dublado)",
+  "anime": {
+    "id": 1462,
+    "nome": "High Score Girl: Extra Stage (Dublado)",
+    "link": "https://animefire.plus/animes/high-score-girl-extra-stage-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/high-score-girl-extra-stage-dublado",
+    "rating": "8.07",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/high-score-girl-extra-stage-dublado/1",
+      "anime_id": 1462,
+      "anime_name": "High Score Girl: Extra Stage (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/high-score-girl-extra-stage-dublado/2",
+      "anime_id": 1462,
+      "anime_name": "High Score Girl: Extra Stage (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/high-score-girl-extra-stage-dublado/3",
+      "anime_id": 1462,
+      "anime_name": "High Score Girl: Extra Stage (Dublado)"
+    }
+  ],
+  "total_episodes": 3
+}

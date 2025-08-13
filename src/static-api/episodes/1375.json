@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Happy Sugar Life",
+  "anime": {
+    "id": 1375,
+    "nome": "Happy Sugar Life",
+    "link": "https://animefire.plus/animes/happy-sugar-life-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/happy-sugar-life",
+    "rating": "7.04",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/happy-sugar-life/1",
+      "anime_id": 1375,
+      "anime_name": "Happy Sugar Life"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/happy-sugar-life/2",
+      "anime_id": 1375,
+      "anime_name": "Happy Sugar Life"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/happy-sugar-life/3",
+      "anime_id": 1375,
+      "anime_name": "Happy Sugar Life"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/happy-sugar-life/4",
+      "anime_id": 1375,
+      "anime_name": "Happy Sugar Life"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/happy-sugar-life/5",
+      "anime_id": 1375,
+      "anime_name": "Happy Sugar Life"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/happy-sugar-life/6",
+      "anime_id": 1375,
+      "anime_name": "Happy Sugar Life"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/happy-sugar-life/7",
+      "anime_id": 1375,
+      "anime_name": "Happy Sugar Life"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/happy-sugar-life/8",
+      "anime_id": 1375,
+      "anime_name": "Happy Sugar Life"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/happy-sugar-life/9",
+      "anime_id": 1375,
+      "anime_name": "Happy Sugar Life"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/happy-sugar-life/10",
+      "anime_id": 1375,
+      "anime_name": "Happy Sugar Life"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/happy-sugar-life/11",
+      "anime_id": 1375,
+      "anime_name": "Happy Sugar Life"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/happy-sugar-life/12",
+      "anime_id": 1375,
+      "anime_name": "Happy Sugar Life"
+    }
+  ],
+  "total_episodes": 12
+}

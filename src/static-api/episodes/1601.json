@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Ikebukuro PR Anime",
+  "anime": {
+    "id": 1601,
+    "nome": "Ikebukuro PR Anime",
+    "link": "https://animefire.plus/animes/ikebukuro-pr-anime-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ikebukuro-pr-anime",
+    "rating": "6.12",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ikebukuro-pr-anime/1",
+      "anime_id": 1601,
+      "anime_name": "Ikebukuro PR Anime"
+    }
+  ],
+  "total_episodes": 1
+}

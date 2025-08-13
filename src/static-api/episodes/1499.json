@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: Hit Wo Nerae!",
+  "anime": {
+    "id": 1499,
+    "nome": "Hit Wo Nerae!",
+    "link": "https://animefire.plus/animes/hit-wo-nerae-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hit-wo-nerae",
+    "rating": "5.56",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hit-wo-nerae/1",
+      "anime_id": 1499,
+      "anime_name": "Hit Wo Nerae!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hit-wo-nerae/2",
+      "anime_id": 1499,
+      "anime_name": "Hit Wo Nerae!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hit-wo-nerae/3",
+      "anime_id": 1499,
+      "anime_name": "Hit Wo Nerae!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hit-wo-nerae/4",
+      "anime_id": 1499,
+      "anime_name": "Hit Wo Nerae!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hit-wo-nerae/5",
+      "anime_id": 1499,
+      "anime_name": "Hit Wo Nerae!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hit-wo-nerae/6",
+      "anime_id": 1499,
+      "anime_name": "Hit Wo Nerae!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/hit-wo-nerae/7",
+      "anime_id": 1499,
+      "anime_name": "Hit Wo Nerae!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/hit-wo-nerae/8",
+      "anime_id": 1499,
+      "anime_name": "Hit Wo Nerae!"
+    }
+  ],
+  "total_episodes": 8
+}

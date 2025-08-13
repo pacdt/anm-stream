@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Si Ling Bianma: Zhi Shijie Caozong Zhe Recap",
+  "anime": {
+    "id": 3530,
+    "nome": "Si Ling Bianma: Zhi Shijie Caozong Zhe Recap",
+    "link": "https://animefire.plus/animes/si-ling-bianma-zhi-shijie-caozong-zhe-recap-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/si-ling-bianma-zhi-shijie-caozong-zhe-recap",
+    "rating": "N/A",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/si-ling-bianma-zhi-shijie-caozong-zhe-recap/1",
+      "anime_id": 3530,
+      "anime_name": "Si Ling Bianma: Zhi Shijie Caozong Zhe Recap"
+    }
+  ],
+  "total_episodes": 1
+}

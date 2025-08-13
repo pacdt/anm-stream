@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 320,
+    "nome": "Bakuon!!",
+    "link": "https://animefire.plus/animes/bakuon-todos-os-episodios",
+    "texto_original": "Bakuon!!",
+    "rating": 6.51,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/bakuon.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bakuon/",
+    "secao": "legendados",
+    "pagina": 103,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/bakuon"
+  }
+}

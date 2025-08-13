@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1595,
+    "nome": "Idoly Pride",
+    "link": "https://animefire.plus/animes/idoly-pride-todos-os-episodios",
+    "texto_original": "Idoly Pride",
+    "rating": 7.41,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/idoly-pride.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/idoly-pride/",
+    "secao": "legendados",
+    "pagina": 48,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/idoly-pride"
+  }
+}

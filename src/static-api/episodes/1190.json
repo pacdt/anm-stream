@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Girls Band Cry",
+  "anime": {
+    "id": 1190,
+    "nome": "Girls Band Cry",
+    "link": "https://animefire.plus/animes/girls-band-cry-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/girls-band-cry",
+    "rating": "8.22",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/girls-band-cry/1",
+      "anime_id": 1190,
+      "anime_name": "Girls Band Cry"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/girls-band-cry/2",
+      "anime_id": 1190,
+      "anime_name": "Girls Band Cry"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/girls-band-cry/3",
+      "anime_id": 1190,
+      "anime_name": "Girls Band Cry"
+    }
+  ],
+  "total_episodes": 3
+}

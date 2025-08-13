@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Madan no Ou to Vanadis",
+  "anime": {
+    "id": 2296,
+    "nome": "Madan no Ou to Vanadis",
+    "link": "https://animefire.plus/animes/madan-no-ou-to-vanadis-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/madan-no-ou-to-vanadis",
+    "rating": "7.29",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/madan-no-ou-to-vanadis/1",
+      "anime_id": 2296,
+      "anime_name": "Madan no Ou to Vanadis"
+    }
+  ],
+  "total_episodes": 1
+}

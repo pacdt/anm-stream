@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1234,
+    "nome": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+    "link": "https://animefire.plus/animes/goukon-ni-ittara-onna-ga-inakatta-hanashi-todos-os-episodios",
+    "texto_original": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+    "rating": 7.4,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/goukon-ni-ittara-onna-ga-inakatta-hanashi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/goukon-ni-ittara-onna-ga-inakatta-hanashi/",
+    "secao": "legendados",
+    "pagina": 9,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/goukon-ni-ittara-onna-ga-inakatta-hanashi"
+  }
+}

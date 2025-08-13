@@ -1,0 +1,68 @@
+{
+  "message": "Lista de episódios do anime: Yingxiong Zai Lin",
+  "anime": {
+    "id": 4237,
+    "nome": "Yingxiong Zai Lin",
+    "link": "https://animefire.plus/animes/yingxiong-zai-lin-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yingxiong-zai-lin",
+    "rating": "N/A",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yingxiong-zai-lin/1",
+      "anime_id": 4237,
+      "anime_name": "Yingxiong Zai Lin"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yingxiong-zai-lin/2",
+      "anime_id": 4237,
+      "anime_name": "Yingxiong Zai Lin"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/yingxiong-zai-lin/3",
+      "anime_id": 4237,
+      "anime_name": "Yingxiong Zai Lin"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/yingxiong-zai-lin/4",
+      "anime_id": 4237,
+      "anime_name": "Yingxiong Zai Lin"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/yingxiong-zai-lin/5",
+      "anime_id": 4237,
+      "anime_name": "Yingxiong Zai Lin"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/yingxiong-zai-lin/6",
+      "anime_id": 4237,
+      "anime_name": "Yingxiong Zai Lin"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/yingxiong-zai-lin/7",
+      "anime_id": 4237,
+      "anime_name": "Yingxiong Zai Lin"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/yingxiong-zai-lin/8",
+      "anime_id": 4237,
+      "anime_name": "Yingxiong Zai Lin"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/yingxiong-zai-lin/9",
+      "anime_id": 4237,
+      "anime_name": "Yingxiong Zai Lin"
+    }
+  ],
+  "total_episodes": 9
+}

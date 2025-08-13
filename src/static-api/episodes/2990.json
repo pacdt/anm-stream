@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Plastic Little",
+  "anime": {
+    "id": 2990,
+    "nome": "Plastic Little",
+    "link": "https://animefire.plus/animes/plastic-little-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/plastic-little",
+    "rating": "6.17",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/plastic-little/1",
+      "anime_id": 2990,
+      "anime_name": "Plastic Little"
+    }
+  ],
+  "total_episodes": 1
+}

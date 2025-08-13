@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1337,
+    "nome": "Hakuouki Reimeiroku",
+    "link": "https://animefire.plus/animes/hakuouki-reimeiroku-todos-os-episodios",
+    "texto_original": "Hakuouki Reimeiroku",
+    "rating": 7.58,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/hakuouki-reimeiroku.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hakuouki-reimeiroku/",
+    "secao": "legendados",
+    "pagina": 111,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/hakuouki-reimeiroku"
+  }
+}

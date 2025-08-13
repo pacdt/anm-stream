@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 997,
+    "nome": "Fate/Stay Night (Dublado)",
+    "link": "https://animefire.plus/animes/fate-stay-night-dublado-todos-os-episodios",
+    "texto_original": "Fate/Stay Night (Dublado)",
+    "rating": 7.46,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/fate-stay-night.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/fate-stay-night/",
+    "secao": "dublados,legendados",
+    "pagina": 26,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/fate-stay-night-dublado"
+  }
+}

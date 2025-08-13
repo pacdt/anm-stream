@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1085,
+    "nome": "Gakuen Basara",
+    "link": "https://animefire.plus/animes/gakuen-basara-todos-os-episodios",
+    "texto_original": "Gakuen Basara",
+    "rating": 6.22,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/gakuen-basara.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gakuen-basara/",
+    "secao": "legendados",
+    "pagina": 151,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/gakuen-basara"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3625,
+    "nome": "Starmyu",
+    "link": "https://animefire.plus/animes/starmyu-todos-os-episodios",
+    "texto_original": "Starmyu",
+    "rating": 7.06,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/starmyu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/starmyu/",
+    "secao": "legendados",
+    "pagina": 149,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/starmyu"
+  }
+}

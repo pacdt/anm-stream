@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: The iDOLM@STER SideM: Wake Atte Mini!",
+  "anime": {
+    "id": 3836,
+    "nome": "The iDOLM@STER SideM: Wake Atte Mini!",
+    "link": "https://animefire.plus/animes/the-idolmatster-sidem-wake-atte-mini-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/the-idolmatster-sidem-wake-atte-mini",
+    "rating": "6.18",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/the-idolmatster-sidem-wake-atte-mini/1",
+      "anime_id": 3836,
+      "anime_name": "The iDOLM@STER SideM: Wake Atte Mini!"
+    }
+  ],
+  "total_episodes": 1
+}

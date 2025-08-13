@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru OVA",
+  "anime": {
+    "id": 2889,
+    "nome": "Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru OVA",
+    "link": "https://animefire.plus/animes/ore-no-nounai-sentakushi-ga-gakuen-love-comedy-wo-zenryoku-de-jama-shiteiru-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ore-no-nounai-sentakushi-ga-gakuen-love-comedy-wo-zenryoku-de-jama-shiteiru-ova",
+    "rating": "7.27",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ore-no-nounai-sentakushi-ga-gakuen-love-comedy-wo-zenryoku-de-jama-shiteiru-ova/1",
+      "anime_id": 2889,
+      "anime_name": "Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru OVA"
+    }
+  ],
+  "total_episodes": 1
+}

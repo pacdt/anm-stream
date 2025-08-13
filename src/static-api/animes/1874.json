@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1874,
+    "nome": "Kannagi",
+    "link": "https://animefire.plus/animes/kannagi-todos-os-episodios",
+    "texto_original": "Kannagi",
+    "rating": 7.37,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kannagi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kannagi/",
+    "secao": "legendados",
+    "pagina": 152,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/kannagi"
+  }
+}

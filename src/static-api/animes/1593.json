@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1593,
+    "nome": "Idolls!",
+    "link": "https://animefire.plus/animes/idolls-todos-os-episodios",
+    "texto_original": "Idolls!",
+    "rating": 5.05,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/idolls.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/idolls/",
+    "secao": "legendados",
+    "pagina": 48,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/idolls"
+  }
+}

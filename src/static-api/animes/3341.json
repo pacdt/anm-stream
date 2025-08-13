@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3341,
+    "nome": "Senjuushi",
+    "link": "https://animefire.plus/animes/senjuushi-todos-os-episodios",
+    "texto_original": "Senjuushi",
+    "rating": 4.97,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/senjuushi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/senjuushi/",
+    "secao": "legendados",
+    "pagina": 173,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/senjuushi"
+  }
+}

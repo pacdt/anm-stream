@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1073,
+    "nome": "Ga-Rei: Zero",
+    "link": "https://animefire.plus/animes/ga-rei-zero-todos-os-episodios",
+    "texto_original": "Ga-Rei: Zero",
+    "rating": 7.68,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/ga-rei-zero.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ga-rei-zero/",
+    "secao": "legendados",
+    "pagina": 174,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/ga-rei-zero"
+  }
+}

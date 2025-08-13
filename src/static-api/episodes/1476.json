@@ -1,0 +1,74 @@
+{
+  "message": "Lista de episódios do anime: Hikari no Ou",
+  "anime": {
+    "id": 1476,
+    "nome": "Hikari no Ou",
+    "link": "https://animefire.plus/animes/hikari-no-ou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hikari-no-ou",
+    "rating": "6.33",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hikari-no-ou/1",
+      "anime_id": 1476,
+      "anime_name": "Hikari no Ou"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hikari-no-ou/2",
+      "anime_id": 1476,
+      "anime_name": "Hikari no Ou"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hikari-no-ou/3",
+      "anime_id": 1476,
+      "anime_name": "Hikari no Ou"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hikari-no-ou/4",
+      "anime_id": 1476,
+      "anime_name": "Hikari no Ou"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hikari-no-ou/5",
+      "anime_id": 1476,
+      "anime_name": "Hikari no Ou"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hikari-no-ou/6",
+      "anime_id": 1476,
+      "anime_name": "Hikari no Ou"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/hikari-no-ou/7",
+      "anime_id": 1476,
+      "anime_name": "Hikari no Ou"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/hikari-no-ou/8",
+      "anime_id": 1476,
+      "anime_name": "Hikari no Ou"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/hikari-no-ou/9",
+      "anime_id": 1476,
+      "anime_name": "Hikari no Ou"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/hikari-no-ou/10",
+      "anime_id": 1476,
+      "anime_name": "Hikari no Ou"
+    }
+  ],
+  "total_episodes": 10
+}

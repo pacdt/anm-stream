@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Kowabon",
+  "anime": {
+    "id": 2120,
+    "nome": "Kowabon",
+    "link": "https://animefire.plus/animes/kowabon-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kowabon",
+    "rating": "5.25",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kowabon/1",
+      "anime_id": 2120,
+      "anime_name": "Kowabon"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kowabon/2",
+      "anime_id": 2120,
+      "anime_name": "Kowabon"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kowabon/3",
+      "anime_id": 2120,
+      "anime_name": "Kowabon"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kowabon/4",
+      "anime_id": 2120,
+      "anime_name": "Kowabon"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kowabon/5",
+      "anime_id": 2120,
+      "anime_name": "Kowabon"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kowabon/6",
+      "anime_id": 2120,
+      "anime_name": "Kowabon"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/kowabon/7",
+      "anime_id": 2120,
+      "anime_name": "Kowabon"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/kowabon/8",
+      "anime_id": 2120,
+      "anime_name": "Kowabon"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/kowabon/9",
+      "anime_id": 2120,
+      "anime_name": "Kowabon"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/kowabon/10",
+      "anime_id": 2120,
+      "anime_name": "Kowabon"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/kowabon/11",
+      "anime_id": 2120,
+      "anime_name": "Kowabon"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/kowabon/12",
+      "anime_id": 2120,
+      "anime_name": "Kowabon"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/kowabon/13",
+      "anime_id": 2120,
+      "anime_name": "Kowabon"
+    }
+  ],
+  "total_episodes": 13
+}

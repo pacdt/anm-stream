@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Date A Live",
+  "anime": {
+    "id": 757,
+    "nome": "Date A Live",
+    "link": "https://animefire.plus/animes/date-a-live-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/date-a-live",
+    "rating": "7.41",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/date-a-live/1",
+      "anime_id": 757,
+      "anime_name": "Date A Live"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/date-a-live/2",
+      "anime_id": 757,
+      "anime_name": "Date A Live"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/date-a-live/3",
+      "anime_id": 757,
+      "anime_name": "Date A Live"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/date-a-live/4",
+      "anime_id": 757,
+      "anime_name": "Date A Live"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/date-a-live/5",
+      "anime_id": 757,
+      "anime_name": "Date A Live"
+    }
+  ],
+  "total_episodes": 5
+}

@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: Taisou Zamurai",
+  "anime": {
+    "id": 3717,
+    "nome": "Taisou Zamurai",
+    "link": "https://animefire.plus/animes/taisou-zamurai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/taisou-zamurai",
+    "rating": "N/A",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/taisou-zamurai/1",
+      "anime_id": 3717,
+      "anime_name": "Taisou Zamurai"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/taisou-zamurai/2",
+      "anime_id": 3717,
+      "anime_name": "Taisou Zamurai"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/taisou-zamurai/3",
+      "anime_id": 3717,
+      "anime_name": "Taisou Zamurai"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/taisou-zamurai/4",
+      "anime_id": 3717,
+      "anime_name": "Taisou Zamurai"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/taisou-zamurai/5",
+      "anime_id": 3717,
+      "anime_name": "Taisou Zamurai"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/taisou-zamurai/6",
+      "anime_id": 3717,
+      "anime_name": "Taisou Zamurai"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/taisou-zamurai/7",
+      "anime_id": 3717,
+      "anime_name": "Taisou Zamurai"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/taisou-zamurai/8",
+      "anime_id": 3717,
+      "anime_name": "Taisou Zamurai"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/taisou-zamurai/9",
+      "anime_id": 3717,
+      "anime_name": "Taisou Zamurai"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/taisou-zamurai/10",
+      "anime_id": 3717,
+      "anime_name": "Taisou Zamurai"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/taisou-zamurai/11",
+      "anime_id": 3717,
+      "anime_name": "Taisou Zamurai"
+    }
+  ],
+  "total_episodes": 11
+}

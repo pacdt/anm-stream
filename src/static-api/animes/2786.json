@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2786,
+    "nome": "Nourin",
+    "link": "https://animefire.plus/animes/nourin-todos-os-episodios",
+    "texto_original": "Nourin",
+    "rating": 6.91,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/nourin.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/nourin/",
+    "secao": "legendados",
+    "pagina": 116,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/nourin"
+  }
+}

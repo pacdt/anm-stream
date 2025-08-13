@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Ooi! Tonbo",
+  "anime": {
+    "id": 2865,
+    "nome": "Ooi! Tonbo",
+    "link": "https://animefire.plus/animes/ooi-tonbo-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ooi-tonbo",
+    "rating": "7.11",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ooi-tonbo/1",
+      "anime_id": 2865,
+      "anime_name": "Ooi! Tonbo"
+    }
+  ],
+  "total_episodes": 1
+}

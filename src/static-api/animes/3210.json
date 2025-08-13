@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3210,
+    "nome": "Saint Seiya: Saintia Shou",
+    "link": "https://animefire.plus/animes/saint-seiya-saintia-shou-todos-os-episodios",
+    "texto_original": "Saint Seiya: Saintia Shou",
+    "rating": 5.7,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/saint-seiya-saintia-shou.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/saint-seiya-saintia-shou/",
+    "secao": "legendados",
+    "pagina": 139,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/saint-seiya-saintia-shou"
+  }
+}

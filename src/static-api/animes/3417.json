@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3417,
+    "nome": "Shin Ikkitousen",
+    "link": "https://animefire.plus/animes/shin-ikkitousen-todos-os-episodios",
+    "texto_original": "Shin Ikkitousen",
+    "rating": 5.83,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/shin-ikkitousen.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shin-ikkitousen/",
+    "secao": "legendados",
+    "pagina": 34,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/shin-ikkitousen"
+  }
+}

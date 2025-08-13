@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4265,
+    "nome": "Young Black Jack",
+    "link": "https://animefire.plus/animes/young-black-jack-todos-os-episodios",
+    "texto_original": "Young Black Jack",
+    "rating": 7.29,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/young-black-jack.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/young-black-jack/",
+    "secao": "legendados",
+    "pagina": 114,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/young-black-jack"
+  }
+}

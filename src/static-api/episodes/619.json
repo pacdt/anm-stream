@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Chocolate Underground",
+  "anime": {
+    "id": 619,
+    "nome": "Chocolate Underground",
+    "link": "https://animefire.plus/animes/chocolate-underground-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/chocolate-underground",
+    "rating": "6.22",
+    "classificacao_etaria": "A10"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/chocolate-underground/1",
+      "anime_id": 619,
+      "anime_name": "Chocolate Underground"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/chocolate-underground/2",
+      "anime_id": 619,
+      "anime_name": "Chocolate Underground"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/chocolate-underground/3",
+      "anime_id": 619,
+      "anime_name": "Chocolate Underground"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/chocolate-underground/4",
+      "anime_id": 619,
+      "anime_name": "Chocolate Underground"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/chocolate-underground/5",
+      "anime_id": 619,
+      "anime_name": "Chocolate Underground"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/chocolate-underground/6",
+      "anime_id": 619,
+      "anime_name": "Chocolate Underground"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/chocolate-underground/7",
+      "anime_id": 619,
+      "anime_name": "Chocolate Underground"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/chocolate-underground/8",
+      "anime_id": 619,
+      "anime_name": "Chocolate Underground"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/chocolate-underground/9",
+      "anime_id": 619,
+      "anime_name": "Chocolate Underground"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/chocolate-underground/10",
+      "anime_id": 619,
+      "anime_name": "Chocolate Underground"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/chocolate-underground/11",
+      "anime_id": 619,
+      "anime_name": "Chocolate Underground"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/chocolate-underground/12",
+      "anime_id": 619,
+      "anime_name": "Chocolate Underground"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/chocolate-underground/13",
+      "anime_id": 619,
+      "anime_name": "Chocolate Underground"
+    }
+  ],
+  "total_episodes": 13
+}

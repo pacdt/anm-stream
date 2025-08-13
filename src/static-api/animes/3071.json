@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3071,
+    "nome": "Rain Town",
+    "link": "https://animefire.plus/animes/rain-town-todos-os-episodios",
+    "texto_original": "Rain Town",
+    "rating": 7.22,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/rain-town.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/rain-town/",
+    "secao": "legendados",
+    "pagina": 69,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/rain-town"
+  }
+}

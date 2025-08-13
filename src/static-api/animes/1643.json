@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1643,
+    "nome": "InuYasha: Kanketsu-hen",
+    "link": "https://animefire.plus/animes/inuyasha-kanketsu-hen-todos-os-episodios",
+    "texto_original": "InuYasha: Kanketsu-hen",
+    "rating": 8.3,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/inuyasha-kanketsu-hen.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/inuyasha-kanketsu-hen/",
+    "secao": "legendados",
+    "pagina": 116,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/inuyasha-kanketsu-hen"
+  }
+}

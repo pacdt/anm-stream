@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: No Game No Life Specials",
+  "anime": {
+    "id": 2752,
+    "nome": "No Game No Life Specials",
+    "link": "https://animefire.plus/animes/no-game-no-life-specials-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/no-game-no-life-specials",
+    "rating": "6.76",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/no-game-no-life-specials/1",
+      "anime_id": 2752,
+      "anime_name": "No Game No Life Specials"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/no-game-no-life-specials/2",
+      "anime_id": 2752,
+      "anime_name": "No Game No Life Specials"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/no-game-no-life-specials/3",
+      "anime_id": 2752,
+      "anime_name": "No Game No Life Specials"
+    }
+  ],
+  "total_episodes": 3
+}

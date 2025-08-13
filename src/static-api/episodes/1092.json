@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Gal to Kyouryuu",
+  "anime": {
+    "id": 1092,
+    "nome": "Gal to Kyouryuu",
+    "link": "https://animefire.plus/animes/gal-to-kyouryuu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gal-to-kyouryuu",
+    "rating": "6.45",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gal-to-kyouryuu/1",
+      "anime_id": 1092,
+      "anime_name": "Gal to Kyouryuu"
+    }
+  ],
+  "total_episodes": 1
+}

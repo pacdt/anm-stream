@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Ani ni Tsukeru Kusuri wa Nai! 5",
+  "anime": {
+    "id": 175,
+    "nome": "Ani ni Tsukeru Kusuri wa Nai! 5",
+    "link": "https://animefire.plus/animes/ani-ni-tsukeru-kusuri-wa-nai-5-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ani-ni-tsukeru-kusuri-wa-nai-5",
+    "rating": "7.34",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ani-ni-tsukeru-kusuri-wa-nai-5/1",
+      "anime_id": 175,
+      "anime_name": "Ani ni Tsukeru Kusuri wa Nai! 5"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ani-ni-tsukeru-kusuri-wa-nai-5/2",
+      "anime_id": 175,
+      "anime_name": "Ani ni Tsukeru Kusuri wa Nai! 5"
+    }
+  ],
+  "total_episodes": 2
+}

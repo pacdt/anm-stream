@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Koi wa Ameagari no You ni",
+  "anime": {
+    "id": 2055,
+    "nome": "Koi wa Ameagari no You ni",
+    "link": "https://animefire.plus/animes/koi-wa-ameagari-no-you-ni-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/koi-wa-ameagari-no-you-ni",
+    "rating": "7.60",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/koi-wa-ameagari-no-you-ni/1",
+      "anime_id": 2055,
+      "anime_name": "Koi wa Ameagari no You ni"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/koi-wa-ameagari-no-you-ni/2",
+      "anime_id": 2055,
+      "anime_name": "Koi wa Ameagari no You ni"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/koi-wa-ameagari-no-you-ni/3",
+      "anime_id": 2055,
+      "anime_name": "Koi wa Ameagari no You ni"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/koi-wa-ameagari-no-you-ni/4",
+      "anime_id": 2055,
+      "anime_name": "Koi wa Ameagari no You ni"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/koi-wa-ameagari-no-you-ni/5",
+      "anime_id": 2055,
+      "anime_name": "Koi wa Ameagari no You ni"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/koi-wa-ameagari-no-you-ni/6",
+      "anime_id": 2055,
+      "anime_name": "Koi wa Ameagari no You ni"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/koi-wa-ameagari-no-you-ni/7",
+      "anime_id": 2055,
+      "anime_name": "Koi wa Ameagari no You ni"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/koi-wa-ameagari-no-you-ni/8",
+      "anime_id": 2055,
+      "anime_name": "Koi wa Ameagari no You ni"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/koi-wa-ameagari-no-you-ni/9",
+      "anime_id": 2055,
+      "anime_name": "Koi wa Ameagari no You ni"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/koi-wa-ameagari-no-you-ni/10",
+      "anime_id": 2055,
+      "anime_name": "Koi wa Ameagari no You ni"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/koi-wa-ameagari-no-you-ni/11",
+      "anime_id": 2055,
+      "anime_name": "Koi wa Ameagari no You ni"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/koi-wa-ameagari-no-you-ni/12",
+      "anime_id": 2055,
+      "anime_name": "Koi wa Ameagari no You ni"
+    }
+  ],
+  "total_episodes": 12
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Street Fighter IV: Aratanaru Kizuna",
+  "anime": {
+    "id": 3644,
+    "nome": "Street Fighter IV: Aratanaru Kizuna",
+    "link": "https://animefire.plus/animes/street-fighter-iv-aratanaru-kizuna-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/street-fighter-iv-aratanaru-kizuna",
+    "rating": "6.26",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/street-fighter-iv-aratanaru-kizuna/1",
+      "anime_id": 3644,
+      "anime_name": "Street Fighter IV: Aratanaru Kizuna"
+    }
+  ],
+  "total_episodes": 1
+}

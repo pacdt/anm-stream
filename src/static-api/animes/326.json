@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 326,
+    "nome": "Bakuten!!",
+    "link": "https://animefire.plus/animes/bakuten-todos-os-episodios",
+    "texto_original": "Bakuten!!",
+    "rating": 7.49,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/bakuten.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bakuten/",
+    "secao": "legendados",
+    "pagina": 46,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/bakuten"
+  }
+}

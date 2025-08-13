@@ -1,0 +1,56 @@
+{
+  "message": "Resultados da busca por: \"mob psycho\"",
+  "query": "mob psycho",
+  "data": [
+    {
+      "id": 2539,
+      "nome": "Mob Psycho 100 (Dublado)",
+      "link": "https://animefire.plus/animes/mob-psycho-100-dublado-todos-os-episodios",
+      "texto_original": "Mob Psycho 100 (Dublado)",
+      "rating": 8.5,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/mob-psycho-100.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/mob-psycho-100/",
+      "secao": "dublados,legendados",
+      "pagina": 20,
+      "total_episodios": 0,
+      "link_video": "https://animefire.plus/video/mob-psycho-100-dublado"
+    },
+    {
+      "id": 2540,
+      "nome": "Mob Psycho 100 II (Dublado)",
+      "link": "https://animefire.plus/animes/mob-psycho-100-ii-dublado-todos-os-episodios",
+      "texto_original": "Mob Psycho 100 II (Dublado)",
+      "rating": 8.88,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/mob-psycho-100-ii.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/mob-psycho-100-ii/",
+      "secao": "dublados,legendados",
+      "pagina": 23,
+      "total_episodios": 13,
+      "link_video": "https://animefire.plus/video/mob-psycho-100-ii-dublado"
+    },
+    {
+      "id": 2541,
+      "nome": "Mob Psycho 100 III (Dublado)",
+      "link": "https://animefire.plus/animes/mob-psycho-100-iii-dublado-todos-os-episodios",
+      "texto_original": "Mob Psycho 100 III (Dublado)",
+      "rating": 8.71,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/mob-psycho-100-iii.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/mob-psycho-100-iii/",
+      "secao": "dublados,legendados",
+      "pagina": 9,
+      "total_episodios": 12,
+      "link_video": "https://animefire.plus/video/mob-psycho-100-iii-dublado"
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "per_page": 20,
+    "total_items": 3,
+    "total_pages": 1,
+    "has_next": false,
+    "has_prev": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1642,
+    "nome": "InuYasha (Dublado)",
+    "link": "https://animefire.plus/animes/inuyasha-dublado-todos-os-episodios",
+    "texto_original": "InuYasha (Dublado)",
+    "rating": 7.91,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/inuyasha.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/inuyasha/",
+    "secao": "dublados,legendados",
+    "pagina": 27,
+    "total_episodios": 167,
+    "link_video": "https://animefire.plus/video/inuyasha-dublado"
+  }
+}

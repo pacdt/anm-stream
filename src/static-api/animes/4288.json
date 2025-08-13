@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4288,
+    "nome": "Yume Tsukai",
+    "link": "https://animefire.plus/animes/yume-tsukai-todos-os-episodios",
+    "texto_original": "Yume Tsukai",
+    "rating": 6.49,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/yume-tsukai.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/yume-tsukai/",
+    "secao": "legendados",
+    "pagina": 164,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/yume-tsukai"
+  }
+}

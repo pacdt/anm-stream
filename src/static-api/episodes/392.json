@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Binchou-tan",
+  "anime": {
+    "id": 392,
+    "nome": "Binchou-tan",
+    "link": "https://animefire.plus/animes/binchou-tan-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/binchou-tan",
+    "rating": "6.96",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/binchou-tan/1",
+      "anime_id": 392,
+      "anime_name": "Binchou-tan"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/binchou-tan/2",
+      "anime_id": 392,
+      "anime_name": "Binchou-tan"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/binchou-tan/3",
+      "anime_id": 392,
+      "anime_name": "Binchou-tan"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/binchou-tan/4",
+      "anime_id": 392,
+      "anime_name": "Binchou-tan"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/binchou-tan/5",
+      "anime_id": 392,
+      "anime_name": "Binchou-tan"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/binchou-tan/6",
+      "anime_id": 392,
+      "anime_name": "Binchou-tan"
+    }
+  ],
+  "total_episodes": 6
+}

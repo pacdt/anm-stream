@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Dungeon no Naka no Hito",
+  "anime": {
+    "id": 908,
+    "nome": "Dungeon no Naka no Hito",
+    "link": "https://animefire.plus/animes/dungeon-no-naka-no-hito-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/dungeon-no-naka-no-hito",
+    "rating": "7.12",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/dungeon-no-naka-no-hito/1",
+      "anime_id": 908,
+      "anime_name": "Dungeon no Naka no Hito"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/dungeon-no-naka-no-hito/2",
+      "anime_id": 908,
+      "anime_name": "Dungeon no Naka no Hito"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/dungeon-no-naka-no-hito/3",
+      "anime_id": 908,
+      "anime_name": "Dungeon no Naka no Hito"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/dungeon-no-naka-no-hito/4",
+      "anime_id": 908,
+      "anime_name": "Dungeon no Naka no Hito"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/dungeon-no-naka-no-hito/5",
+      "anime_id": 908,
+      "anime_name": "Dungeon no Naka no Hito"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/dungeon-no-naka-no-hito/6",
+      "anime_id": 908,
+      "anime_name": "Dungeon no Naka no Hito"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/dungeon-no-naka-no-hito/7",
+      "anime_id": 908,
+      "anime_name": "Dungeon no Naka no Hito"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/dungeon-no-naka-no-hito/8",
+      "anime_id": 908,
+      "anime_name": "Dungeon no Naka no Hito"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/dungeon-no-naka-no-hito/9",
+      "anime_id": 908,
+      "anime_name": "Dungeon no Naka no Hito"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/dungeon-no-naka-no-hito/10",
+      "anime_id": 908,
+      "anime_name": "Dungeon no Naka no Hito"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/dungeon-no-naka-no-hito/11",
+      "anime_id": 908,
+      "anime_name": "Dungeon no Naka no Hito"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/dungeon-no-naka-no-hito/12",
+      "anime_id": 908,
+      "anime_name": "Dungeon no Naka no Hito"
+    }
+  ],
+  "total_episodes": 12
+}

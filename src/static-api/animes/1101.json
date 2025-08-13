@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1101,
+    "nome": "Gamers!",
+    "link": "https://animefire.plus/animes/gamers-todos-os-episodios",
+    "texto_original": "Gamers!",
+    "rating": 7.15,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/gamers.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gamers/",
+    "secao": "legendados",
+    "pagina": 178,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/gamers"
+  }
+}

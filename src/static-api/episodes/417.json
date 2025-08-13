@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Blade",
+  "anime": {
+    "id": 417,
+    "nome": "Blade",
+    "link": "https://animefire.plus/animes/blade-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/blade",
+    "rating": "6.30",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/blade/1",
+      "anime_id": 417,
+      "anime_name": "Blade"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/blade/2",
+      "anime_id": 417,
+      "anime_name": "Blade"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/blade/3",
+      "anime_id": 417,
+      "anime_name": "Blade"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/blade/4",
+      "anime_id": 417,
+      "anime_name": "Blade"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/blade/5",
+      "anime_id": 417,
+      "anime_name": "Blade"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/blade/6",
+      "anime_id": 417,
+      "anime_name": "Blade"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/blade/7",
+      "anime_id": 417,
+      "anime_name": "Blade"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/blade/8",
+      "anime_id": 417,
+      "anime_name": "Blade"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/blade/9",
+      "anime_id": 417,
+      "anime_name": "Blade"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/blade/10",
+      "anime_id": 417,
+      "anime_name": "Blade"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/blade/11",
+      "anime_id": 417,
+      "anime_name": "Blade"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/blade/12",
+      "anime_id": 417,
+      "anime_name": "Blade"
+    }
+  ],
+  "total_episodes": 12
+}

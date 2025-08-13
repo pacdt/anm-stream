@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Kikaider 01 The Animation",
+  "anime": {
+    "id": 1967,
+    "nome": "Kikaider 01 The Animation",
+    "link": "https://animefire.plus/animes/kikaider-01-the-animation-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kikaider-01-the-animation",
+    "rating": "6.84",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kikaider-01-the-animation/1",
+      "anime_id": 1967,
+      "anime_name": "Kikaider 01 The Animation"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kikaider-01-the-animation/2",
+      "anime_id": 1967,
+      "anime_name": "Kikaider 01 The Animation"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kikaider-01-the-animation/3",
+      "anime_id": 1967,
+      "anime_name": "Kikaider 01 The Animation"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kikaider-01-the-animation/4",
+      "anime_id": 1967,
+      "anime_name": "Kikaider 01 The Animation"
+    }
+  ],
+  "total_episodes": 4
+}

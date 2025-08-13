@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1395,
+    "nome": "Hatsukoi Monster",
+    "link": "https://animefire.plus/animes/hatsukoi-monster-todos-os-episodios",
+    "texto_original": "Hatsukoi Monster",
+    "rating": 5.83,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hatsukoi-monster.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hatsukoi-monster/",
+    "secao": "legendados",
+    "pagina": 104,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/hatsukoi-monster"
+  }
+}

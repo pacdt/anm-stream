@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 118,
+    "nome": "Akatsuki No Yona",
+    "link": "https://animefire.plus/animes/akatsuki-no-yona-todos-os-episodios",
+    "texto_original": "Akatsuki No Yona",
+    "rating": 8.15,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/akatsuki-no-yona.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/akatsuki-no-yona/",
+    "secao": "legendados",
+    "pagina": 149,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/akatsuki-no-yona"
+  }
+}

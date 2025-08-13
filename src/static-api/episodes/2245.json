@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Lostorage Incited WIXOSS",
+  "anime": {
+    "id": 2245,
+    "nome": "Lostorage Incited WIXOSS",
+    "link": "https://animefire.plus/animes/lostorage-incited-wixoss-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/lostorage-incited-wixoss",
+    "rating": "6.78",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/lostorage-incited-wixoss/1",
+      "anime_id": 2245,
+      "anime_name": "Lostorage Incited WIXOSS"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/lostorage-incited-wixoss/2",
+      "anime_id": 2245,
+      "anime_name": "Lostorage Incited WIXOSS"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/lostorage-incited-wixoss/3",
+      "anime_id": 2245,
+      "anime_name": "Lostorage Incited WIXOSS"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/lostorage-incited-wixoss/4",
+      "anime_id": 2245,
+      "anime_name": "Lostorage Incited WIXOSS"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/lostorage-incited-wixoss/5",
+      "anime_id": 2245,
+      "anime_name": "Lostorage Incited WIXOSS"
+    }
+  ],
+  "total_episodes": 5
+}

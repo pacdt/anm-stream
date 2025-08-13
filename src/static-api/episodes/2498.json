@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Mikadono Sanshimai wa Angai, Choroi.",
+  "anime": {
+    "id": 2498,
+    "nome": "Mikadono Sanshimai wa Angai, Choroi.",
+    "link": "https://animefire.plus/animes/mikadono-sanshimai-wa-angai-choroi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mikadono-sanshimai-wa-angai-choroi",
+    "rating": "7.58",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mikadono-sanshimai-wa-angai-choroi/1",
+      "anime_id": 2498,
+      "anime_name": "Mikadono Sanshimai wa Angai, Choroi."
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mikadono-sanshimai-wa-angai-choroi/2",
+      "anime_id": 2498,
+      "anime_name": "Mikadono Sanshimai wa Angai, Choroi."
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mikadono-sanshimai-wa-angai-choroi/3",
+      "anime_id": 2498,
+      "anime_name": "Mikadono Sanshimai wa Angai, Choroi."
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/mikadono-sanshimai-wa-angai-choroi/4",
+      "anime_id": 2498,
+      "anime_name": "Mikadono Sanshimai wa Angai, Choroi."
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/mikadono-sanshimai-wa-angai-choroi/5",
+      "anime_id": 2498,
+      "anime_name": "Mikadono Sanshimai wa Angai, Choroi."
+    }
+  ],
+  "total_episodes": 5
+}

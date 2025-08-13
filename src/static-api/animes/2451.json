@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2451,
+    "nome": "Mayo Chiki!",
+    "link": "https://animefire.plus/animes/mayo-chiki-todos-os-episodios",
+    "texto_original": "Mayo Chiki!",
+    "rating": 7.44,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/mayo-chiki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mayo-chiki/",
+    "secao": "legendados",
+    "pagina": 114,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/mayo-chiki"
+  }
+}

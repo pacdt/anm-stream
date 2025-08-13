@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4307,
+    "nome": "Yutori-chan",
+    "link": "https://animefire.plus/animes/yutori-chan-todos-os-episodios",
+    "texto_original": "Yutori-chan",
+    "rating": 6.17,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/yutori-chan.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/yutori-chan/",
+    "secao": "legendados",
+    "pagina": 156,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/yutori-chan"
+  }
+}

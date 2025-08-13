@@ -1,0 +1,104 @@
+{
+  "message": "Lista de episódios do anime: Pingu in the City",
+  "anime": {
+    "id": 2985,
+    "nome": "Pingu in the City",
+    "link": "https://animefire.plus/animes/pingu-in-the-city-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/pingu-in-the-city",
+    "rating": "8.45",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/pingu-in-the-city/1",
+      "anime_id": 2985,
+      "anime_name": "Pingu in the City"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/pingu-in-the-city/2",
+      "anime_id": 2985,
+      "anime_name": "Pingu in the City"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/pingu-in-the-city/3",
+      "anime_id": 2985,
+      "anime_name": "Pingu in the City"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/pingu-in-the-city/4",
+      "anime_id": 2985,
+      "anime_name": "Pingu in the City"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/pingu-in-the-city/5",
+      "anime_id": 2985,
+      "anime_name": "Pingu in the City"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/pingu-in-the-city/6",
+      "anime_id": 2985,
+      "anime_name": "Pingu in the City"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/pingu-in-the-city/7",
+      "anime_id": 2985,
+      "anime_name": "Pingu in the City"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/pingu-in-the-city/8",
+      "anime_id": 2985,
+      "anime_name": "Pingu in the City"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/pingu-in-the-city/9",
+      "anime_id": 2985,
+      "anime_name": "Pingu in the City"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/pingu-in-the-city/10",
+      "anime_id": 2985,
+      "anime_name": "Pingu in the City"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/pingu-in-the-city/11",
+      "anime_id": 2985,
+      "anime_name": "Pingu in the City"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/pingu-in-the-city/12",
+      "anime_id": 2985,
+      "anime_name": "Pingu in the City"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/pingu-in-the-city/13",
+      "anime_id": 2985,
+      "anime_name": "Pingu in the City"
+    },
+    {
+      "episode_number": 14,
+      "episode_url": "https://animefire.plus/video/pingu-in-the-city/14",
+      "anime_id": 2985,
+      "anime_name": "Pingu in the City"
+    },
+    {
+      "episode_number": 15,
+      "episode_url": "https://animefire.plus/video/pingu-in-the-city/15",
+      "anime_id": 2985,
+      "anime_name": "Pingu in the City"
+    }
+  ],
+  "total_episodes": 15
+}

@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: No Game No Life: Zero",
+  "anime": {
+    "id": 2753,
+    "nome": "No Game No Life: Zero",
+    "link": "https://animefire.plus/animes/no-game-no-life-zero-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/no-game-no-life-zero",
+    "rating": "8.56",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/no-game-no-life-zero/1",
+      "anime_id": 2753,
+      "anime_name": "No Game No Life: Zero"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/no-game-no-life-zero/2",
+      "anime_id": 2753,
+      "anime_name": "No Game No Life: Zero"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/no-game-no-life-zero/3",
+      "anime_id": 2753,
+      "anime_name": "No Game No Life: Zero"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/no-game-no-life-zero/4",
+      "anime_id": 2753,
+      "anime_name": "No Game No Life: Zero"
+    }
+  ],
+  "total_episodes": 4
+}

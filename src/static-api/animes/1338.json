@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1338,
+    "nome": "Hakuouki Sekkaroku",
+    "link": "https://animefire.plus/animes/hakuouki-sekkaroku-todos-os-episodios",
+    "texto_original": "Hakuouki Sekkaroku",
+    "rating": 7.68,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hakuouki-sekkaroku.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hakuouki-sekkaroku/",
+    "secao": "legendados",
+    "pagina": 62,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/hakuouki-sekkaroku"
+  }
+}

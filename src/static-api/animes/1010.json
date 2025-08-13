@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1010,
+    "nome": "Final Fantasy",
+    "link": "https://animefire.plus/animes/final-fantasy-todos-os-episodios",
+    "texto_original": "Final Fantasy",
+    "rating": 6.1,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/final-fantasy.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/final-fantasy/",
+    "secao": "legendados",
+    "pagina": 42,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/final-fantasy"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Ookami Shoujo to Kuro Ouji",
+  "anime": {
+    "id": 2867,
+    "nome": "Ookami Shoujo to Kuro Ouji",
+    "link": "https://animefire.plus/animes/ookami-shoujo-to-kuro-ouji-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ookami-shoujo-to-kuro-ouji",
+    "rating": "7.37",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ookami-shoujo-to-kuro-ouji/1",
+      "anime_id": 2867,
+      "anime_name": "Ookami Shoujo to Kuro Ouji"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ookami-shoujo-to-kuro-ouji/2",
+      "anime_id": 2867,
+      "anime_name": "Ookami Shoujo to Kuro Ouji"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/ookami-shoujo-to-kuro-ouji/3",
+      "anime_id": 2867,
+      "anime_name": "Ookami Shoujo to Kuro Ouji"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/ookami-shoujo-to-kuro-ouji/4",
+      "anime_id": 2867,
+      "anime_name": "Ookami Shoujo to Kuro Ouji"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/ookami-shoujo-to-kuro-ouji/5",
+      "anime_id": 2867,
+      "anime_name": "Ookami Shoujo to Kuro Ouji"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/ookami-shoujo-to-kuro-ouji/6",
+      "anime_id": 2867,
+      "anime_name": "Ookami Shoujo to Kuro Ouji"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/ookami-shoujo-to-kuro-ouji/7",
+      "anime_id": 2867,
+      "anime_name": "Ookami Shoujo to Kuro Ouji"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/ookami-shoujo-to-kuro-ouji/8",
+      "anime_id": 2867,
+      "anime_name": "Ookami Shoujo to Kuro Ouji"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/ookami-shoujo-to-kuro-ouji/9",
+      "anime_id": 2867,
+      "anime_name": "Ookami Shoujo to Kuro Ouji"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/ookami-shoujo-to-kuro-ouji/10",
+      "anime_id": 2867,
+      "anime_name": "Ookami Shoujo to Kuro Ouji"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/ookami-shoujo-to-kuro-ouji/11",
+      "anime_id": 2867,
+      "anime_name": "Ookami Shoujo to Kuro Ouji"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/ookami-shoujo-to-kuro-ouji/12",
+      "anime_id": 2867,
+      "anime_name": "Ookami Shoujo to Kuro Ouji"
+    }
+  ],
+  "total_episodes": 12
+}
