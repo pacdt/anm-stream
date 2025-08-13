@@ -475,11 +475,15 @@ setInterval(() => {
 
 // Serviços da API Estática de Episódios
 export class StaticEpisodeService {
-  // Converter URL externa para usar o proxy do Vite
+  // Converter URL externa para usar o proxy correto baseado no ambiente
   private static convertToProxyUrl(originalUrl: string): string {
-    // Converter URLs do animefire.plus para usar o proxy
+    // Converter URLs do animefire.plus para usar o proxy correto baseado no ambiente
     if (originalUrl.startsWith('https://animefire.plus')) {
-      return originalUrl.replace('https://animefire.plus', '/api/external')
+      const path = originalUrl.replace('https://animefire.plus', '');
+      
+      // Em desenvolvimento, usa o proxy do Vite
+      // Em produção (Netlify), usa o proxy configurado no netlify.toml
+      return `/api/external${path}`;
     }
     
     // Para outras URLs externas, retornar a URL original (pode ser expandido no futuro)
@@ -526,14 +530,10 @@ export class StaticEpisodeService {
         throw new Error(`URL do episódio não disponível para o episódio ${episodeNumber}`)
       }
       
-      // Converter URL externa para usar o proxy do Vite
-      const proxyUrl = episode.episode_url.replace('https://animefire.plus', '/api/external')
-      console.log(`🌐 [STATIC API] Fazendo requisição para: ${episode.episode_url}`)
-      
       try {
-        // Converter URL externa para usar o proxy do Vite
+        // Converter URL externa para usar o proxy correto baseado no ambiente
         const proxyUrl = this.convertToProxyUrl(episode.episode_url)
-        console.log(`🔄 [STATIC API] Usando proxy: ${proxyUrl}`)
+        console.log(`🔄 [STATIC API] Usando proxy: ${proxyUrl} (original: ${episode.episode_url})`)
         
         // Fazer requisição com timeout e retry para a API externa de streaming via proxy
         const streamingData = await RequestManager.fetchWithRetry(

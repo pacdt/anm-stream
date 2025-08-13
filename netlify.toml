@@ -10,6 +10,14 @@
   force = true
   headers = {X-From = "Netlify"}
 
+# Proxy para APIs externas (animefire.plus)
+[[redirects]]
+  from = "/api/external/*"
+  to = "https://animefire.plus/:splat"
+  status = 200
+  force = true
+  headers = {X-From = "Netlify"}
+
 # Fallback para SPA (Single Page Application)
 [[redirects]]
   from = "/*"
