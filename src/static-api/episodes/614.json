@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Chivas 1-2-3",
+  "anime": {
+    "id": 614,
+    "nome": "Chivas 1-2-3",
+    "link": "https://animefire.plus/animes/chivas-1-2-3-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/chivas-1-2-3",
+    "rating": "6.06",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/chivas-1-2-3/1",
+      "anime_id": 614,
+      "anime_name": "Chivas 1-2-3"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/chivas-1-2-3/2",
+      "anime_id": 614,
+      "anime_name": "Chivas 1-2-3"
+    }
+  ],
+  "total_episodes": 2
+}

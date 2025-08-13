@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Kuroko no Basket: Last Game NG-shuu",
+  "anime": {
+    "id": 2153,
+    "nome": "Kuroko no Basket: Last Game NG-shuu",
+    "link": "https://animefire.plus/animes/kuroko-no-basket-last-game-ng-shuu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kuroko-no-basket-last-game-ng-shuu",
+    "rating": "7.78",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kuroko-no-basket-last-game-ng-shuu/1",
+      "anime_id": 2153,
+      "anime_name": "Kuroko no Basket: Last Game NG-shuu"
+    }
+  ],
+  "total_episodes": 1
+}

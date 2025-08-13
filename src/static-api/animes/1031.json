@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1031,
+    "nome": "Fruits Basket (2019)",
+    "link": "https://animefire.plus/animes/fruits-basket-2019-todos-os-episodios",
+    "texto_original": "Fruits Basket (2019)",
+    "rating": 8.2,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/fruits-basket-2019.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/fruits-basket-2019/",
+    "secao": "legendados",
+    "pagina": 134,
+    "total_episodios": 23,
+    "link_video": "https://animefire.plus/video/fruits-basket-2019"
+  }
+}

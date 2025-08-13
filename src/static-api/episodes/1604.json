@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Ikkitousen: Dragon Destiny",
+  "anime": {
+    "id": 1604,
+    "nome": "Ikkitousen: Dragon Destiny",
+    "link": "https://animefire.plus/animes/ikkitousen-dragon-destiny-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ikkitousen-dragon-destiny",
+    "rating": "6.89",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ikkitousen-dragon-destiny/1",
+      "anime_id": 1604,
+      "anime_name": "Ikkitousen: Dragon Destiny"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ikkitousen-dragon-destiny/2",
+      "anime_id": 1604,
+      "anime_name": "Ikkitousen: Dragon Destiny"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/ikkitousen-dragon-destiny/3",
+      "anime_id": 1604,
+      "anime_name": "Ikkitousen: Dragon Destiny"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/ikkitousen-dragon-destiny/4",
+      "anime_id": 1604,
+      "anime_name": "Ikkitousen: Dragon Destiny"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/ikkitousen-dragon-destiny/5",
+      "anime_id": 1604,
+      "anime_name": "Ikkitousen: Dragon Destiny"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/ikkitousen-dragon-destiny/6",
+      "anime_id": 1604,
+      "anime_name": "Ikkitousen: Dragon Destiny"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/ikkitousen-dragon-destiny/7",
+      "anime_id": 1604,
+      "anime_name": "Ikkitousen: Dragon Destiny"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/ikkitousen-dragon-destiny/8",
+      "anime_id": 1604,
+      "anime_name": "Ikkitousen: Dragon Destiny"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/ikkitousen-dragon-destiny/9",
+      "anime_id": 1604,
+      "anime_name": "Ikkitousen: Dragon Destiny"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/ikkitousen-dragon-destiny/10",
+      "anime_id": 1604,
+      "anime_name": "Ikkitousen: Dragon Destiny"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/ikkitousen-dragon-destiny/11",
+      "anime_id": 1604,
+      "anime_name": "Ikkitousen: Dragon Destiny"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/ikkitousen-dragon-destiny/12",
+      "anime_id": 1604,
+      "anime_name": "Ikkitousen: Dragon Destiny"
+    }
+  ],
+  "total_episodes": 12
+}

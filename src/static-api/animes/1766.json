@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1766,
+    "nome": "Juuni Kokuki",
+    "link": "https://animefire.plus/animes/juuni-kokuki-todos-os-episodios",
+    "texto_original": "Juuni Kokuki",
+    "rating": 8.08,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/juuni-kokuki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/juuni-kokuki/",
+    "secao": "legendados",
+    "pagina": 76,
+    "total_episodios": 45,
+    "link_video": "https://animefire.plus/video/juuni-kokuki"
+  }
+}

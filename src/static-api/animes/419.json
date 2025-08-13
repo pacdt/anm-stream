@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 419,
+    "nome": "Blade of the Immortal",
+    "link": "https://animefire.plus/animes/blade-of-the-immortal-todos-os-episodios",
+    "texto_original": "Blade of the Immortal",
+    "rating": 6.87,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/blade-of-the-immortal.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/blade-of-the-immortal/",
+    "secao": "legendados",
+    "pagina": 121,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/blade-of-the-immortal"
+  }
+}

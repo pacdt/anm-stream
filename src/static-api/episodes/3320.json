@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Sekai Seifuku: Bouryaku no Zvezda - Shin Zvezda Daisakusen",
+  "anime": {
+    "id": 3320,
+    "nome": "Sekai Seifuku: Bouryaku no Zvezda - Shin Zvezda Daisakusen",
+    "link": "https://animefire.plus/animes/sekai-seifuku-bouryaku-no-zvezda---shin-zvezda-daisakusen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sekai-seifuku-bouryaku-no-zvezda---shin-zvezda-daisakusen",
+    "rating": "6.74",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sekai-seifuku-bouryaku-no-zvezda---shin-zvezda-daisakusen/1",
+      "anime_id": 3320,
+      "anime_name": "Sekai Seifuku: Bouryaku no Zvezda - Shin Zvezda Daisakusen"
+    }
+  ],
+  "total_episodes": 1
+}

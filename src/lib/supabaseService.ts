@@ -1,6 +1,21 @@
 import { supabase, /* isSupabaseConfigured, */ checkSupabaseAvailable, checkSupabaseConnectivity } from './supabase'
 import { UserFavorite, WatchHistoryItem } from '@/types'
 
+// Função utilitária para tratar erros 406 (Not Acceptable) de forma silenciosa
+function handleSupabaseError(error: any, fallbackValue: any = null, context: string = '') {
+  if (error) {
+    // Erro 406 (Not Acceptable) - retornar fallback silenciosamente
+    if (error.code === '406' || error.message?.includes('406') || error.message?.includes('Not Acceptable')) {
+      console.debug(`[Supabase] Erro 406 ignorado em ${context}:`, error.message)
+      return fallbackValue
+    }
+    
+    // Outros erros - propagar normalmente
+    throw error
+  }
+  return null
+}
+
 // Sistema de throttling para evitar muitas requisições simultâneas
 class RequestThrottler {
   private static instance: RequestThrottler
@@ -134,7 +149,10 @@ export class SupabaseService {
       .eq('user_id', user.id)
       .order('created_at', { ascending: false })
     
-    if (error) throw error
+    // Tratar erro 406 silenciosamente
+    const errorResult = handleSupabaseError(error, [], 'getFavorites')
+    if (errorResult !== null) return errorResult
+    
     return data || []
   }
   
@@ -154,7 +172,11 @@ export class SupabaseService {
       .eq('anime_id', animeId)
       .single()
     
-    if (error && error.code !== 'PGRST116') throw error
+    // Tratar erro 406 silenciosamente, além do erro PGRST116 (not found)
+    if (error && error.code !== 'PGRST116') {
+      const errorResult = handleSupabaseError(error, false, 'isFavorite')
+      if (errorResult !== null) return errorResult
+    }
     return !!data
   }
   
@@ -212,7 +234,10 @@ export class SupabaseService {
         .eq('user_id', user.id)
         .order('last_watched_at', { ascending: false })
       
-      if (error) throw error
+      // Tratar erro 406 silenciosamente
+      const errorResult = handleSupabaseError(error, [], 'getWatchHistory')
+      if (errorResult !== null) return errorResult
+      
       return data || []
     })
   }
@@ -732,19 +757,43 @@ export class SupabaseService {
        }
      }
 
-     const [watchHistory, favorites] = await Promise.all([
-       supabase.from('watch_history').select('*').eq('user_id', userId),
-       supabase.from('user_favorites').select('*').eq('user_id', userId)
-     ])
+     try {
+       const [watchHistory, favorites] = await Promise.all([
+         supabase.from('watch_history').select('*').eq('user_id', userId),
+         supabase.from('user_favorites').select('*').eq('user_id', userId)
+       ])
 
-     const totalWatched = watchHistory.data?.length || 0
-     const totalFavorites = favorites.data?.length || 0
-     const totalWatchTime = watchHistory.data?.reduce((acc, item) => acc + (item.progress_seconds || 0), 0) || 0
+       // Tratar erros 406 silenciosamente
+       let watchData = watchHistory.data || []
+       let favoritesData = favorites.data || []
+       
+       if (watchHistory.error) {
+         const errorResult = handleSupabaseError(watchHistory.error, [], 'getUserStats-watchHistory')
+         if (errorResult !== null) watchData = errorResult
+       }
+       
+       if (favorites.error) {
+         const errorResult = handleSupabaseError(favorites.error, [], 'getUserStats-favorites')
+         if (errorResult !== null) favoritesData = errorResult
+       }
 
-     return {
-       totalWatched,
-       totalFavorites,
-       totalWatchTime
+       const totalWatched = watchData.length || 0
+       const totalFavorites = favoritesData.length || 0
+       const totalWatchTime = watchData.reduce((acc, item) => acc + (item.progress_seconds || 0), 0) || 0
+
+       return {
+         totalWatched,
+         totalFavorites,
+         totalWatchTime
+       }
+     } catch (error) {
+       // Em caso de erro geral, retornar valores padrão
+       console.debug('[Supabase] Erro em getUserStats, retornando valores padrão:', error)
+       return {
+         totalWatched: 0,
+         totalFavorites: 0,
+         totalWatchTime: 0
+       }
      }
    }
 }

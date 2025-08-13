@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2522,
+    "nome": "Miru Tights",
+    "link": "https://animefire.plus/animes/miru-tights-todos-os-episodios",
+    "texto_original": "Miru Tights",
+    "rating": 6.58,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/miru-tights.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/miru-tights/",
+    "secao": "legendados",
+    "pagina": 112,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/miru-tights"
+  }
+}

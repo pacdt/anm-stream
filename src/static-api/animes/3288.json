@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3288,
+    "nome": "Seikai no Senki",
+    "link": "https://animefire.plus/animes/seikai-no-senki-todos-os-episodios",
+    "texto_original": "Seikai no Senki",
+    "rating": 7.73,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/seikai-no-senki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/seikai-no-senki/",
+    "secao": "legendados",
+    "pagina": 54,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/seikai-no-senki"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 155,
+    "nome": "Amagi Brilliant Park",
+    "link": "https://animefire.plus/animes/amagi-brilliant-park-todos-os-episodios",
+    "texto_original": "Amagi Brilliant Park",
+    "rating": 7.6,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/amagi-brilliant-park.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/amagi-brilliant-park/",
+    "secao": "legendados",
+    "pagina": 129,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/amagi-brilliant-park"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4047,
+    "nome": "Uta Kata",
+    "link": "https://animefire.plus/animes/uta-kata-todos-os-episodios",
+    "texto_original": "Uta Kata",
+    "rating": 6.8,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/uta-kata.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/uta-kata/",
+    "secao": "legendados",
+    "pagina": 120,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/uta-kata"
+  }
+}

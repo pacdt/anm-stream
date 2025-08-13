@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Doujin Work",
+  "anime": {
+    "id": 859,
+    "nome": "Doujin Work",
+    "link": "https://animefire.plus/animes/doujin-work-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/doujin-work",
+    "rating": "6.83",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/doujin-work/1",
+      "anime_id": 859,
+      "anime_name": "Doujin Work"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/doujin-work/2",
+      "anime_id": 859,
+      "anime_name": "Doujin Work"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/doujin-work/3",
+      "anime_id": 859,
+      "anime_name": "Doujin Work"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/doujin-work/4",
+      "anime_id": 859,
+      "anime_name": "Doujin Work"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/doujin-work/5",
+      "anime_id": 859,
+      "anime_name": "Doujin Work"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/doujin-work/6",
+      "anime_id": 859,
+      "anime_name": "Doujin Work"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/doujin-work/7",
+      "anime_id": 859,
+      "anime_name": "Doujin Work"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/doujin-work/8",
+      "anime_id": 859,
+      "anime_name": "Doujin Work"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/doujin-work/9",
+      "anime_id": 859,
+      "anime_name": "Doujin Work"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/doujin-work/10",
+      "anime_id": 859,
+      "anime_name": "Doujin Work"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/doujin-work/11",
+      "anime_id": 859,
+      "anime_name": "Doujin Work"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/doujin-work/12",
+      "anime_id": 859,
+      "anime_name": "Doujin Work"
+    }
+  ],
+  "total_episodes": 12
+}

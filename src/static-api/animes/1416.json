@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1416,
+    "nome": "Hellsing: The Dawn",
+    "link": "https://animefire.plus/animes/hellsing-the-dawn-todos-os-episodios",
+    "texto_original": "Hellsing: The Dawn",
+    "rating": 7.28,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/hellsing-the-dawn.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hellsing-the-dawn/",
+    "secao": "legendados",
+    "pagina": 96,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/hellsing-the-dawn"
+  }
+}

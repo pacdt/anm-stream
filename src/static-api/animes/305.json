@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 305,
+    "nome": "Baka to Test to Shoukanjuu",
+    "link": "https://animefire.plus/animes/baka-to-test-to-shoukanjuu-todos-os-episodios",
+    "texto_original": "Baka to Test to Shoukanjuu",
+    "rating": 7.72,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/baka-to-test-to-shoukanjuu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/baka-to-test-to-shoukanjuu/",
+    "secao": "legendados",
+    "pagina": 167,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/baka-to-test-to-shoukanjuu"
+  }
+}

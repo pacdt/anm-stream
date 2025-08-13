@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Wake Up, Girls!",
+  "anime": {
+    "id": 4097,
+    "nome": "Wake Up, Girls!",
+    "link": "https://animefire.plus/animes/wake-up-girls-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/wake-up-girls",
+    "rating": "7.01",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/wake-up-girls/1",
+      "anime_id": 4097,
+      "anime_name": "Wake Up, Girls!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/wake-up-girls/2",
+      "anime_id": 4097,
+      "anime_name": "Wake Up, Girls!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/wake-up-girls/3",
+      "anime_id": 4097,
+      "anime_name": "Wake Up, Girls!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/wake-up-girls/4",
+      "anime_id": 4097,
+      "anime_name": "Wake Up, Girls!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/wake-up-girls/5",
+      "anime_id": 4097,
+      "anime_name": "Wake Up, Girls!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/wake-up-girls/6",
+      "anime_id": 4097,
+      "anime_name": "Wake Up, Girls!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/wake-up-girls/7",
+      "anime_id": 4097,
+      "anime_name": "Wake Up, Girls!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/wake-up-girls/8",
+      "anime_id": 4097,
+      "anime_name": "Wake Up, Girls!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/wake-up-girls/9",
+      "anime_id": 4097,
+      "anime_name": "Wake Up, Girls!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/wake-up-girls/10",
+      "anime_id": 4097,
+      "anime_name": "Wake Up, Girls!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/wake-up-girls/11",
+      "anime_id": 4097,
+      "anime_name": "Wake Up, Girls!"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/wake-up-girls/12",
+      "anime_id": 4097,
+      "anime_name": "Wake Up, Girls!"
+    }
+  ],
+  "total_episodes": 12
+}

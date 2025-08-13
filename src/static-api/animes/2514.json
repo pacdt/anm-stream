@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2514,
+    "nome": "Mini Dragon",
+    "link": "https://animefire.plus/animes/mini-dragon-todos-os-episodios",
+    "texto_original": "Mini Dragon",
+    "rating": 7.34,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/mini-dragon.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mini-dragon/",
+    "secao": "legendados",
+    "pagina": 46,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/mini-dragon"
+  }
+}

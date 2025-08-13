@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Toradora!: Bentou no Gokui",
+  "anime": {
+    "id": 3919,
+    "nome": "Toradora!: Bentou no Gokui",
+    "link": "https://animefire.plus/animes/toradora-bentou-no-gokui-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/toradora-bentou-no-gokui",
+    "rating": "7.48",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/toradora-bentou-no-gokui/1",
+      "anime_id": 3919,
+      "anime_name": "Toradora!: Bentou no Gokui"
+    }
+  ],
+  "total_episodes": 1
+}

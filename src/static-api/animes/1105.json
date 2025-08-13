@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1105,
+    "nome": "Gangsta.",
+    "link": "https://animefire.plus/animes/gangsta-todos-os-episodios",
+    "texto_original": "Gangsta.",
+    "rating": 7.45,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/gangsta.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gangsta/",
+    "secao": "legendados",
+    "pagina": 129,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/gangsta"
+  }
+}

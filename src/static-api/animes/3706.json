@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3706,
+    "nome": "Tactical Roar",
+    "link": "https://animefire.plus/animes/tactical-roar-todos-os-episodios",
+    "texto_original": "Tactical Roar",
+    "rating": 6.49,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/tactical-roar.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tactical-roar/",
+    "secao": "legendados",
+    "pagina": 158,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/tactical-roar"
+  }
+}

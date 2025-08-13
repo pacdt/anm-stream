@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 656,
+    "nome": "City Hunter",
+    "link": "https://animefire.plus/animes/city-hunter-todos-os-episodios",
+    "texto_original": "City Hunter",
+    "rating": 7.93,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/city-hunter.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/city-hunter/",
+    "secao": "legendados",
+    "pagina": 42,
+    "total_episodios": 51,
+    "link_video": "https://animefire.plus/video/city-hunter"
+  }
+}

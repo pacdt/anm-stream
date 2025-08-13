@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3400,
+    "nome": "Shigofumi",
+    "link": "https://animefire.plus/animes/shigofumi-todos-os-episodios",
+    "texto_original": "Shigofumi",
+    "rating": 7.54,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/shigofumi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shigofumi/",
+    "secao": "legendados",
+    "pagina": 157,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/shigofumi"
+  }
+}

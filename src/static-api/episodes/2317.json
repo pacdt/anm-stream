@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Magic-Kyun! Renaissance",
+  "anime": {
+    "id": 2317,
+    "nome": "Magic-Kyun! Renaissance",
+    "link": "https://animefire.plus/animes/magic-kyun-renaissance-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/magic-kyun-renaissance",
+    "rating": "7.26",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/magic-kyun-renaissance/1",
+      "anime_id": 2317,
+      "anime_name": "Magic-Kyun! Renaissance"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/magic-kyun-renaissance/2",
+      "anime_id": 2317,
+      "anime_name": "Magic-Kyun! Renaissance"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/magic-kyun-renaissance/3",
+      "anime_id": 2317,
+      "anime_name": "Magic-Kyun! Renaissance"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/magic-kyun-renaissance/4",
+      "anime_id": 2317,
+      "anime_name": "Magic-Kyun! Renaissance"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/magic-kyun-renaissance/5",
+      "anime_id": 2317,
+      "anime_name": "Magic-Kyun! Renaissance"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/magic-kyun-renaissance/6",
+      "anime_id": 2317,
+      "anime_name": "Magic-Kyun! Renaissance"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/magic-kyun-renaissance/7",
+      "anime_id": 2317,
+      "anime_name": "Magic-Kyun! Renaissance"
+    }
+  ],
+  "total_episodes": 7
+}

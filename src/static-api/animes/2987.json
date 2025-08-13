@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2987,
+    "nome": "Planet With",
+    "link": "https://animefire.plus/animes/planet-with-todos-os-episodios",
+    "texto_original": "Planet With",
+    "rating": 7.37,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/planet-with.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/planet-with/",
+    "secao": "legendados",
+    "pagina": 173,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/planet-with"
+  }
+}

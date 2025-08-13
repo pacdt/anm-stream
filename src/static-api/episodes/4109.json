@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Wanna-Be's",
+  "anime": {
+    "id": 4109,
+    "nome": "Wanna-Be's",
+    "link": "https://animefire.plus/animes/wanna-be-s-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/wanna-be-s",
+    "rating": "5.20",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/wanna-be-s/1",
+      "anime_id": 4109,
+      "anime_name": "Wanna-Be's"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Kobayashi-san Chi no OO Dragon",
+  "anime": {
+    "id": 2041,
+    "nome": "Kobayashi-san Chi no OO Dragon",
+    "link": "https://animefire.plus/animes/kobayashi-san-chi-no-oo-dragon-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kobayashi-san-chi-no-oo-dragon",
+    "rating": "7.26",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kobayashi-san-chi-no-oo-dragon/1",
+      "anime_id": 2041,
+      "anime_name": "Kobayashi-san Chi no OO Dragon"
+    }
+  ],
+  "total_episodes": 1
+}

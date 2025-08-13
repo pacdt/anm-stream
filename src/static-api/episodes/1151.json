@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Gi(a)rlish Number",
+  "anime": {
+    "id": 1151,
+    "nome": "Gi(a)rlish Number",
+    "link": "https://animefire.plus/animes/gi-a-rlish-number-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gi-a-rlish-number",
+    "rating": "6.95",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gi-a-rlish-number/1",
+      "anime_id": 1151,
+      "anime_name": "Gi(a)rlish Number"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/gi-a-rlish-number/2",
+      "anime_id": 1151,
+      "anime_name": "Gi(a)rlish Number"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/gi-a-rlish-number/3",
+      "anime_id": 1151,
+      "anime_name": "Gi(a)rlish Number"
+    }
+  ],
+  "total_episodes": 3
+}

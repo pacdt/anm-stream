@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3594,
+    "nome": "Soul Link",
+    "link": "https://animefire.plus/animes/soul-link-todos-os-episodios",
+    "texto_original": "Soul Link",
+    "rating": 6.19,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/soul-link.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/soul-link/",
+    "secao": "legendados",
+    "pagina": 145,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/soul-link"
+  }
+}

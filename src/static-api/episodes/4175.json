@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Xie Wang Zhui Qi",
+  "anime": {
+    "id": 4175,
+    "nome": "Xie Wang Zhui Qi",
+    "link": "https://animefire.plus/animes/xie-wang-zhui-qi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/xie-wang-zhui-qi",
+    "rating": "6.70",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/xie-wang-zhui-qi/1",
+      "anime_id": 4175,
+      "anime_name": "Xie Wang Zhui Qi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/xie-wang-zhui-qi/2",
+      "anime_id": 4175,
+      "anime_name": "Xie Wang Zhui Qi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/xie-wang-zhui-qi/3",
+      "anime_id": 4175,
+      "anime_name": "Xie Wang Zhui Qi"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/xie-wang-zhui-qi/4",
+      "anime_id": 4175,
+      "anime_name": "Xie Wang Zhui Qi"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/xie-wang-zhui-qi/5",
+      "anime_id": 4175,
+      "anime_name": "Xie Wang Zhui Qi"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/xie-wang-zhui-qi/6",
+      "anime_id": 4175,
+      "anime_name": "Xie Wang Zhui Qi"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/xie-wang-zhui-qi/7",
+      "anime_id": 4175,
+      "anime_name": "Xie Wang Zhui Qi"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/xie-wang-zhui-qi/8",
+      "anime_id": 4175,
+      "anime_name": "Xie Wang Zhui Qi"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/xie-wang-zhui-qi/9",
+      "anime_id": 4175,
+      "anime_name": "Xie Wang Zhui Qi"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/xie-wang-zhui-qi/10",
+      "anime_id": 4175,
+      "anime_name": "Xie Wang Zhui Qi"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/xie-wang-zhui-qi/11",
+      "anime_id": 4175,
+      "anime_name": "Xie Wang Zhui Qi"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/xie-wang-zhui-qi/12",
+      "anime_id": 4175,
+      "anime_name": "Xie Wang Zhui Qi"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/xie-wang-zhui-qi/13",
+      "anime_id": 4175,
+      "anime_name": "Xie Wang Zhui Qi"
+    }
+  ],
+  "total_episodes": 13
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 34,
+    "nome": "3x3 Eyes",
+    "link": "https://animefire.plus/animes/3x3-eyes-todos-os-episodios",
+    "texto_original": "3x3 Eyes",
+    "rating": 6.88,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/3x3-eyes.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/3x3-eyes/",
+    "secao": "legendados",
+    "pagina": 135,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/3x3-eyes"
+  }
+}

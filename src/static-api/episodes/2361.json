@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Mahoutsukai Sally (Movie)",
+  "anime": {
+    "id": 2361,
+    "nome": "Mahoutsukai Sally (Movie)",
+    "link": "https://animefire.plus/animes/mahoutsukai-sally-movie-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mahoutsukai-sally-movie",
+    "rating": "5.95",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mahoutsukai-sally-movie/1",
+      "anime_id": 2361,
+      "anime_name": "Mahoutsukai Sally (Movie)"
+    }
+  ],
+  "total_episodes": 1
+}

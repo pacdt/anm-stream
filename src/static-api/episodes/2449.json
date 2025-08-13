@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Mattaku Saikin no Tantei to Kitara",
+  "anime": {
+    "id": 2449,
+    "nome": "Mattaku Saikin no Tantei to Kitara",
+    "link": "https://animefire.plus/animes/mattaku-saikin-no-tantei-to-kitara-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mattaku-saikin-no-tantei-to-kitara",
+    "rating": "7.13",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mattaku-saikin-no-tantei-to-kitara/1",
+      "anime_id": 2449,
+      "anime_name": "Mattaku Saikin no Tantei to Kitara"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mattaku-saikin-no-tantei-to-kitara/2",
+      "anime_id": 2449,
+      "anime_name": "Mattaku Saikin no Tantei to Kitara"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mattaku-saikin-no-tantei-to-kitara/3",
+      "anime_id": 2449,
+      "anime_name": "Mattaku Saikin no Tantei to Kitara"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/mattaku-saikin-no-tantei-to-kitara/4",
+      "anime_id": 2449,
+      "anime_name": "Mattaku Saikin no Tantei to Kitara"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/mattaku-saikin-no-tantei-to-kitara/5",
+      "anime_id": 2449,
+      "anime_name": "Mattaku Saikin no Tantei to Kitara"
+    }
+  ],
+  "total_episodes": 5
+}

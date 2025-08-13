@@ -1,0 +1,170 @@
+{
+  "message": "Lista de episódios do anime: Durarara!!",
+  "anime": {
+    "id": 909,
+    "nome": "Durarara!!",
+    "link": "https://animefire.plus/animes/durarara-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/durarara",
+    "rating": "8.22",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/durarara/1",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/durarara/2",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/durarara/3",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/durarara/4",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/durarara/5",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/durarara/6",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/durarara/7",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/durarara/8",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/durarara/9",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/durarara/10",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/durarara/11",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/durarara/12",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/durarara/13",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 14,
+      "episode_url": "https://animefire.plus/video/durarara/14",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 15,
+      "episode_url": "https://animefire.plus/video/durarara/15",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 16,
+      "episode_url": "https://animefire.plus/video/durarara/16",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 17,
+      "episode_url": "https://animefire.plus/video/durarara/17",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 18,
+      "episode_url": "https://animefire.plus/video/durarara/18",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 19,
+      "episode_url": "https://animefire.plus/video/durarara/19",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 20,
+      "episode_url": "https://animefire.plus/video/durarara/20",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 21,
+      "episode_url": "https://animefire.plus/video/durarara/21",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 22,
+      "episode_url": "https://animefire.plus/video/durarara/22",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 23,
+      "episode_url": "https://animefire.plus/video/durarara/23",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 24,
+      "episode_url": "https://animefire.plus/video/durarara/24",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 25,
+      "episode_url": "https://animefire.plus/video/durarara/25",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    },
+    {
+      "episode_number": 26,
+      "episode_url": "https://animefire.plus/video/durarara/26",
+      "anime_id": 909,
+      "anime_name": "Durarara!!"
+    }
+  ],
+  "total_episodes": 26
+}

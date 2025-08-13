@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 25,
+    "nome": "22/7",
+    "link": "https://animefire.plus/animes/22-7-todos-os-episodios",
+    "texto_original": "22/7",
+    "rating": 6.81,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/22-7.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/22-7/",
+    "secao": "legendados",
+    "pagina": 92,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/22-7"
+  }
+}

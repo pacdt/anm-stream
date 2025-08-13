@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Itsudatte My Santa!",
+  "anime": {
+    "id": 1693,
+    "nome": "Itsudatte My Santa!",
+    "link": "https://animefire.plus/animes/itsudatte-my-santa-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/itsudatte-my-santa",
+    "rating": "6.02",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/itsudatte-my-santa/1",
+      "anime_id": 1693,
+      "anime_name": "Itsudatte My Santa!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/itsudatte-my-santa/2",
+      "anime_id": 1693,
+      "anime_name": "Itsudatte My Santa!"
+    }
+  ],
+  "total_episodes": 2
+}

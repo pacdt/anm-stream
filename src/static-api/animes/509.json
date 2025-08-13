@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 509,
+    "nome": "Bucchigire!",
+    "link": "https://animefire.plus/animes/bucchigire-todos-os-episodios",
+    "texto_original": "Bucchigire!",
+    "rating": 5.99,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/bucchigire.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bucchigire/",
+    "secao": "legendados",
+    "pagina": 31,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/bucchigire"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1008,
+    "nome": "Figure 17: Tsubasa & Hikaru",
+    "link": "https://animefire.plus/animes/figure-17-tsubasa-hikaru-todos-os-episodios",
+    "texto_original": "Figure 17: Tsubasa & Hikaru",
+    "rating": 7.25,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/figure-17-tsubasa-hikaru.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/figure-17-tsubasa-hikaru/",
+    "secao": "legendados",
+    "pagina": 69,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/figure-17-tsubasa-hikaru"
+  }
+}

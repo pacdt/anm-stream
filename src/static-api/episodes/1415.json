@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Hellsing Ultimate",
+  "anime": {
+    "id": 1415,
+    "nome": "Hellsing Ultimate",
+    "link": "https://animefire.plus/animes/hellsing-ultimate-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hellsing-ultimate",
+    "rating": "8.44",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hellsing-ultimate/1",
+      "anime_id": 1415,
+      "anime_name": "Hellsing Ultimate"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hellsing-ultimate/2",
+      "anime_id": 1415,
+      "anime_name": "Hellsing Ultimate"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hellsing-ultimate/3",
+      "anime_id": 1415,
+      "anime_name": "Hellsing Ultimate"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hellsing-ultimate/4",
+      "anime_id": 1415,
+      "anime_name": "Hellsing Ultimate"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hellsing-ultimate/5",
+      "anime_id": 1415,
+      "anime_name": "Hellsing Ultimate"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hellsing-ultimate/6",
+      "anime_id": 1415,
+      "anime_name": "Hellsing Ultimate"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/hellsing-ultimate/7",
+      "anime_id": 1415,
+      "anime_name": "Hellsing Ultimate"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/hellsing-ultimate/8",
+      "anime_id": 1415,
+      "anime_name": "Hellsing Ultimate"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/hellsing-ultimate/9",
+      "anime_id": 1415,
+      "anime_name": "Hellsing Ultimate"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/hellsing-ultimate/10",
+      "anime_id": 1415,
+      "anime_name": "Hellsing Ultimate"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/hellsing-ultimate/11",
+      "anime_id": 1415,
+      "anime_name": "Hellsing Ultimate"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/hellsing-ultimate/12",
+      "anime_id": 1415,
+      "anime_name": "Hellsing Ultimate"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/hellsing-ultimate/13",
+      "anime_id": 1415,
+      "anime_name": "Hellsing Ultimate"
+    }
+  ],
+  "total_episodes": 13
+}

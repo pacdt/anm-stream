@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Strike Witches",
+  "anime": {
+    "id": 3652,
+    "nome": "Strike Witches",
+    "link": "https://animefire.plus/animes/strike-witches-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/strike-witches",
+    "rating": "7.08",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/strike-witches/1",
+      "anime_id": 3652,
+      "anime_name": "Strike Witches"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/strike-witches/2",
+      "anime_id": 3652,
+      "anime_name": "Strike Witches"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/strike-witches/3",
+      "anime_id": 3652,
+      "anime_name": "Strike Witches"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/strike-witches/4",
+      "anime_id": 3652,
+      "anime_name": "Strike Witches"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/strike-witches/5",
+      "anime_id": 3652,
+      "anime_name": "Strike Witches"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/strike-witches/6",
+      "anime_id": 3652,
+      "anime_name": "Strike Witches"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/strike-witches/7",
+      "anime_id": 3652,
+      "anime_name": "Strike Witches"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/strike-witches/8",
+      "anime_id": 3652,
+      "anime_name": "Strike Witches"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/strike-witches/9",
+      "anime_id": 3652,
+      "anime_name": "Strike Witches"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/strike-witches/10",
+      "anime_id": 3652,
+      "anime_name": "Strike Witches"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/strike-witches/11",
+      "anime_id": 3652,
+      "anime_name": "Strike Witches"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/strike-witches/12",
+      "anime_id": 3652,
+      "anime_name": "Strike Witches"
+    }
+  ],
+  "total_episodes": 12
+}

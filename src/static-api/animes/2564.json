@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2564,
+    "nome": "Momentary Lily",
+    "link": "https://animefire.plus/animes/momentary-lily-todos-os-episodios",
+    "texto_original": "Momentary Lily",
+    "rating": 5.92,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/momentary-lily.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/momentary-lily/",
+    "secao": "legendados",
+    "pagina": 7,
+    "total_episodios": 14,
+    "link_video": "https://animefire.plus/video/momentary-lily"
+  }
+}

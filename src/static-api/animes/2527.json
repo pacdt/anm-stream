@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2527,
+    "nome": "Mitsuboshi Colors",
+    "link": "https://animefire.plus/animes/mitsuboshi-colors-todos-os-episodios",
+    "texto_original": "Mitsuboshi Colors",
+    "rating": 7.49,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/mitsuboshi-colors.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mitsuboshi-colors/",
+    "secao": "legendados",
+    "pagina": 161,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/mitsuboshi-colors"
+  }
+}

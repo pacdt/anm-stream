@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Tantei Opera Milky Holmes: Arsene Karei naru Yokubou",
+  "anime": {
+    "id": 3745,
+    "nome": "Tantei Opera Milky Holmes: Arsene Karei naru Yokubou",
+    "link": "https://animefire.plus/animes/tantei-opera-milky-holmes-arsene-karei-naru-yokubou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tantei-opera-milky-holmes-arsene-karei-naru-yokubou",
+    "rating": "6.94",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tantei-opera-milky-holmes-arsene-karei-naru-yokubou/1",
+      "anime_id": 3745,
+      "anime_name": "Tantei Opera Milky Holmes: Arsene Karei naru Yokubou"
+    }
+  ],
+  "total_episodes": 1
+}

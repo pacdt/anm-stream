@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3826,
+    "nome": "The Fable",
+    "link": "https://animefire.plus/animes/the-fable-todos-os-episodios",
+    "texto_original": "The Fable",
+    "rating": 8.13,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/the-fable.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/the-fable/",
+    "secao": "legendados",
+    "pagina": 14,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/the-fable"
+  }
+}

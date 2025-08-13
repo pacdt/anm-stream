@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3376,
+    "nome": "Shakugan no Shana",
+    "link": "https://animefire.plus/animes/shakugan-no-shana-todos-os-episodios",
+    "texto_original": "Shakugan no Shana",
+    "rating": 7.62,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/shakugan-no-shana.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shakugan-no-shana/",
+    "secao": "legendados",
+    "pagina": 166,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/shakugan-no-shana"
+  }
+}

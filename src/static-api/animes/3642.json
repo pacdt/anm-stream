@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3642,
+    "nome": "Strawberry Panic",
+    "link": "https://animefire.plus/animes/strawberry-panic-todos-os-episodios",
+    "texto_original": "Strawberry Panic",
+    "rating": 7.39,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/strawberry-panic.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/strawberry-panic/",
+    "secao": "legendados",
+    "pagina": 123,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/strawberry-panic"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Phantasy Star Online 2 The Animation",
+  "anime": {
+    "id": 2972,
+    "nome": "Phantasy Star Online 2 The Animation",
+    "link": "https://animefire.plus/animes/phantasy-star-online-2-the-animation-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/phantasy-star-online-2-the-animation",
+    "rating": "6.43",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/phantasy-star-online-2-the-animation/1",
+      "anime_id": 2972,
+      "anime_name": "Phantasy Star Online 2 The Animation"
+    }
+  ],
+  "total_episodes": 1
+}

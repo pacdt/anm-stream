@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3538,
+    "nome": "Sister Princess",
+    "link": "https://animefire.plus/animes/sister-princess-todos-os-episodios",
+    "texto_original": "Sister Princess",
+    "rating": 6.5,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/sister-princess.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sister-princess/",
+    "secao": "legendados",
+    "pagina": 140,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/sister-princess"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1448,
+    "nome": "Higashi No Eden",
+    "link": "https://animefire.plus/animes/higashi-no-eden-todos-os-episodios",
+    "texto_original": "Higashi No Eden",
+    "rating": 7.9,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/higashi-no-eden.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/higashi-no-eden/",
+    "secao": "legendados",
+    "pagina": 104,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/higashi-no-eden"
+  }
+}

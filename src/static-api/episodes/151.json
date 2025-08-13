@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Amagami SS+ Plus",
+  "anime": {
+    "id": 151,
+    "nome": "Amagami SS+ Plus",
+    "link": "https://animefire.plus/animes/amagami-ss-plus-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/amagami-ss-plus",
+    "rating": "7.53",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/amagami-ss-plus/1",
+      "anime_id": 151,
+      "anime_name": "Amagami SS+ Plus"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/amagami-ss-plus/2",
+      "anime_id": 151,
+      "anime_name": "Amagami SS+ Plus"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/amagami-ss-plus/3",
+      "anime_id": 151,
+      "anime_name": "Amagami SS+ Plus"
+    }
+  ],
+  "total_episodes": 3
+}

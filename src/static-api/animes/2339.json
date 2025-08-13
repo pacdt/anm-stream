@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2339,
+    "nome": "Mahou Shoujo Ore",
+    "link": "https://animefire.plus/animes/mahou-shoujo-ore-todos-os-episodios",
+    "texto_original": "Mahou Shoujo Ore",
+    "rating": 6.7,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/mahou-shoujo-ore.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mahou-shoujo-ore/",
+    "secao": "legendados",
+    "pagina": 121,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/mahou-shoujo-ore"
+  }
+}

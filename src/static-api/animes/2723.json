@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2723,
+    "nome": "NHK ni Youkoso!",
+    "link": "https://animefire.plus/animes/nhk-ni-youkoso-todos-os-episodios",
+    "texto_original": "NHK ni Youkoso!",
+    "rating": 8.36,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/nhk-ni-youkoso.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/nhk-ni-youkoso/",
+    "secao": "legendados",
+    "pagina": 145,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/nhk-ni-youkoso"
+  }
+}

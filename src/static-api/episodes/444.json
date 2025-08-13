@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Blue Seed 2",
+  "anime": {
+    "id": 444,
+    "nome": "Blue Seed 2",
+    "link": "https://animefire.plus/animes/blue-seed-2-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/blue-seed-2",
+    "rating": "6.45",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/blue-seed-2/1",
+      "anime_id": 444,
+      "anime_name": "Blue Seed 2"
+    }
+  ],
+  "total_episodes": 1
+}

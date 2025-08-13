@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1345,
+    "nome": "Hamidashi Creative",
+    "link": "https://animefire.plus/animes/hamidashi-creative-todos-os-episodios",
+    "texto_original": "Hamidashi Creative",
+    "rating": null,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hamidashi-creative.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hamidashi-creative/",
+    "secao": "legendados,lancamentos",
+    "pagina": 10,
+    "total_episodios": 7,
+    "link_video": "https://animefire.plus/video/hamidashi-creative"
+  }
+}

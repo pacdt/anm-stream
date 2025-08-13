@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 158,
+    "nome": "Amatsuki",
+    "link": "https://animefire.plus/animes/amatsuki-todos-os-episodios",
+    "texto_original": "Amatsuki",
+    "rating": 6.97,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/amatsuki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/amatsuki/",
+    "secao": "legendados",
+    "pagina": 133,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/amatsuki"
+  }
+}

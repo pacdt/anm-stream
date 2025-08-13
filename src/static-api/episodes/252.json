@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Aru Tabibito no Nikki Specials",
+  "anime": {
+    "id": 252,
+    "nome": "Aru Tabibito no Nikki Specials",
+    "link": "https://animefire.plus/animes/aru-tabibito-no-nikki-specials-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/aru-tabibito-no-nikki-specials",
+    "rating": "6.41",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/aru-tabibito-no-nikki-specials/1",
+      "anime_id": 252,
+      "anime_name": "Aru Tabibito no Nikki Specials"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/aru-tabibito-no-nikki-specials/2",
+      "anime_id": 252,
+      "anime_name": "Aru Tabibito no Nikki Specials"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/aru-tabibito-no-nikki-specials/3",
+      "anime_id": 252,
+      "anime_name": "Aru Tabibito no Nikki Specials"
+    }
+  ],
+  "total_episodes": 3
+}

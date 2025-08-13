@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Zetsuen no Tempest",
+  "anime": {
+    "id": 4351,
+    "nome": "Zetsuen no Tempest",
+    "link": "https://animefire.plus/animes/zetsuen-no-tempest-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/zetsuen-no-tempest",
+    "rating": "8.08",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/zetsuen-no-tempest/1",
+      "anime_id": 4351,
+      "anime_name": "Zetsuen no Tempest"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/zetsuen-no-tempest/2",
+      "anime_id": 4351,
+      "anime_name": "Zetsuen no Tempest"
+    }
+  ],
+  "total_episodes": 2
+}

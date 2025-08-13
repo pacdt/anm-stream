@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Kanon Kazahana",
+  "anime": {
+    "id": 1888,
+    "nome": "Kanon Kazahana",
+    "link": "https://animefire.plus/animes/kanon-kazahana-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kanon-kazahana",
+    "rating": "6.77",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kanon-kazahana/1",
+      "anime_id": 1888,
+      "anime_name": "Kanon Kazahana"
+    }
+  ],
+  "total_episodes": 1
+}

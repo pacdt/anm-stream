@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2048,
+    "nome": "Koi Koi 7",
+    "link": "https://animefire.plus/animes/koi-koi-7-todos-os-episodios",
+    "texto_original": "Koi Koi 7",
+    "rating": 5.88,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/koi-koi-7.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/koi-koi-7/",
+    "secao": "legendados",
+    "pagina": 128,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/koi-koi-7"
+  }
+}

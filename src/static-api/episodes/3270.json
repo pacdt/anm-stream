@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Sayonara Zetsubou Sensei Special",
+  "anime": {
+    "id": 3270,
+    "nome": "Sayonara Zetsubou Sensei Special",
+    "link": "https://animefire.plus/animes/sayonara-zetsubou-sensei-special-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sayonara-zetsubou-sensei-special",
+    "rating": "7.53",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sayonara-zetsubou-sensei-special/1",
+      "anime_id": 3270,
+      "anime_name": "Sayonara Zetsubou Sensei Special"
+    }
+  ],
+  "total_episodes": 1
+}

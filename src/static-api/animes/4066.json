@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4066,
+    "nome": "Vandread",
+    "link": "https://animefire.plus/animes/vandread-todos-os-episodios",
+    "texto_original": "Vandread",
+    "rating": 7.27,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/vandread.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/vandread/",
+    "secao": "legendados",
+    "pagina": 134,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/vandread"
+  }
+}

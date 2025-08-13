@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 887,
+    "nome": "Dragon's Dogma",
+    "link": "https://animefire.plus/animes/dragon-s-dogma-todos-os-episodios",
+    "texto_original": "Dragon's Dogma",
+    "rating": 5.86,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/dragon-s-dogma.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dragon-s-dogma/",
+    "secao": "legendados",
+    "pagina": 42,
+    "total_episodios": 7,
+    "link_video": "https://animefire.plus/video/dragon-s-dogma"
+  }
+}

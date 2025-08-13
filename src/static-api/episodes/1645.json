@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Ippatsu Hicchuu!! Devander",
+  "anime": {
+    "id": 1645,
+    "nome": "Ippatsu Hicchuu!! Devander",
+    "link": "https://animefire.plus/animes/ippatsu-hicchuu-devander-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ippatsu-hicchuu-devander",
+    "rating": "5.62",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ippatsu-hicchuu-devander/1",
+      "anime_id": 1645,
+      "anime_name": "Ippatsu Hicchuu!! Devander"
+    }
+  ],
+  "total_episodes": 1
+}

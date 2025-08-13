@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Phi Brain: Kami no Puzzle - Shukuteki! Rätsel-hen",
+  "anime": {
+    "id": 2978,
+    "nome": "Phi Brain: Kami no Puzzle - Shukuteki! Rätsel-hen",
+    "link": "https://animefire.plus/animes/phi-brain-kami-no-puzzle---shukuteki-raetsel-hen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/phi-brain-kami-no-puzzle---shukuteki-raetsel-hen",
+    "rating": "7.36",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/phi-brain-kami-no-puzzle---shukuteki-raetsel-hen/1",
+      "anime_id": 2978,
+      "anime_name": "Phi Brain: Kami no Puzzle - Shukuteki! Rätsel-hen"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/phi-brain-kami-no-puzzle---shukuteki-raetsel-hen/2",
+      "anime_id": 2978,
+      "anime_name": "Phi Brain: Kami no Puzzle - Shukuteki! Rätsel-hen"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/phi-brain-kami-no-puzzle---shukuteki-raetsel-hen/3",
+      "anime_id": 2978,
+      "anime_name": "Phi Brain: Kami no Puzzle - Shukuteki! Rätsel-hen"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/phi-brain-kami-no-puzzle---shukuteki-raetsel-hen/4",
+      "anime_id": 2978,
+      "anime_name": "Phi Brain: Kami no Puzzle - Shukuteki! Rätsel-hen"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/phi-brain-kami-no-puzzle---shukuteki-raetsel-hen/5",
+      "anime_id": 2978,
+      "anime_name": "Phi Brain: Kami no Puzzle - Shukuteki! Rätsel-hen"
+    }
+  ],
+  "total_episodes": 5
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Wonder Egg Priority Special",
+  "anime": {
+    "id": 4151,
+    "nome": "Wonder Egg Priority Special",
+    "link": "https://animefire.plus/animes/wonder-egg-priority-special-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/wonder-egg-priority-special",
+    "rating": "5.15",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/wonder-egg-priority-special/1",
+      "anime_id": 4151,
+      "anime_name": "Wonder Egg Priority Special"
+    }
+  ],
+  "total_episodes": 1
+}

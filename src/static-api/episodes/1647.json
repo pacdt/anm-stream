@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Iriya no Sora, UFO no Natsu",
+  "anime": {
+    "id": 1647,
+    "nome": "Iriya no Sora, UFO no Natsu",
+    "link": "https://animefire.plus/animes/iriya-no-sora-ufo-no-natsu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/iriya-no-sora-ufo-no-natsu",
+    "rating": "7.01",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/iriya-no-sora-ufo-no-natsu/1",
+      "anime_id": 1647,
+      "anime_name": "Iriya no Sora, UFO no Natsu"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/iriya-no-sora-ufo-no-natsu/2",
+      "anime_id": 1647,
+      "anime_name": "Iriya no Sora, UFO no Natsu"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/iriya-no-sora-ufo-no-natsu/3",
+      "anime_id": 1647,
+      "anime_name": "Iriya no Sora, UFO no Natsu"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/iriya-no-sora-ufo-no-natsu/4",
+      "anime_id": 1647,
+      "anime_name": "Iriya no Sora, UFO no Natsu"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/iriya-no-sora-ufo-no-natsu/5",
+      "anime_id": 1647,
+      "anime_name": "Iriya no Sora, UFO no Natsu"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/iriya-no-sora-ufo-no-natsu/6",
+      "anime_id": 1647,
+      "anime_name": "Iriya no Sora, UFO no Natsu"
+    }
+  ],
+  "total_episodes": 6
+}

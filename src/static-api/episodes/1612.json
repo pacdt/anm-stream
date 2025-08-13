@@ -1,0 +1,74 @@
+{
+  "message": "Lista de episódios do anime: Inari, Konkon, Koi Iroha.",
+  "anime": {
+    "id": 1612,
+    "nome": "Inari, Konkon, Koi Iroha.",
+    "link": "https://animefire.plus/animes/inari-konkon-koi-iroha-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/inari-konkon-koi-iroha",
+    "rating": "7.27",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/inari-konkon-koi-iroha/1",
+      "anime_id": 1612,
+      "anime_name": "Inari, Konkon, Koi Iroha."
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/inari-konkon-koi-iroha/2",
+      "anime_id": 1612,
+      "anime_name": "Inari, Konkon, Koi Iroha."
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/inari-konkon-koi-iroha/3",
+      "anime_id": 1612,
+      "anime_name": "Inari, Konkon, Koi Iroha."
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/inari-konkon-koi-iroha/4",
+      "anime_id": 1612,
+      "anime_name": "Inari, Konkon, Koi Iroha."
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/inari-konkon-koi-iroha/5",
+      "anime_id": 1612,
+      "anime_name": "Inari, Konkon, Koi Iroha."
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/inari-konkon-koi-iroha/6",
+      "anime_id": 1612,
+      "anime_name": "Inari, Konkon, Koi Iroha."
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/inari-konkon-koi-iroha/7",
+      "anime_id": 1612,
+      "anime_name": "Inari, Konkon, Koi Iroha."
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/inari-konkon-koi-iroha/8",
+      "anime_id": 1612,
+      "anime_name": "Inari, Konkon, Koi Iroha."
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/inari-konkon-koi-iroha/9",
+      "anime_id": 1612,
+      "anime_name": "Inari, Konkon, Koi Iroha."
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/inari-konkon-koi-iroha/10",
+      "anime_id": 1612,
+      "anime_name": "Inari, Konkon, Koi Iroha."
+    }
+  ],
+  "total_episodes": 10
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 322,
+    "nome": "Bakuretsu Tenshi",
+    "link": "https://animefire.plus/animes/bakuretsu-tenshi-todos-os-episodios",
+    "texto_original": "Bakuretsu Tenshi",
+    "rating": 6.88,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/bakuretsu-tenshi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bakuretsu-tenshi/",
+    "secao": "legendados",
+    "pagina": 172,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/bakuretsu-tenshi"
+  }
+}

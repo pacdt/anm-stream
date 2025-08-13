@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Mushoku Tensei II: Isekai Ittara Honki Dasu",
+  "anime": {
+    "id": 2623,
+    "nome": "Mushoku Tensei II: Isekai Ittara Honki Dasu",
+    "link": "https://animefire.plus/animes/mushoku-tensei-ii-sekai-ittara-honki-dasu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mushoku-tensei-ii-sekai-ittara-honki-dasu",
+    "rating": "8.22",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mushoku-tensei-ii-sekai-ittara-honki-dasu/1",
+      "anime_id": 2623,
+      "anime_name": "Mushoku Tensei II: Isekai Ittara Honki Dasu"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mushoku-tensei-ii-sekai-ittara-honki-dasu/2",
+      "anime_id": 2623,
+      "anime_name": "Mushoku Tensei II: Isekai Ittara Honki Dasu"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mushoku-tensei-ii-sekai-ittara-honki-dasu/3",
+      "anime_id": 2623,
+      "anime_name": "Mushoku Tensei II: Isekai Ittara Honki Dasu"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/mushoku-tensei-ii-sekai-ittara-honki-dasu/4",
+      "anime_id": 2623,
+      "anime_name": "Mushoku Tensei II: Isekai Ittara Honki Dasu"
+    }
+  ],
+  "total_episodes": 4
+}

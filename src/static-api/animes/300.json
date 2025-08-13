@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 300,
+    "nome": "Babylon",
+    "link": "https://animefire.plus/animes/babylon-todos-os-episodios",
+    "texto_original": "Babylon",
+    "rating": 6.82,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/babylon.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/babylon/",
+    "secao": "legendados",
+    "pagina": 110,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/babylon"
+  }
+}

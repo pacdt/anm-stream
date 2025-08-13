@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: .hack//Tasogare no Udewa Densetsu",
+  "anime": {
+    "id": 5,
+    "nome": ".hack//Tasogare no Udewa Densetsu",
+    "link": "https://animefire.plus/animes/hack-tasogare-no-udewa-densetsu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hack-tasogare-no-udewa-densetsu",
+    "rating": "6.68",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hack-tasogare-no-udewa-densetsu/1",
+      "anime_id": 5,
+      "anime_name": ".hack//Tasogare no Udewa Densetsu"
+    }
+  ],
+  "total_episodes": 1
+}

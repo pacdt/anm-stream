@@ -1,0 +1,104 @@
+{
+  "message": "Lista de episódios do anime: IDOLiSH7: Second Beat!",
+  "anime": {
+    "id": 1590,
+    "nome": "IDOLiSH7: Second Beat!",
+    "link": "https://animefire.plus/animes/idolish7-second-beat-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/idolish7-second-beat",
+    "rating": "8.15",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/idolish7-second-beat/1",
+      "anime_id": 1590,
+      "anime_name": "IDOLiSH7: Second Beat!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/idolish7-second-beat/2",
+      "anime_id": 1590,
+      "anime_name": "IDOLiSH7: Second Beat!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/idolish7-second-beat/3",
+      "anime_id": 1590,
+      "anime_name": "IDOLiSH7: Second Beat!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/idolish7-second-beat/4",
+      "anime_id": 1590,
+      "anime_name": "IDOLiSH7: Second Beat!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/idolish7-second-beat/5",
+      "anime_id": 1590,
+      "anime_name": "IDOLiSH7: Second Beat!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/idolish7-second-beat/6",
+      "anime_id": 1590,
+      "anime_name": "IDOLiSH7: Second Beat!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/idolish7-second-beat/7",
+      "anime_id": 1590,
+      "anime_name": "IDOLiSH7: Second Beat!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/idolish7-second-beat/8",
+      "anime_id": 1590,
+      "anime_name": "IDOLiSH7: Second Beat!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/idolish7-second-beat/9",
+      "anime_id": 1590,
+      "anime_name": "IDOLiSH7: Second Beat!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/idolish7-second-beat/10",
+      "anime_id": 1590,
+      "anime_name": "IDOLiSH7: Second Beat!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/idolish7-second-beat/11",
+      "anime_id": 1590,
+      "anime_name": "IDOLiSH7: Second Beat!"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/idolish7-second-beat/12",
+      "anime_id": 1590,
+      "anime_name": "IDOLiSH7: Second Beat!"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/idolish7-second-beat/13",
+      "anime_id": 1590,
+      "anime_name": "IDOLiSH7: Second Beat!"
+    },
+    {
+      "episode_number": 14,
+      "episode_url": "https://animefire.plus/video/idolish7-second-beat/14",
+      "anime_id": 1590,
+      "anime_name": "IDOLiSH7: Second Beat!"
+    },
+    {
+      "episode_number": 15,
+      "episode_url": "https://animefire.plus/video/idolish7-second-beat/15",
+      "anime_id": 1590,
+      "anime_name": "IDOLiSH7: Second Beat!"
+    }
+  ],
+  "total_episodes": 15
+}

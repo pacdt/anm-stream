@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Shin Ikkitousen",
+  "anime": {
+    "id": 3417,
+    "nome": "Shin Ikkitousen",
+    "link": "https://animefire.plus/animes/shin-ikkitousen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shin-ikkitousen",
+    "rating": "5.83",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shin-ikkitousen/1",
+      "anime_id": 3417,
+      "anime_name": "Shin Ikkitousen"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shin-ikkitousen/2",
+      "anime_id": 3417,
+      "anime_name": "Shin Ikkitousen"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/shin-ikkitousen/3",
+      "anime_id": 3417,
+      "anime_name": "Shin Ikkitousen"
+    }
+  ],
+  "total_episodes": 3
+}

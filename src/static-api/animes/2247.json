@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2247,
+    "nome": "Love Hina",
+    "link": "https://animefire.plus/animes/love-hina-todos-os-episodios",
+    "texto_original": "Love Hina",
+    "rating": 7.22,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/love-hina.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/love-hina/",
+    "secao": "legendados",
+    "pagina": 150,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/love-hina"
+  }
+}

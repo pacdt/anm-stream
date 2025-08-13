@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Okusama ga Seitokaichou!: Seitokaichou to Ofuro Asobi",
+  "anime": {
+    "id": 2816,
+    "nome": "Okusama ga Seitokaichou!: Seitokaichou to Ofuro Asobi",
+    "link": "https://animefire.plus/animes/okusama-ga-seitokaichou-seitokaichou-to-ofuro-asobi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/okusama-ga-seitokaichou-seitokaichou-to-ofuro-asobi",
+    "rating": "6.82",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/okusama-ga-seitokaichou-seitokaichou-to-ofuro-asobi/1",
+      "anime_id": 2816,
+      "anime_name": "Okusama ga Seitokaichou!: Seitokaichou to Ofuro Asobi"
+    }
+  ],
+  "total_episodes": 1
+}

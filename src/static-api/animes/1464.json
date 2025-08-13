@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1464,
+    "nome": "Highspeed Etoile",
+    "link": "https://animefire.plus/animes/highspeed-etoile-todos-os-episodios",
+    "texto_original": "Highspeed Etoile",
+    "rating": 6.14,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/highspeed-etoile.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/highspeed-etoile/",
+    "secao": "legendados",
+    "pagina": 14,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/highspeed-etoile"
+  }
+}

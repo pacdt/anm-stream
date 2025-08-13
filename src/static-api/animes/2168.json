@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2168,
+    "nome": "Kuuchuu Buranko",
+    "link": "https://animefire.plus/animes/kuuchuu-buranko-todos-os-episodios",
+    "texto_original": "Kuuchuu Buranko",
+    "rating": 8.01,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/kuuchuu-buranko.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kuuchuu-buranko/",
+    "secao": "legendados",
+    "pagina": 129,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/kuuchuu-buranko"
+  }
+}

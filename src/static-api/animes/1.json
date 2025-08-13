@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1,
+    "nome": ".Hack//Liminality",
+    "link": "https://animefire.plus/animes/hack-liminality-todos-os-episodios",
+    "texto_original": ".Hack//Liminality",
+    "rating": 6.67,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hack-liminality.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hack-liminality/",
+    "secao": "legendados",
+    "pagina": 169,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/hack-liminality"
+  }
+}

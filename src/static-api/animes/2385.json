@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2385,
+    "nome": "Major S5",
+    "link": "https://animefire.plus/animes/major-s5-todos-os-episodios",
+    "texto_original": "Major S5",
+    "rating": 8.48,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/major-s5.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/major-s5/",
+    "secao": "legendados",
+    "pagina": 125,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/major-s5"
+  }
+}

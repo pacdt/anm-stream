@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: Shouxi Yu Ling Shi",
+  "anime": {
+    "id": 3512,
+    "nome": "Shouxi Yu Ling Shi",
+    "link": "https://animefire.plus/animes/shouxi-yu-ling-shi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shouxi-yu-ling-shi",
+    "rating": "6.52",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shouxi-yu-ling-shi/1",
+      "anime_id": 3512,
+      "anime_name": "Shouxi Yu Ling Shi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shouxi-yu-ling-shi/2",
+      "anime_id": 3512,
+      "anime_name": "Shouxi Yu Ling Shi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/shouxi-yu-ling-shi/3",
+      "anime_id": 3512,
+      "anime_name": "Shouxi Yu Ling Shi"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/shouxi-yu-ling-shi/4",
+      "anime_id": 3512,
+      "anime_name": "Shouxi Yu Ling Shi"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/shouxi-yu-ling-shi/5",
+      "anime_id": 3512,
+      "anime_name": "Shouxi Yu Ling Shi"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/shouxi-yu-ling-shi/6",
+      "anime_id": 3512,
+      "anime_name": "Shouxi Yu Ling Shi"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/shouxi-yu-ling-shi/7",
+      "anime_id": 3512,
+      "anime_name": "Shouxi Yu Ling Shi"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/shouxi-yu-ling-shi/8",
+      "anime_id": 3512,
+      "anime_name": "Shouxi Yu Ling Shi"
+    }
+  ],
+  "total_episodes": 8
+}

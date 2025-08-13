@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1272,
+    "nome": "Gun Frontier",
+    "link": "https://animefire.plus/animes/gun-frontier-todos-os-episodios",
+    "texto_original": "Gun Frontier",
+    "rating": 6.63,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/gun-frontier.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gun-frontier/",
+    "secao": "legendados",
+    "pagina": 125,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/gun-frontier"
+  }
+}

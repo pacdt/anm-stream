@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 732,
+    "nome": "Dallos",
+    "link": "https://animefire.plus/animes/dallos-todos-os-episodios",
+    "texto_original": "Dallos",
+    "rating": 5.99,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/dallos.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dallos/",
+    "secao": "legendados",
+    "pagina": 54,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/dallos"
+  }
+}

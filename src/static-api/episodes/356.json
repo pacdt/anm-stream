@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Battle Athletess Daiundoukai ReSTART!",
+  "anime": {
+    "id": 356,
+    "nome": "Battle Athletess Daiundoukai ReSTART!",
+    "link": "https://animefire.plus/animes/battle-athletess-daiundoukai-restart-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/battle-athletess-daiundoukai-restart",
+    "rating": "5.11",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/battle-athletess-daiundoukai-restart/1",
+      "anime_id": 356,
+      "anime_name": "Battle Athletess Daiundoukai ReSTART!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/battle-athletess-daiundoukai-restart/2",
+      "anime_id": 356,
+      "anime_name": "Battle Athletess Daiundoukai ReSTART!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/battle-athletess-daiundoukai-restart/3",
+      "anime_id": 356,
+      "anime_name": "Battle Athletess Daiundoukai ReSTART!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/battle-athletess-daiundoukai-restart/4",
+      "anime_id": 356,
+      "anime_name": "Battle Athletess Daiundoukai ReSTART!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/battle-athletess-daiundoukai-restart/5",
+      "anime_id": 356,
+      "anime_name": "Battle Athletess Daiundoukai ReSTART!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/battle-athletess-daiundoukai-restart/6",
+      "anime_id": 356,
+      "anime_name": "Battle Athletess Daiundoukai ReSTART!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/battle-athletess-daiundoukai-restart/7",
+      "anime_id": 356,
+      "anime_name": "Battle Athletess Daiundoukai ReSTART!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/battle-athletess-daiundoukai-restart/8",
+      "anime_id": 356,
+      "anime_name": "Battle Athletess Daiundoukai ReSTART!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/battle-athletess-daiundoukai-restart/9",
+      "anime_id": 356,
+      "anime_name": "Battle Athletess Daiundoukai ReSTART!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/battle-athletess-daiundoukai-restart/10",
+      "anime_id": 356,
+      "anime_name": "Battle Athletess Daiundoukai ReSTART!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/battle-athletess-daiundoukai-restart/11",
+      "anime_id": 356,
+      "anime_name": "Battle Athletess Daiundoukai ReSTART!"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/battle-athletess-daiundoukai-restart/12",
+      "anime_id": 356,
+      "anime_name": "Battle Athletess Daiundoukai ReSTART!"
+    }
+  ],
+  "total_episodes": 12
+}

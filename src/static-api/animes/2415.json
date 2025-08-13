@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2415,
+    "nome": "Maou-sama, Retry!",
+    "link": "https://animefire.plus/animes/maou-sama-retry-todos-os-episodios",
+    "texto_original": "Maou-sama, Retry!",
+    "rating": 6.51,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/maou-sama-retry.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/maou-sama-retry/",
+    "secao": "legendados",
+    "pagina": 145,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/maou-sama-retry"
+  }
+}

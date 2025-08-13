@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Ani ni Tsukeru Kusuri wa Nai!",
+  "anime": {
+    "id": 172,
+    "nome": "Ani ni Tsukeru Kusuri wa Nai!",
+    "link": "https://animefire.plus/animes/ani-ni-tsukeru-kusuri-wa-nai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ani-ni-tsukeru-kusuri-wa-nai",
+    "rating": "7.46",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ani-ni-tsukeru-kusuri-wa-nai/1",
+      "anime_id": 172,
+      "anime_name": "Ani ni Tsukeru Kusuri wa Nai!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ani-ni-tsukeru-kusuri-wa-nai/2",
+      "anime_id": 172,
+      "anime_name": "Ani ni Tsukeru Kusuri wa Nai!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/ani-ni-tsukeru-kusuri-wa-nai/3",
+      "anime_id": 172,
+      "anime_name": "Ani ni Tsukeru Kusuri wa Nai!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/ani-ni-tsukeru-kusuri-wa-nai/4",
+      "anime_id": 172,
+      "anime_name": "Ani ni Tsukeru Kusuri wa Nai!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/ani-ni-tsukeru-kusuri-wa-nai/5",
+      "anime_id": 172,
+      "anime_name": "Ani ni Tsukeru Kusuri wa Nai!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/ani-ni-tsukeru-kusuri-wa-nai/6",
+      "anime_id": 172,
+      "anime_name": "Ani ni Tsukeru Kusuri wa Nai!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/ani-ni-tsukeru-kusuri-wa-nai/7",
+      "anime_id": 172,
+      "anime_name": "Ani ni Tsukeru Kusuri wa Nai!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/ani-ni-tsukeru-kusuri-wa-nai/8",
+      "anime_id": 172,
+      "anime_name": "Ani ni Tsukeru Kusuri wa Nai!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/ani-ni-tsukeru-kusuri-wa-nai/9",
+      "anime_id": 172,
+      "anime_name": "Ani ni Tsukeru Kusuri wa Nai!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/ani-ni-tsukeru-kusuri-wa-nai/10",
+      "anime_id": 172,
+      "anime_name": "Ani ni Tsukeru Kusuri wa Nai!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/ani-ni-tsukeru-kusuri-wa-nai/11",
+      "anime_id": 172,
+      "anime_name": "Ani ni Tsukeru Kusuri wa Nai!"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/ani-ni-tsukeru-kusuri-wa-nai/12",
+      "anime_id": 172,
+      "anime_name": "Ani ni Tsukeru Kusuri wa Nai!"
+    }
+  ],
+  "total_episodes": 12
+}

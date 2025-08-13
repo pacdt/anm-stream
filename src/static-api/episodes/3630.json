@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Starship Operators",
+  "anime": {
+    "id": 3630,
+    "nome": "Starship Operators",
+    "link": "https://animefire.plus/animes/starship-operators-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/starship-operators",
+    "rating": "7.02",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/starship-operators/1",
+      "anime_id": 3630,
+      "anime_name": "Starship Operators"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/starship-operators/2",
+      "anime_id": 3630,
+      "anime_name": "Starship Operators"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/starship-operators/3",
+      "anime_id": 3630,
+      "anime_name": "Starship Operators"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/starship-operators/4",
+      "anime_id": 3630,
+      "anime_name": "Starship Operators"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/starship-operators/5",
+      "anime_id": 3630,
+      "anime_name": "Starship Operators"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/starship-operators/6",
+      "anime_id": 3630,
+      "anime_name": "Starship Operators"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/starship-operators/7",
+      "anime_id": 3630,
+      "anime_name": "Starship Operators"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/starship-operators/8",
+      "anime_id": 3630,
+      "anime_name": "Starship Operators"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/starship-operators/9",
+      "anime_id": 3630,
+      "anime_name": "Starship Operators"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/starship-operators/10",
+      "anime_id": 3630,
+      "anime_name": "Starship Operators"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/starship-operators/11",
+      "anime_id": 3630,
+      "anime_name": "Starship Operators"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/starship-operators/12",
+      "anime_id": 3630,
+      "anime_name": "Starship Operators"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/starship-operators/13",
+      "anime_id": 3630,
+      "anime_name": "Starship Operators"
+    }
+  ],
+  "total_episodes": 13
+}

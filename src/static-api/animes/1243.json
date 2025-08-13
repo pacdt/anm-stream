@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1243,
+    "nome": "Grandeek",
+    "link": "https://animefire.plus/animes/grandeek-todos-os-episodios",
+    "texto_original": "Grandeek",
+    "rating": 5.73,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/grandeek.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/grandeek/",
+    "secao": "legendados",
+    "pagina": 66,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/grandeek"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Tamako Market Specials",
+  "anime": {
+    "id": 3732,
+    "nome": "Tamako Market Specials",
+    "link": "https://animefire.plus/animes/tamako-market-specials-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tamako-market-specials",
+    "rating": "6.32",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tamako-market-specials/1",
+      "anime_id": 3732,
+      "anime_name": "Tamako Market Specials"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tamako-market-specials/2",
+      "anime_id": 3732,
+      "anime_name": "Tamako Market Specials"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tamako-market-specials/3",
+      "anime_id": 3732,
+      "anime_name": "Tamako Market Specials"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tamako-market-specials/4",
+      "anime_id": 3732,
+      "anime_name": "Tamako Market Specials"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/tamako-market-specials/5",
+      "anime_id": 3732,
+      "anime_name": "Tamako Market Specials"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/tamako-market-specials/6",
+      "anime_id": 3732,
+      "anime_name": "Tamako Market Specials"
+    }
+  ],
+  "total_episodes": 6
+}

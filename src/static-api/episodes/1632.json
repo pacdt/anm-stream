@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Innocent Venus",
+  "anime": {
+    "id": 1632,
+    "nome": "Innocent Venus",
+    "link": "https://animefire.plus/animes/innocent-venus-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/innocent-venus",
+    "rating": "6.89",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/innocent-venus/1",
+      "anime_id": 1632,
+      "anime_name": "Innocent Venus"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/innocent-venus/2",
+      "anime_id": 1632,
+      "anime_name": "Innocent Venus"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/innocent-venus/3",
+      "anime_id": 1632,
+      "anime_name": "Innocent Venus"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/innocent-venus/4",
+      "anime_id": 1632,
+      "anime_name": "Innocent Venus"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/innocent-venus/5",
+      "anime_id": 1632,
+      "anime_name": "Innocent Venus"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/innocent-venus/6",
+      "anime_id": 1632,
+      "anime_name": "Innocent Venus"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/innocent-venus/7",
+      "anime_id": 1632,
+      "anime_name": "Innocent Venus"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/innocent-venus/8",
+      "anime_id": 1632,
+      "anime_name": "Innocent Venus"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/innocent-venus/9",
+      "anime_id": 1632,
+      "anime_name": "Innocent Venus"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/innocent-venus/10",
+      "anime_id": 1632,
+      "anime_name": "Innocent Venus"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/innocent-venus/11",
+      "anime_id": 1632,
+      "anime_name": "Innocent Venus"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/innocent-venus/12",
+      "anime_id": 1632,
+      "anime_name": "Innocent Venus"
+    }
+  ],
+  "total_episodes": 12
+}

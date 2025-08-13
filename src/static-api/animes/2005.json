@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2005,
+    "nome": "Kingdom 4th Season",
+    "link": "https://animefire.plus/animes/kingdom-4-todos-os-episodios",
+    "texto_original": "Kingdom 4th Season",
+    "rating": 8.73,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/kingdom-4.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kingdom-4/",
+    "secao": "legendados",
+    "pagina": 33,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/kingdom-4"
+  }
+}

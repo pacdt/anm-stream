@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Hinata no Aoshigure",
+  "anime": {
+    "id": 1494,
+    "nome": "Hinata no Aoshigure",
+    "link": "https://animefire.plus/animes/hinata-no-aoshigure-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hinata-no-aoshigure",
+    "rating": "7.04",
+    "classificacao_etaria": "A10"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hinata-no-aoshigure/1",
+      "anime_id": 1494,
+      "anime_name": "Hinata no Aoshigure"
+    }
+  ],
+  "total_episodes": 1
+}

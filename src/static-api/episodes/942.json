@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Elsword: El-ui Yeoin",
+  "anime": {
+    "id": 942,
+    "nome": "Elsword: El-ui Yeoin",
+    "link": "https://animefire.plus/animes/elsword-el-ui-yeoin-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/elsword-el-ui-yeoin",
+    "rating": "6.26",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/elsword-el-ui-yeoin/1",
+      "anime_id": 942,
+      "anime_name": "Elsword: El-ui Yeoin"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/elsword-el-ui-yeoin/2",
+      "anime_id": 942,
+      "anime_name": "Elsword: El-ui Yeoin"
+    }
+  ],
+  "total_episodes": 2
+}

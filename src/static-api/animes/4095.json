@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4095,
+    "nome": "Wakaba*Girl",
+    "link": "https://animefire.plus/animes/wakaba-girl-todos-os-episodios",
+    "texto_original": "Wakaba*Girl",
+    "rating": 6.92,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/wakaba-girl.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/wakaba-girl/",
+    "secao": "legendados",
+    "pagina": 62,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/wakaba-girl"
+  }
+}

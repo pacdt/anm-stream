@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Servamp",
+  "anime": {
+    "id": 3362,
+    "nome": "Servamp",
+    "link": "https://animefire.plus/animes/servamp-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/servamp",
+    "rating": "7.09",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/servamp/1",
+      "anime_id": 3362,
+      "anime_name": "Servamp"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/servamp/2",
+      "anime_id": 3362,
+      "anime_name": "Servamp"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/servamp/3",
+      "anime_id": 3362,
+      "anime_name": "Servamp"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/servamp/4",
+      "anime_id": 3362,
+      "anime_name": "Servamp"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/servamp/5",
+      "anime_id": 3362,
+      "anime_name": "Servamp"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/servamp/6",
+      "anime_id": 3362,
+      "anime_name": "Servamp"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/servamp/7",
+      "anime_id": 3362,
+      "anime_name": "Servamp"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/servamp/8",
+      "anime_id": 3362,
+      "anime_name": "Servamp"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/servamp/9",
+      "anime_id": 3362,
+      "anime_name": "Servamp"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/servamp/10",
+      "anime_id": 3362,
+      "anime_name": "Servamp"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/servamp/11",
+      "anime_id": 3362,
+      "anime_name": "Servamp"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/servamp/12",
+      "anime_id": 3362,
+      "anime_name": "Servamp"
+    }
+  ],
+  "total_episodes": 12
+}

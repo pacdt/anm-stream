@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1087,
+    "nome": "Gakuen Heaven",
+    "link": "https://animefire.plus/animes/gakuen-heaven-todos-os-episodios",
+    "texto_original": "Gakuen Heaven",
+    "rating": 6.69,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/gakuen-heaven.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gakuen-heaven/",
+    "secao": "legendados",
+    "pagina": 105,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/gakuen-heaven"
+  }
+}

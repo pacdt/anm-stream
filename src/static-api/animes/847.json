@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 847,
+    "nome": "Dorei-ku The Animation",
+    "link": "https://animefire.plus/animes/dorei-ku-the-animation-todos-os-episodios",
+    "texto_original": "Dorei-ku The Animation",
+    "rating": 6.12,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/dorei-ku-the-animation.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dorei-ku-the-animation/",
+    "secao": "legendados",
+    "pagina": 127,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/dorei-ku-the-animation"
+  }
+}

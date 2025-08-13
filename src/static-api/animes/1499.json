@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1499,
+    "nome": "Hit Wo Nerae!",
+    "link": "https://animefire.plus/animes/hit-wo-nerae-todos-os-episodios",
+    "texto_original": "Hit Wo Nerae!",
+    "rating": 5.56,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/hit-wo-nerae.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hit-wo-nerae/",
+    "secao": "legendados",
+    "pagina": 99,
+    "total_episodios": 8,
+    "link_video": "https://animefire.plus/video/hit-wo-nerae"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Tsubasa: Shunraiki",
+  "anime": {
+    "id": 3943,
+    "nome": "Tsubasa: Shunraiki",
+    "link": "https://animefire.plus/animes/tsubasa-shunraiki-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tsubasa-shunraiki",
+    "rating": "8.15",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tsubasa-shunraiki/1",
+      "anime_id": 3943,
+      "anime_name": "Tsubasa: Shunraiki"
+    }
+  ],
+  "total_episodes": 1
+}

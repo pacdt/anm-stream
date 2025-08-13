@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Hanamonogatari",
+  "anime": {
+    "id": 1351,
+    "nome": "Hanamonogatari",
+    "link": "https://animefire.plus/animes/hanamonogatari-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hanamonogatari",
+    "rating": "8.05",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hanamonogatari/1",
+      "anime_id": 1351,
+      "anime_name": "Hanamonogatari"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hanamonogatari/2",
+      "anime_id": 1351,
+      "anime_name": "Hanamonogatari"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hanamonogatari/3",
+      "anime_id": 1351,
+      "anime_name": "Hanamonogatari"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hanamonogatari/4",
+      "anime_id": 1351,
+      "anime_name": "Hanamonogatari"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hanamonogatari/5",
+      "anime_id": 1351,
+      "anime_name": "Hanamonogatari"
+    }
+  ],
+  "total_episodes": 5
+}

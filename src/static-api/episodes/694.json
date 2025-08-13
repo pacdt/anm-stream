@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou",
+  "anime": {
+    "id": 694,
+    "nome": "Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou",
+    "link": "https://animefire.plus/animes/corpse-party-tortured-souls---bougyakusareta-tamashii-no-jukyou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/corpse-party-tortured-souls---bougyakusareta-tamashii-no-jukyou",
+    "rating": "6.87",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/corpse-party-tortured-souls---bougyakusareta-tamashii-no-jukyou/1",
+      "anime_id": 694,
+      "anime_name": "Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/corpse-party-tortured-souls---bougyakusareta-tamashii-no-jukyou/2",
+      "anime_id": 694,
+      "anime_name": "Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/corpse-party-tortured-souls---bougyakusareta-tamashii-no-jukyou/3",
+      "anime_id": 694,
+      "anime_name": "Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/corpse-party-tortured-souls---bougyakusareta-tamashii-no-jukyou/4",
+      "anime_id": 694,
+      "anime_name": "Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou"
+    }
+  ],
+  "total_episodes": 4
+}

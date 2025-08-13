@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Kubikiri Cycle: Aoiro Savant to Zaregototsukai",
+  "anime": {
+    "id": 2124,
+    "nome": "Kubikiri Cycle: Aoiro Savant to Zaregototsukai",
+    "link": "https://animefire.plus/animes/kubikiri-cycle-aoiro-savant-to-zaregototsukai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kubikiri-cycle-aoiro-savant-to-zaregototsukai",
+    "rating": "7.89",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kubikiri-cycle-aoiro-savant-to-zaregototsukai/1",
+      "anime_id": 2124,
+      "anime_name": "Kubikiri Cycle: Aoiro Savant to Zaregototsukai"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kubikiri-cycle-aoiro-savant-to-zaregototsukai/2",
+      "anime_id": 2124,
+      "anime_name": "Kubikiri Cycle: Aoiro Savant to Zaregototsukai"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kubikiri-cycle-aoiro-savant-to-zaregototsukai/3",
+      "anime_id": 2124,
+      "anime_name": "Kubikiri Cycle: Aoiro Savant to Zaregototsukai"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kubikiri-cycle-aoiro-savant-to-zaregototsukai/4",
+      "anime_id": 2124,
+      "anime_name": "Kubikiri Cycle: Aoiro Savant to Zaregototsukai"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kubikiri-cycle-aoiro-savant-to-zaregototsukai/5",
+      "anime_id": 2124,
+      "anime_name": "Kubikiri Cycle: Aoiro Savant to Zaregototsukai"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kubikiri-cycle-aoiro-savant-to-zaregototsukai/6",
+      "anime_id": 2124,
+      "anime_name": "Kubikiri Cycle: Aoiro Savant to Zaregototsukai"
+    }
+  ],
+  "total_episodes": 6
+}

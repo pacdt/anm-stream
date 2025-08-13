@@ -1,0 +1,74 @@
+{
+  "message": "Lista de episódios do anime: Binbou Shimai Monogatari",
+  "anime": {
+    "id": 390,
+    "nome": "Binbou Shimai Monogatari",
+    "link": "https://animefire.plus/animes/binbou-shimai-monogatari-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/binbou-shimai-monogatari",
+    "rating": "6.92",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/binbou-shimai-monogatari/1",
+      "anime_id": 390,
+      "anime_name": "Binbou Shimai Monogatari"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/binbou-shimai-monogatari/2",
+      "anime_id": 390,
+      "anime_name": "Binbou Shimai Monogatari"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/binbou-shimai-monogatari/3",
+      "anime_id": 390,
+      "anime_name": "Binbou Shimai Monogatari"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/binbou-shimai-monogatari/4",
+      "anime_id": 390,
+      "anime_name": "Binbou Shimai Monogatari"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/binbou-shimai-monogatari/5",
+      "anime_id": 390,
+      "anime_name": "Binbou Shimai Monogatari"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/binbou-shimai-monogatari/6",
+      "anime_id": 390,
+      "anime_name": "Binbou Shimai Monogatari"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/binbou-shimai-monogatari/7",
+      "anime_id": 390,
+      "anime_name": "Binbou Shimai Monogatari"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/binbou-shimai-monogatari/8",
+      "anime_id": 390,
+      "anime_name": "Binbou Shimai Monogatari"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/binbou-shimai-monogatari/9",
+      "anime_id": 390,
+      "anime_name": "Binbou Shimai Monogatari"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/binbou-shimai-monogatari/10",
+      "anime_id": 390,
+      "anime_name": "Binbou Shimai Monogatari"
+    }
+  ],
+  "total_episodes": 10
+}

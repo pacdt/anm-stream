@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 699,
+    "nome": "Cowboy Bebop (Dublado)",
+    "link": "https://animefire.plus/animes/cowboy-bebop-dublado-todos-os-episodios",
+    "texto_original": "Cowboy Bebop (Dublado)",
+    "rating": 8.77,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/cowboy-bebop.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/cowboy-bebop/",
+    "secao": "dublados,legendados",
+    "pagina": 15,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/cowboy-bebop-dublado"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Mini Sengoku Basara Two: Tsukiyo no Katakura-kun",
+  "anime": {
+    "id": 2515,
+    "nome": "Mini Sengoku Basara Two: Tsukiyo no Katakura-kun",
+    "link": "https://animefire.plus/animes/mini-sengoku-basara-two-tsukiyo-no-katakura-kun-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mini-sengoku-basara-two-tsukiyo-no-katakura-kun",
+    "rating": "6.81",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mini-sengoku-basara-two-tsukiyo-no-katakura-kun/1",
+      "anime_id": 2515,
+      "anime_name": "Mini Sengoku Basara Two: Tsukiyo no Katakura-kun"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mini-sengoku-basara-two-tsukiyo-no-katakura-kun/2",
+      "anime_id": 2515,
+      "anime_name": "Mini Sengoku Basara Two: Tsukiyo no Katakura-kun"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mini-sengoku-basara-two-tsukiyo-no-katakura-kun/3",
+      "anime_id": 2515,
+      "anime_name": "Mini Sengoku Basara Two: Tsukiyo no Katakura-kun"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/mini-sengoku-basara-two-tsukiyo-no-katakura-kun/4",
+      "anime_id": 2515,
+      "anime_name": "Mini Sengoku Basara Two: Tsukiyo no Katakura-kun"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/mini-sengoku-basara-two-tsukiyo-no-katakura-kun/5",
+      "anime_id": 2515,
+      "anime_name": "Mini Sengoku Basara Two: Tsukiyo no Katakura-kun"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/mini-sengoku-basara-two-tsukiyo-no-katakura-kun/6",
+      "anime_id": 2515,
+      "anime_name": "Mini Sengoku Basara Two: Tsukiyo no Katakura-kun"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/mini-sengoku-basara-two-tsukiyo-no-katakura-kun/7",
+      "anime_id": 2515,
+      "anime_name": "Mini Sengoku Basara Two: Tsukiyo no Katakura-kun"
+    }
+  ],
+  "total_episodes": 7
+}

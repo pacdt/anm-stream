@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2113,
+    "nome": "Koume-chan ga Iku!",
+    "link": "https://animefire.plus/animes/koume-chan-ga-iku-todos-os-episodios",
+    "texto_original": "Koume-chan ga Iku!",
+    "rating": 5.95,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/koume-chan-ga-iku.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/koume-chan-ga-iku/",
+    "secao": "legendados",
+    "pagina": 44,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/koume-chan-ga-iku"
+  }
+}

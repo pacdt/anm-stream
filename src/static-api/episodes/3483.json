@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Shishunki Bishoujo Gattai Robo Z-Mind",
+  "anime": {
+    "id": 3483,
+    "nome": "Shishunki Bishoujo Gattai Robo Z-Mind",
+    "link": "https://animefire.plus/animes/shishunki-bishoujo-gattai-robo-z-mind-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shishunki-bishoujo-gattai-robo-z-mind",
+    "rating": "5.90",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shishunki-bishoujo-gattai-robo-z-mind/1",
+      "anime_id": 3483,
+      "anime_name": "Shishunki Bishoujo Gattai Robo Z-Mind"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shishunki-bishoujo-gattai-robo-z-mind/2",
+      "anime_id": 3483,
+      "anime_name": "Shishunki Bishoujo Gattai Robo Z-Mind"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/shishunki-bishoujo-gattai-robo-z-mind/3",
+      "anime_id": 3483,
+      "anime_name": "Shishunki Bishoujo Gattai Robo Z-Mind"
+    }
+  ],
+  "total_episodes": 3
+}

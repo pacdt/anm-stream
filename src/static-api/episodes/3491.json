@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Shokugeki no Souma: Ni no Sara OVA",
+  "anime": {
+    "id": 3491,
+    "nome": "Shokugeki no Souma: Ni no Sara OVA",
+    "link": "https://animefire.plus/animes/shokugeki-no-souma-ni-no-sara-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shokugeki-no-souma-ni-no-sara-ova",
+    "rating": "7.51",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shokugeki-no-souma-ni-no-sara-ova/1",
+      "anime_id": 3491,
+      "anime_name": "Shokugeki no Souma: Ni no Sara OVA"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shokugeki-no-souma-ni-no-sara-ova/2",
+      "anime_id": 3491,
+      "anime_name": "Shokugeki no Souma: Ni no Sara OVA"
+    }
+  ],
+  "total_episodes": 2
+}

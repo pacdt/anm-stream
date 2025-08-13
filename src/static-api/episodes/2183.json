@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Kyoukai no Kanata",
+  "anime": {
+    "id": 2183,
+    "nome": "Kyoukai no Kanata",
+    "link": "https://animefire.plus/animes/kyoukai-no-kanata-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kyoukai-no-kanata",
+    "rating": "7.86",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kyoukai-no-kanata/1",
+      "anime_id": 2183,
+      "anime_name": "Kyoukai no Kanata"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kyoukai-no-kanata/2",
+      "anime_id": 2183,
+      "anime_name": "Kyoukai no Kanata"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kyoukai-no-kanata/3",
+      "anime_id": 2183,
+      "anime_name": "Kyoukai no Kanata"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kyoukai-no-kanata/4",
+      "anime_id": 2183,
+      "anime_name": "Kyoukai no Kanata"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kyoukai-no-kanata/5",
+      "anime_id": 2183,
+      "anime_name": "Kyoukai no Kanata"
+    }
+  ],
+  "total_episodes": 5
+}

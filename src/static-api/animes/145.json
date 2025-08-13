@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 145,
+    "nome": "Allison to Lillia",
+    "link": "https://animefire.plus/animes/allison-to-lillia-todos-os-episodios",
+    "texto_original": "Allison to Lillia",
+    "rating": 7.38,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/allison-to-lillia.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/allison-to-lillia/",
+    "secao": "legendados",
+    "pagina": 116,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/allison-to-lillia"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2,
+    "nome": ".hack//Quantum",
+    "link": "https://animefire.plus/animes/hack-quantum-todos-os-episodios",
+    "texto_original": ".hack//Quantum",
+    "rating": 7.25,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hack-quantum.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hack-quantum/",
+    "secao": "legendados",
+    "pagina": 171,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/hack-quantum"
+  }
+}

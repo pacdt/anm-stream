@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Edomae Elf",
+  "anime": {
+    "id": 921,
+    "nome": "Edomae Elf",
+    "link": "https://animefire.plus/animes/edomae-elf-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/edomae-elf",
+    "rating": "7.25",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/edomae-elf/1",
+      "anime_id": 921,
+      "anime_name": "Edomae Elf"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/edomae-elf/2",
+      "anime_id": 921,
+      "anime_name": "Edomae Elf"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/edomae-elf/3",
+      "anime_id": 921,
+      "anime_name": "Edomae Elf"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/edomae-elf/4",
+      "anime_id": 921,
+      "anime_name": "Edomae Elf"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/edomae-elf/5",
+      "anime_id": 921,
+      "anime_name": "Edomae Elf"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/edomae-elf/6",
+      "anime_id": 921,
+      "anime_name": "Edomae Elf"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/edomae-elf/7",
+      "anime_id": 921,
+      "anime_name": "Edomae Elf"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/edomae-elf/8",
+      "anime_id": 921,
+      "anime_name": "Edomae Elf"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/edomae-elf/9",
+      "anime_id": 921,
+      "anime_name": "Edomae Elf"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/edomae-elf/10",
+      "anime_id": 921,
+      "anime_name": "Edomae Elf"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/edomae-elf/11",
+      "anime_id": 921,
+      "anime_name": "Edomae Elf"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/edomae-elf/12",
+      "anime_id": 921,
+      "anime_name": "Edomae Elf"
+    }
+  ],
+  "total_episodes": 12
+}

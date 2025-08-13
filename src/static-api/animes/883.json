@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 883,
+    "nome": "Dragon Fist",
+    "link": "https://animefire.plus/animes/dragon-fist-todos-os-episodios",
+    "texto_original": "Dragon Fist",
+    "rating": 4.76,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/dragon-fist.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dragon-fist/",
+    "secao": "legendados",
+    "pagina": 87,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/dragon-fist"
+  }
+}

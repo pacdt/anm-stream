@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Golden Kamuy 2nd Season OVA",
+  "anime": {
+    "id": 1222,
+    "nome": "Golden Kamuy 2nd Season OVA",
+    "link": "https://animefire.plus/animes/golden-kamuy-2nd-season-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/golden-kamuy-2nd-season-ova",
+    "rating": "7.44",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/golden-kamuy-2nd-season-ova/1",
+      "anime_id": 1222,
+      "anime_name": "Golden Kamuy 2nd Season OVA"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/golden-kamuy-2nd-season-ova/2",
+      "anime_id": 1222,
+      "anime_name": "Golden Kamuy 2nd Season OVA"
+    }
+  ],
+  "total_episodes": 2
+}

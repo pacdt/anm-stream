@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Omae wa Mada Gunma wo Shiranai",
+  "anime": {
+    "id": 2821,
+    "nome": "Omae wa Mada Gunma wo Shiranai",
+    "link": "https://animefire.plus/animes/omae-wa-mada-gunma-wo-shiranai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/omae-wa-mada-gunma-wo-shiranai",
+    "rating": "5.26",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/omae-wa-mada-gunma-wo-shiranai/1",
+      "anime_id": 2821,
+      "anime_name": "Omae wa Mada Gunma wo Shiranai"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/omae-wa-mada-gunma-wo-shiranai/2",
+      "anime_id": 2821,
+      "anime_name": "Omae wa Mada Gunma wo Shiranai"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/omae-wa-mada-gunma-wo-shiranai/3",
+      "anime_id": 2821,
+      "anime_name": "Omae wa Mada Gunma wo Shiranai"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/omae-wa-mada-gunma-wo-shiranai/4",
+      "anime_id": 2821,
+      "anime_name": "Omae wa Mada Gunma wo Shiranai"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/omae-wa-mada-gunma-wo-shiranai/5",
+      "anime_id": 2821,
+      "anime_name": "Omae wa Mada Gunma wo Shiranai"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/omae-wa-mada-gunma-wo-shiranai/6",
+      "anime_id": 2821,
+      "anime_name": "Omae wa Mada Gunma wo Shiranai"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/omae-wa-mada-gunma-wo-shiranai/7",
+      "anime_id": 2821,
+      "anime_name": "Omae wa Mada Gunma wo Shiranai"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/omae-wa-mada-gunma-wo-shiranai/8",
+      "anime_id": 2821,
+      "anime_name": "Omae wa Mada Gunma wo Shiranai"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/omae-wa-mada-gunma-wo-shiranai/9",
+      "anime_id": 2821,
+      "anime_name": "Omae wa Mada Gunma wo Shiranai"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/omae-wa-mada-gunma-wo-shiranai/10",
+      "anime_id": 2821,
+      "anime_name": "Omae wa Mada Gunma wo Shiranai"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/omae-wa-mada-gunma-wo-shiranai/11",
+      "anime_id": 2821,
+      "anime_name": "Omae wa Mada Gunma wo Shiranai"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/omae-wa-mada-gunma-wo-shiranai/12",
+      "anime_id": 2821,
+      "anime_name": "Omae wa Mada Gunma wo Shiranai"
+    }
+  ],
+  "total_episodes": 12
+}

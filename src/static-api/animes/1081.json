@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1081,
+    "nome": "Gakkougurashi!",
+    "link": "https://animefire.plus/animes/gakkougurashi-todos-os-episodios",
+    "texto_original": "Gakkougurashi!",
+    "rating": 7.64,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/gakkougurashi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gakkougurashi/",
+    "secao": "legendados",
+    "pagina": 57,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/gakkougurashi"
+  }
+}

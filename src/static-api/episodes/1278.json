@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Gundam Build Fighters",
+  "anime": {
+    "id": 1278,
+    "nome": "Gundam Build Fighters",
+    "link": "https://animefire.plus/animes/gundam-build-fighters-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gundam-build-fighters",
+    "rating": "7.89",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gundam-build-fighters/1",
+      "anime_id": 1278,
+      "anime_name": "Gundam Build Fighters"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/gundam-build-fighters/2",
+      "anime_id": 1278,
+      "anime_name": "Gundam Build Fighters"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/gundam-build-fighters/3",
+      "anime_id": 1278,
+      "anime_name": "Gundam Build Fighters"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/gundam-build-fighters/4",
+      "anime_id": 1278,
+      "anime_name": "Gundam Build Fighters"
+    }
+  ],
+  "total_episodes": 4
+}

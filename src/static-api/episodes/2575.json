@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Monogatari Series: Second Season",
+  "anime": {
+    "id": 2575,
+    "nome": "Monogatari Series: Second Season",
+    "link": "https://animefire.plus/animes/monogatari-series-second-season-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/monogatari-series-second-season",
+    "rating": "8.77",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/monogatari-series-second-season/1",
+      "anime_id": 2575,
+      "anime_name": "Monogatari Series: Second Season"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/monogatari-series-second-season/2",
+      "anime_id": 2575,
+      "anime_name": "Monogatari Series: Second Season"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/monogatari-series-second-season/3",
+      "anime_id": 2575,
+      "anime_name": "Monogatari Series: Second Season"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/monogatari-series-second-season/4",
+      "anime_id": 2575,
+      "anime_name": "Monogatari Series: Second Season"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/monogatari-series-second-season/5",
+      "anime_id": 2575,
+      "anime_name": "Monogatari Series: Second Season"
+    }
+  ],
+  "total_episodes": 5
+}

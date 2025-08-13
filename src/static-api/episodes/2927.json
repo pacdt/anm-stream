@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Ouritsu Uchuugun: Honneamise no Tsubasa Pilot",
+  "anime": {
+    "id": 2927,
+    "nome": "Ouritsu Uchuugun: Honneamise no Tsubasa Pilot",
+    "link": "https://animefire.plus/animes/ouritsu-uchuugun-honneamise-no-tsubasa-pilot-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ouritsu-uchuugun-honneamise-no-tsubasa-pilot",
+    "rating": "6.05",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ouritsu-uchuugun-honneamise-no-tsubasa-pilot/1",
+      "anime_id": 2927,
+      "anime_name": "Ouritsu Uchuugun: Honneamise no Tsubasa Pilot"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4342,
+    "nome": "Zenonzard: The Animation",
+    "link": "https://animefire.plus/animes/zenonzard-the-animation-todos-os-episodios",
+    "texto_original": "Zenonzard: The Animation",
+    "rating": 6.68,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/zenonzard-the-animation.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/zenonzard-the-animation/",
+    "secao": "legendados",
+    "pagina": 91,
+    "total_episodios": 8,
+    "link_video": "https://animefire.plus/video/zenonzard-the-animation"
+  }
+}

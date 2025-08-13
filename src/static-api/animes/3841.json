@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3841,
+    "nome": "The Reflection",
+    "link": "https://animefire.plus/animes/the-reflection-todos-os-episodios",
+    "texto_original": "The Reflection",
+    "rating": 5.16,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/the-reflection.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/the-reflection/",
+    "secao": "legendados",
+    "pagina": 64,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/the-reflection"
+  }
+}

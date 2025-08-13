@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Magical☆Star Kanon 100%",
+  "anime": {
+    "id": 2318,
+    "nome": "Magical☆Star Kanon 100%",
+    "link": "https://animefire.plus/animes/magical-star-kanon-100-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/magical-star-kanon-100",
+    "rating": "6.82",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/magical-star-kanon-100/1",
+      "anime_id": 2318,
+      "anime_name": "Magical☆Star Kanon 100%"
+    }
+  ],
+  "total_episodes": 1
+}

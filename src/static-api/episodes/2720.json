@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Netsuzou TRap",
+  "anime": {
+    "id": 2720,
+    "nome": "Netsuzou TRap",
+    "link": "https://animefire.plus/animes/netsuzou-trap-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/netsuzou-trap",
+    "rating": "5.42",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/netsuzou-trap/1",
+      "anime_id": 2720,
+      "anime_name": "Netsuzou TRap"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/netsuzou-trap/2",
+      "anime_id": 2720,
+      "anime_name": "Netsuzou TRap"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/netsuzou-trap/3",
+      "anime_id": 2720,
+      "anime_name": "Netsuzou TRap"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/netsuzou-trap/4",
+      "anime_id": 2720,
+      "anime_name": "Netsuzou TRap"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/netsuzou-trap/5",
+      "anime_id": 2720,
+      "anime_name": "Netsuzou TRap"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/netsuzou-trap/6",
+      "anime_id": 2720,
+      "anime_name": "Netsuzou TRap"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/netsuzou-trap/7",
+      "anime_id": 2720,
+      "anime_name": "Netsuzou TRap"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/netsuzou-trap/8",
+      "anime_id": 2720,
+      "anime_name": "Netsuzou TRap"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/netsuzou-trap/9",
+      "anime_id": 2720,
+      "anime_name": "Netsuzou TRap"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/netsuzou-trap/10",
+      "anime_id": 2720,
+      "anime_name": "Netsuzou TRap"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/netsuzou-trap/11",
+      "anime_id": 2720,
+      "anime_name": "Netsuzou TRap"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/netsuzou-trap/12",
+      "anime_id": 2720,
+      "anime_name": "Netsuzou TRap"
+    }
+  ],
+  "total_episodes": 12
+}

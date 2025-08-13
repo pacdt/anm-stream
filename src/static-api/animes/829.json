@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 829,
+    "nome": "Dimension W",
+    "link": "https://animefire.plus/animes/dimension-w-todos-os-episodios",
+    "texto_original": "Dimension W",
+    "rating": 7.29,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/dimension-w.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dimension-w/",
+    "secao": "legendados",
+    "pagina": 162,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/dimension-w"
+  }
+}

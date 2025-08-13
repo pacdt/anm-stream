@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2230,
+    "nome": "Little Busters!: EX",
+    "link": "https://animefire.plus/animes/little-busters-ex-todos-os-episodios",
+    "texto_original": "Little Busters!: EX",
+    "rating": 7.79,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/little-busters-ex.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/little-busters-ex/",
+    "secao": "legendados",
+    "pagina": 75,
+    "total_episodios": 9,
+    "link_video": "https://animefire.plus/video/little-busters-ex"
+  }
+}

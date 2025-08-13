@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 318,
+    "nome": "Bakumatsu Rock",
+    "link": "https://animefire.plus/animes/bakumatsu-rock-todos-os-episodios",
+    "texto_original": "Bakumatsu Rock",
+    "rating": 6.12,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/bakumatsu-rock.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bakumatsu-rock/",
+    "secao": "legendados",
+    "pagina": 156,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/bakumatsu-rock"
+  }
+}

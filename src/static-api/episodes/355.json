@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Battery",
+  "anime": {
+    "id": 355,
+    "nome": "Battery",
+    "link": "https://animefire.plus/animes/battery-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/battery",
+    "rating": "5.76",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/battery/1",
+      "anime_id": 355,
+      "anime_name": "Battery"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/battery/2",
+      "anime_id": 355,
+      "anime_name": "Battery"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/battery/3",
+      "anime_id": 355,
+      "anime_name": "Battery"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/battery/4",
+      "anime_id": 355,
+      "anime_name": "Battery"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/battery/5",
+      "anime_id": 355,
+      "anime_name": "Battery"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/battery/6",
+      "anime_id": 355,
+      "anime_name": "Battery"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/battery/7",
+      "anime_id": 355,
+      "anime_name": "Battery"
+    }
+  ],
+  "total_episodes": 7
+}

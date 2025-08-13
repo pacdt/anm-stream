@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 342,
+    "nome": "Barakamon",
+    "link": "https://animefire.plus/animes/barakamon-todos-os-episodios",
+    "texto_original": "Barakamon",
+    "rating": 8.45,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/barakamon.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/barakamon/",
+    "secao": "legendados",
+    "pagina": 175,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/barakamon"
+  }
+}

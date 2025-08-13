@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Yowamushi Pedal: Limit Break",
+  "anime": {
+    "id": 4270,
+    "nome": "Yowamushi Pedal: Limit Break",
+    "link": "https://animefire.plus/animes/yowamushi-pedal-limit-break-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yowamushi-pedal-limit-break",
+    "rating": "7.39",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yowamushi-pedal-limit-break/1",
+      "anime_id": 4270,
+      "anime_name": "Yowamushi Pedal: Limit Break"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Asobi Asobase Specials",
+  "anime": {
+    "id": 264,
+    "nome": "Asobi Asobase Specials",
+    "link": "https://animefire.plus/animes/asobi-asobase-specials-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/asobi-asobase-specials",
+    "rating": "7.59",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/asobi-asobase-specials/1",
+      "anime_id": 264,
+      "anime_name": "Asobi Asobase Specials"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/asobi-asobase-specials/2",
+      "anime_id": 264,
+      "anime_name": "Asobi Asobase Specials"
+    }
+  ],
+  "total_episodes": 2
+}

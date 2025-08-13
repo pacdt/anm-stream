@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3384,
+    "nome": "Shaman King (Dublado)",
+    "link": "https://animefire.plus/animes/shaman-king-dublado-todos-os-episodios",
+    "texto_original": "Shaman King (Dublado)",
+    "rating": 7.79,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/shaman-king.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shaman-king/",
+    "secao": "dublados,legendados",
+    "pagina": 22,
+    "total_episodios": 64,
+    "link_video": "https://animefire.plus/video/shaman-king-dublado"
+  }
+}

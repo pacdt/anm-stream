@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1110,
+    "nome": "Garo: Guren no Tsuki",
+    "link": "https://animefire.plus/animes/garo-guren-no-tsuki-todos-os-episodios",
+    "texto_original": "Garo: Guren no Tsuki",
+    "rating": 5.9,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/garo-guren-no-tsuki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/garo-guren-no-tsuki/",
+    "secao": "legendados",
+    "pagina": 63,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/garo-guren-no-tsuki"
+  }
+}

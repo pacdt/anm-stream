@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1386,
+    "nome": "Hataraku Saibou",
+    "link": "https://animefire.plus/animes/hataraku-saibou-todos-os-episodios",
+    "texto_original": "Hataraku Saibou",
+    "rating": 7.81,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hataraku-saibou.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hataraku-saibou/",
+    "secao": "legendados",
+    "pagina": 147,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/hataraku-saibou"
+  }
+}

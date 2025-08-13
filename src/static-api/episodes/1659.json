@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Isekai Meikyuu de Harem wo Specials",
+  "anime": {
+    "id": 1659,
+    "nome": "Isekai Meikyuu de Harem wo Specials",
+    "link": "https://animefire.plus/animes/isekai-meikyuu-de-harem-wo-specials-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/isekai-meikyuu-de-harem-wo-specials",
+    "rating": "6.65",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/isekai-meikyuu-de-harem-wo-specials/1",
+      "anime_id": 1659,
+      "anime_name": "Isekai Meikyuu de Harem wo Specials"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/isekai-meikyuu-de-harem-wo-specials/2",
+      "anime_id": 1659,
+      "anime_name": "Isekai Meikyuu de Harem wo Specials"
+    }
+  ],
+  "total_episodes": 2
+}

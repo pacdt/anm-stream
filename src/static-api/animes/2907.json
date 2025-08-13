@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2907,
+    "nome": "Osomatsu-san",
+    "link": "https://animefire.plus/animes/osomatsu-san-todos-os-episodios",
+    "texto_original": "Osomatsu-san",
+    "rating": 8.06,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/osomatsu-san.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/osomatsu-san/",
+    "secao": "legendados",
+    "pagina": 75,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/osomatsu-san"
+  }
+}

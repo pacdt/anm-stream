@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: BanG Dream! Morfonication",
+  "anime": {
+    "id": 339,
+    "nome": "BanG Dream! Morfonication",
+    "link": "https://animefire.plus/animes/bang-dream-morfonication-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/bang-dream-morfonication",
+    "rating": "7.57",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/bang-dream-morfonication/1",
+      "anime_id": 339,
+      "anime_name": "BanG Dream! Morfonication"
+    }
+  ],
+  "total_episodes": 1
+}

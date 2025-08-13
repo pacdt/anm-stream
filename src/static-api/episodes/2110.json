@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Koukyoushihen Eureka Seven",
+  "anime": {
+    "id": 2110,
+    "nome": "Koukyoushihen Eureka Seven",
+    "link": "https://animefire.plus/animes/koukyoushihen-eureka-seven-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/koukyoushihen-eureka-seven",
+    "rating": "8.13",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/koukyoushihen-eureka-seven/1",
+      "anime_id": 2110,
+      "anime_name": "Koukyoushihen Eureka Seven"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/koukyoushihen-eureka-seven/2",
+      "anime_id": 2110,
+      "anime_name": "Koukyoushihen Eureka Seven"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/koukyoushihen-eureka-seven/3",
+      "anime_id": 2110,
+      "anime_name": "Koukyoushihen Eureka Seven"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/koukyoushihen-eureka-seven/4",
+      "anime_id": 2110,
+      "anime_name": "Koukyoushihen Eureka Seven"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/koukyoushihen-eureka-seven/5",
+      "anime_id": 2110,
+      "anime_name": "Koukyoushihen Eureka Seven"
+    }
+  ],
+  "total_episodes": 5
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Bokura wa Minna Kawai-sou",
+  "anime": {
+    "id": 473,
+    "nome": "Bokura wa Minna Kawai-sou",
+    "link": "https://animefire.plus/animes/bokura-wa-minna-kawai-sou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/bokura-wa-minna-kawai-sou",
+    "rating": "7.80",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/bokura-wa-minna-kawai-sou/1",
+      "anime_id": 473,
+      "anime_name": "Bokura wa Minna Kawai-sou"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/bokura-wa-minna-kawai-sou/2",
+      "anime_id": 473,
+      "anime_name": "Bokura wa Minna Kawai-sou"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/bokura-wa-minna-kawai-sou/3",
+      "anime_id": 473,
+      "anime_name": "Bokura wa Minna Kawai-sou"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/bokura-wa-minna-kawai-sou/4",
+      "anime_id": 473,
+      "anime_name": "Bokura wa Minna Kawai-sou"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/bokura-wa-minna-kawai-sou/5",
+      "anime_id": 473,
+      "anime_name": "Bokura wa Minna Kawai-sou"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/bokura-wa-minna-kawai-sou/6",
+      "anime_id": 473,
+      "anime_name": "Bokura wa Minna Kawai-sou"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/bokura-wa-minna-kawai-sou/7",
+      "anime_id": 473,
+      "anime_name": "Bokura wa Minna Kawai-sou"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/bokura-wa-minna-kawai-sou/8",
+      "anime_id": 473,
+      "anime_name": "Bokura wa Minna Kawai-sou"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/bokura-wa-minna-kawai-sou/9",
+      "anime_id": 473,
+      "anime_name": "Bokura wa Minna Kawai-sou"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/bokura-wa-minna-kawai-sou/10",
+      "anime_id": 473,
+      "anime_name": "Bokura wa Minna Kawai-sou"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/bokura-wa-minna-kawai-sou/11",
+      "anime_id": 473,
+      "anime_name": "Bokura wa Minna Kawai-sou"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/bokura-wa-minna-kawai-sou/12",
+      "anime_id": 473,
+      "anime_name": "Bokura wa Minna Kawai-sou"
+    }
+  ],
+  "total_episodes": 12
+}

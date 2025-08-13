@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: Tonikaku Kawaii (Dublado)",
+  "anime": {
+    "id": 3911,
+    "nome": "Tonikaku Kawaii (Dublado)",
+    "link": "https://animefire.plus/animes/tonikaku-kawaii-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tonikaku-kawaii-dublado",
+    "rating": "7.96",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tonikaku-kawaii-dublado/1",
+      "anime_id": 3911,
+      "anime_name": "Tonikaku Kawaii (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tonikaku-kawaii-dublado/2",
+      "anime_id": 3911,
+      "anime_name": "Tonikaku Kawaii (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tonikaku-kawaii-dublado/3",
+      "anime_id": 3911,
+      "anime_name": "Tonikaku Kawaii (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tonikaku-kawaii-dublado/4",
+      "anime_id": 3911,
+      "anime_name": "Tonikaku Kawaii (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/tonikaku-kawaii-dublado/5",
+      "anime_id": 3911,
+      "anime_name": "Tonikaku Kawaii (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/tonikaku-kawaii-dublado/6",
+      "anime_id": 3911,
+      "anime_name": "Tonikaku Kawaii (Dublado)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/tonikaku-kawaii-dublado/7",
+      "anime_id": 3911,
+      "anime_name": "Tonikaku Kawaii (Dublado)"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/tonikaku-kawaii-dublado/8",
+      "anime_id": 3911,
+      "anime_name": "Tonikaku Kawaii (Dublado)"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/tonikaku-kawaii-dublado/9",
+      "anime_id": 3911,
+      "anime_name": "Tonikaku Kawaii (Dublado)"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/tonikaku-kawaii-dublado/10",
+      "anime_id": 3911,
+      "anime_name": "Tonikaku Kawaii (Dublado)"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/tonikaku-kawaii-dublado/11",
+      "anime_id": 3911,
+      "anime_name": "Tonikaku Kawaii (Dublado)"
+    }
+  ],
+  "total_episodes": 11
+}

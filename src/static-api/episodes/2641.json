@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Nagareboshi Lens",
+  "anime": {
+    "id": 2641,
+    "nome": "Nagareboshi Lens",
+    "link": "https://animefire.plus/animes/nagareboshi-lens-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nagareboshi-lens",
+    "rating": "6.72",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nagareboshi-lens/1",
+      "anime_id": 2641,
+      "anime_name": "Nagareboshi Lens"
+    }
+  ],
+  "total_episodes": 1
+}

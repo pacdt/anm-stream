@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 129,
+    "nome": "Aku no Hana",
+    "link": "https://animefire.plus/animes/aku-no-hana-todos-os-episodios",
+    "texto_original": "Aku no Hana",
+    "rating": 7.17,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/aku-no-hana.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/aku-no-hana/",
+    "secao": "legendados",
+    "pagina": 154,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/aku-no-hana"
+  }
+}

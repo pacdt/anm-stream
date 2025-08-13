@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4,
+    "nome": ".hack//Sign",
+    "link": "https://animefire.plus/animes/hack-sign-todos-os-episodios",
+    "texto_original": ".hack//Sign",
+    "rating": 7.07,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hack-sign.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hack-sign/",
+    "secao": "legendados",
+    "pagina": 142,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/hack-sign"
+  }
+}

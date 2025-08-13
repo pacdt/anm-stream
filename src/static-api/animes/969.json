@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 969,
+    "nome": "Fairy Tail (Dublado)",
+    "link": "https://animefire.plus/animes/fairy-tail-dublado-todos-os-episodios",
+    "texto_original": "Fairy Tail (Dublado)",
+    "rating": 7.64,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/fairy-tail.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/fairy-tail/",
+    "secao": "dublados,legendados,lancamentos",
+    "pagina": 18,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/fairy-tail-dublado"
+  }
+}

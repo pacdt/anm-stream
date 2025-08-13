@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1517,
+    "nome": "Honobono Log",
+    "link": "https://animefire.plus/animes/honobono-log-todos-os-episodios",
+    "texto_original": "Honobono Log",
+    "rating": 7.47,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/honobono-log.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/honobono-log/",
+    "secao": "legendados",
+    "pagina": 107,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/honobono-log"
+  }
+}

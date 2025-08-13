@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 254,
+    "nome": "Asagiri no Miko",
+    "link": "https://animefire.plus/animes/asagiri-no-miko-todos-os-episodios",
+    "texto_original": "Asagiri no Miko",
+    "rating": 6.24,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/asagiri-no-miko.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/asagiri-no-miko/",
+    "secao": "legendados",
+    "pagina": 137,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/asagiri-no-miko"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Hoshiai no Sora",
+  "anime": {
+    "id": 1530,
+    "nome": "Hoshiai no Sora",
+    "link": "https://animefire.plus/animes/hoshiai-no-sora-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hoshiai-no-sora",
+    "rating": "7.52",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hoshiai-no-sora/1",
+      "anime_id": 1530,
+      "anime_name": "Hoshiai no Sora"
+    }
+  ],
+  "total_episodes": 1
+}

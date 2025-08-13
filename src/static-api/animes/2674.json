@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2674,
+    "nome": "Nanocore",
+    "link": "https://animefire.plus/animes/nanocore-todos-os-episodios",
+    "texto_original": "Nanocore",
+    "rating": 6.31,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/nanocore.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/nanocore/",
+    "secao": "legendados",
+    "pagina": 172,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/nanocore"
+  }
+}

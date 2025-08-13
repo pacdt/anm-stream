@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Vanquished Queens",
+  "anime": {
+    "id": 4071,
+    "nome": "Vanquished Queens",
+    "link": "https://animefire.plus/animes/vanquished-queens-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/vanquished-queens",
+    "rating": "6.10",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/vanquished-queens/1",
+      "anime_id": 4071,
+      "anime_name": "Vanquished Queens"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/vanquished-queens/2",
+      "anime_id": 4071,
+      "anime_name": "Vanquished Queens"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/vanquished-queens/3",
+      "anime_id": 4071,
+      "anime_name": "Vanquished Queens"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/vanquished-queens/4",
+      "anime_id": 4071,
+      "anime_name": "Vanquished Queens"
+    }
+  ],
+  "total_episodes": 4
+}

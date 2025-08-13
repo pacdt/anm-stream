@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Lycoris Recoil: Friends Are Thieves of Time.",
+  "anime": {
+    "id": 2285,
+    "nome": "Lycoris Recoil: Friends Are Thieves of Time.",
+    "link": "https://animefire.plus/animes/lycoris-recoil-friends-are-thieves-of-time-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/lycoris-recoil-friends-are-thieves-of-time",
+    "rating": "7.72",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/lycoris-recoil-friends-are-thieves-of-time/1",
+      "anime_id": 2285,
+      "anime_name": "Lycoris Recoil: Friends Are Thieves of Time."
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/lycoris-recoil-friends-are-thieves-of-time/2",
+      "anime_id": 2285,
+      "anime_name": "Lycoris Recoil: Friends Are Thieves of Time."
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/lycoris-recoil-friends-are-thieves-of-time/3",
+      "anime_id": 2285,
+      "anime_name": "Lycoris Recoil: Friends Are Thieves of Time."
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/lycoris-recoil-friends-are-thieves-of-time/4",
+      "anime_id": 2285,
+      "anime_name": "Lycoris Recoil: Friends Are Thieves of Time."
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/lycoris-recoil-friends-are-thieves-of-time/5",
+      "anime_id": 2285,
+      "anime_name": "Lycoris Recoil: Friends Are Thieves of Time."
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/lycoris-recoil-friends-are-thieves-of-time/6",
+      "anime_id": 2285,
+      "anime_name": "Lycoris Recoil: Friends Are Thieves of Time."
+    }
+  ],
+  "total_episodes": 6
+}

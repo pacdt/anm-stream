@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3619,
+    "nome": "SSSS.Gridman",
+    "link": "https://animefire.plus/animes/ssss-gridman-todos-os-episodios",
+    "texto_original": "SSSS.Gridman",
+    "rating": 7.35,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ssss-gridman.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ssss-gridman/",
+    "secao": "legendados",
+    "pagina": 117,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/ssss-gridman"
+  }
+}

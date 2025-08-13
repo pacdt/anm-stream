@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 490,
+    "nome": "Bounen no Xamdou",
+    "link": "https://animefire.plus/animes/bounen-no-xamdou-todos-os-episodios",
+    "texto_original": "Bounen no Xamdou",
+    "rating": 7.74,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/bounen-no-xamdou.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bounen-no-xamdou/",
+    "secao": "legendados",
+    "pagina": 175,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/bounen-no-xamdou"
+  }
+}

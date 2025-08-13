@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4294,
+    "nome": "Yumeria",
+    "link": "https://animefire.plus/animes/yumeria-todos-os-episodios",
+    "texto_original": "Yumeria",
+    "rating": 6.19,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/yumeria.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/yumeria/",
+    "secao": "legendados",
+    "pagina": 133,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/yumeria"
+  }
+}

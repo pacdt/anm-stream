@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 183,
+    "nome": "Anne Shirley",
+    "link": "https://animefire.plus/animes/anne-shirley-todos-os-episodios",
+    "texto_original": "Anne Shirley",
+    "rating": 7.78,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/anne-shirley.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/anne-shirley/",
+    "secao": "legendados,lancamentos",
+    "pagina": 5,
+    "total_episodios": 18,
+    "link_video": "https://animefire.plus/video/anne-shirley"
+  }
+}

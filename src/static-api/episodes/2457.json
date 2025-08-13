@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Mayonaka Punch",
+  "anime": {
+    "id": 2457,
+    "nome": "Mayonaka Punch",
+    "link": "https://animefire.plus/animes/mayonaka-punch-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mayonaka-punch",
+    "rating": "7.35",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mayonaka-punch/1",
+      "anime_id": 2457,
+      "anime_name": "Mayonaka Punch"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mayonaka-punch/2",
+      "anime_id": 2457,
+      "anime_name": "Mayonaka Punch"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mayonaka-punch/3",
+      "anime_id": 2457,
+      "anime_name": "Mayonaka Punch"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/mayonaka-punch/4",
+      "anime_id": 2457,
+      "anime_name": "Mayonaka Punch"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/mayonaka-punch/5",
+      "anime_id": 2457,
+      "anime_name": "Mayonaka Punch"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/mayonaka-punch/6",
+      "anime_id": 2457,
+      "anime_name": "Mayonaka Punch"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/mayonaka-punch/7",
+      "anime_id": 2457,
+      "anime_name": "Mayonaka Punch"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/mayonaka-punch/8",
+      "anime_id": 2457,
+      "anime_name": "Mayonaka Punch"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/mayonaka-punch/9",
+      "anime_id": 2457,
+      "anime_name": "Mayonaka Punch"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/mayonaka-punch/10",
+      "anime_id": 2457,
+      "anime_name": "Mayonaka Punch"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/mayonaka-punch/11",
+      "anime_id": 2457,
+      "anime_name": "Mayonaka Punch"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/mayonaka-punch/12",
+      "anime_id": 2457,
+      "anime_name": "Mayonaka Punch"
+    }
+  ],
+  "total_episodes": 12
+}

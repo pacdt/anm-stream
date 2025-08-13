@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Omoi No Kakera",
+  "anime": {
+    "id": 2824,
+    "nome": "Omoi No Kakera",
+    "link": "https://animefire.plus/animes/omoi-no-kakera-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/omoi-no-kakera",
+    "rating": "6.58",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/omoi-no-kakera/1",
+      "anime_id": 2824,
+      "anime_name": "Omoi No Kakera"
+    }
+  ],
+  "total_episodes": 1
+}

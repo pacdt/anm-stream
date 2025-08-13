@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2565,
+    "nome": "Momo Kyun Sword",
+    "link": "https://animefire.plus/animes/momo-kyun-sword-todos-os-episodios",
+    "texto_original": "Momo Kyun Sword",
+    "rating": 5.65,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/momo-kyun-sword.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/momo-kyun-sword/",
+    "secao": "legendados",
+    "pagina": 145,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/momo-kyun-sword"
+  }
+}

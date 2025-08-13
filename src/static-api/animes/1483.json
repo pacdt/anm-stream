@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1483,
+    "nome": "Himegoto",
+    "link": "https://animefire.plus/animes/himegoto-todos-os-episodios",
+    "texto_original": "Himegoto",
+    "rating": 6.03,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/himegoto.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/himegoto/",
+    "secao": "legendados",
+    "pagina": 137,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/himegoto"
+  }
+}

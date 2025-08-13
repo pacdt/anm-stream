@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1373,
+    "nome": "Happiness Charge Precure!",
+    "link": "https://animefire.plus/animes/happiness-charge-precure-todos-os-episodios",
+    "texto_original": "Happiness Charge Precure!",
+    "rating": 6.8,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/happiness-charge-precure.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/happiness-charge-precure/",
+    "secao": "legendados",
+    "pagina": 67,
+    "total_episodios": 49,
+    "link_video": "https://animefire.plus/video/happiness-charge-precure"
+  }
+}

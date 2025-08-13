@@ -1,0 +1,115 @@
+{
+  "message": "Animes com 101 a 1000 episódios",
+  "episode_range": {
+    "min": 101,
+    "max": 1000
+  },
+  "data": [
+    {
+      "id": 3080,
+      "nome": "Ranma ½ (Dublado)",
+      "link": "https://animefire.plus/animes/ranma-dublado-todos-os-episodios",
+      "texto_original": "Ranma ½ (Dublado)",
+      "rating": 7.78,
+      "classificacao_etaria": "A18",
+      "imagem_original": "https://animefire.plus/img/animes/ranma.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/ranma/",
+      "secao": "dublados",
+      "pagina": 23,
+      "total_episodios": 161,
+      "link_video": "https://animefire.plus/video/ranma-dublado"
+    },
+    {
+      "id": 3205,
+      "nome": "Saint Seiya (Dublado)",
+      "link": "https://animefire.plus/animes/saint-seiya-dublado-todos-os-episodios",
+      "texto_original": "Saint Seiya (Dublado)",
+      "rating": 7.92,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/saint-seiya.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/saint-seiya/",
+      "secao": "dublados,legendados",
+      "pagina": 28,
+      "total_episodios": 145,
+      "link_video": "https://animefire.plus/video/saint-seiya-dublado"
+    },
+    {
+      "id": 3547,
+      "nome": "Slam Dunk",
+      "link": "https://animefire.plus/animes/slam-dunk-todos-os-episodios",
+      "texto_original": "Slam Dunk",
+      "rating": 8.53,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/slam-dunk.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/slam-dunk/",
+      "secao": "legendados",
+      "pagina": 73,
+      "total_episodios": 101,
+      "link_video": "https://animefire.plus/video/slam-dunk"
+    },
+    {
+      "id": 3785,
+      "nome": "Tennis no Ouji-sama",
+      "link": "https://animefire.plus/animes/tennis-no-ouji-sama-todos-os-episodios",
+      "texto_original": "Tennis no Ouji-sama",
+      "rating": 7.89,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/tennis-no-ouji-sama.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/tennis-no-ouji-sama/",
+      "secao": "legendados",
+      "pagina": 41,
+      "total_episodios": 178,
+      "link_video": "https://animefire.plus/video/tennis-no-ouji-sama"
+    },
+    {
+      "id": 4038,
+      "nome": "Urusei Yatsura",
+      "link": "https://animefire.plus/animes/urusei-yatsura-todos-os-episodios",
+      "texto_original": "Urusei Yatsura",
+      "rating": 7.75,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/urusei-yatsura.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/urusei-yatsura/",
+      "secao": "legendados",
+      "pagina": 168,
+      "total_episodios": 195,
+      "link_video": "https://animefire.plus/video/urusei-yatsura"
+    },
+    {
+      "id": 4277,
+      "nome": "Yu☆Gi☆Oh! 5D's",
+      "link": "https://animefire.plus/animes/yu-gi-oh-5d-s-todos-os-episodios",
+      "texto_original": "Yu☆Gi☆Oh! 5D's",
+      "rating": 7.51,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/yu-gi-oh-5d-s.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/yu-gi-oh-5d-s/",
+      "secao": "legendados",
+      "pagina": 125,
+      "total_episodios": 153,
+      "link_video": "https://animefire.plus/video/yu-gi-oh-5d-s"
+    },
+    {
+      "id": 4308,
+      "nome": "Yuu☆Yuu☆Hakusho (Dublado)",
+      "link": "https://animefire.plus/animes/yuu-yuu-hakusho-dublado-todos-os-episodios",
+      "texto_original": "Yuu☆Yuu☆Hakusho (Dublado)",
+      "rating": 8.45,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/yuu-yuu-hakusho.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/yuu-yuu-hakusho/",
+      "secao": "dublados,legendados",
+      "pagina": 21,
+      "total_episodios": 112,
+      "link_video": "https://animefire.plus/video/yuu-yuu-hakusho-dublado"
+    }
+  ],
+  "pagination": {
+    "current_page": 2,
+    "per_page": 20,
+    "total_items": 27,
+    "total_pages": 2,
+    "has_next": false,
+    "has_prev": true
+  }
+}

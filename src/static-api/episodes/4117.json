@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Watashi ni Tenshi ga Maiorita!",
+  "anime": {
+    "id": 4117,
+    "nome": "Watashi ni Tenshi ga Maiorita!",
+    "link": "https://animefire.plus/animes/watashi-ni-tenshi-ga-maiorita-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/watashi-ni-tenshi-ga-maiorita",
+    "rating": "7.36",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/watashi-ni-tenshi-ga-maiorita/1",
+      "anime_id": 4117,
+      "anime_name": "Watashi ni Tenshi ga Maiorita!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/watashi-ni-tenshi-ga-maiorita/2",
+      "anime_id": 4117,
+      "anime_name": "Watashi ni Tenshi ga Maiorita!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/watashi-ni-tenshi-ga-maiorita/3",
+      "anime_id": 4117,
+      "anime_name": "Watashi ni Tenshi ga Maiorita!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/watashi-ni-tenshi-ga-maiorita/4",
+      "anime_id": 4117,
+      "anime_name": "Watashi ni Tenshi ga Maiorita!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/watashi-ni-tenshi-ga-maiorita/5",
+      "anime_id": 4117,
+      "anime_name": "Watashi ni Tenshi ga Maiorita!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/watashi-ni-tenshi-ga-maiorita/6",
+      "anime_id": 4117,
+      "anime_name": "Watashi ni Tenshi ga Maiorita!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/watashi-ni-tenshi-ga-maiorita/7",
+      "anime_id": 4117,
+      "anime_name": "Watashi ni Tenshi ga Maiorita!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/watashi-ni-tenshi-ga-maiorita/8",
+      "anime_id": 4117,
+      "anime_name": "Watashi ni Tenshi ga Maiorita!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/watashi-ni-tenshi-ga-maiorita/9",
+      "anime_id": 4117,
+      "anime_name": "Watashi ni Tenshi ga Maiorita!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/watashi-ni-tenshi-ga-maiorita/10",
+      "anime_id": 4117,
+      "anime_name": "Watashi ni Tenshi ga Maiorita!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/watashi-ni-tenshi-ga-maiorita/11",
+      "anime_id": 4117,
+      "anime_name": "Watashi ni Tenshi ga Maiorita!"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/watashi-ni-tenshi-ga-maiorita/12",
+      "anime_id": 4117,
+      "anime_name": "Watashi ni Tenshi ga Maiorita!"
+    }
+  ],
+  "total_episodes": 12
+}

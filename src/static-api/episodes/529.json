@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Burn Up Scramble",
+  "anime": {
+    "id": 529,
+    "nome": "Burn Up Scramble",
+    "link": "https://animefire.plus/animes/burn-up-scramble-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/burn-up-scramble",
+    "rating": "6.28",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/burn-up-scramble/1",
+      "anime_id": 529,
+      "anime_name": "Burn Up Scramble"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/burn-up-scramble/2",
+      "anime_id": 529,
+      "anime_name": "Burn Up Scramble"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/burn-up-scramble/3",
+      "anime_id": 529,
+      "anime_name": "Burn Up Scramble"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/burn-up-scramble/4",
+      "anime_id": 529,
+      "anime_name": "Burn Up Scramble"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/burn-up-scramble/5",
+      "anime_id": 529,
+      "anime_name": "Burn Up Scramble"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/burn-up-scramble/6",
+      "anime_id": 529,
+      "anime_name": "Burn Up Scramble"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/burn-up-scramble/7",
+      "anime_id": 529,
+      "anime_name": "Burn Up Scramble"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/burn-up-scramble/8",
+      "anime_id": 529,
+      "anime_name": "Burn Up Scramble"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/burn-up-scramble/9",
+      "anime_id": 529,
+      "anime_name": "Burn Up Scramble"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/burn-up-scramble/10",
+      "anime_id": 529,
+      "anime_name": "Burn Up Scramble"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/burn-up-scramble/11",
+      "anime_id": 529,
+      "anime_name": "Burn Up Scramble"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/burn-up-scramble/12",
+      "anime_id": 529,
+      "anime_name": "Burn Up Scramble"
+    }
+  ],
+  "total_episodes": 12
+}

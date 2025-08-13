@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2045,
+    "nome": "Kodomo no Omocha (TV)",
+    "link": "https://animefire.plus/animes/kodomo-no-omocha-tv-todos-os-episodios",
+    "texto_original": "Kodomo no Omocha (TV)",
+    "rating": 8.07,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kodomo-no-omocha-tv.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kodomo-no-omocha-tv/",
+    "secao": "legendados",
+    "pagina": 68,
+    "total_episodios": 102,
+    "link_video": "https://animefire.plus/video/kodomo-no-omocha-tv"
+  }
+}

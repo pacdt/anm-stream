@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Twinkle Heart: Gingakei made Todokanai",
+  "anime": {
+    "id": 3979,
+    "nome": "Twinkle Heart: Gingakei made Todokanai",
+    "link": "https://animefire.plus/animes/twinkle-heart-gingakei-made-todokanai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/twinkle-heart-gingakei-made-todokanai",
+    "rating": "5.35",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/twinkle-heart-gingakei-made-todokanai/1",
+      "anime_id": 3979,
+      "anime_name": "Twinkle Heart: Gingakei made Todokanai"
+    }
+  ],
+  "total_episodes": 1
+}

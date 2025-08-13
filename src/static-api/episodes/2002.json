@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Kingdom",
+  "anime": {
+    "id": 2002,
+    "nome": "Kingdom",
+    "link": "https://animefire.plus/animes/kingdom-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kingdom",
+    "rating": "8.14",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kingdom/1",
+      "anime_id": 2002,
+      "anime_name": "Kingdom"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kingdom/2",
+      "anime_id": 2002,
+      "anime_name": "Kingdom"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kingdom/3",
+      "anime_id": 2002,
+      "anime_name": "Kingdom"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kingdom/4",
+      "anime_id": 2002,
+      "anime_name": "Kingdom"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kingdom/5",
+      "anime_id": 2002,
+      "anime_name": "Kingdom"
+    }
+  ],
+  "total_episodes": 5
+}

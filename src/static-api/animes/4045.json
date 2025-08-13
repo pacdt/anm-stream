@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4045,
+    "nome": "Ushio To Tora (TV)",
+    "link": "https://animefire.plus/animes/ushio-to-tora-tv-todos-os-episodios",
+    "texto_original": "Ushio To Tora (TV)",
+    "rating": 7.65,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ushio-to-tora-tv.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ushio-to-tora-tv/",
+    "secao": "legendados",
+    "pagina": 100,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/ushio-to-tora-tv"
+  }
+}

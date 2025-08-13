@@ -1,0 +1,170 @@
+{
+  "message": "Lista de episódios do anime: .hack//Sign",
+  "anime": {
+    "id": 4,
+    "nome": ".hack//Sign",
+    "link": "https://animefire.plus/animes/hack-sign-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hack-sign",
+    "rating": "7.07",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hack-sign/1",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hack-sign/2",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hack-sign/3",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hack-sign/4",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hack-sign/5",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hack-sign/6",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/hack-sign/7",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/hack-sign/8",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/hack-sign/9",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/hack-sign/10",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/hack-sign/11",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/hack-sign/12",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/hack-sign/13",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 14,
+      "episode_url": "https://animefire.plus/video/hack-sign/14",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 15,
+      "episode_url": "https://animefire.plus/video/hack-sign/15",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 16,
+      "episode_url": "https://animefire.plus/video/hack-sign/16",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 17,
+      "episode_url": "https://animefire.plus/video/hack-sign/17",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 18,
+      "episode_url": "https://animefire.plus/video/hack-sign/18",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 19,
+      "episode_url": "https://animefire.plus/video/hack-sign/19",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 20,
+      "episode_url": "https://animefire.plus/video/hack-sign/20",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 21,
+      "episode_url": "https://animefire.plus/video/hack-sign/21",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 22,
+      "episode_url": "https://animefire.plus/video/hack-sign/22",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 23,
+      "episode_url": "https://animefire.plus/video/hack-sign/23",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 24,
+      "episode_url": "https://animefire.plus/video/hack-sign/24",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 25,
+      "episode_url": "https://animefire.plus/video/hack-sign/25",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    },
+    {
+      "episode_number": 26,
+      "episode_url": "https://animefire.plus/video/hack-sign/26",
+      "anime_id": 4,
+      "anime_name": ".hack//Sign"
+    }
+  ],
+  "total_episodes": 26
+}

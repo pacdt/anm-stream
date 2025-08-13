@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 512,
+    "nome": "Buddy Complex",
+    "link": "https://animefire.plus/animes/buddy-complex-todos-os-episodios",
+    "texto_original": "Buddy Complex",
+    "rating": 7.25,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/buddy-complex.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/buddy-complex/",
+    "secao": "legendados",
+    "pagina": 144,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/buddy-complex"
+  }
+}

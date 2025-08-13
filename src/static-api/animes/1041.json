@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1041,
+    "nome": "Full Metal Panic!",
+    "link": "https://animefire.plus/animes/full-metal-panic-todos-os-episodios",
+    "texto_original": "Full Metal Panic!",
+    "rating": 7.73,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/full-metal-panic.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/full-metal-panic/",
+    "secao": "legendados",
+    "pagina": 167,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/full-metal-panic"
+  }
+}

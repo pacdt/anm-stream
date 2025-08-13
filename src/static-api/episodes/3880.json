@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Tokyo 24-ku",
+  "anime": {
+    "id": 3880,
+    "nome": "Tokyo 24-ku",
+    "link": "https://animefire.plus/animes/tokyo-24-ku-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tokyo-24-ku",
+    "rating": "6.34",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tokyo-24-ku/1",
+      "anime_id": 3880,
+      "anime_name": "Tokyo 24-ku"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tokyo-24-ku/2",
+      "anime_id": 3880,
+      "anime_name": "Tokyo 24-ku"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tokyo-24-ku/3",
+      "anime_id": 3880,
+      "anime_name": "Tokyo 24-ku"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tokyo-24-ku/4",
+      "anime_id": 3880,
+      "anime_name": "Tokyo 24-ku"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/tokyo-24-ku/5",
+      "anime_id": 3880,
+      "anime_name": "Tokyo 24-ku"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/tokyo-24-ku/6",
+      "anime_id": 3880,
+      "anime_name": "Tokyo 24-ku"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/tokyo-24-ku/7",
+      "anime_id": 3880,
+      "anime_name": "Tokyo 24-ku"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/tokyo-24-ku/8",
+      "anime_id": 3880,
+      "anime_name": "Tokyo 24-ku"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/tokyo-24-ku/9",
+      "anime_id": 3880,
+      "anime_name": "Tokyo 24-ku"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/tokyo-24-ku/10",
+      "anime_id": 3880,
+      "anime_name": "Tokyo 24-ku"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/tokyo-24-ku/11",
+      "anime_id": 3880,
+      "anime_name": "Tokyo 24-ku"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/tokyo-24-ku/12",
+      "anime_id": 3880,
+      "anime_name": "Tokyo 24-ku"
+    }
+  ],
+  "total_episodes": 12
+}

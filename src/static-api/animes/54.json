@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 54,
+    "nome": "Abciee Shuugyou Nikki",
+    "link": "https://animefire.plus/animes/abciee-shuugyou-nikki-todos-os-episodios",
+    "texto_original": "Abciee Shuugyou Nikki",
+    "rating": 5.43,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/abciee-shuugyou-nikki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/abciee-shuugyou-nikki/",
+    "secao": "legendados",
+    "pagina": 48,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/abciee-shuugyou-nikki"
+  }
+}

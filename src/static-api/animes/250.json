@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 250,
+    "nome": "Aru Majo ga Shinu Made",
+    "link": "https://animefire.plus/animes/aru-majo-ga-shinu-made-todos-os-episodios",
+    "texto_original": "Aru Majo ga Shinu Made",
+    "rating": 7.35,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/aru-majo-ga-shinu-made.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/aru-majo-ga-shinu-made/",
+    "secao": "legendados",
+    "pagina": 5,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/aru-majo-ga-shinu-made"
+  }
+}

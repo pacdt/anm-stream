@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3966,
+    "nome": "Tsuritama",
+    "link": "https://animefire.plus/animes/tsuritama-todos-os-episodios",
+    "texto_original": "Tsuritama",
+    "rating": 7.72,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/tsuritama.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tsuritama/",
+    "secao": "legendados",
+    "pagina": 60,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/tsuritama"
+  }
+}

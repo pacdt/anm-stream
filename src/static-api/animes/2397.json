@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2397,
+    "nome": "Maken-Ki!",
+    "link": "https://animefire.plus/animes/maken-ki-todos-os-episodios",
+    "texto_original": "Maken-Ki!",
+    "rating": 6.38,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/maken-ki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/maken-ki/",
+    "secao": "legendados",
+    "pagina": 40,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/maken-ki"
+  }
+}

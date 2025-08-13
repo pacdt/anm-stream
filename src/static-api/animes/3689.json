@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3689,
+    "nome": "Sweet Valerian",
+    "link": "https://animefire.plus/animes/sweet-valerian-todos-os-episodios",
+    "texto_original": "Sweet Valerian",
+    "rating": 5.79,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/sweet-valerian.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sweet-valerian/",
+    "secao": "legendados",
+    "pagina": 102,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/sweet-valerian"
+  }
+}

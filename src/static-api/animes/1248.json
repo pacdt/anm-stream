@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1248,
+    "nome": "Great Pretender (Dublado)",
+    "link": "https://animefire.plus/animes/great-pretender-dublado-todos-os-episodios",
+    "texto_original": "Great Pretender (Dublado)",
+    "rating": 8.31,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/great-pretender.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/great-pretender/",
+    "secao": "dublados,legendados",
+    "pagina": 20,
+    "total_episodios": 23,
+    "link_video": "https://animefire.plus/video/great-pretender-dublado"
+  }
+}

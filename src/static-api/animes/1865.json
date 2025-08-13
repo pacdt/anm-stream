@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1865,
+    "nome": "Kämpfer",
+    "link": "https://animefire.plus/animes/kaempfer-todos-os-episodios",
+    "texto_original": "Kämpfer",
+    "rating": 6.59,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kaempfer.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kaempfer/",
+    "secao": "legendados",
+    "pagina": 116,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/kaempfer"
+  }
+}

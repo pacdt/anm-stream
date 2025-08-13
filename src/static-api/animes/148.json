@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 148,
+    "nome": "Amaenaide yo!!",
+    "link": "https://animefire.plus/animes/amaenaide-yo-todos-os-episodios",
+    "texto_original": "Amaenaide yo!!",
+    "rating": 6.58,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/amaenaide-yo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/amaenaide-yo/",
+    "secao": "legendados",
+    "pagina": 166,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/amaenaide-yo"
+  }
+}

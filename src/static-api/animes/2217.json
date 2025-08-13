@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2217,
+    "nome": "Levius (Dublado)",
+    "link": "https://animefire.plus/animes/levius-dublado-todos-os-episodios",
+    "texto_original": "Levius (Dublado)",
+    "rating": 7.27,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/levius.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/levius/",
+    "secao": "dublados,legendados",
+    "pagina": 25,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/levius-dublado"
+  }
+}

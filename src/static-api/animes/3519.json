@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3519,
+    "nome": "Shugo Chara!! Doki",
+    "link": "https://animefire.plus/animes/shugo-chara-doki-todos-os-episodios",
+    "texto_original": "Shugo Chara!! Doki",
+    "rating": 7.47,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/shugo-chara-doki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shugo-chara-doki/",
+    "secao": "legendados",
+    "pagina": 63,
+    "total_episodios": 51,
+    "link_video": "https://animefire.plus/video/shugo-chara-doki"
+  }
+}

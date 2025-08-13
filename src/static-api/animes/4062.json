@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4062,
+    "nome": "Vampire Hunter",
+    "link": "https://animefire.plus/animes/vampire-hunter-todos-os-episodios",
+    "texto_original": "Vampire Hunter",
+    "rating": 6.74,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/vampire-hunter.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/vampire-hunter/",
+    "secao": "legendados",
+    "pagina": 172,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/vampire-hunter"
+  }
+}

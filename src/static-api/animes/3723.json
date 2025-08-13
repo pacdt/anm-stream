@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3723,
+    "nome": "Tales of Eternia The Animation",
+    "link": "https://animefire.plus/animes/tales-of-eternia-the-animation-todos-os-episodios",
+    "texto_original": "Tales of Eternia The Animation",
+    "rating": 6.27,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/tales-of-eternia-the-animation.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tales-of-eternia-the-animation/",
+    "secao": "legendados",
+    "pagina": 137,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/tales-of-eternia-the-animation"
+  }
+}

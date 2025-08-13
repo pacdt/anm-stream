@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 168,
+    "nome": "Ange Vierge",
+    "link": "https://animefire.plus/animes/ange-vierge-todos-os-episodios",
+    "texto_original": "Ange Vierge",
+    "rating": 6.09,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/ange-vierge.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ange-vierge/",
+    "secao": "legendados",
+    "pagina": 90,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/ange-vierge"
+  }
+}

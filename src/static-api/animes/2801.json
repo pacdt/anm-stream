@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2801,
+    "nome": "Obey Me!",
+    "link": "https://animefire.plus/animes/obey-me-todos-os-episodios",
+    "texto_original": "Obey Me!",
+    "rating": 7.13,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/obey-me.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/obey-me/",
+    "secao": "legendados",
+    "pagina": 40,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/obey-me"
+  }
+}

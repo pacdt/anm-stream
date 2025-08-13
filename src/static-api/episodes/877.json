@@ -1,0 +1,110 @@
+{
+  "message": "Lista de episódios do anime: Dragon Ball Heroes (Dublado)",
+  "anime": {
+    "id": 877,
+    "nome": "Dragon Ball Heroes (Dublado)",
+    "link": "https://animefire.plus/animes/dragon-ball-heroes-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/dragon-ball-heroes-dublado",
+    "rating": "5.62",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/dragon-ball-heroes-dublado/1",
+      "anime_id": 877,
+      "anime_name": "Dragon Ball Heroes (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/dragon-ball-heroes-dublado/2",
+      "anime_id": 877,
+      "anime_name": "Dragon Ball Heroes (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/dragon-ball-heroes-dublado/3",
+      "anime_id": 877,
+      "anime_name": "Dragon Ball Heroes (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/dragon-ball-heroes-dublado/4",
+      "anime_id": 877,
+      "anime_name": "Dragon Ball Heroes (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/dragon-ball-heroes-dublado/5",
+      "anime_id": 877,
+      "anime_name": "Dragon Ball Heroes (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/dragon-ball-heroes-dublado/6",
+      "anime_id": 877,
+      "anime_name": "Dragon Ball Heroes (Dublado)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/dragon-ball-heroes-dublado/7",
+      "anime_id": 877,
+      "anime_name": "Dragon Ball Heroes (Dublado)"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/dragon-ball-heroes-dublado/8",
+      "anime_id": 877,
+      "anime_name": "Dragon Ball Heroes (Dublado)"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/dragon-ball-heroes-dublado/9",
+      "anime_id": 877,
+      "anime_name": "Dragon Ball Heroes (Dublado)"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/dragon-ball-heroes-dublado/10",
+      "anime_id": 877,
+      "anime_name": "Dragon Ball Heroes (Dublado)"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/dragon-ball-heroes-dublado/11",
+      "anime_id": 877,
+      "anime_name": "Dragon Ball Heroes (Dublado)"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/dragon-ball-heroes-dublado/12",
+      "anime_id": 877,
+      "anime_name": "Dragon Ball Heroes (Dublado)"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/dragon-ball-heroes-dublado/13",
+      "anime_id": 877,
+      "anime_name": "Dragon Ball Heroes (Dublado)"
+    },
+    {
+      "episode_number": 14,
+      "episode_url": "https://animefire.plus/video/dragon-ball-heroes-dublado/14",
+      "anime_id": 877,
+      "anime_name": "Dragon Ball Heroes (Dublado)"
+    },
+    {
+      "episode_number": 15,
+      "episode_url": "https://animefire.plus/video/dragon-ball-heroes-dublado/15",
+      "anime_id": 877,
+      "anime_name": "Dragon Ball Heroes (Dublado)"
+    },
+    {
+      "episode_number": 16,
+      "episode_url": "https://animefire.plus/video/dragon-ball-heroes-dublado/16",
+      "anime_id": 877,
+      "anime_name": "Dragon Ball Heroes (Dublado)"
+    }
+  ],
+  "total_episodes": 16
+}

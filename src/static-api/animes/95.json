@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 95,
+    "nome": "Aikatsu Stars!",
+    "link": "https://animefire.plus/animes/aikatsu-stars-todos-os-episodios",
+    "texto_original": "Aikatsu Stars!",
+    "rating": 7.63,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/aikatsu-stars.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/aikatsu-stars/",
+    "secao": "legendados",
+    "pagina": 88,
+    "total_episodios": 100,
+    "link_video": "https://animefire.plus/video/aikatsu-stars"
+  }
+}

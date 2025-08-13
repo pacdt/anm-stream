@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1867,
+    "nome": "Kanata no Astra",
+    "link": "https://animefire.plus/animes/kanata-no-astra-todos-os-episodios",
+    "texto_original": "Kanata no Astra",
+    "rating": 8.17,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kanata-no-astra.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kanata-no-astra/",
+    "secao": "legendados",
+    "pagina": 144,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/kanata-no-astra"
+  }
+}

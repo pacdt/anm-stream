@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3610,
+    "nome": "Speed Grapher",
+    "link": "https://animefire.plus/animes/speed-grapher-todos-os-episodios",
+    "texto_original": "Speed Grapher",
+    "rating": 7.41,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/speed-grapher.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/speed-grapher/",
+    "secao": "legendados",
+    "pagina": 165,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/speed-grapher"
+  }
+}

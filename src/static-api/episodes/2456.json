@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Mayonaka no Occult Koumuin: Hitoribocchi no Kyuuketsuki",
+  "anime": {
+    "id": 2456,
+    "nome": "Mayonaka no Occult Koumuin: Hitoribocchi no Kyuuketsuki",
+    "link": "https://animefire.plus/animes/mayonaka-no-occult-koumuin-hitoribocchi-no-kyuuketsuki-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mayonaka-no-occult-koumuin-hitoribocchi-no-kyuuketsuki",
+    "rating": "7.15",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mayonaka-no-occult-koumuin-hitoribocchi-no-kyuuketsuki/1",
+      "anime_id": 2456,
+      "anime_name": "Mayonaka no Occult Koumuin: Hitoribocchi no Kyuuketsuki"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mayonaka-no-occult-koumuin-hitoribocchi-no-kyuuketsuki/2",
+      "anime_id": 2456,
+      "anime_name": "Mayonaka no Occult Koumuin: Hitoribocchi no Kyuuketsuki"
+    }
+  ],
+  "total_episodes": 2
+}

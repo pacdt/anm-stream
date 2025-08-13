@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: One Piece: Taose! Kaizoku Ganzack",
+  "anime": {
+    "id": 2836,
+    "nome": "One Piece: Taose! Kaizoku Ganzack",
+    "link": "https://animefire.plus/animes/one-piece-taose-kaizoku-ganzack-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/one-piece-taose-kaizoku-ganzack",
+    "rating": "6.76",
+    "classificacao_etaria": "A10"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/one-piece-taose-kaizoku-ganzack/1",
+      "anime_id": 2836,
+      "anime_name": "One Piece: Taose! Kaizoku Ganzack"
+    }
+  ],
+  "total_episodes": 1
+}

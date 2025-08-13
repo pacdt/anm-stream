@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1888,
+    "nome": "Kanon Kazahana",
+    "link": "https://animefire.plus/animes/kanon-kazahana-todos-os-episodios",
+    "texto_original": "Kanon Kazahana",
+    "rating": 6.77,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/kanon-kazahana.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kanon-kazahana/",
+    "secao": "legendados",
+    "pagina": 77,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/kanon-kazahana"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3008,
+    "nome": "Pokemon XY&Z",
+    "link": "https://animefire.plus/animes/pokemon-xy-z-todos-os-episodios",
+    "texto_original": "Pokemon XY&Z",
+    "rating": 7.7,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/pokemon-xy-z.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/pokemon-xy-z/",
+    "secao": "legendados",
+    "pagina": 75,
+    "total_episodios": 47,
+    "link_video": "https://animefire.plus/video/pokemon-xy-z"
+  }
+}

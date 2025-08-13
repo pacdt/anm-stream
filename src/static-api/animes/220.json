@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 220,
+    "nome": "Arakawa Under the Bridge",
+    "link": "https://animefire.plus/animes/arakawa-under-the-bridge-todos-os-episodios",
+    "texto_original": "Arakawa Under the Bridge",
+    "rating": 7.65,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/arakawa-under-the-bridge.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/arakawa-under-the-bridge/",
+    "secao": "legendados",
+    "pagina": 166,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/arakawa-under-the-bridge"
+  }
+}

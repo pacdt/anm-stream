@@ -11,7 +11,7 @@ interface ImageWithFallbackProps extends React.ImgHTMLAttributes<HTMLImageElemen
 
 export const ImageWithFallback: React.FC<ImageWithFallbackProps> = ({
   src,
-  fallbackSrc = '/placeholder-anime.jpg',
+  fallbackSrc = '/placeholder-anime.svg',
   alt,
   className,
   onLoadError,
@@ -22,23 +22,18 @@ export const ImageWithFallback: React.FC<ImageWithFallbackProps> = ({
   const [isLoading, setIsLoading] = useState(true)
 
   const handleError = useCallback((e: React.SyntheticEvent<HTMLImageElement>) => {
-    console.warn(`🖼️ [IMAGE] Erro ao carregar imagem: ${currentSrc}`)
-    
     if (!hasError && currentSrc !== fallbackSrc) {
-      console.log(`🔄 [IMAGE] Tentando fallback: ${fallbackSrc}`)
       setCurrentSrc(fallbackSrc)
       setHasError(true)
       onLoadError?.()
     } else {
-      console.error(`❌ [IMAGE] Falha total no carregamento da imagem: ${alt}`)
       setIsLoading(false)
     }
-  }, [currentSrc, fallbackSrc, hasError, alt, onLoadError])
+  }, [currentSrc, fallbackSrc, hasError, onLoadError])
 
   const handleLoad = useCallback(() => {
-    console.log(`✅ [IMAGE] Imagem carregada com sucesso: ${currentSrc}`)
     setIsLoading(false)
-  }, [currentSrc])
+  }, [])
 
   // Se a imagem falhou completamente, mostrar placeholder
   if (hasError && currentSrc === fallbackSrc) {
@@ -94,11 +89,17 @@ export const useImageWithFallback = (initialSrc: string, fallbackSrc?: string) =
 
   const handleError = useCallback(() => {
     if (!hasError && fallbackSrc && src !== fallbackSrc) {
-      console.warn(`🖼️ [HOOK] Erro na imagem, usando fallback: ${fallbackSrc}`)
+      // Log apenas em desenvolvimento
+      if (process.env.NODE_ENV === 'development') {
+        console.debug(`🖼️ [HOOK] Erro na imagem, usando fallback: ${fallbackSrc}`)
+      }
       setSrc(fallbackSrc)
       setHasError(true)
     } else {
-      console.error(`❌ [HOOK] Falha total no carregamento da imagem`)
+      // Falha total - log apenas em desenvolvimento
+      if (process.env.NODE_ENV === 'development') {
+        console.debug(`❌ [HOOK] Falha total no carregamento da imagem`)
+      }
       setIsLoading(false)
     }
   }, [src, fallbackSrc, hasError])

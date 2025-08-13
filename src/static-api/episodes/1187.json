@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Ginyuu Mokushiroku Meine Liebe",
+  "anime": {
+    "id": 1187,
+    "nome": "Ginyuu Mokushiroku Meine Liebe",
+    "link": "https://animefire.plus/animes/ginyuu-mokushiroku-meine-liebe-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ginyuu-mokushiroku-meine-liebe",
+    "rating": "6.50",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ginyuu-mokushiroku-meine-liebe/1",
+      "anime_id": 1187,
+      "anime_name": "Ginyuu Mokushiroku Meine Liebe"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ginyuu-mokushiroku-meine-liebe/2",
+      "anime_id": 1187,
+      "anime_name": "Ginyuu Mokushiroku Meine Liebe"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/ginyuu-mokushiroku-meine-liebe/3",
+      "anime_id": 1187,
+      "anime_name": "Ginyuu Mokushiroku Meine Liebe"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/ginyuu-mokushiroku-meine-liebe/4",
+      "anime_id": 1187,
+      "anime_name": "Ginyuu Mokushiroku Meine Liebe"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/ginyuu-mokushiroku-meine-liebe/5",
+      "anime_id": 1187,
+      "anime_name": "Ginyuu Mokushiroku Meine Liebe"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/ginyuu-mokushiroku-meine-liebe/6",
+      "anime_id": 1187,
+      "anime_name": "Ginyuu Mokushiroku Meine Liebe"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/ginyuu-mokushiroku-meine-liebe/7",
+      "anime_id": 1187,
+      "anime_name": "Ginyuu Mokushiroku Meine Liebe"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/ginyuu-mokushiroku-meine-liebe/8",
+      "anime_id": 1187,
+      "anime_name": "Ginyuu Mokushiroku Meine Liebe"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/ginyuu-mokushiroku-meine-liebe/9",
+      "anime_id": 1187,
+      "anime_name": "Ginyuu Mokushiroku Meine Liebe"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/ginyuu-mokushiroku-meine-liebe/10",
+      "anime_id": 1187,
+      "anime_name": "Ginyuu Mokushiroku Meine Liebe"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/ginyuu-mokushiroku-meine-liebe/11",
+      "anime_id": 1187,
+      "anime_name": "Ginyuu Mokushiroku Meine Liebe"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/ginyuu-mokushiroku-meine-liebe/12",
+      "anime_id": 1187,
+      "anime_name": "Ginyuu Mokushiroku Meine Liebe"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/ginyuu-mokushiroku-meine-liebe/13",
+      "anime_id": 1187,
+      "anime_name": "Ginyuu Mokushiroku Meine Liebe"
+    }
+  ],
+  "total_episodes": 13
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 808,
+    "nome": "Di Gi Charat",
+    "link": "https://animefire.plus/animes/di-gi-charat-todos-os-episodios",
+    "texto_original": "Di Gi Charat",
+    "rating": 6.79,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/di-gi-charat.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/di-gi-charat/",
+    "secao": "legendados",
+    "pagina": 129,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/di-gi-charat"
+  }
+}

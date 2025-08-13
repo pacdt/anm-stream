@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Seiken Tsukai No World Break",
+  "anime": {
+    "id": 3295,
+    "nome": "Seiken Tsukai No World Break",
+    "link": "https://animefire.plus/animes/seiken-tsukai-no-world-break-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/seiken-tsukai-no-world-break",
+    "rating": "7.11",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/seiken-tsukai-no-world-break/1",
+      "anime_id": 3295,
+      "anime_name": "Seiken Tsukai No World Break"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/seiken-tsukai-no-world-break/2",
+      "anime_id": 3295,
+      "anime_name": "Seiken Tsukai No World Break"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/seiken-tsukai-no-world-break/3",
+      "anime_id": 3295,
+      "anime_name": "Seiken Tsukai No World Break"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/seiken-tsukai-no-world-break/4",
+      "anime_id": 3295,
+      "anime_name": "Seiken Tsukai No World Break"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/seiken-tsukai-no-world-break/5",
+      "anime_id": 3295,
+      "anime_name": "Seiken Tsukai No World Break"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/seiken-tsukai-no-world-break/6",
+      "anime_id": 3295,
+      "anime_name": "Seiken Tsukai No World Break"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/seiken-tsukai-no-world-break/7",
+      "anime_id": 3295,
+      "anime_name": "Seiken Tsukai No World Break"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/seiken-tsukai-no-world-break/8",
+      "anime_id": 3295,
+      "anime_name": "Seiken Tsukai No World Break"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/seiken-tsukai-no-world-break/9",
+      "anime_id": 3295,
+      "anime_name": "Seiken Tsukai No World Break"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/seiken-tsukai-no-world-break/10",
+      "anime_id": 3295,
+      "anime_name": "Seiken Tsukai No World Break"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/seiken-tsukai-no-world-break/11",
+      "anime_id": 3295,
+      "anime_name": "Seiken Tsukai No World Break"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/seiken-tsukai-no-world-break/12",
+      "anime_id": 3295,
+      "anime_name": "Seiken Tsukai No World Break"
+    }
+  ],
+  "total_episodes": 12
+}

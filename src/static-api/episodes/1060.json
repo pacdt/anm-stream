@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Futari wa Milky Holmes",
+  "anime": {
+    "id": 1060,
+    "nome": "Futari wa Milky Holmes",
+    "link": "https://animefire.plus/animes/futari-wa-milky-holmes-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/futari-wa-milky-holmes",
+    "rating": "5.82",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/futari-wa-milky-holmes/1",
+      "anime_id": 1060,
+      "anime_name": "Futari wa Milky Holmes"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/futari-wa-milky-holmes/2",
+      "anime_id": 1060,
+      "anime_name": "Futari wa Milky Holmes"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/futari-wa-milky-holmes/3",
+      "anime_id": 1060,
+      "anime_name": "Futari wa Milky Holmes"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/futari-wa-milky-holmes/4",
+      "anime_id": 1060,
+      "anime_name": "Futari wa Milky Holmes"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/futari-wa-milky-holmes/5",
+      "anime_id": 1060,
+      "anime_name": "Futari wa Milky Holmes"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/futari-wa-milky-holmes/6",
+      "anime_id": 1060,
+      "anime_name": "Futari wa Milky Holmes"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/futari-wa-milky-holmes/7",
+      "anime_id": 1060,
+      "anime_name": "Futari wa Milky Holmes"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/futari-wa-milky-holmes/8",
+      "anime_id": 1060,
+      "anime_name": "Futari wa Milky Holmes"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/futari-wa-milky-holmes/9",
+      "anime_id": 1060,
+      "anime_name": "Futari wa Milky Holmes"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/futari-wa-milky-holmes/10",
+      "anime_id": 1060,
+      "anime_name": "Futari wa Milky Holmes"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/futari-wa-milky-holmes/11",
+      "anime_id": 1060,
+      "anime_name": "Futari wa Milky Holmes"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/futari-wa-milky-holmes/12",
+      "anime_id": 1060,
+      "anime_name": "Futari wa Milky Holmes"
+    }
+  ],
+  "total_episodes": 12
+}

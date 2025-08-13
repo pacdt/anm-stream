@@ -1,0 +1,152 @@
+{
+  "message": "Lista de episódios do anime: Lupin III",
+  "anime": {
+    "id": 2268,
+    "nome": "Lupin III",
+    "link": "https://animefire.plus/animes/lupin-iii-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/lupin-iii",
+    "rating": "7.69",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/lupin-iii/1",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/lupin-iii/2",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/lupin-iii/3",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/lupin-iii/4",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/lupin-iii/5",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/lupin-iii/6",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/lupin-iii/7",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/lupin-iii/8",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/lupin-iii/9",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/lupin-iii/10",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/lupin-iii/11",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/lupin-iii/12",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/lupin-iii/13",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 14,
+      "episode_url": "https://animefire.plus/video/lupin-iii/14",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 15,
+      "episode_url": "https://animefire.plus/video/lupin-iii/15",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 16,
+      "episode_url": "https://animefire.plus/video/lupin-iii/16",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 17,
+      "episode_url": "https://animefire.plus/video/lupin-iii/17",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 18,
+      "episode_url": "https://animefire.plus/video/lupin-iii/18",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 19,
+      "episode_url": "https://animefire.plus/video/lupin-iii/19",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 20,
+      "episode_url": "https://animefire.plus/video/lupin-iii/20",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 21,
+      "episode_url": "https://animefire.plus/video/lupin-iii/21",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 22,
+      "episode_url": "https://animefire.plus/video/lupin-iii/22",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    },
+    {
+      "episode_number": 23,
+      "episode_url": "https://animefire.plus/video/lupin-iii/23",
+      "anime_id": 2268,
+      "anime_name": "Lupin III"
+    }
+  ],
+  "total_episodes": 23
+}

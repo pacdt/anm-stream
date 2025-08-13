@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2511,
+    "nome": "Minami-ke Okawari",
+    "link": "https://animefire.plus/animes/minami-ke-okawari-todos-os-episodios",
+    "texto_original": "Minami-ke Okawari",
+    "rating": 7.39,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/minami-ke-okawari.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/minami-ke-okawari/",
+    "secao": "legendados",
+    "pagina": 114,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/minami-ke-okawari"
+  }
+}

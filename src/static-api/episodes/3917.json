@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Top wo Nerae! Gunbuster",
+  "anime": {
+    "id": 3917,
+    "nome": "Top wo Nerae! Gunbuster",
+    "link": "https://animefire.plus/animes/top-wo-nerae-gunbuster-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/top-wo-nerae-gunbuster",
+    "rating": "7.89",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/top-wo-nerae-gunbuster/1",
+      "anime_id": 3917,
+      "anime_name": "Top wo Nerae! Gunbuster"
+    }
+  ],
+  "total_episodes": 1
+}

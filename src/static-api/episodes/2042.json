@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Kochouki: Wakaki Nobunaga",
+  "anime": {
+    "id": 2042,
+    "nome": "Kochouki: Wakaki Nobunaga",
+    "link": "https://animefire.plus/animes/kochouki-wakaki-nobunaga-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kochouki-wakaki-nobunaga",
+    "rating": "6.51",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kochouki-wakaki-nobunaga/1",
+      "anime_id": 2042,
+      "anime_name": "Kochouki: Wakaki Nobunaga"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kochouki-wakaki-nobunaga/2",
+      "anime_id": 2042,
+      "anime_name": "Kochouki: Wakaki Nobunaga"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kochouki-wakaki-nobunaga/3",
+      "anime_id": 2042,
+      "anime_name": "Kochouki: Wakaki Nobunaga"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kochouki-wakaki-nobunaga/4",
+      "anime_id": 2042,
+      "anime_name": "Kochouki: Wakaki Nobunaga"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kochouki-wakaki-nobunaga/5",
+      "anime_id": 2042,
+      "anime_name": "Kochouki: Wakaki Nobunaga"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kochouki-wakaki-nobunaga/6",
+      "anime_id": 2042,
+      "anime_name": "Kochouki: Wakaki Nobunaga"
+    }
+  ],
+  "total_episodes": 6
+}

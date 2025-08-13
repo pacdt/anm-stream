@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Golden Boy",
+  "anime": {
+    "id": 1219,
+    "nome": "Golden Boy",
+    "link": "https://animefire.plus/animes/golden-boy-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/golden-boy",
+    "rating": "8.05",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/golden-boy/1",
+      "anime_id": 1219,
+      "anime_name": "Golden Boy"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/golden-boy/2",
+      "anime_id": 1219,
+      "anime_name": "Golden Boy"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/golden-boy/3",
+      "anime_id": 1219,
+      "anime_name": "Golden Boy"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/golden-boy/4",
+      "anime_id": 1219,
+      "anime_name": "Golden Boy"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/golden-boy/5",
+      "anime_id": 1219,
+      "anime_name": "Golden Boy"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/golden-boy/6",
+      "anime_id": 1219,
+      "anime_name": "Golden Boy"
+    }
+  ],
+  "total_episodes": 6
+}

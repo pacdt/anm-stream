@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Tonari no Seki-kun OVA",
+  "anime": {
+    "id": 3905,
+    "nome": "Tonari no Seki-kun OVA",
+    "link": "https://animefire.plus/animes/tonari-no-seki-kun-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tonari-no-seki-kun-ova",
+    "rating": "7.44",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tonari-no-seki-kun-ova/1",
+      "anime_id": 3905,
+      "anime_name": "Tonari no Seki-kun OVA"
+    }
+  ],
+  "total_episodes": 1
+}

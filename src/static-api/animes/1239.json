@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1239,
+    "nome": "Grancrest Senki",
+    "link": "https://animefire.plus/animes/grancrest-senki-todos-os-episodios",
+    "texto_original": "Grancrest Senki",
+    "rating": 7.34,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/grancrest-senki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/grancrest-senki/",
+    "secao": "legendados",
+    "pagina": 133,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/grancrest-senki"
+  }
+}

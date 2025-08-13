@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3043,
+    "nome": "Puchi Pri*Yucie",
+    "link": "https://animefire.plus/animes/puchi-pri-yucie-todos-os-episodios",
+    "texto_original": "Puchi Pri*Yucie",
+    "rating": 7.45,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/puchi-pri-yucie.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/puchi-pri-yucie/",
+    "secao": "legendados",
+    "pagina": 85,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/puchi-pri-yucie"
+  }
+}

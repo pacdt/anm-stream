@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1202,
+    "nome": "Go! Princess Precure",
+    "link": "https://animefire.plus/animes/go-princess-precure-todos-os-episodios",
+    "texto_original": "Go! Princess Precure",
+    "rating": 7.71,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/go-princess-precure.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/go-princess-precure/",
+    "secao": "legendados",
+    "pagina": 67,
+    "total_episodios": 50,
+    "link_video": "https://animefire.plus/video/go-princess-precure"
+  }
+}

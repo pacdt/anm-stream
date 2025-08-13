@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Bishoujo Senshi Sailor Moon: Sailor Stars - Hero Club",
+  "anime": {
+    "id": 402,
+    "nome": "Bishoujo Senshi Sailor Moon: Sailor Stars - Hero Club",
+    "link": "https://animefire.plus/animes/bishoujo-senshi-sailor-moon-sailor-stars---hero-club-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/bishoujo-senshi-sailor-moon-sailor-stars---hero-club",
+    "rating": "7.25",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/bishoujo-senshi-sailor-moon-sailor-stars---hero-club/1",
+      "anime_id": 402,
+      "anime_name": "Bishoujo Senshi Sailor Moon: Sailor Stars - Hero Club"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/bishoujo-senshi-sailor-moon-sailor-stars---hero-club/2",
+      "anime_id": 402,
+      "anime_name": "Bishoujo Senshi Sailor Moon: Sailor Stars - Hero Club"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/bishoujo-senshi-sailor-moon-sailor-stars---hero-club/3",
+      "anime_id": 402,
+      "anime_name": "Bishoujo Senshi Sailor Moon: Sailor Stars - Hero Club"
+    }
+  ],
+  "total_episodes": 3
+}

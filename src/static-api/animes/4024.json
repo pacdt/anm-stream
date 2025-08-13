@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4024,
+    "nome": "Under Ninja",
+    "link": "https://animefire.plus/animes/under-ninja-todos-os-episodios",
+    "texto_original": "Under Ninja",
+    "rating": 6.92,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/under-ninja.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/under-ninja/",
+    "secao": "legendados",
+    "pagina": 20,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/under-ninja"
+  }
+}

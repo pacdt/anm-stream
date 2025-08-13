@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1738,
+    "nome": "Jitsu Wa Watashi Wa",
+    "link": "https://animefire.plus/animes/jitsu-wa-watashi-wa-todos-os-episodios",
+    "texto_original": "Jitsu Wa Watashi Wa",
+    "rating": 7.03,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/jitsu-wa-watashi-wa.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/jitsu-wa-watashi-wa/",
+    "secao": "legendados",
+    "pagina": 95,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/jitsu-wa-watashi-wa"
+  }
+}

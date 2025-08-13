@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 76,
+    "nome": "Aharen-san wa Hakarenai",
+    "link": "https://animefire.plus/animes/aharen-san-wa-hakarenai-todos-os-episodios",
+    "texto_original": "Aharen-san wa Hakarenai",
+    "rating": 7.28,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/aharen-san-wa-hakarenai.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/aharen-san-wa-hakarenai/",
+    "secao": "legendados",
+    "pagina": 34,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/aharen-san-wa-hakarenai"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Mikeneko Holmes no Yuurei Joushu",
+  "anime": {
+    "id": 2502,
+    "nome": "Mikeneko Holmes no Yuurei Joushu",
+    "link": "https://animefire.plus/animes/mikeneko-holmes-no-yuurei-joushu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mikeneko-holmes-no-yuurei-joushu",
+    "rating": "5.95",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mikeneko-holmes-no-yuurei-joushu/1",
+      "anime_id": 2502,
+      "anime_name": "Mikeneko Holmes no Yuurei Joushu"
+    }
+  ],
+  "total_episodes": 1
+}

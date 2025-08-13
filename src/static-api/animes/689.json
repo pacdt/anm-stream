@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 689,
+    "nome": "Cool Doji Danshi",
+    "link": "https://animefire.plus/animes/cool-doji-danshi-todos-os-episodios",
+    "texto_original": "Cool Doji Danshi",
+    "rating": 7.86,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/cool-doji-danshi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/cool-doji-danshi/",
+    "secao": "legendados",
+    "pagina": 29,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/cool-doji-danshi"
+  }
+}

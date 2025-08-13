@@ -1,0 +1,70 @@
+{
+  "message": "Resultados da busca por: \"naruto\"",
+  "query": "naruto",
+  "data": [
+    {
+      "id": 483,
+      "nome": "Boruto: Naruto Next Generations (Dublado)",
+      "link": "https://animefire.plus/animes/boruto-naruto-next-generations-dublado-todos-os-episodios",
+      "texto_original": "Boruto: Naruto Next Generations (Dublado)",
+      "rating": 5.9,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/boruto-naruto-next-generations.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/boruto-naruto-next-generations/",
+      "secao": "dublados,legendados,lancamentos",
+      "pagina": 13,
+      "total_episodios": 104,
+      "link_video": "https://animefire.plus/video/boruto-naruto-next-generations-dublado"
+    },
+    {
+      "id": 2678,
+      "nome": "Naruto (Dublado)",
+      "link": "https://animefire.plus/animes/naruto-dublado-todos-os-episodios",
+      "texto_original": "Naruto (Dublado)",
+      "rating": 7.88,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/naruto.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/naruto/",
+      "secao": "dublados,legendados",
+      "pagina": 20,
+      "total_episodios": 211,
+      "link_video": "https://animefire.plus/video/naruto-dublado"
+    },
+    {
+      "id": 2679,
+      "nome": "Naruto SD: Rock Lee no Seishun Full-Power Ninden",
+      "link": "https://animefire.plus/animes/naruto-sd-rock-lee-no-seishun-full-power-ninden-todos-os-episodios",
+      "texto_original": "Naruto SD: Rock Lee no Seishun Full-Power Ninden",
+      "rating": 7.15,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/naruto-sd-rock-lee-no-seishun-full-power-ninden.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/naruto-sd-rock-lee-no-seishun-full-power-ninden/",
+      "secao": "legendados",
+      "pagina": 50,
+      "total_episodios": 51,
+      "link_video": "https://animefire.plus/video/naruto-sd-rock-lee-no-seishun-full-power-ninden"
+    },
+    {
+      "id": 2680,
+      "nome": "Naruto: Shippuuden (Dublado)",
+      "link": "https://animefire.plus/animes/naruto-shippuuden-dublado-todos-os-episodios",
+      "texto_original": "Naruto: Shippuuden (Dublado)",
+      "rating": 8.2,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/naruto-shippuuden.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/naruto-shippuuden/",
+      "secao": "dublados,legendados",
+      "pagina": 27,
+      "total_episodios": 0,
+      "link_video": "https://animefire.plus/video/naruto-shippuuden-dublado"
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "per_page": 20,
+    "total_items": 4,
+    "total_pages": 1,
+    "has_next": false,
+    "has_prev": false
+  }
+}

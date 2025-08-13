@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3392,
+    "nome": "Shenmue the Animation",
+    "link": "https://animefire.plus/animes/shenmue-the-animation-todos-os-episodios",
+    "texto_original": "Shenmue the Animation",
+    "rating": 6.67,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/shenmue-the-animation.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shenmue-the-animation/",
+    "secao": "legendados",
+    "pagina": 34,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/shenmue-the-animation"
+  }
+}

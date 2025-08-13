@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Aquarion Logos",
+  "anime": {
+    "id": 217,
+    "nome": "Aquarion Logos",
+    "link": "https://animefire.plus/animes/aquarion-logos-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/aquarion-logos",
+    "rating": "5.82",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/aquarion-logos/1",
+      "anime_id": 217,
+      "anime_name": "Aquarion Logos"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/aquarion-logos/2",
+      "anime_id": 217,
+      "anime_name": "Aquarion Logos"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/aquarion-logos/3",
+      "anime_id": 217,
+      "anime_name": "Aquarion Logos"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/aquarion-logos/4",
+      "anime_id": 217,
+      "anime_name": "Aquarion Logos"
+    }
+  ],
+  "total_episodes": 4
+}

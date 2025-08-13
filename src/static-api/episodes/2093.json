@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Special",
+  "anime": {
+    "id": 2093,
+    "nome": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Special",
+    "link": "https://animefire.plus/animes/kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-special-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-special",
+    "rating": "6.33",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no-special/1",
+      "anime_id": 2093,
+      "anime_name": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Special"
+    }
+  ],
+  "total_episodes": 1
+}

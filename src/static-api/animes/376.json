@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 376,
+    "nome": "Berserk",
+    "link": "https://animefire.plus/animes/berserk-todos-os-episodios",
+    "texto_original": "Berserk",
+    "rating": 6.51,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/berserk.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/berserk/",
+    "secao": "legendados",
+    "pagina": 66,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/berserk"
+  }
+}

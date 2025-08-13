@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: The Marginal Service",
+  "anime": {
+    "id": 3839,
+    "nome": "The Marginal Service",
+    "link": "https://animefire.plus/animes/the-marginal-service-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/the-marginal-service",
+    "rating": "5.50",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/the-marginal-service/1",
+      "anime_id": 3839,
+      "anime_name": "The Marginal Service"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/the-marginal-service/2",
+      "anime_id": 3839,
+      "anime_name": "The Marginal Service"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/the-marginal-service/3",
+      "anime_id": 3839,
+      "anime_name": "The Marginal Service"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/the-marginal-service/4",
+      "anime_id": 3839,
+      "anime_name": "The Marginal Service"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/the-marginal-service/5",
+      "anime_id": 3839,
+      "anime_name": "The Marginal Service"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/the-marginal-service/6",
+      "anime_id": 3839,
+      "anime_name": "The Marginal Service"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/the-marginal-service/7",
+      "anime_id": 3839,
+      "anime_name": "The Marginal Service"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/the-marginal-service/8",
+      "anime_id": 3839,
+      "anime_name": "The Marginal Service"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/the-marginal-service/9",
+      "anime_id": 3839,
+      "anime_name": "The Marginal Service"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/the-marginal-service/10",
+      "anime_id": 3839,
+      "anime_name": "The Marginal Service"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/the-marginal-service/11",
+      "anime_id": 3839,
+      "anime_name": "The Marginal Service"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/the-marginal-service/12",
+      "anime_id": 3839,
+      "anime_name": "The Marginal Service"
+    }
+  ],
+  "total_episodes": 12
+}

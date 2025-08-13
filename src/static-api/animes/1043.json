@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1043,
+    "nome": "Full Metal Panic! The Second Raid",
+    "link": "https://animefire.plus/animes/full-metal-panic-the-second-raid-todos-os-episodios",
+    "texto_original": "Full Metal Panic! The Second Raid",
+    "rating": 8.01,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/full-metal-panic-the-second-raid.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/full-metal-panic-the-second-raid/",
+    "secao": "legendados",
+    "pagina": 120,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/full-metal-panic-the-second-raid"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 128,
+    "nome": "Akkun to Kanojo",
+    "link": "https://animefire.plus/animes/akkun-to-kanojo-todos-os-episodios",
+    "texto_original": "Akkun to Kanojo",
+    "rating": 6.9,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/akkun-to-kanojo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/akkun-to-kanojo/",
+    "secao": "legendados",
+    "pagina": 131,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/akkun-to-kanojo"
+  }
+}

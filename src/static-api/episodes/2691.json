@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Natsume Yuujinchou Shi",
+  "anime": {
+    "id": 2691,
+    "nome": "Natsume Yuujinchou Shi",
+    "link": "https://animefire.plus/animes/natsume-yuujinchou-shi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/natsume-yuujinchou-shi",
+    "rating": "8.70",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-shi/1",
+      "anime_id": 2691,
+      "anime_name": "Natsume Yuujinchou Shi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-shi/2",
+      "anime_id": 2691,
+      "anime_name": "Natsume Yuujinchou Shi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-shi/3",
+      "anime_id": 2691,
+      "anime_name": "Natsume Yuujinchou Shi"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-shi/4",
+      "anime_id": 2691,
+      "anime_name": "Natsume Yuujinchou Shi"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-shi/5",
+      "anime_id": 2691,
+      "anime_name": "Natsume Yuujinchou Shi"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-shi/6",
+      "anime_id": 2691,
+      "anime_name": "Natsume Yuujinchou Shi"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-shi/7",
+      "anime_id": 2691,
+      "anime_name": "Natsume Yuujinchou Shi"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-shi/8",
+      "anime_id": 2691,
+      "anime_name": "Natsume Yuujinchou Shi"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-shi/9",
+      "anime_id": 2691,
+      "anime_name": "Natsume Yuujinchou Shi"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-shi/10",
+      "anime_id": 2691,
+      "anime_name": "Natsume Yuujinchou Shi"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-shi/11",
+      "anime_id": 2691,
+      "anime_name": "Natsume Yuujinchou Shi"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-shi/12",
+      "anime_id": 2691,
+      "anime_name": "Natsume Yuujinchou Shi"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/natsume-yuujinchou-shi/13",
+      "anime_id": 2691,
+      "anime_name": "Natsume Yuujinchou Shi"
+    }
+  ],
+  "total_episodes": 13
+}

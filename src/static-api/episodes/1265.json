@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Gugure! Kokkuri-san Specials",
+  "anime": {
+    "id": 1265,
+    "nome": "Gugure! Kokkuri-san Specials",
+    "link": "https://animefire.plus/animes/gugure-kokkuri-san-specials-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gugure-kokkuri-san-specials",
+    "rating": "7.23",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gugure-kokkuri-san-specials/1",
+      "anime_id": 1265,
+      "anime_name": "Gugure! Kokkuri-san Specials"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/gugure-kokkuri-san-specials/2",
+      "anime_id": 1265,
+      "anime_name": "Gugure! Kokkuri-san Specials"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/gugure-kokkuri-san-specials/3",
+      "anime_id": 1265,
+      "anime_name": "Gugure! Kokkuri-san Specials"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/gugure-kokkuri-san-specials/4",
+      "anime_id": 1265,
+      "anime_name": "Gugure! Kokkuri-san Specials"
+    }
+  ],
+  "total_episodes": 4
+}

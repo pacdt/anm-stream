@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: AIKa",
+  "anime": {
+    "id": 89,
+    "nome": "AIKa",
+    "link": "https://animefire.plus/animes/aika-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/aika",
+    "rating": "5.99",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/aika/1",
+      "anime_id": 89,
+      "anime_name": "AIKa"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/aika/2",
+      "anime_id": 89,
+      "anime_name": "AIKa"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/aika/3",
+      "anime_id": 89,
+      "anime_name": "AIKa"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/aika/4",
+      "anime_id": 89,
+      "anime_name": "AIKa"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/aika/5",
+      "anime_id": 89,
+      "anime_name": "AIKa"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/aika/6",
+      "anime_id": 89,
+      "anime_name": "AIKa"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/aika/7",
+      "anime_id": 89,
+      "anime_name": "AIKa"
+    }
+  ],
+  "total_episodes": 7
+}

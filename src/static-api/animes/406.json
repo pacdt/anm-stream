@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 406,
+    "nome": "Bishounen Tanteidan",
+    "link": "https://animefire.plus/animes/bishounen-tanteidan-todos-os-episodios",
+    "texto_original": "Bishounen Tanteidan",
+    "rating": 7.07,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/bishounen-tanteidan.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bishounen-tanteidan/",
+    "secao": "legendados",
+    "pagina": 46,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/bishounen-tanteidan"
+  }
+}

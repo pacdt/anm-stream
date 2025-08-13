@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1168,
+    "nome": "Ginga Nagareboshi Gin",
+    "link": "https://animefire.plus/animes/ginga-nagareboshi-gin-todos-os-episodios",
+    "texto_original": "Ginga Nagareboshi Gin",
+    "rating": 8.05,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ginga-nagareboshi-gin.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ginga-nagareboshi-gin/",
+    "secao": "legendados",
+    "pagina": 56,
+    "total_episodios": 21,
+    "link_video": "https://animefire.plus/video/ginga-nagareboshi-gin"
+  }
+}

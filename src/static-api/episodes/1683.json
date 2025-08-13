@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Isshuukan Friends.",
+  "anime": {
+    "id": 1683,
+    "nome": "Isshuukan Friends.",
+    "link": "https://animefire.plus/animes/isshuukan-friends-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/isshuukan-friends",
+    "rating": "7.63",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/isshuukan-friends/1",
+      "anime_id": 1683,
+      "anime_name": "Isshuukan Friends."
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/isshuukan-friends/2",
+      "anime_id": 1683,
+      "anime_name": "Isshuukan Friends."
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/isshuukan-friends/3",
+      "anime_id": 1683,
+      "anime_name": "Isshuukan Friends."
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/isshuukan-friends/4",
+      "anime_id": 1683,
+      "anime_name": "Isshuukan Friends."
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/isshuukan-friends/5",
+      "anime_id": 1683,
+      "anime_name": "Isshuukan Friends."
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/isshuukan-friends/6",
+      "anime_id": 1683,
+      "anime_name": "Isshuukan Friends."
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/isshuukan-friends/7",
+      "anime_id": 1683,
+      "anime_name": "Isshuukan Friends."
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/isshuukan-friends/8",
+      "anime_id": 1683,
+      "anime_name": "Isshuukan Friends."
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/isshuukan-friends/9",
+      "anime_id": 1683,
+      "anime_name": "Isshuukan Friends."
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/isshuukan-friends/10",
+      "anime_id": 1683,
+      "anime_name": "Isshuukan Friends."
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/isshuukan-friends/11",
+      "anime_id": 1683,
+      "anime_name": "Isshuukan Friends."
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/isshuukan-friends/12",
+      "anime_id": 1683,
+      "anime_name": "Isshuukan Friends."
+    }
+  ],
+  "total_episodes": 12
+}

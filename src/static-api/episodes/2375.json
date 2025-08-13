@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Majimoji Rurumo: Kanketsu-hen",
+  "anime": {
+    "id": 2375,
+    "nome": "Majimoji Rurumo: Kanketsu-hen",
+    "link": "https://animefire.plus/animes/majimoji-rurumo-kanketsu-hen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/majimoji-rurumo-kanketsu-hen",
+    "rating": "7.43",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/majimoji-rurumo-kanketsu-hen/1",
+      "anime_id": 2375,
+      "anime_name": "Majimoji Rurumo: Kanketsu-hen"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/majimoji-rurumo-kanketsu-hen/2",
+      "anime_id": 2375,
+      "anime_name": "Majimoji Rurumo: Kanketsu-hen"
+    }
+  ],
+  "total_episodes": 2
+}

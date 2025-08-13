@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1046,
+    "nome": "Fullmetal Alchemist (Dublado)",
+    "link": "https://animefire.plus/animes/fullmetal-alchemist-dublado-todos-os-episodios",
+    "texto_original": "Fullmetal Alchemist (Dublado)",
+    "rating": 8.22,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/fullmetal-alchemist.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/fullmetal-alchemist/",
+    "secao": "dublados,legendados",
+    "pagina": 21,
+    "total_episodios": 51,
+    "link_video": "https://animefire.plus/video/fullmetal-alchemist-dublado"
+  }
+}

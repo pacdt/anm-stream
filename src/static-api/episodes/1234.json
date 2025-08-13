@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Goukon ni Ittara Onna ga Inakatta Hanashi",
+  "anime": {
+    "id": 1234,
+    "nome": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+    "link": "https://animefire.plus/animes/goukon-ni-ittara-onna-ga-inakatta-hanashi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/goukon-ni-ittara-onna-ga-inakatta-hanashi",
+    "rating": "7.40",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/goukon-ni-ittara-onna-ga-inakatta-hanashi/1",
+      "anime_id": 1234,
+      "anime_name": "Goukon ni Ittara Onna ga Inakatta Hanashi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/goukon-ni-ittara-onna-ga-inakatta-hanashi/2",
+      "anime_id": 1234,
+      "anime_name": "Goukon ni Ittara Onna ga Inakatta Hanashi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/goukon-ni-ittara-onna-ga-inakatta-hanashi/3",
+      "anime_id": 1234,
+      "anime_name": "Goukon ni Ittara Onna ga Inakatta Hanashi"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/goukon-ni-ittara-onna-ga-inakatta-hanashi/4",
+      "anime_id": 1234,
+      "anime_name": "Goukon ni Ittara Onna ga Inakatta Hanashi"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/goukon-ni-ittara-onna-ga-inakatta-hanashi/5",
+      "anime_id": 1234,
+      "anime_name": "Goukon ni Ittara Onna ga Inakatta Hanashi"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/goukon-ni-ittara-onna-ga-inakatta-hanashi/6",
+      "anime_id": 1234,
+      "anime_name": "Goukon ni Ittara Onna ga Inakatta Hanashi"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/goukon-ni-ittara-onna-ga-inakatta-hanashi/7",
+      "anime_id": 1234,
+      "anime_name": "Goukon ni Ittara Onna ga Inakatta Hanashi"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/goukon-ni-ittara-onna-ga-inakatta-hanashi/8",
+      "anime_id": 1234,
+      "anime_name": "Goukon ni Ittara Onna ga Inakatta Hanashi"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/goukon-ni-ittara-onna-ga-inakatta-hanashi/9",
+      "anime_id": 1234,
+      "anime_name": "Goukon ni Ittara Onna ga Inakatta Hanashi"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/goukon-ni-ittara-onna-ga-inakatta-hanashi/10",
+      "anime_id": 1234,
+      "anime_name": "Goukon ni Ittara Onna ga Inakatta Hanashi"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/goukon-ni-ittara-onna-ga-inakatta-hanashi/11",
+      "anime_id": 1234,
+      "anime_name": "Goukon ni Ittara Onna ga Inakatta Hanashi"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/goukon-ni-ittara-onna-ga-inakatta-hanashi/12",
+      "anime_id": 1234,
+      "anime_name": "Goukon ni Ittara Onna ga Inakatta Hanashi"
+    }
+  ],
+  "total_episodes": 12
+}

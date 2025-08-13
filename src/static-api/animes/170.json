@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 170,
+    "nome": "Angel Cop",
+    "link": "https://animefire.plus/animes/angel-cop-todos-os-episodios",
+    "texto_original": "Angel Cop",
+    "rating": 5.94,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/angel-cop.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/angel-cop/",
+    "secao": "legendados",
+    "pagina": 53,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/angel-cop"
+  }
+}

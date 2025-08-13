@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Concrete Revolutio: Choujin Gensou - The Last Song",
+  "anime": {
+    "id": 688,
+    "nome": "Concrete Revolutio: Choujin Gensou - The Last Song",
+    "link": "https://animefire.plus/animes/concrete-revolutio-choujin-gensou---the-last-song-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/concrete-revolutio-choujin-gensou---the-last-song",
+    "rating": "7.12",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/concrete-revolutio-choujin-gensou---the-last-song/1",
+      "anime_id": 688,
+      "anime_name": "Concrete Revolutio: Choujin Gensou - The Last Song"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/concrete-revolutio-choujin-gensou---the-last-song/2",
+      "anime_id": 688,
+      "anime_name": "Concrete Revolutio: Choujin Gensou - The Last Song"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/concrete-revolutio-choujin-gensou---the-last-song/3",
+      "anime_id": 688,
+      "anime_name": "Concrete Revolutio: Choujin Gensou - The Last Song"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/concrete-revolutio-choujin-gensou---the-last-song/4",
+      "anime_id": 688,
+      "anime_name": "Concrete Revolutio: Choujin Gensou - The Last Song"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/concrete-revolutio-choujin-gensou---the-last-song/5",
+      "anime_id": 688,
+      "anime_name": "Concrete Revolutio: Choujin Gensou - The Last Song"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/concrete-revolutio-choujin-gensou---the-last-song/6",
+      "anime_id": 688,
+      "anime_name": "Concrete Revolutio: Choujin Gensou - The Last Song"
+    }
+  ],
+  "total_episodes": 6
+}

@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Galilei Donna",
+  "anime": {
+    "id": 1097,
+    "nome": "Galilei Donna",
+    "link": "https://animefire.plus/animes/galilei-donna-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/galilei-donna",
+    "rating": "6.46",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/galilei-donna/1",
+      "anime_id": 1097,
+      "anime_name": "Galilei Donna"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/galilei-donna/2",
+      "anime_id": 1097,
+      "anime_name": "Galilei Donna"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/galilei-donna/3",
+      "anime_id": 1097,
+      "anime_name": "Galilei Donna"
+    }
+  ],
+  "total_episodes": 3
+}

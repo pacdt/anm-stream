@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1601,
+    "nome": "Ikebukuro PR Anime",
+    "link": "https://animefire.plus/animes/ikebukuro-pr-anime-todos-os-episodios",
+    "texto_original": "Ikebukuro PR Anime",
+    "rating": 6.12,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/ikebukuro-pr-anime.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ikebukuro-pr-anime/",
+    "secao": "legendados",
+    "pagina": 85,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/ikebukuro-pr-anime"
+  }
+}

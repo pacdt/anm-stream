@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Panty & Stocking with Garterbelt",
+  "anime": {
+    "id": 2950,
+    "nome": "Panty & Stocking with Garterbelt",
+    "link": "https://animefire.plus/animes/panty-stocking-with-garterbelt-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/panty-stocking-with-garterbelt",
+    "rating": "7.77",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/panty-stocking-with-garterbelt/1",
+      "anime_id": 2950,
+      "anime_name": "Panty & Stocking with Garterbelt"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/panty-stocking-with-garterbelt/2",
+      "anime_id": 2950,
+      "anime_name": "Panty & Stocking with Garterbelt"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/panty-stocking-with-garterbelt/3",
+      "anime_id": 2950,
+      "anime_name": "Panty & Stocking with Garterbelt"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/panty-stocking-with-garterbelt/4",
+      "anime_id": 2950,
+      "anime_name": "Panty & Stocking with Garterbelt"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/panty-stocking-with-garterbelt/5",
+      "anime_id": 2950,
+      "anime_name": "Panty & Stocking with Garterbelt"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/panty-stocking-with-garterbelt/6",
+      "anime_id": 2950,
+      "anime_name": "Panty & Stocking with Garterbelt"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/panty-stocking-with-garterbelt/7",
+      "anime_id": 2950,
+      "anime_name": "Panty & Stocking with Garterbelt"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/panty-stocking-with-garterbelt/8",
+      "anime_id": 2950,
+      "anime_name": "Panty & Stocking with Garterbelt"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/panty-stocking-with-garterbelt/9",
+      "anime_id": 2950,
+      "anime_name": "Panty & Stocking with Garterbelt"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/panty-stocking-with-garterbelt/10",
+      "anime_id": 2950,
+      "anime_name": "Panty & Stocking with Garterbelt"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/panty-stocking-with-garterbelt/11",
+      "anime_id": 2950,
+      "anime_name": "Panty & Stocking with Garterbelt"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/panty-stocking-with-garterbelt/12",
+      "anime_id": 2950,
+      "anime_name": "Panty & Stocking with Garterbelt"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/panty-stocking-with-garterbelt/13",
+      "anime_id": 2950,
+      "anime_name": "Panty & Stocking with Garterbelt"
+    }
+  ],
+  "total_episodes": 13
+}

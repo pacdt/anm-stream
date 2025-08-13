@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Ane Log: Moyako Neesan no Honpen wo Tobidashite Tomaranai Monologue Specials",
+  "anime": {
+    "id": 166,
+    "nome": "Ane Log: Moyako Neesan no Honpen wo Tobidashite Tomaranai Monologue Specials",
+    "link": "https://animefire.plus/animes/ane-log-moyako-neesan-no-honpen-wo-tobidashite-tomaranai-monologue-specials-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ane-log-moyako-neesan-no-honpen-wo-tobidashite-tomaranai-monologue-specials",
+    "rating": "5.35",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ane-log-moyako-neesan-no-honpen-wo-tobidashite-tomaranai-monologue-specials/1",
+      "anime_id": 166,
+      "anime_name": "Ane Log: Moyako Neesan no Honpen wo Tobidashite Tomaranai Monologue Specials"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ane-log-moyako-neesan-no-honpen-wo-tobidashite-tomaranai-monologue-specials/2",
+      "anime_id": 166,
+      "anime_name": "Ane Log: Moyako Neesan no Honpen wo Tobidashite Tomaranai Monologue Specials"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/ane-log-moyako-neesan-no-honpen-wo-tobidashite-tomaranai-monologue-specials/3",
+      "anime_id": 166,
+      "anime_name": "Ane Log: Moyako Neesan no Honpen wo Tobidashite Tomaranai Monologue Specials"
+    }
+  ],
+  "total_episodes": 3
+}

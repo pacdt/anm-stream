@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1029,
+    "nome": "Fresh Precure!",
+    "link": "https://animefire.plus/animes/fresh-precure-todos-os-episodios",
+    "texto_original": "Fresh Precure!",
+    "rating": 7.34,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/fresh-precure.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/fresh-precure/",
+    "secao": "legendados",
+    "pagina": 66,
+    "total_episodios": 50,
+    "link_video": "https://animefire.plus/video/fresh-precure"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 692,
+    "nome": "Coppelion",
+    "link": "https://animefire.plus/animes/coppelion-todos-os-episodios",
+    "texto_original": "Coppelion",
+    "rating": 6.53,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/coppelion.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/coppelion/",
+    "secao": "legendados",
+    "pagina": 113,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/coppelion"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: Stratos 4 Advance",
+  "anime": {
+    "id": 3641,
+    "nome": "Stratos 4 Advance",
+    "link": "https://animefire.plus/animes/stratos-4-advance-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/stratos-4-advance",
+    "rating": "6.87",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/stratos-4-advance/1",
+      "anime_id": 3641,
+      "anime_name": "Stratos 4 Advance"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/stratos-4-advance/2",
+      "anime_id": 3641,
+      "anime_name": "Stratos 4 Advance"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/stratos-4-advance/3",
+      "anime_id": 3641,
+      "anime_name": "Stratos 4 Advance"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/stratos-4-advance/4",
+      "anime_id": 3641,
+      "anime_name": "Stratos 4 Advance"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/stratos-4-advance/5",
+      "anime_id": 3641,
+      "anime_name": "Stratos 4 Advance"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/stratos-4-advance/6",
+      "anime_id": 3641,
+      "anime_name": "Stratos 4 Advance"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/stratos-4-advance/7",
+      "anime_id": 3641,
+      "anime_name": "Stratos 4 Advance"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/stratos-4-advance/8",
+      "anime_id": 3641,
+      "anime_name": "Stratos 4 Advance"
+    }
+  ],
+  "total_episodes": 8
+}

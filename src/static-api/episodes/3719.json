@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Takarajima Memorial: Yuunagi to Yobareta Otoko",
+  "anime": {
+    "id": 3719,
+    "nome": "Takarajima Memorial: Yuunagi to Yobareta Otoko",
+    "link": "https://animefire.plus/animes/takarajima-memorial-yuunagi-to-yobareta-otoko-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/takarajima-memorial-yuunagi-to-yobareta-otoko",
+    "rating": "6.56",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/takarajima-memorial-yuunagi-to-yobareta-otoko/1",
+      "anime_id": 3719,
+      "anime_name": "Takarajima Memorial: Yuunagi to Yobareta Otoko"
+    }
+  ],
+  "total_episodes": 1
+}

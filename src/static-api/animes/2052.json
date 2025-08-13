@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2052,
+    "nome": "Koi to Uso",
+    "link": "https://animefire.plus/animes/koi-to-uso-todos-os-episodios",
+    "texto_original": "Koi to Uso",
+    "rating": 6.75,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/koi-to-uso.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/koi-to-uso/",
+    "secao": "legendados",
+    "pagina": 118,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/koi-to-uso"
+  }
+}

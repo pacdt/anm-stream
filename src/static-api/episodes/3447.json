@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Shingeki no Kyojin: The Final Season - Kanketsu-hen",
+  "anime": {
+    "id": 3447,
+    "nome": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
+    "link": "https://animefire.plus/animes/shingeki-no-kyojin-the-final-season-kanketsu-hen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shingeki-no-kyojin-the-final-season-kanketsu-hen",
+    "rating": "8.86",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shingeki-no-kyojin-the-final-season-kanketsu-hen/1",
+      "anime_id": 3447,
+      "anime_name": "Shingeki no Kyojin: The Final Season - Kanketsu-hen"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shingeki-no-kyojin-the-final-season-kanketsu-hen/2",
+      "anime_id": 3447,
+      "anime_name": "Shingeki no Kyojin: The Final Season - Kanketsu-hen"
+    }
+  ],
+  "total_episodes": 2
+}

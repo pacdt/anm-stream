@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 875,
+    "nome": "Dragon Ball Daima (Dublado)",
+    "link": "https://animefire.plus/animes/dragon-ball-daima-dublado-todos-os-episodios",
+    "texto_original": "Dragon Ball Daima (Dublado)",
+    "rating": 7.63,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/dragon-ball-daima.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dragon-ball-daima/",
+    "secao": "dublados,legendados",
+    "pagina": 1,
+    "total_episodios": 20,
+    "link_video": "https://animefire.plus/video/dragon-ball-daima-dublado"
+  }
+}

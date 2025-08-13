@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Hitsugi no Chaika: Avenging Battle",
+  "anime": {
+    "id": 1511,
+    "nome": "Hitsugi no Chaika: Avenging Battle",
+    "link": "https://animefire.plus/animes/hitsugi-no-chaika-avenging-battle-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hitsugi-no-chaika-avenging-battle",
+    "rating": "7.28",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hitsugi-no-chaika-avenging-battle/1",
+      "anime_id": 1511,
+      "anime_name": "Hitsugi no Chaika: Avenging Battle"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hitsugi-no-chaika-avenging-battle/2",
+      "anime_id": 1511,
+      "anime_name": "Hitsugi no Chaika: Avenging Battle"
+    }
+  ],
+  "total_episodes": 2
+}

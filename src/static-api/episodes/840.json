@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Dogeza de Tanondemita",
+  "anime": {
+    "id": 840,
+    "nome": "Dogeza de Tanondemita",
+    "link": "https://animefire.plus/animes/dogeza-de-tanondemita-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/dogeza-de-tanondemita",
+    "rating": "N/A",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/dogeza-de-tanondemita/1",
+      "anime_id": 840,
+      "anime_name": "Dogeza de Tanondemita"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/dogeza-de-tanondemita/2",
+      "anime_id": 840,
+      "anime_name": "Dogeza de Tanondemita"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/dogeza-de-tanondemita/3",
+      "anime_id": 840,
+      "anime_name": "Dogeza de Tanondemita"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/dogeza-de-tanondemita/4",
+      "anime_id": 840,
+      "anime_name": "Dogeza de Tanondemita"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/dogeza-de-tanondemita/5",
+      "anime_id": 840,
+      "anime_name": "Dogeza de Tanondemita"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/dogeza-de-tanondemita/6",
+      "anime_id": 840,
+      "anime_name": "Dogeza de Tanondemita"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/dogeza-de-tanondemita/7",
+      "anime_id": 840,
+      "anime_name": "Dogeza de Tanondemita"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/dogeza-de-tanondemita/8",
+      "anime_id": 840,
+      "anime_name": "Dogeza de Tanondemita"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/dogeza-de-tanondemita/9",
+      "anime_id": 840,
+      "anime_name": "Dogeza de Tanondemita"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/dogeza-de-tanondemita/10",
+      "anime_id": 840,
+      "anime_name": "Dogeza de Tanondemita"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/dogeza-de-tanondemita/11",
+      "anime_id": 840,
+      "anime_name": "Dogeza de Tanondemita"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/dogeza-de-tanondemita/12",
+      "anime_id": 840,
+      "anime_name": "Dogeza de Tanondemita"
+    }
+  ],
+  "total_episodes": 12
+}

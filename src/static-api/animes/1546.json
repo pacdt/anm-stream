@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1546,
+    "nome": "Hug tto! Precure",
+    "link": "https://animefire.plus/animes/hug-tto-precure-todos-os-episodios",
+    "texto_original": "Hug tto! Precure",
+    "rating": 7.76,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/hug-tto-precure.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hug-tto-precure/",
+    "secao": "legendados",
+    "pagina": 67,
+    "total_episodios": 49,
+    "link_video": "https://animefire.plus/video/hug-tto-precure"
+  }
+}

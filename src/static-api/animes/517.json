@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 517,
+    "nome": "Bullbuster",
+    "link": "https://animefire.plus/animes/bullbuster-todos-os-episodios",
+    "texto_original": "Bullbuster",
+    "rating": 6.18,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/bullbuster.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bullbuster/",
+    "secao": "legendados",
+    "pagina": 20,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/bullbuster"
+  }
+}

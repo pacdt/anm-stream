@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3141,
+    "nome": "RoboMasters the Animated Series",
+    "link": "https://animefire.plus/animes/robomasters-the-animated-series-todos-os-episodios",
+    "texto_original": "RoboMasters the Animated Series",
+    "rating": 6.57,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/robomasters-the-animated-series.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/robomasters-the-animated-series/",
+    "secao": "legendados",
+    "pagina": 172,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/robomasters-the-animated-series"
+  }
+}

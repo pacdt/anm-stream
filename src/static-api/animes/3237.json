@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3237,
+    "nome": "Sakura Tsuushin",
+    "link": "https://animefire.plus/animes/sakura-tsuushin-todos-os-episodios",
+    "texto_original": "Sakura Tsuushin",
+    "rating": 6.27,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/sakura-tsuushin.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sakura-tsuushin/",
+    "secao": "legendados",
+    "pagina": 124,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/sakura-tsuushin"
+  }
+}

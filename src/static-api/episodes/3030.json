@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Princess Principal",
+  "anime": {
+    "id": 3030,
+    "nome": "Princess Principal",
+    "link": "https://animefire.plus/animes/princess-principal-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/princess-principal",
+    "rating": "7.70",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/princess-principal/1",
+      "anime_id": 3030,
+      "anime_name": "Princess Principal"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/princess-principal/2",
+      "anime_id": 3030,
+      "anime_name": "Princess Principal"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/princess-principal/3",
+      "anime_id": 3030,
+      "anime_name": "Princess Principal"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/princess-principal/4",
+      "anime_id": 3030,
+      "anime_name": "Princess Principal"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/princess-principal/5",
+      "anime_id": 3030,
+      "anime_name": "Princess Principal"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/princess-principal/6",
+      "anime_id": 3030,
+      "anime_name": "Princess Principal"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/princess-principal/7",
+      "anime_id": 3030,
+      "anime_name": "Princess Principal"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/princess-principal/8",
+      "anime_id": 3030,
+      "anime_name": "Princess Principal"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/princess-principal/9",
+      "anime_id": 3030,
+      "anime_name": "Princess Principal"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/princess-principal/10",
+      "anime_id": 3030,
+      "anime_name": "Princess Principal"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/princess-principal/11",
+      "anime_id": 3030,
+      "anime_name": "Princess Principal"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/princess-principal/12",
+      "anime_id": 3030,
+      "anime_name": "Princess Principal"
+    }
+  ],
+  "total_episodes": 12
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Toaru Majutsu no Index-tan Movie: Endymion no Kiseki - Ga Attari Nakattari",
+  "anime": {
+    "id": 3870,
+    "nome": "Toaru Majutsu no Index-tan Movie: Endymion no Kiseki - Ga Attari Nakattari",
+    "link": "https://animefire.plus/animes/toaru-majutsu-no-index-tan-movie-endymion-no-kiseki---ga-attari-nakattari-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/toaru-majutsu-no-index-tan-movie-endymion-no-kiseki---ga-attari-nakattari",
+    "rating": "7.11",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/toaru-majutsu-no-index-tan-movie-endymion-no-kiseki---ga-attari-nakattari/1",
+      "anime_id": 3870,
+      "anime_name": "Toaru Majutsu no Index-tan Movie: Endymion no Kiseki - Ga Attari Nakattari"
+    }
+  ],
+  "total_episodes": 1
+}

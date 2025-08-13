@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: ACCA: 13-ku Kansatsu-ka",
+  "anime": {
+    "id": 57,
+    "nome": "ACCA: 13-ku Kansatsu-ka",
+    "link": "https://animefire.plus/animes/acca-13-ku-kansatsu-ka-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/acca-13-ku-kansatsu-ka",
+    "rating": "7.71",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/acca-13-ku-kansatsu-ka/1",
+      "anime_id": 57,
+      "anime_name": "ACCA: 13-ku Kansatsu-ka"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/acca-13-ku-kansatsu-ka/2",
+      "anime_id": 57,
+      "anime_name": "ACCA: 13-ku Kansatsu-ka"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/acca-13-ku-kansatsu-ka/3",
+      "anime_id": 57,
+      "anime_name": "ACCA: 13-ku Kansatsu-ka"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/acca-13-ku-kansatsu-ka/4",
+      "anime_id": 57,
+      "anime_name": "ACCA: 13-ku Kansatsu-ka"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/acca-13-ku-kansatsu-ka/5",
+      "anime_id": 57,
+      "anime_name": "ACCA: 13-ku Kansatsu-ka"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/acca-13-ku-kansatsu-ka/6",
+      "anime_id": 57,
+      "anime_name": "ACCA: 13-ku Kansatsu-ka"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/acca-13-ku-kansatsu-ka/7",
+      "anime_id": 57,
+      "anime_name": "ACCA: 13-ku Kansatsu-ka"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/acca-13-ku-kansatsu-ka/8",
+      "anime_id": 57,
+      "anime_name": "ACCA: 13-ku Kansatsu-ka"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/acca-13-ku-kansatsu-ka/9",
+      "anime_id": 57,
+      "anime_name": "ACCA: 13-ku Kansatsu-ka"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/acca-13-ku-kansatsu-ka/10",
+      "anime_id": 57,
+      "anime_name": "ACCA: 13-ku Kansatsu-ka"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/acca-13-ku-kansatsu-ka/11",
+      "anime_id": 57,
+      "anime_name": "ACCA: 13-ku Kansatsu-ka"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/acca-13-ku-kansatsu-ka/12",
+      "anime_id": 57,
+      "anime_name": "ACCA: 13-ku Kansatsu-ka"
+    }
+  ],
+  "total_episodes": 12
+}

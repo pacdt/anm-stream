@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Ijime: Ikenie no Kyoushitsu",
+  "anime": {
+    "id": 1597,
+    "nome": "Ijime: Ikenie no Kyoushitsu",
+    "link": "https://animefire.plus/animes/ijime-ikenie-no-kyoushitsu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ijime-ikenie-no-kyoushitsu",
+    "rating": "5.20",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ijime-ikenie-no-kyoushitsu/1",
+      "anime_id": 1597,
+      "anime_name": "Ijime: Ikenie no Kyoushitsu"
+    }
+  ],
+  "total_episodes": 1
+}

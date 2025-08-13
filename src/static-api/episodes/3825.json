@@ -1,0 +1,98 @@
+{
+  "message": "Lista de episódios do anime: The Big O",
+  "anime": {
+    "id": 3825,
+    "nome": "The Big O",
+    "link": "https://animefire.plus/animes/the-big-o-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/the-big-o",
+    "rating": "7.54",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/the-big-o/1",
+      "anime_id": 3825,
+      "anime_name": "The Big O"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/the-big-o/2",
+      "anime_id": 3825,
+      "anime_name": "The Big O"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/the-big-o/3",
+      "anime_id": 3825,
+      "anime_name": "The Big O"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/the-big-o/4",
+      "anime_id": 3825,
+      "anime_name": "The Big O"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/the-big-o/5",
+      "anime_id": 3825,
+      "anime_name": "The Big O"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/the-big-o/6",
+      "anime_id": 3825,
+      "anime_name": "The Big O"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/the-big-o/7",
+      "anime_id": 3825,
+      "anime_name": "The Big O"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/the-big-o/8",
+      "anime_id": 3825,
+      "anime_name": "The Big O"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/the-big-o/9",
+      "anime_id": 3825,
+      "anime_name": "The Big O"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/the-big-o/10",
+      "anime_id": 3825,
+      "anime_name": "The Big O"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/the-big-o/11",
+      "anime_id": 3825,
+      "anime_name": "The Big O"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/the-big-o/12",
+      "anime_id": 3825,
+      "anime_name": "The Big O"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/the-big-o/13",
+      "anime_id": 3825,
+      "anime_name": "The Big O"
+    },
+    {
+      "episode_number": 14,
+      "episode_url": "https://animefire.plus/video/the-big-o/14",
+      "anime_id": 3825,
+      "anime_name": "The Big O"
+    }
+  ],
+  "total_episodes": 14
+}

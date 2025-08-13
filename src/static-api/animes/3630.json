@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3630,
+    "nome": "Starship Operators",
+    "link": "https://animefire.plus/animes/starship-operators-todos-os-episodios",
+    "texto_original": "Starship Operators",
+    "rating": 7.02,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/starship-operators.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/starship-operators/",
+    "secao": "legendados",
+    "pagina": 75,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/starship-operators"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2984,
+    "nome": "Ping Pong the Animation",
+    "link": "https://animefire.plus/animes/ping-pong-the-animation-todos-os-episodios",
+    "texto_original": "Ping Pong the Animation",
+    "rating": 8.63,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ping-pong-the-animation.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ping-pong-the-animation/",
+    "secao": "legendados",
+    "pagina": 147,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/ping-pong-the-animation"
+  }
+}

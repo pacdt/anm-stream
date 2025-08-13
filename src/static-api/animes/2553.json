@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2553,
+    "nome": "Mobile Suit Gundam-san",
+    "link": "https://animefire.plus/animes/mobile-suit-gundam-san-todos-os-episodios",
+    "texto_original": "Mobile Suit Gundam-san",
+    "rating": 6.21,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/mobile-suit-gundam-san.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mobile-suit-gundam-san/",
+    "secao": "legendados",
+    "pagina": 101,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/mobile-suit-gundam-san"
+  }
+}

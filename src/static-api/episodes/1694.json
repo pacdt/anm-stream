@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Itsuka Aeru Kimi ni",
+  "anime": {
+    "id": 1694,
+    "nome": "Itsuka Aeru Kimi ni",
+    "link": "https://animefire.plus/animes/itsuka-aeru-kimi-ni-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/itsuka-aeru-kimi-ni",
+    "rating": "5.75",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/itsuka-aeru-kimi-ni/1",
+      "anime_id": 1694,
+      "anime_name": "Itsuka Aeru Kimi ni"
+    }
+  ],
+  "total_episodes": 1
+}

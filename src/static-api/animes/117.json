@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 117,
+    "nome": "Akanesasu Shoujo",
+    "link": "https://animefire.plus/animes/akanesasu-shoujo-todos-os-episodios",
+    "texto_original": "Akanesasu Shoujo",
+    "rating": 6.57,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/akanesasu-shoujo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/akanesasu-shoujo/",
+    "secao": "legendados",
+    "pagina": 153,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/akanesasu-shoujo"
+  }
+}

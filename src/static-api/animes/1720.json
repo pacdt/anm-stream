@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1720,
+    "nome": "Jie Yao",
+    "link": "https://animefire.plus/animes/jie-yao-todos-os-episodios",
+    "texto_original": "Jie Yao",
+    "rating": 7.01,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/jie-yao.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/jie-yao/",
+    "secao": "legendados",
+    "pagina": 90,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/jie-yao"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Ansatsu Kyoushitsu: Jump Festa 2013 Special",
+  "anime": {
+    "id": 194,
+    "nome": "Ansatsu Kyoushitsu: Jump Festa 2013 Special",
+    "link": "https://animefire.plus/animes/ansatsu-kyoushitsu-jump-festa-2013-special-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ansatsu-kyoushitsu-jump-festa-2013-special",
+    "rating": "7.23",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ansatsu-kyoushitsu-jump-festa-2013-special/1",
+      "anime_id": 194,
+      "anime_name": "Ansatsu Kyoushitsu: Jump Festa 2013 Special"
+    }
+  ],
+  "total_episodes": 1
+}

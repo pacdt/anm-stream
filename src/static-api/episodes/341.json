@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Baoh Raihousha",
+  "anime": {
+    "id": 341,
+    "nome": "Baoh Raihousha",
+    "link": "https://animefire.plus/animes/baoh-raihousha-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/baoh-raihousha",
+    "rating": "6.12",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/baoh-raihousha/1",
+      "anime_id": 341,
+      "anime_name": "Baoh Raihousha"
+    }
+  ],
+  "total_episodes": 1
+}

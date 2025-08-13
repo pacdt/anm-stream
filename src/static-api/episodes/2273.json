@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Lupin III: Lupin wa Ima mo Moete Iru ka?",
+  "anime": {
+    "id": 2273,
+    "nome": "Lupin III: Lupin wa Ima mo Moete Iru ka?",
+    "link": "https://animefire.plus/animes/lupin-iii-lupin-wa-ima-mo-moete-iru-ka-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/lupin-iii-lupin-wa-ima-mo-moete-iru-ka",
+    "rating": "7.02",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/lupin-iii-lupin-wa-ima-mo-moete-iru-ka/1",
+      "anime_id": 2273,
+      "anime_name": "Lupin III: Lupin wa Ima mo Moete Iru ka?"
+    }
+  ],
+  "total_episodes": 1
+}

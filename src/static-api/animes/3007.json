@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3007,
+    "nome": "Pokemon XY: Mega Evolution",
+    "link": "https://animefire.plus/animes/pokemon-xy-mega-evolution-todos-os-episodios",
+    "texto_original": "Pokemon XY: Mega Evolution",
+    "rating": 7.5,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/pokemon-xy-mega-evolution.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/pokemon-xy-mega-evolution/",
+    "secao": "legendados",
+    "pagina": 79,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/pokemon-xy-mega-evolution"
+  }
+}

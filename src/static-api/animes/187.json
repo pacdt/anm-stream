@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 187,
+    "nome": "Another",
+    "link": "https://animefire.plus/animes/another-todos-os-episodios",
+    "texto_original": "Another",
+    "rating": 7.68,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/another.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/another/",
+    "secao": "legendados",
+    "pagina": 94,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/another"
+  }
+}

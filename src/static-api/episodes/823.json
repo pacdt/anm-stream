@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Digimon Savers (Dublado)",
+  "anime": {
+    "id": 823,
+    "nome": "Digimon Savers (Dublado)",
+    "link": "https://animefire.plus/animes/digimon-savers-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/digimon-savers-dublado",
+    "rating": "7.06",
+    "classificacao_etaria": "A10"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/digimon-savers-dublado/1",
+      "anime_id": 823,
+      "anime_name": "Digimon Savers (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/digimon-savers-dublado/2",
+      "anime_id": 823,
+      "anime_name": "Digimon Savers (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/digimon-savers-dublado/3",
+      "anime_id": 823,
+      "anime_name": "Digimon Savers (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/digimon-savers-dublado/4",
+      "anime_id": 823,
+      "anime_name": "Digimon Savers (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/digimon-savers-dublado/5",
+      "anime_id": 823,
+      "anime_name": "Digimon Savers (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/digimon-savers-dublado/6",
+      "anime_id": 823,
+      "anime_name": "Digimon Savers (Dublado)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/digimon-savers-dublado/7",
+      "anime_id": 823,
+      "anime_name": "Digimon Savers (Dublado)"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/digimon-savers-dublado/8",
+      "anime_id": 823,
+      "anime_name": "Digimon Savers (Dublado)"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/digimon-savers-dublado/9",
+      "anime_id": 823,
+      "anime_name": "Digimon Savers (Dublado)"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/digimon-savers-dublado/10",
+      "anime_id": 823,
+      "anime_name": "Digimon Savers (Dublado)"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/digimon-savers-dublado/11",
+      "anime_id": 823,
+      "anime_name": "Digimon Savers (Dublado)"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/digimon-savers-dublado/12",
+      "anime_id": 823,
+      "anime_name": "Digimon Savers (Dublado)"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/digimon-savers-dublado/13",
+      "anime_id": 823,
+      "anime_name": "Digimon Savers (Dublado)"
+    }
+  ],
+  "total_episodes": 13
+}

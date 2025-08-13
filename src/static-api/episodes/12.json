@@ -1,0 +1,164 @@
+{
+  "message": "Lista de episódios do anime: 07-Ghost",
+  "anime": {
+    "id": 12,
+    "nome": "07-Ghost",
+    "link": "https://animefire.plus/animes/07-ghost-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/07-ghost",
+    "rating": "7.33",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/07-ghost/1",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/07-ghost/2",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/07-ghost/3",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/07-ghost/4",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/07-ghost/5",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/07-ghost/6",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/07-ghost/7",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/07-ghost/8",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/07-ghost/9",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/07-ghost/10",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/07-ghost/11",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/07-ghost/12",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/07-ghost/13",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 14,
+      "episode_url": "https://animefire.plus/video/07-ghost/14",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 15,
+      "episode_url": "https://animefire.plus/video/07-ghost/15",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 16,
+      "episode_url": "https://animefire.plus/video/07-ghost/16",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 17,
+      "episode_url": "https://animefire.plus/video/07-ghost/17",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 18,
+      "episode_url": "https://animefire.plus/video/07-ghost/18",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 19,
+      "episode_url": "https://animefire.plus/video/07-ghost/19",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 20,
+      "episode_url": "https://animefire.plus/video/07-ghost/20",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 21,
+      "episode_url": "https://animefire.plus/video/07-ghost/21",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 22,
+      "episode_url": "https://animefire.plus/video/07-ghost/22",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 23,
+      "episode_url": "https://animefire.plus/video/07-ghost/23",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 24,
+      "episode_url": "https://animefire.plus/video/07-ghost/24",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    },
+    {
+      "episode_number": 25,
+      "episode_url": "https://animefire.plus/video/07-ghost/25",
+      "anime_id": 12,
+      "anime_name": "07-Ghost"
+    }
+  ],
+  "total_episodes": 25
+}

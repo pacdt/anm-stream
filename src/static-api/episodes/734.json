@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Danball Senki W",
+  "anime": {
+    "id": 734,
+    "nome": "Danball Senki W",
+    "link": "https://animefire.plus/animes/danball-senki-w-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/danball-senki-w",
+    "rating": "7.24",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/danball-senki-w/1",
+      "anime_id": 734,
+      "anime_name": "Danball Senki W"
+    }
+  ],
+  "total_episodes": 1
+}

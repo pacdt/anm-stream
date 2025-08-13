@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3547,
+    "nome": "Slam Dunk",
+    "link": "https://animefire.plus/animes/slam-dunk-todos-os-episodios",
+    "texto_original": "Slam Dunk",
+    "rating": 8.53,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/slam-dunk.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/slam-dunk/",
+    "secao": "legendados",
+    "pagina": 73,
+    "total_episodios": 101,
+    "link_video": "https://animefire.plus/video/slam-dunk"
+  }
+}

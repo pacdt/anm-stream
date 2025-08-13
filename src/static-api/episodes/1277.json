@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Gundam Build Divers Re:Rise 2nd Season",
+  "anime": {
+    "id": 1277,
+    "nome": "Gundam Build Divers Re:Rise 2nd Season",
+    "link": "https://animefire.plus/animes/gundam-build-divers-re-rise-2nd-season-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gundam-build-divers-re-rise-2nd-season",
+    "rating": "7.56",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gundam-build-divers-re-rise-2nd-season/1",
+      "anime_id": 1277,
+      "anime_name": "Gundam Build Divers Re:Rise 2nd Season"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/gundam-build-divers-re-rise-2nd-season/2",
+      "anime_id": 1277,
+      "anime_name": "Gundam Build Divers Re:Rise 2nd Season"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/gundam-build-divers-re-rise-2nd-season/3",
+      "anime_id": 1277,
+      "anime_name": "Gundam Build Divers Re:Rise 2nd Season"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/gundam-build-divers-re-rise-2nd-season/4",
+      "anime_id": 1277,
+      "anime_name": "Gundam Build Divers Re:Rise 2nd Season"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/gundam-build-divers-re-rise-2nd-season/5",
+      "anime_id": 1277,
+      "anime_name": "Gundam Build Divers Re:Rise 2nd Season"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/gundam-build-divers-re-rise-2nd-season/6",
+      "anime_id": 1277,
+      "anime_name": "Gundam Build Divers Re:Rise 2nd Season"
+    }
+  ],
+  "total_episodes": 6
+}

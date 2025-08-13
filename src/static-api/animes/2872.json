@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2872,
+    "nome": "Ookamikakushi",
+    "link": "https://animefire.plus/animes/ookamikakushi-todos-os-episodios",
+    "texto_original": "Ookamikakushi",
+    "rating": 6.36,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ookamikakushi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ookamikakushi/",
+    "secao": "legendados",
+    "pagina": 57,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/ookamikakushi"
+  }
+}

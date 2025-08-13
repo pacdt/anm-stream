@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2047,
+    "nome": "Koi Kaze",
+    "link": "https://animefire.plus/animes/koi-kaze-todos-os-episodios",
+    "texto_original": "Koi Kaze",
+    "rating": 7.24,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/koi-kaze.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/koi-kaze/",
+    "secao": "legendados",
+    "pagina": 173,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/koi-kaze"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: Nami Yo Kiitekure",
+  "anime": {
+    "id": 2649,
+    "nome": "Nami Yo Kiitekure",
+    "link": "https://animefire.plus/animes/nami-yo-kiitekure-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nami-yo-kiitekure",
+    "rating": "7.37",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nami-yo-kiitekure/1",
+      "anime_id": 2649,
+      "anime_name": "Nami Yo Kiitekure"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/nami-yo-kiitekure/2",
+      "anime_id": 2649,
+      "anime_name": "Nami Yo Kiitekure"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/nami-yo-kiitekure/3",
+      "anime_id": 2649,
+      "anime_name": "Nami Yo Kiitekure"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/nami-yo-kiitekure/4",
+      "anime_id": 2649,
+      "anime_name": "Nami Yo Kiitekure"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/nami-yo-kiitekure/5",
+      "anime_id": 2649,
+      "anime_name": "Nami Yo Kiitekure"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/nami-yo-kiitekure/6",
+      "anime_id": 2649,
+      "anime_name": "Nami Yo Kiitekure"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/nami-yo-kiitekure/7",
+      "anime_id": 2649,
+      "anime_name": "Nami Yo Kiitekure"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/nami-yo-kiitekure/8",
+      "anime_id": 2649,
+      "anime_name": "Nami Yo Kiitekure"
+    }
+  ],
+  "total_episodes": 8
+}

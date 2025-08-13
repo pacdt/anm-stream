@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Dead Mount Death Play",
+  "anime": {
+    "id": 766,
+    "nome": "Dead Mount Death Play",
+    "link": "https://animefire.plus/animes/dead-mount-death-play-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/dead-mount-death-play",
+    "rating": "7.27",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/dead-mount-death-play/1",
+      "anime_id": 766,
+      "anime_name": "Dead Mount Death Play"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/dead-mount-death-play/2",
+      "anime_id": 766,
+      "anime_name": "Dead Mount Death Play"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/dead-mount-death-play/3",
+      "anime_id": 766,
+      "anime_name": "Dead Mount Death Play"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/dead-mount-death-play/4",
+      "anime_id": 766,
+      "anime_name": "Dead Mount Death Play"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/dead-mount-death-play/5",
+      "anime_id": 766,
+      "anime_name": "Dead Mount Death Play"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/dead-mount-death-play/6",
+      "anime_id": 766,
+      "anime_name": "Dead Mount Death Play"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/dead-mount-death-play/7",
+      "anime_id": 766,
+      "anime_name": "Dead Mount Death Play"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/dead-mount-death-play/8",
+      "anime_id": 766,
+      "anime_name": "Dead Mount Death Play"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/dead-mount-death-play/9",
+      "anime_id": 766,
+      "anime_name": "Dead Mount Death Play"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/dead-mount-death-play/10",
+      "anime_id": 766,
+      "anime_name": "Dead Mount Death Play"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/dead-mount-death-play/11",
+      "anime_id": 766,
+      "anime_name": "Dead Mount Death Play"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/dead-mount-death-play/12",
+      "anime_id": 766,
+      "anime_name": "Dead Mount Death Play"
+    }
+  ],
+  "total_episodes": 12
+}

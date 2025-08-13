@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3891,
+    "nome": "Tokyo Mew Mew",
+    "link": "https://animefire.plus/animes/tokyo-mew-mew-todos-os-episodios",
+    "texto_original": "Tokyo Mew Mew",
+    "rating": 6.99,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/tokyo-mew-mew.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tokyo-mew-mew/",
+    "secao": "legendados",
+    "pagina": 54,
+    "total_episodios": 52,
+    "link_video": "https://animefire.plus/video/tokyo-mew-mew"
+  }
+}

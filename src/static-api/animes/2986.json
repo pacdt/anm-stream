@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2986,
+    "nome": "Pita Ten",
+    "link": "https://animefire.plus/animes/pita-ten-todos-os-episodios",
+    "texto_original": "Pita Ten",
+    "rating": 7.02,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/pita-ten.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/pita-ten/",
+    "secao": "legendados",
+    "pagina": 109,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/pita-ten"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Kono Naka ni Hitori, Imouto ga Iru!",
+  "anime": {
+    "id": 2082,
+    "nome": "Kono Naka ni Hitori, Imouto ga Iru!",
+    "link": "https://animefire.plus/animes/kono-naka-ni-hitori-imouto-ga-iru-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kono-naka-ni-hitori-imouto-ga-iru",
+    "rating": "6.74",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kono-naka-ni-hitori-imouto-ga-iru/1",
+      "anime_id": 2082,
+      "anime_name": "Kono Naka ni Hitori, Imouto ga Iru!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kono-naka-ni-hitori-imouto-ga-iru/2",
+      "anime_id": 2082,
+      "anime_name": "Kono Naka ni Hitori, Imouto ga Iru!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kono-naka-ni-hitori-imouto-ga-iru/3",
+      "anime_id": 2082,
+      "anime_name": "Kono Naka ni Hitori, Imouto ga Iru!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kono-naka-ni-hitori-imouto-ga-iru/4",
+      "anime_id": 2082,
+      "anime_name": "Kono Naka ni Hitori, Imouto ga Iru!"
+    }
+  ],
+  "total_episodes": 4
+}

@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Gintama': Enchousen",
+  "anime": {
+    "id": 1183,
+    "nome": "Gintama': Enchousen",
+    "link": "https://animefire.plus/animes/gintama-enchousen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gintama-enchousen",
+    "rating": "9.04",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gintama-enchousen/1",
+      "anime_id": 1183,
+      "anime_name": "Gintama': Enchousen"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/gintama-enchousen/2",
+      "anime_id": 1183,
+      "anime_name": "Gintama': Enchousen"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/gintama-enchousen/3",
+      "anime_id": 1183,
+      "anime_name": "Gintama': Enchousen"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/gintama-enchousen/4",
+      "anime_id": 1183,
+      "anime_name": "Gintama': Enchousen"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/gintama-enchousen/5",
+      "anime_id": 1183,
+      "anime_name": "Gintama': Enchousen"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/gintama-enchousen/6",
+      "anime_id": 1183,
+      "anime_name": "Gintama': Enchousen"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/gintama-enchousen/7",
+      "anime_id": 1183,
+      "anime_name": "Gintama': Enchousen"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/gintama-enchousen/8",
+      "anime_id": 1183,
+      "anime_name": "Gintama': Enchousen"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/gintama-enchousen/9",
+      "anime_id": 1183,
+      "anime_name": "Gintama': Enchousen"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/gintama-enchousen/10",
+      "anime_id": 1183,
+      "anime_name": "Gintama': Enchousen"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/gintama-enchousen/11",
+      "anime_id": 1183,
+      "anime_name": "Gintama': Enchousen"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/gintama-enchousen/12",
+      "anime_id": 1183,
+      "anime_name": "Gintama': Enchousen"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/gintama-enchousen/13",
+      "anime_id": 1183,
+      "anime_name": "Gintama': Enchousen"
+    }
+  ],
+  "total_episodes": 13
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3573,
+    "nome": "Sora no Manimani",
+    "link": "https://animefire.plus/animes/sora-no-manimani-todos-os-episodios",
+    "texto_original": "Sora no Manimani",
+    "rating": 7.13,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/sora-no-manimani.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sora-no-manimani/",
+    "secao": "legendados",
+    "pagina": 130,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/sora-no-manimani"
+  }
+}

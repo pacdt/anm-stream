@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2265,
+    "nome": "Lucky☆Star",
+    "link": "https://animefire.plus/animes/lucky-star-todos-os-episodios",
+    "texto_original": "Lucky☆Star",
+    "rating": 7.82,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/lucky-star.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/lucky-star/",
+    "secao": "legendados",
+    "pagina": 135,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/lucky-star"
+  }
+}

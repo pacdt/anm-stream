@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3647,
+    "nome": "Strike The Blood II",
+    "link": "https://animefire.plus/animes/strike-the-blood-ii-todos-os-episodios",
+    "texto_original": "Strike The Blood II",
+    "rating": 7.25,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/strike-the-blood-ii.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/strike-the-blood-ii/",
+    "secao": "legendados",
+    "pagina": 106,
+    "total_episodios": 8,
+    "link_video": "https://animefire.plus/video/strike-the-blood-ii"
+  }
+}

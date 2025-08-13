@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 582,
+    "nome": "Carnival Phantasm",
+    "link": "https://animefire.plus/animes/carnival-phantasm-todos-os-episodios",
+    "texto_original": "Carnival Phantasm",
+    "rating": 7.95,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/carnival-phantasm.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/carnival-phantasm/",
+    "secao": "legendados",
+    "pagina": 131,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/carnival-phantasm"
+  }
+}

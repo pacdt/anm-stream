@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2765,
+    "nome": "Nobunagun",
+    "link": "https://animefire.plus/animes/nobunagun-todos-os-episodios",
+    "texto_original": "Nobunagun",
+    "rating": 6.77,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/nobunagun.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/nobunagun/",
+    "secao": "legendados",
+    "pagina": 171,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/nobunagun"
+  }
+}

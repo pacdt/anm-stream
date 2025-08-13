@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Shiguang Dailiren: Yingdu Pian",
+  "anime": {
+    "id": 3401,
+    "nome": "Shiguang Dailiren: Yingdu Pian",
+    "link": "https://animefire.plus/animes/shiguang-dailiren-yingdu-pian-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shiguang-dailiren-yingdu-pian",
+    "rating": "8.31",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shiguang-dailiren-yingdu-pian/1",
+      "anime_id": 3401,
+      "anime_name": "Shiguang Dailiren: Yingdu Pian"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shiguang-dailiren-yingdu-pian/2",
+      "anime_id": 3401,
+      "anime_name": "Shiguang Dailiren: Yingdu Pian"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/shiguang-dailiren-yingdu-pian/3",
+      "anime_id": 3401,
+      "anime_name": "Shiguang Dailiren: Yingdu Pian"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/shiguang-dailiren-yingdu-pian/4",
+      "anime_id": 3401,
+      "anime_name": "Shiguang Dailiren: Yingdu Pian"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/shiguang-dailiren-yingdu-pian/5",
+      "anime_id": 3401,
+      "anime_name": "Shiguang Dailiren: Yingdu Pian"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/shiguang-dailiren-yingdu-pian/6",
+      "anime_id": 3401,
+      "anime_name": "Shiguang Dailiren: Yingdu Pian"
+    }
+  ],
+  "total_episodes": 6
+}

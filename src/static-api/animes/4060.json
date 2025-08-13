@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4060,
+    "nome": "Vampire Dormitory",
+    "link": "https://animefire.plus/animes/vampire-dormitory-todos-os-episodios",
+    "texto_original": "Vampire Dormitory",
+    "rating": 6.22,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/vampire-dormitory.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/vampire-dormitory/",
+    "secao": "legendados",
+    "pagina": 15,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/vampire-dormitory"
+  }
+}

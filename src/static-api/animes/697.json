@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 697,
+    "nome": "Cosmo Warrior Zero",
+    "link": "https://animefire.plus/animes/cosmo-warrior-zero-todos-os-episodios",
+    "texto_original": "Cosmo Warrior Zero",
+    "rating": 6.63,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/cosmo-warrior-zero.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/cosmo-warrior-zero/",
+    "secao": "legendados",
+    "pagina": 96,
+    "total_episodios": 15,
+    "link_video": "https://animefire.plus/video/cosmo-warrior-zero"
+  }
+}

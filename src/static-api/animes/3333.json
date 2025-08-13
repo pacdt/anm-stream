@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3333,
+    "nome": "Sengoku Collection",
+    "link": "https://animefire.plus/animes/sengoku-collection-todos-os-episodios",
+    "texto_original": "Sengoku Collection",
+    "rating": 6.45,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/sengoku-collection.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sengoku-collection/",
+    "secao": "legendados",
+    "pagina": 55,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/sengoku-collection"
+  }
+}

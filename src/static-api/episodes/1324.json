@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: Hajimete no Gal",
+  "anime": {
+    "id": 1324,
+    "nome": "Hajimete no Gal",
+    "link": "https://animefire.plus/animes/hajimete-no-gal-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hajimete-no-gal",
+    "rating": "6.18",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hajimete-no-gal/1",
+      "anime_id": 1324,
+      "anime_name": "Hajimete no Gal"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hajimete-no-gal/2",
+      "anime_id": 1324,
+      "anime_name": "Hajimete no Gal"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hajimete-no-gal/3",
+      "anime_id": 1324,
+      "anime_name": "Hajimete no Gal"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hajimete-no-gal/4",
+      "anime_id": 1324,
+      "anime_name": "Hajimete no Gal"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hajimete-no-gal/5",
+      "anime_id": 1324,
+      "anime_name": "Hajimete no Gal"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hajimete-no-gal/6",
+      "anime_id": 1324,
+      "anime_name": "Hajimete no Gal"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/hajimete-no-gal/7",
+      "anime_id": 1324,
+      "anime_name": "Hajimete no Gal"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/hajimete-no-gal/8",
+      "anime_id": 1324,
+      "anime_name": "Hajimete no Gal"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/hajimete-no-gal/9",
+      "anime_id": 1324,
+      "anime_name": "Hajimete no Gal"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/hajimete-no-gal/10",
+      "anime_id": 1324,
+      "anime_name": "Hajimete no Gal"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/hajimete-no-gal/11",
+      "anime_id": 1324,
+      "anime_name": "Hajimete no Gal"
+    }
+  ],
+  "total_episodes": 11
+}

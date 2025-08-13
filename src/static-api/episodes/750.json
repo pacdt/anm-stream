@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Dareka No Manazashi",
+  "anime": {
+    "id": 750,
+    "nome": "Dareka No Manazashi",
+    "link": "https://animefire.plus/animes/dareka-no-manazashi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/dareka-no-manazashi",
+    "rating": "7.45",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/dareka-no-manazashi/1",
+      "anime_id": 750,
+      "anime_name": "Dareka No Manazashi"
+    }
+  ],
+  "total_episodes": 1
+}

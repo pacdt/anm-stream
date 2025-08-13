@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Kaii to Otome to Kamikakushi",
+  "anime": {
+    "id": 1807,
+    "nome": "Kaii to Otome to Kamikakushi",
+    "link": "https://animefire.plus/animes/kaii-to-otome-to-kamikakushi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kaii-to-otome-to-kamikakushi",
+    "rating": "6.76",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kaii-to-otome-to-kamikakushi/1",
+      "anime_id": 1807,
+      "anime_name": "Kaii to Otome to Kamikakushi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kaii-to-otome-to-kamikakushi/2",
+      "anime_id": 1807,
+      "anime_name": "Kaii to Otome to Kamikakushi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kaii-to-otome-to-kamikakushi/3",
+      "anime_id": 1807,
+      "anime_name": "Kaii to Otome to Kamikakushi"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kaii-to-otome-to-kamikakushi/4",
+      "anime_id": 1807,
+      "anime_name": "Kaii to Otome to Kamikakushi"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kaii-to-otome-to-kamikakushi/5",
+      "anime_id": 1807,
+      "anime_name": "Kaii to Otome to Kamikakushi"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kaii-to-otome-to-kamikakushi/6",
+      "anime_id": 1807,
+      "anime_name": "Kaii to Otome to Kamikakushi"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/kaii-to-otome-to-kamikakushi/7",
+      "anime_id": 1807,
+      "anime_name": "Kaii to Otome to Kamikakushi"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/kaii-to-otome-to-kamikakushi/8",
+      "anime_id": 1807,
+      "anime_name": "Kaii to Otome to Kamikakushi"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/kaii-to-otome-to-kamikakushi/9",
+      "anime_id": 1807,
+      "anime_name": "Kaii to Otome to Kamikakushi"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/kaii-to-otome-to-kamikakushi/10",
+      "anime_id": 1807,
+      "anime_name": "Kaii to Otome to Kamikakushi"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/kaii-to-otome-to-kamikakushi/11",
+      "anime_id": 1807,
+      "anime_name": "Kaii to Otome to Kamikakushi"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/kaii-to-otome-to-kamikakushi/12",
+      "anime_id": 1807,
+      "anime_name": "Kaii to Otome to Kamikakushi"
+    }
+  ],
+  "total_episodes": 12
+}

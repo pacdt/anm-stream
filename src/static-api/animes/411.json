@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 411,
+    "nome": "Black Jack",
+    "link": "https://animefire.plus/animes/black-jack-todos-os-episodios",
+    "texto_original": "Black Jack",
+    "rating": 7.83,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/black-jack.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/black-jack/",
+    "secao": "legendados",
+    "pagina": 175,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/black-jack"
+  }
+}

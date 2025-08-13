@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Battle Royal High School",
+  "anime": {
+    "id": 359,
+    "nome": "Battle Royal High School",
+    "link": "https://animefire.plus/animes/battle-royal-high-school-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/battle-royal-high-school",
+    "rating": "5.59",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/battle-royal-high-school/1",
+      "anime_id": 359,
+      "anime_name": "Battle Royal High School"
+    }
+  ],
+  "total_episodes": 1
+}

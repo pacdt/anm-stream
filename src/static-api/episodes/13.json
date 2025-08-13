@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: 1-gatsu ni wa Christmas",
+  "anime": {
+    "id": 13,
+    "nome": "1-gatsu ni wa Christmas",
+    "link": "https://animefire.plus/animes/1-gatsu-ni-wa-christmas-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/1-gatsu-ni-wa-christmas",
+    "rating": "5.42",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/1-gatsu-ni-wa-christmas/1",
+      "anime_id": 13,
+      "anime_name": "1-gatsu ni wa Christmas"
+    }
+  ],
+  "total_episodes": 1
+}

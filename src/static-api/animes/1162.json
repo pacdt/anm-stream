@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1162,
+    "nome": "Ginban Kaleidoscope",
+    "link": "https://animefire.plus/animes/ginban-kaleidoscope-todos-os-episodios",
+    "texto_original": "Ginban Kaleidoscope",
+    "rating": 7.41,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ginban-kaleidoscope.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ginban-kaleidoscope/",
+    "secao": "legendados",
+    "pagina": 100,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/ginban-kaleidoscope"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Chao You Bing",
+  "anime": {
+    "id": 592,
+    "nome": "Chao You Bing",
+    "link": "https://animefire.plus/animes/chao-you-bing-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/chao-you-bing",
+    "rating": "5.86",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/chao-you-bing/1",
+      "anime_id": 592,
+      "anime_name": "Chao You Bing"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/chao-you-bing/2",
+      "anime_id": 592,
+      "anime_name": "Chao You Bing"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/chao-you-bing/3",
+      "anime_id": 592,
+      "anime_name": "Chao You Bing"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/chao-you-bing/4",
+      "anime_id": 592,
+      "anime_name": "Chao You Bing"
+    }
+  ],
+  "total_episodes": 4
+}

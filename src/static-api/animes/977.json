@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 977,
+    "nome": "Fantastic Children",
+    "link": "https://animefire.plus/animes/fantastic-children-todos-os-episodios",
+    "texto_original": "Fantastic Children",
+    "rating": 7.62,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/fantastic-children.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/fantastic-children/",
+    "secao": "legendados",
+    "pagina": 98,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/fantastic-children"
+  }
+}

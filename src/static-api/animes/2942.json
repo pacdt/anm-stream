@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2942,
+    "nome": "Owarimonogatari",
+    "link": "https://animefire.plus/animes/owarimonogatari-todos-os-episodios",
+    "texto_original": "Owarimonogatari",
+    "rating": 8.46,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/owarimonogatari.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/owarimonogatari/",
+    "secao": "legendados",
+    "pagina": 74,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/owarimonogatari"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Afro Samurai (Dublado)",
+  "anime": {
+    "id": 69,
+    "nome": "Afro Samurai (Dublado)",
+    "link": "https://animefire.plus/animes/afro-samurai-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/afro-samurai-dublado",
+    "rating": "7.37",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/afro-samurai-dublado/1",
+      "anime_id": 69,
+      "anime_name": "Afro Samurai (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/afro-samurai-dublado/2",
+      "anime_id": 69,
+      "anime_name": "Afro Samurai (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/afro-samurai-dublado/3",
+      "anime_id": 69,
+      "anime_name": "Afro Samurai (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/afro-samurai-dublado/4",
+      "anime_id": 69,
+      "anime_name": "Afro Samurai (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/afro-samurai-dublado/5",
+      "anime_id": 69,
+      "anime_name": "Afro Samurai (Dublado)"
+    }
+  ],
+  "total_episodes": 5
+}

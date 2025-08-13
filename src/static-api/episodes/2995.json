@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: Pluto (Dublado)",
+  "anime": {
+    "id": 2995,
+    "nome": "Pluto (Dublado)",
+    "link": "https://animefire.plus/animes/pluto-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/pluto-dublado",
+    "rating": "8.45",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/pluto-dublado/1",
+      "anime_id": 2995,
+      "anime_name": "Pluto (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/pluto-dublado/2",
+      "anime_id": 2995,
+      "anime_name": "Pluto (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/pluto-dublado/3",
+      "anime_id": 2995,
+      "anime_name": "Pluto (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/pluto-dublado/4",
+      "anime_id": 2995,
+      "anime_name": "Pluto (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/pluto-dublado/5",
+      "anime_id": 2995,
+      "anime_name": "Pluto (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/pluto-dublado/6",
+      "anime_id": 2995,
+      "anime_name": "Pluto (Dublado)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/pluto-dublado/7",
+      "anime_id": 2995,
+      "anime_name": "Pluto (Dublado)"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/pluto-dublado/8",
+      "anime_id": 2995,
+      "anime_name": "Pluto (Dublado)"
+    }
+  ],
+  "total_episodes": 8
+}

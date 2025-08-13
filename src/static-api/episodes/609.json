@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Chikyuugai Shounen Shoujo",
+  "anime": {
+    "id": 609,
+    "nome": "Chikyuugai Shounen Shoujo",
+    "link": "https://animefire.plus/animes/chikyuugai-shounen-shoujo-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/chikyuugai-shounen-shoujo",
+    "rating": "6.82",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/chikyuugai-shounen-shoujo/1",
+      "anime_id": 609,
+      "anime_name": "Chikyuugai Shounen Shoujo"
+    }
+  ],
+  "total_episodes": 1
+}

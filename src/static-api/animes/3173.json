@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3173,
+    "nome": "Ryuuou no Oshigoto!",
+    "link": "https://animefire.plus/animes/ryuuou-no-oshigoto-todos-os-episodios",
+    "texto_original": "Ryuuou no Oshigoto!",
+    "rating": 7.05,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ryuuou-no-oshigoto.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ryuuou-no-oshigoto/",
+    "secao": "legendados",
+    "pagina": 102,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/ryuuou-no-oshigoto"
+  }
+}

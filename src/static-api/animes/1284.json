@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1284,
+    "nome": "Gunnm (Dublado)",
+    "link": "https://animefire.plus/animes/gunnm-dublado-todos-os-episodios",
+    "texto_original": "Gunnm (Dublado)",
+    "rating": 7.1,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/gunnm.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gunnm/",
+    "secao": "dublados,legendados",
+    "pagina": 21,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/gunnm-dublado"
+  }
+}

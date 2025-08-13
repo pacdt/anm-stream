@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3088,
+    "nome": "Re:Creators",
+    "link": "https://animefire.plus/animes/re-creators-todos-os-episodios",
+    "texto_original": "Re:Creators",
+    "rating": 7.64,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/re-creators.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/re-creators/",
+    "secao": "legendados",
+    "pagina": 121,
+    "total_episodios": 22,
+    "link_video": "https://animefire.plus/video/re-creators"
+  }
+}

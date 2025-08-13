@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 132,
+    "nome": "Akuma no Riddle",
+    "link": "https://animefire.plus/animes/akuma-no-riddle-todos-os-episodios",
+    "texto_original": "Akuma no Riddle",
+    "rating": 6.74,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/akuma-no-riddle.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/akuma-no-riddle/",
+    "secao": "legendados",
+    "pagina": 170,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/akuma-no-riddle"
+  }
+}

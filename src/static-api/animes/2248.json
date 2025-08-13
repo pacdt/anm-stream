@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2248,
+    "nome": "Love Lab",
+    "link": "https://animefire.plus/animes/love-lab-todos-os-episodios",
+    "texto_original": "Love Lab",
+    "rating": 7.43,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/love-lab.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/love-lab/",
+    "secao": "legendados",
+    "pagina": 140,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/love-lab"
+  }
+}

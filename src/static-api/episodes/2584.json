@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Monster Musume no Iru Nichijou: Hobo Mainichi ◯◯! Namappoi Douga",
+  "anime": {
+    "id": 2584,
+    "nome": "Monster Musume no Iru Nichijou: Hobo Mainichi ◯◯! Namappoi Douga",
+    "link": "https://animefire.plus/animes/monster-musume-no-iru-nichijou-hobo-mainichi-namappoi-douga-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/monster-musume-no-iru-nichijou-hobo-mainichi-namappoi-douga",
+    "rating": "6.56",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/monster-musume-no-iru-nichijou-hobo-mainichi-namappoi-douga/1",
+      "anime_id": 2584,
+      "anime_name": "Monster Musume no Iru Nichijou: Hobo Mainichi ◯◯! Namappoi Douga"
+    }
+  ],
+  "total_episodes": 1
+}

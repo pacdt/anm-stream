@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Mahoutsukai no Yome: Hoshi Matsu Hito (Dublado)",
+  "anime": {
+    "id": 2356,
+    "nome": "Mahoutsukai no Yome: Hoshi Matsu Hito (Dublado)",
+    "link": "https://animefire.plus/animes/mahoutsukai-no-yome-hoshi-matsu-hito-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mahoutsukai-no-yome-hoshi-matsu-hito-dublado",
+    "rating": "8.19",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mahoutsukai-no-yome-hoshi-matsu-hito-dublado/1",
+      "anime_id": 2356,
+      "anime_name": "Mahoutsukai no Yome: Hoshi Matsu Hito (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mahoutsukai-no-yome-hoshi-matsu-hito-dublado/2",
+      "anime_id": 2356,
+      "anime_name": "Mahoutsukai no Yome: Hoshi Matsu Hito (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mahoutsukai-no-yome-hoshi-matsu-hito-dublado/3",
+      "anime_id": 2356,
+      "anime_name": "Mahoutsukai no Yome: Hoshi Matsu Hito (Dublado)"
+    }
+  ],
+  "total_episodes": 3
+}

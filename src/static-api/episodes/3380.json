@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Shakugan no Shana-tan III (Final): Final Destruction",
+  "anime": {
+    "id": 3380,
+    "nome": "Shakugan no Shana-tan III (Final): Final Destruction",
+    "link": "https://animefire.plus/animes/shakugan-no-shana-tan-iii-final-final-destruction-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shakugan-no-shana-tan-iii-final-final-destruction",
+    "rating": "7.09",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shakugan-no-shana-tan-iii-final-final-destruction/1",
+      "anime_id": 3380,
+      "anime_name": "Shakugan no Shana-tan III (Final): Final Destruction"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shakugan-no-shana-tan-iii-final-final-destruction/2",
+      "anime_id": 3380,
+      "anime_name": "Shakugan no Shana-tan III (Final): Final Destruction"
+    }
+  ],
+  "total_episodes": 2
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 858,
+    "nome": "Double-J",
+    "link": "https://animefire.plus/animes/double-j-todos-os-episodios",
+    "texto_original": "Double-J",
+    "rating": 5.55,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/double-j.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/double-j/",
+    "secao": "legendados",
+    "pagina": 99,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/double-j"
+  }
+}

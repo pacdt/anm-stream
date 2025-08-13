@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Ninja Ryuukenden",
+  "anime": {
+    "id": 2744,
+    "nome": "Ninja Ryuukenden",
+    "link": "https://animefire.plus/animes/ninja-ryuukenden-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ninja-ryuukenden",
+    "rating": "5.68",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ninja-ryuukenden/1",
+      "anime_id": 2744,
+      "anime_name": "Ninja Ryuukenden"
+    }
+  ],
+  "total_episodes": 1
+}

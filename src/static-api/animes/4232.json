@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4232,
+    "nome": "Yes! Precure 5 GoGo!",
+    "link": "https://animefire.plus/animes/yes-precure-5-gogo-todos-os-episodios",
+    "texto_original": "Yes! Precure 5 GoGo!",
+    "rating": 7.15,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/yes-precure-5-gogo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/yes-precure-5-gogo/",
+    "secao": "legendados",
+    "pagina": 66,
+    "total_episodios": 48,
+    "link_video": "https://animefire.plus/video/yes-precure-5-gogo"
+  }
+}

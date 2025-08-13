@@ -1,0 +1,98 @@
+{
+  "message": "Lista de episódios do anime: Jie Mo Ren",
+  "anime": {
+    "id": 1719,
+    "nome": "Jie Mo Ren",
+    "link": "https://animefire.plus/animes/jie-mo-ren-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/jie-mo-ren",
+    "rating": "6.34",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/jie-mo-ren/1",
+      "anime_id": 1719,
+      "anime_name": "Jie Mo Ren"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/jie-mo-ren/2",
+      "anime_id": 1719,
+      "anime_name": "Jie Mo Ren"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/jie-mo-ren/3",
+      "anime_id": 1719,
+      "anime_name": "Jie Mo Ren"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/jie-mo-ren/4",
+      "anime_id": 1719,
+      "anime_name": "Jie Mo Ren"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/jie-mo-ren/5",
+      "anime_id": 1719,
+      "anime_name": "Jie Mo Ren"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/jie-mo-ren/6",
+      "anime_id": 1719,
+      "anime_name": "Jie Mo Ren"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/jie-mo-ren/7",
+      "anime_id": 1719,
+      "anime_name": "Jie Mo Ren"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/jie-mo-ren/8",
+      "anime_id": 1719,
+      "anime_name": "Jie Mo Ren"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/jie-mo-ren/9",
+      "anime_id": 1719,
+      "anime_name": "Jie Mo Ren"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/jie-mo-ren/10",
+      "anime_id": 1719,
+      "anime_name": "Jie Mo Ren"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/jie-mo-ren/11",
+      "anime_id": 1719,
+      "anime_name": "Jie Mo Ren"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/jie-mo-ren/12",
+      "anime_id": 1719,
+      "anime_name": "Jie Mo Ren"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/jie-mo-ren/13",
+      "anime_id": 1719,
+      "anime_name": "Jie Mo Ren"
+    },
+    {
+      "episode_number": 14,
+      "episode_url": "https://animefire.plus/video/jie-mo-ren/14",
+      "anime_id": 1719,
+      "anime_name": "Jie Mo Ren"
+    }
+  ],
+  "total_episodes": 14
+}

@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Garo Movie: Divine Flame",
+  "anime": {
+    "id": 1109,
+    "nome": "Garo Movie: Divine Flame",
+    "link": "https://animefire.plus/animes/garo-movie-divine-flame-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/garo-movie-divine-flame",
+    "rating": "7.71",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/garo-movie-divine-flame/1",
+      "anime_id": 1109,
+      "anime_name": "Garo Movie: Divine Flame"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/garo-movie-divine-flame/2",
+      "anime_id": 1109,
+      "anime_name": "Garo Movie: Divine Flame"
+    }
+  ],
+  "total_episodes": 2
+}

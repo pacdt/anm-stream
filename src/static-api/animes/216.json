@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 216,
+    "nome": "Aquarion Evol",
+    "link": "https://animefire.plus/animes/aquarion-evol-todos-os-episodios",
+    "texto_original": "Aquarion Evol",
+    "rating": 7.23,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/aquarion-evol.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/aquarion-evol/",
+    "secao": "legendados",
+    "pagina": 158,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/aquarion-evol"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Tales of Zestiria the Cross",
+  "anime": {
+    "id": 3729,
+    "nome": "Tales of Zestiria the Cross",
+    "link": "https://animefire.plus/animes/tales-of-zestiria-the-cross-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tales-of-zestiria-the-cross",
+    "rating": "7.39",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tales-of-zestiria-the-cross/1",
+      "anime_id": 3729,
+      "anime_name": "Tales of Zestiria the Cross"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tales-of-zestiria-the-cross/2",
+      "anime_id": 3729,
+      "anime_name": "Tales of Zestiria the Cross"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tales-of-zestiria-the-cross/3",
+      "anime_id": 3729,
+      "anime_name": "Tales of Zestiria the Cross"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tales-of-zestiria-the-cross/4",
+      "anime_id": 3729,
+      "anime_name": "Tales of Zestiria the Cross"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/tales-of-zestiria-the-cross/5",
+      "anime_id": 3729,
+      "anime_name": "Tales of Zestiria the Cross"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/tales-of-zestiria-the-cross/6",
+      "anime_id": 3729,
+      "anime_name": "Tales of Zestiria the Cross"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/tales-of-zestiria-the-cross/7",
+      "anime_id": 3729,
+      "anime_name": "Tales of Zestiria the Cross"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/tales-of-zestiria-the-cross/8",
+      "anime_id": 3729,
+      "anime_name": "Tales of Zestiria the Cross"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/tales-of-zestiria-the-cross/9",
+      "anime_id": 3729,
+      "anime_name": "Tales of Zestiria the Cross"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/tales-of-zestiria-the-cross/10",
+      "anime_id": 3729,
+      "anime_name": "Tales of Zestiria the Cross"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/tales-of-zestiria-the-cross/11",
+      "anime_id": 3729,
+      "anime_name": "Tales of Zestiria the Cross"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/tales-of-zestiria-the-cross/12",
+      "anime_id": 3729,
+      "anime_name": "Tales of Zestiria the Cross"
+    }
+  ],
+  "total_episodes": 12
+}

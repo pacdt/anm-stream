@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Kuroshitsuji: Book of Murder",
+  "anime": {
+    "id": 2161,
+    "nome": "Kuroshitsuji: Book of Murder",
+    "link": "https://animefire.plus/animes/kuroshitsuji-book-of-murder-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kuroshitsuji-book-of-murder",
+    "rating": "8.29",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kuroshitsuji-book-of-murder/1",
+      "anime_id": 2161,
+      "anime_name": "Kuroshitsuji: Book of Murder"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kuroshitsuji-book-of-murder/2",
+      "anime_id": 2161,
+      "anime_name": "Kuroshitsuji: Book of Murder"
+    }
+  ],
+  "total_episodes": 2
+}

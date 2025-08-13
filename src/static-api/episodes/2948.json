@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Pandora to Akubi",
+  "anime": {
+    "id": 2948,
+    "nome": "Pandora to Akubi",
+    "link": "https://animefire.plus/animes/pandora-to-akubi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/pandora-to-akubi",
+    "rating": "6.13",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/pandora-to-akubi/1",
+      "anime_id": 2948,
+      "anime_name": "Pandora to Akubi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/pandora-to-akubi/2",
+      "anime_id": 2948,
+      "anime_name": "Pandora to Akubi"
+    }
+  ],
+  "total_episodes": 2
+}

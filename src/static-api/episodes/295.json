@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: B: The Beginning Succession (Dublado)",
+  "anime": {
+    "id": 295,
+    "nome": "B: The Beginning Succession (Dublado)",
+    "link": "https://animefire.plus/animes/b-the-beginning-succession-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/b-the-beginning-succession-dublado",
+    "rating": "6.20",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/b-the-beginning-succession-dublado/1",
+      "anime_id": 295,
+      "anime_name": "B: The Beginning Succession (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/b-the-beginning-succession-dublado/2",
+      "anime_id": 295,
+      "anime_name": "B: The Beginning Succession (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/b-the-beginning-succession-dublado/3",
+      "anime_id": 295,
+      "anime_name": "B: The Beginning Succession (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/b-the-beginning-succession-dublado/4",
+      "anime_id": 295,
+      "anime_name": "B: The Beginning Succession (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/b-the-beginning-succession-dublado/5",
+      "anime_id": 295,
+      "anime_name": "B: The Beginning Succession (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/b-the-beginning-succession-dublado/6",
+      "anime_id": 295,
+      "anime_name": "B: The Beginning Succession (Dublado)"
+    }
+  ],
+  "total_episodes": 6
+}

@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: City the Animation (Dublado)",
+  "anime": {
+    "id": 658,
+    "nome": "City the Animation (Dublado)",
+    "link": "https://animefire.plus/animes/city-the-animation-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/city-the-animation-dublado",
+    "rating": "7.84",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/city-the-animation-dublado/1",
+      "anime_id": 658,
+      "anime_name": "City the Animation (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/city-the-animation-dublado/2",
+      "anime_id": 658,
+      "anime_name": "City the Animation (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/city-the-animation-dublado/3",
+      "anime_id": 658,
+      "anime_name": "City the Animation (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/city-the-animation-dublado/4",
+      "anime_id": 658,
+      "anime_name": "City the Animation (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/city-the-animation-dublado/5",
+      "anime_id": 658,
+      "anime_name": "City the Animation (Dublado)"
+    }
+  ],
+  "total_episodes": 5
+}

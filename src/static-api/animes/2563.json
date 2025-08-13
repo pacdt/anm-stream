@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2563,
+    "nome": "Mokke",
+    "link": "https://animefire.plus/animes/mokke-todos-os-episodios",
+    "texto_original": "Mokke",
+    "rating": 7.13,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/mokke.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mokke/",
+    "secao": "legendados",
+    "pagina": 139,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/mokke"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4350,
+    "nome": "Zetman",
+    "link": "https://animefire.plus/animes/zetman-todos-os-episodios",
+    "texto_original": "Zetman",
+    "rating": 6.84,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/zetman.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/zetman/",
+    "secao": "legendados",
+    "pagina": 16,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/zetman"
+  }
+}

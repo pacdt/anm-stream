@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 417,
+    "nome": "Blade",
+    "link": "https://animefire.plus/animes/blade-todos-os-episodios",
+    "texto_original": "Blade",
+    "rating": 6.3,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/blade.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/blade/",
+    "secao": "legendados",
+    "pagina": 135,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/blade"
+  }
+}

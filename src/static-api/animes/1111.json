@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1111,
+    "nome": "Garo: Honoo no Kokuin",
+    "link": "https://animefire.plus/animes/garo-honoo-no-kokuin-todos-os-episodios",
+    "texto_original": "Garo: Honoo no Kokuin",
+    "rating": 7.47,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/garo-honoo-no-kokuin.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/garo-honoo-no-kokuin/",
+    "secao": "legendados",
+    "pagina": 138,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/garo-honoo-no-kokuin"
+  }
+}

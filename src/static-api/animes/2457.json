@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2457,
+    "nome": "Mayonaka Punch",
+    "link": "https://animefire.plus/animes/mayonaka-punch-todos-os-episodios",
+    "texto_original": "Mayonaka Punch",
+    "rating": 7.35,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/mayonaka-punch.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mayonaka-punch/",
+    "secao": "legendados",
+    "pagina": 11,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/mayonaka-punch"
+  }
+}

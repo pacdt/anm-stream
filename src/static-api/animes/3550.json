@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3550,
+    "nome": "Slayers Excellent",
+    "link": "https://animefire.plus/animes/slayers-excellent-todos-os-episodios",
+    "texto_original": "Slayers Excellent",
+    "rating": 7.33,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/slayers-excellent.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/slayers-excellent/",
+    "secao": "legendados",
+    "pagina": 45,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/slayers-excellent"
+  }
+}

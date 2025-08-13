@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4298,
+    "nome": "Yuri Kuma Arashi",
+    "link": "https://animefire.plus/animes/yuri-kuma-arashi-todos-os-episodios",
+    "texto_original": "Yuri Kuma Arashi",
+    "rating": 7.14,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/yuri-kuma-arashi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/yuri-kuma-arashi/",
+    "secao": "legendados",
+    "pagina": 137,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/yuri-kuma-arashi"
+  }
+}

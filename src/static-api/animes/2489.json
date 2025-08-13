@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2489,
+    "nome": "Miami Guns",
+    "link": "https://animefire.plus/animes/miami-guns-todos-os-episodios",
+    "texto_original": "Miami Guns",
+    "rating": 6.56,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/miami-guns.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/miami-guns/",
+    "secao": "legendados",
+    "pagina": 147,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/miami-guns"
+  }
+}

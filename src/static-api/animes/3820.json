@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3820,
+    "nome": "Tesla Note",
+    "link": "https://animefire.plus/animes/tesla-note-todos-os-episodios",
+    "texto_original": "Tesla Note",
+    "rating": 4.66,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/tesla-note.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tesla-note/",
+    "secao": "legendados",
+    "pagina": 38,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/tesla-note"
+  }
+}

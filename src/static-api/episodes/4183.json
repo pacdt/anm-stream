@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+  "anime": {
+    "id": 4183,
+    "nome": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+    "link": "https://animefire.plus/animes/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan",
+    "rating": "N/A",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan/1",
+      "anime_id": 4183,
+      "anime_name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan/2",
+      "anime_id": 4183,
+      "anime_name": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan"
+    }
+  ],
+  "total_episodes": 2
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1550,
+    "nome": "Hunter x Hunter (Dublado)",
+    "link": "https://animefire.plus/animes/hunter-x-hunter-dublado-todos-os-episodios",
+    "texto_original": "Hunter x Hunter (Dublado)",
+    "rating": 8.43,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hunter-x-hunter.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hunter-x-hunter/",
+    "secao": "dublados",
+    "pagina": 22,
+    "total_episodios": 92,
+    "link_video": "https://animefire.plus/video/hunter-x-hunter-dublado"
+  }
+}

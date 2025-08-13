@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Hamidashi Creative",
+  "anime": {
+    "id": 1345,
+    "nome": "Hamidashi Creative",
+    "link": "https://animefire.plus/animes/hamidashi-creative-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hamidashi-creative",
+    "rating": "N/A",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hamidashi-creative/1",
+      "anime_id": 1345,
+      "anime_name": "Hamidashi Creative"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hamidashi-creative/2",
+      "anime_id": 1345,
+      "anime_name": "Hamidashi Creative"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hamidashi-creative/3",
+      "anime_id": 1345,
+      "anime_name": "Hamidashi Creative"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hamidashi-creative/4",
+      "anime_id": 1345,
+      "anime_name": "Hamidashi Creative"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hamidashi-creative/5",
+      "anime_id": 1345,
+      "anime_name": "Hamidashi Creative"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hamidashi-creative/6",
+      "anime_id": 1345,
+      "anime_name": "Hamidashi Creative"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/hamidashi-creative/7",
+      "anime_id": 1345,
+      "anime_name": "Hamidashi Creative"
+    }
+  ],
+  "total_episodes": 7
+}

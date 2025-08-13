@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Black Magic M-66",
+  "anime": {
+    "id": 415,
+    "nome": "Black Magic M-66",
+    "link": "https://animefire.plus/animes/black-magic-m-66-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/black-magic-m-66",
+    "rating": "6.39",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/black-magic-m-66/1",
+      "anime_id": 415,
+      "anime_name": "Black Magic M-66"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Gal-gaku.: Hijiri Girls Square Gakuin",
+  "anime": {
+    "id": 1093,
+    "nome": "Gal-gaku.: Hijiri Girls Square Gakuin",
+    "link": "https://animefire.plus/animes/gal-gaku-hijiri-girls-square-gakuin-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gal-gaku-hijiri-girls-square-gakuin",
+    "rating": "5.43",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gal-gaku-hijiri-girls-square-gakuin/1",
+      "anime_id": 1093,
+      "anime_name": "Gal-gaku.: Hijiri Girls Square Gakuin"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/gal-gaku-hijiri-girls-square-gakuin/2",
+      "anime_id": 1093,
+      "anime_name": "Gal-gaku.: Hijiri Girls Square Gakuin"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/gal-gaku-hijiri-girls-square-gakuin/3",
+      "anime_id": 1093,
+      "anime_name": "Gal-gaku.: Hijiri Girls Square Gakuin"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/gal-gaku-hijiri-girls-square-gakuin/4",
+      "anime_id": 1093,
+      "anime_name": "Gal-gaku.: Hijiri Girls Square Gakuin"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/gal-gaku-hijiri-girls-square-gakuin/5",
+      "anime_id": 1093,
+      "anime_name": "Gal-gaku.: Hijiri Girls Square Gakuin"
+    }
+  ],
+  "total_episodes": 5
+}

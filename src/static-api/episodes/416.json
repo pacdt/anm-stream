@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: Black★Rock Shooter (TV)",
+  "anime": {
+    "id": 416,
+    "nome": "Black★Rock Shooter (TV)",
+    "link": "https://animefire.plus/animes/black-rock-shooter-tv-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/black-rock-shooter-tv",
+    "rating": "6.95",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/black-rock-shooter-tv/1",
+      "anime_id": 416,
+      "anime_name": "Black★Rock Shooter (TV)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/black-rock-shooter-tv/2",
+      "anime_id": 416,
+      "anime_name": "Black★Rock Shooter (TV)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/black-rock-shooter-tv/3",
+      "anime_id": 416,
+      "anime_name": "Black★Rock Shooter (TV)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/black-rock-shooter-tv/4",
+      "anime_id": 416,
+      "anime_name": "Black★Rock Shooter (TV)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/black-rock-shooter-tv/5",
+      "anime_id": 416,
+      "anime_name": "Black★Rock Shooter (TV)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/black-rock-shooter-tv/6",
+      "anime_id": 416,
+      "anime_name": "Black★Rock Shooter (TV)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/black-rock-shooter-tv/7",
+      "anime_id": 416,
+      "anime_name": "Black★Rock Shooter (TV)"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/black-rock-shooter-tv/8",
+      "anime_id": 416,
+      "anime_name": "Black★Rock Shooter (TV)"
+    }
+  ],
+  "total_episodes": 8
+}

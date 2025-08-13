@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 143,
+    "nome": "Alien 9",
+    "link": "https://animefire.plus/animes/alien-9-todos-os-episodios",
+    "texto_original": "Alien 9",
+    "rating": 6.68,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/alien-9.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/alien-9/",
+    "secao": "legendados",
+    "pagina": 165,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/alien-9"
+  }
+}

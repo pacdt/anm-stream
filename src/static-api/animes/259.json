@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 259,
+    "nome": "Ashita no Joe",
+    "link": "https://animefire.plus/animes/ashita-no-joe-todos-os-episodios",
+    "texto_original": "Ashita no Joe",
+    "rating": 8.21,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ashita-no-joe.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ashita-no-joe/",
+    "secao": "legendados",
+    "pagina": 131,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/ashita-no-joe"
+  }
+}

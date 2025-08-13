@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2183,
+    "nome": "Kyoukai no Kanata",
+    "link": "https://animefire.plus/animes/kyoukai-no-kanata-todos-os-episodios",
+    "texto_original": "Kyoukai no Kanata",
+    "rating": 7.86,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kyoukai-no-kanata.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kyoukai-no-kanata/",
+    "secao": "legendados",
+    "pagina": 169,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/kyoukai-no-kanata"
+  }
+}

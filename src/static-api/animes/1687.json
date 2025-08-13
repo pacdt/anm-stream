@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1687,
+    "nome": "Itazura na Kiss",
+    "link": "https://animefire.plus/animes/itazura-na-kiss-todos-os-episodios",
+    "texto_original": "Itazura na Kiss",
+    "rating": 7.61,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/itazura-na-kiss.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/itazura-na-kiss/",
+    "secao": "legendados",
+    "pagina": 80,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/itazura-na-kiss"
+  }
+}

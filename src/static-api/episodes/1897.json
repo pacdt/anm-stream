@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Karaoke Iko!",
+  "anime": {
+    "id": 1897,
+    "nome": "Karaoke Iko!",
+    "link": "https://animefire.plus/animes/karaoke-iko-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/karaoke-iko",
+    "rating": "7.28",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/karaoke-iko/1",
+      "anime_id": 1897,
+      "anime_name": "Karaoke Iko!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/karaoke-iko/2",
+      "anime_id": 1897,
+      "anime_name": "Karaoke Iko!"
+    }
+  ],
+  "total_episodes": 2
+}

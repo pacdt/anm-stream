@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 962,
+    "nome": "Evil or Live",
+    "link": "https://animefire.plus/animes/evil-or-live-todos-os-episodios",
+    "texto_original": "Evil or Live",
+    "rating": 5.97,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/evil-or-live.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/evil-or-live/",
+    "secao": "legendados",
+    "pagina": 107,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/evil-or-live"
+  }
+}

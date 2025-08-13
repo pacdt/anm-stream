@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Chu-Bra!!",
+  "anime": {
+    "id": 639,
+    "nome": "Chu-Bra!!",
+    "link": "https://animefire.plus/animes/chu-bra-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/chu-bra",
+    "rating": "6.28",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/chu-bra/1",
+      "anime_id": 639,
+      "anime_name": "Chu-Bra!!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/chu-bra/2",
+      "anime_id": 639,
+      "anime_name": "Chu-Bra!!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/chu-bra/3",
+      "anime_id": 639,
+      "anime_name": "Chu-Bra!!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/chu-bra/4",
+      "anime_id": 639,
+      "anime_name": "Chu-Bra!!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/chu-bra/5",
+      "anime_id": 639,
+      "anime_name": "Chu-Bra!!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/chu-bra/6",
+      "anime_id": 639,
+      "anime_name": "Chu-Bra!!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/chu-bra/7",
+      "anime_id": 639,
+      "anime_name": "Chu-Bra!!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/chu-bra/8",
+      "anime_id": 639,
+      "anime_name": "Chu-Bra!!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/chu-bra/9",
+      "anime_id": 639,
+      "anime_name": "Chu-Bra!!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/chu-bra/10",
+      "anime_id": 639,
+      "anime_name": "Chu-Bra!!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/chu-bra/11",
+      "anime_id": 639,
+      "anime_name": "Chu-Bra!!"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/chu-bra/12",
+      "anime_id": 639,
+      "anime_name": "Chu-Bra!!"
+    }
+  ],
+  "total_episodes": 12
+}

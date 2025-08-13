@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Shakugan no Shana-tan II (Second)",
+  "anime": {
+    "id": 3379,
+    "nome": "Shakugan no Shana-tan II (Second)",
+    "link": "https://animefire.plus/animes/shakugan-no-shana-tan-ii-second-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shakugan-no-shana-tan-ii-second",
+    "rating": "7.22",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shakugan-no-shana-tan-ii-second/1",
+      "anime_id": 3379,
+      "anime_name": "Shakugan no Shana-tan II (Second)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shakugan-no-shana-tan-ii-second/2",
+      "anime_id": 3379,
+      "anime_name": "Shakugan no Shana-tan II (Second)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/shakugan-no-shana-tan-ii-second/3",
+      "anime_id": 3379,
+      "anime_name": "Shakugan no Shana-tan II (Second)"
+    }
+  ],
+  "total_episodes": 3
+}

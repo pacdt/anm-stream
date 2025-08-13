@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3498,
+    "nome": "Shoujo Kakumei Utena",
+    "link": "https://animefire.plus/animes/shoujo-kakumei-utena-todos-os-episodios",
+    "texto_original": "Shoujo Kakumei Utena",
+    "rating": 8.19,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/shoujo-kakumei-utena.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shoujo-kakumei-utena/",
+    "secao": "legendados",
+    "pagina": 72,
+    "total_episodios": 39,
+    "link_video": "https://animefire.plus/video/shoujo-kakumei-utena"
+  }
+}

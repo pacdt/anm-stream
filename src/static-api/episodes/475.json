@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Bokusatsu Tenshi Dokuro-chan",
+  "anime": {
+    "id": 475,
+    "nome": "Bokusatsu Tenshi Dokuro-chan",
+    "link": "https://animefire.plus/animes/bokusatsu-tenshi-dokuro-chan-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/bokusatsu-tenshi-dokuro-chan",
+    "rating": "6.71",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/bokusatsu-tenshi-dokuro-chan/1",
+      "anime_id": 475,
+      "anime_name": "Bokusatsu Tenshi Dokuro-chan"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/bokusatsu-tenshi-dokuro-chan/2",
+      "anime_id": 475,
+      "anime_name": "Bokusatsu Tenshi Dokuro-chan"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/bokusatsu-tenshi-dokuro-chan/3",
+      "anime_id": 475,
+      "anime_name": "Bokusatsu Tenshi Dokuro-chan"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/bokusatsu-tenshi-dokuro-chan/4",
+      "anime_id": 475,
+      "anime_name": "Bokusatsu Tenshi Dokuro-chan"
+    }
+  ],
+  "total_episodes": 4
+}

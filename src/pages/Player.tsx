@@ -30,16 +30,16 @@ export function Player() {
   // Processar dados de stream para obter opções de qualidade
   const videoSources: VideoQualityOption[] = streamData ? processEpisodeStreamData(streamData) : []
   
-  // Debug logs
-  console.log('🎬 Player Debug Info:')
-  console.log('  - Anime Query:', { loading: animeQuery.isLoading, error: animeQuery.error, data: !!animeQuery.data })
-  console.log('  - Episodes Query:', { loading: episodesQuery.isLoading, error: episodesQuery.error, data: episodesQuery.data?.episodes?.length })
-  console.log('  - Stream Query:', { loading: streamQuery.isLoading, error: streamQuery.error, data: !!streamQuery.data })
-  console.log('  - Progress Query:', { loading: progressQuery.isLoading, error: progressQuery.error, data: episodeProgress })
-  console.log('  - Video Sources:', videoSources.length, videoSources)
-  console.log('  - Selected Source:', selectedSource)
-  console.log('  - Current Episode:', episodeNum)
-  console.log('  - Anime ID:', animeIdNum)
+  // Debug logs (apenas quando há mudanças significativas)
+  useEffect(() => {
+    if (streamData && videoSources.length > 0) {
+      console.log('🎬 Player Debug Info:')
+      console.log('  - Video Sources:', videoSources.length, videoSources)
+      console.log('  - Selected Source:', selectedSource)
+      console.log('  - Current Episode:', episodeNum)
+      console.log('  - Anime ID:', animeIdNum)
+    }
+  }, [streamData, videoSources.length, selectedSource?.src, episodeNum, animeIdNum])
   
   const currentEpisode = episodes.find(ep => ep.episode_number === episodeNum)
   const nextEpisode = episodes.find(ep => ep.episode_number === episodeNum + 1)
@@ -50,9 +50,10 @@ export function Player() {
     if (videoSources.length > 0 && !selectedSource) {
       // Priorizar fontes não alternativas primeiro
       const primarySource = videoSources.find(source => !source.isAlternative) || videoSources[0]
+      console.log('🎯 [Player] Selecionando fonte padrão:', primarySource)
       setSelectedSource(primarySource)
     }
-  }, [videoSources, selectedSource])
+  }, [videoSources.length, selectedSource])
 
   // Auto-hide episode list on mobile
   useEffect(() => {
@@ -93,18 +94,22 @@ export function Player() {
   }, [showEpisodeList, navigate, animeId])
 
   const handleEpisodeChange = (episode: Episode) => {
+    // Resetar fonte selecionada ao mudar de episódio
+    setSelectedSource(null)
     navigate(`/watch/${animeId}/${episode.episode_number}`)
     setShowEpisodeList(false)
   }
 
   const handleNext = () => {
     if (nextEpisode) {
+      setSelectedSource(null)
       navigate(`/watch/${animeId}/${nextEpisode.episode_number}`)
     }
   }
 
   const handlePrevious = () => {
     if (previousEpisode) {
+      setSelectedSource(null)
       navigate(`/watch/${animeId}/${previousEpisode.episode_number}`)
     }
   }

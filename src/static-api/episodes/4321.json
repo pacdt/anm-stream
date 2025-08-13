@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.",
+  "anime": {
+    "id": 4321,
+    "nome": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.",
+    "link": "https://animefire.plus/animes/yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-wo-ketsui-shimashita-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-wo-ketsui-shimashita",
+    "rating": "7.01",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-wo-ketsui-shimashita/1",
+      "anime_id": 4321,
+      "anime_name": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita."
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-wo-ketsui-shimashita/2",
+      "anime_id": 4321,
+      "anime_name": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita."
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-wo-ketsui-shimashita/3",
+      "anime_id": 4321,
+      "anime_name": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita."
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/yuusha-ni-narenakatta-ore-wa-shibushibu-shuushoku-wo-ketsui-shimashita/4",
+      "anime_id": 4321,
+      "anime_name": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita."
+    }
+  ],
+  "total_episodes": 4
+}

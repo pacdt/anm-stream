@@ -1,0 +1,17 @@
+{
+  "message": "Distribuição de classificação etária",
+  "age_rating_stats": {
+    "distribution": {
+      "A14": 2988,
+      "A16": 708,
+      "A18": 374,
+      "A10": 119
+    },
+    "total_with_age_rating": 4189,
+    "total_without_age_rating": 179,
+    "unique_age_ratings": 4,
+    "most_common": "A14",
+    "least_common": "A10"
+  },
+  "generated_at": "2025-08-13T02:27:39.169Z"
+}

@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Tate no Yuusha no Nariagari Season 4 (Dublado)",
+  "anime": {
+    "id": 3760,
+    "nome": "Tate no Yuusha no Nariagari Season 4 (Dublado)",
+    "link": "https://animefire.plus/animes/tate-no-yuusha-no-nariagari-season-4-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tate-no-yuusha-no-nariagari-season-4-dublado",
+    "rating": "7.34",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tate-no-yuusha-no-nariagari-season-4-dublado/1",
+      "anime_id": 3760,
+      "anime_name": "Tate no Yuusha no Nariagari Season 4 (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tate-no-yuusha-no-nariagari-season-4-dublado/2",
+      "anime_id": 3760,
+      "anime_name": "Tate no Yuusha no Nariagari Season 4 (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tate-no-yuusha-no-nariagari-season-4-dublado/3",
+      "anime_id": 3760,
+      "anime_name": "Tate no Yuusha no Nariagari Season 4 (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tate-no-yuusha-no-nariagari-season-4-dublado/4",
+      "anime_id": 3760,
+      "anime_name": "Tate no Yuusha no Nariagari Season 4 (Dublado)"
+    }
+  ],
+  "total_episodes": 4
+}

@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Yasuke (Dublado)",
+  "anime": {
+    "id": 4224,
+    "nome": "Yasuke (Dublado)",
+    "link": "https://animefire.plus/animes/yasuke-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yasuke-dublado",
+    "rating": "5.75",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yasuke-dublado/1",
+      "anime_id": 4224,
+      "anime_name": "Yasuke (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yasuke-dublado/2",
+      "anime_id": 4224,
+      "anime_name": "Yasuke (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/yasuke-dublado/3",
+      "anime_id": 4224,
+      "anime_name": "Yasuke (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/yasuke-dublado/4",
+      "anime_id": 4224,
+      "anime_name": "Yasuke (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/yasuke-dublado/5",
+      "anime_id": 4224,
+      "anime_name": "Yasuke (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/yasuke-dublado/6",
+      "anime_id": 4224,
+      "anime_name": "Yasuke (Dublado)"
+    }
+  ],
+  "total_episodes": 6
+}

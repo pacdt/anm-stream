@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Given: Uragawa no Sonzai",
+  "anime": {
+    "id": 1195,
+    "nome": "Given: Uragawa no Sonzai",
+    "link": "https://animefire.plus/animes/given-uragawa-no-sonzai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/given-uragawa-no-sonzai",
+    "rating": "8.13",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/given-uragawa-no-sonzai/1",
+      "anime_id": 1195,
+      "anime_name": "Given: Uragawa no Sonzai"
+    }
+  ],
+  "total_episodes": 1
+}

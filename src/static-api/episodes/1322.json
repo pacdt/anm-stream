@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Hajime no Ippo: Mashiba vs. Kimura",
+  "anime": {
+    "id": 1322,
+    "nome": "Hajime no Ippo: Mashiba vs. Kimura",
+    "link": "https://animefire.plus/animes/hajime-no-ippo-mashiba-vs-kimura-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hajime-no-ippo-mashiba-vs-kimura",
+    "rating": "8.24",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hajime-no-ippo-mashiba-vs-kimura/1",
+      "anime_id": 1322,
+      "anime_name": "Hajime no Ippo: Mashiba vs. Kimura"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Beatless Final Stage",
+  "anime": {
+    "id": 367,
+    "nome": "Beatless Final Stage",
+    "link": "https://animefire.plus/animes/beatless-final-stage-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/beatless-final-stage",
+    "rating": "6.87",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/beatless-final-stage/1",
+      "anime_id": 367,
+      "anime_name": "Beatless Final Stage"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/beatless-final-stage/2",
+      "anime_id": 367,
+      "anime_name": "Beatless Final Stage"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/beatless-final-stage/3",
+      "anime_id": 367,
+      "anime_name": "Beatless Final Stage"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/beatless-final-stage/4",
+      "anime_id": 367,
+      "anime_name": "Beatless Final Stage"
+    }
+  ],
+  "total_episodes": 4
+}

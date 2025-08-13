@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Getter Robo Arc",
+  "anime": {
+    "id": 1149,
+    "nome": "Getter Robo Arc",
+    "link": "https://animefire.plus/animes/getter-robo-arc-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/getter-robo-arc",
+    "rating": "6.16",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/getter-robo-arc/1",
+      "anime_id": 1149,
+      "anime_name": "Getter Robo Arc"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/getter-robo-arc/2",
+      "anime_id": 1149,
+      "anime_name": "Getter Robo Arc"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/getter-robo-arc/3",
+      "anime_id": 1149,
+      "anime_name": "Getter Robo Arc"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/getter-robo-arc/4",
+      "anime_id": 1149,
+      "anime_name": "Getter Robo Arc"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/getter-robo-arc/5",
+      "anime_id": 1149,
+      "anime_name": "Getter Robo Arc"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/getter-robo-arc/6",
+      "anime_id": 1149,
+      "anime_name": "Getter Robo Arc"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/getter-robo-arc/7",
+      "anime_id": 1149,
+      "anime_name": "Getter Robo Arc"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/getter-robo-arc/8",
+      "anime_id": 1149,
+      "anime_name": "Getter Robo Arc"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/getter-robo-arc/9",
+      "anime_id": 1149,
+      "anime_name": "Getter Robo Arc"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/getter-robo-arc/10",
+      "anime_id": 1149,
+      "anime_name": "Getter Robo Arc"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/getter-robo-arc/11",
+      "anime_id": 1149,
+      "anime_name": "Getter Robo Arc"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/getter-robo-arc/12",
+      "anime_id": 1149,
+      "anime_name": "Getter Robo Arc"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/getter-robo-arc/13",
+      "anime_id": 1149,
+      "anime_name": "Getter Robo Arc"
+    }
+  ],
+  "total_episodes": 13
+}

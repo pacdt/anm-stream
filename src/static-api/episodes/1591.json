@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: IDOLiSH7: Third Beat!",
+  "anime": {
+    "id": 1591,
+    "nome": "IDOLiSH7: Third Beat!",
+    "link": "https://animefire.plus/animes/idolish7-third-beat-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/idolish7-third-beat",
+    "rating": "8.24",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/idolish7-third-beat/1",
+      "anime_id": 1591,
+      "anime_name": "IDOLiSH7: Third Beat!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/idolish7-third-beat/2",
+      "anime_id": 1591,
+      "anime_name": "IDOLiSH7: Third Beat!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/idolish7-third-beat/3",
+      "anime_id": 1591,
+      "anime_name": "IDOLiSH7: Third Beat!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/idolish7-third-beat/4",
+      "anime_id": 1591,
+      "anime_name": "IDOLiSH7: Third Beat!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/idolish7-third-beat/5",
+      "anime_id": 1591,
+      "anime_name": "IDOLiSH7: Third Beat!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/idolish7-third-beat/6",
+      "anime_id": 1591,
+      "anime_name": "IDOLiSH7: Third Beat!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/idolish7-third-beat/7",
+      "anime_id": 1591,
+      "anime_name": "IDOLiSH7: Third Beat!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/idolish7-third-beat/8",
+      "anime_id": 1591,
+      "anime_name": "IDOLiSH7: Third Beat!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/idolish7-third-beat/9",
+      "anime_id": 1591,
+      "anime_name": "IDOLiSH7: Third Beat!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/idolish7-third-beat/10",
+      "anime_id": 1591,
+      "anime_name": "IDOLiSH7: Third Beat!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/idolish7-third-beat/11",
+      "anime_id": 1591,
+      "anime_name": "IDOLiSH7: Third Beat!"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/idolish7-third-beat/12",
+      "anime_id": 1591,
+      "anime_name": "IDOLiSH7: Third Beat!"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/idolish7-third-beat/13",
+      "anime_id": 1591,
+      "anime_name": "IDOLiSH7: Third Beat!"
+    }
+  ],
+  "total_episodes": 13
+}

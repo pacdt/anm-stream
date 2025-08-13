@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 304,
+    "nome": "Bad Girl",
+    "link": "https://animefire.plus/animes/bad-girl-todos-os-episodios",
+    "texto_original": "Bad Girl",
+    "rating": 6.8,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/bad-girl.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bad-girl/",
+    "secao": "legendados,lancamentos",
+    "pagina": 2,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/bad-girl"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2547,
+    "nome": "Mobile Suit Gundam SEED",
+    "link": "https://animefire.plus/animes/mobile-suit-gundam-seed-todos-os-episodios",
+    "texto_original": "Mobile Suit Gundam SEED",
+    "rating": 7.86,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/mobile-suit-gundam-seed.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mobile-suit-gundam-seed/",
+    "secao": "legendados",
+    "pagina": 131,
+    "total_episodios": 50,
+    "link_video": "https://animefire.plus/video/mobile-suit-gundam-seed"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: Dance Dance Danseur (Dublado)",
+  "anime": {
+    "id": 735,
+    "nome": "Dance Dance Danseur (Dublado)",
+    "link": "https://animefire.plus/animes/dance-dance-danseur-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/dance-dance-danseur-dublado",
+    "rating": "7.81",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/dance-dance-danseur-dublado/1",
+      "anime_id": 735,
+      "anime_name": "Dance Dance Danseur (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/dance-dance-danseur-dublado/2",
+      "anime_id": 735,
+      "anime_name": "Dance Dance Danseur (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/dance-dance-danseur-dublado/3",
+      "anime_id": 735,
+      "anime_name": "Dance Dance Danseur (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/dance-dance-danseur-dublado/4",
+      "anime_id": 735,
+      "anime_name": "Dance Dance Danseur (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/dance-dance-danseur-dublado/5",
+      "anime_id": 735,
+      "anime_name": "Dance Dance Danseur (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/dance-dance-danseur-dublado/6",
+      "anime_id": 735,
+      "anime_name": "Dance Dance Danseur (Dublado)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/dance-dance-danseur-dublado/7",
+      "anime_id": 735,
+      "anime_name": "Dance Dance Danseur (Dublado)"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/dance-dance-danseur-dublado/8",
+      "anime_id": 735,
+      "anime_name": "Dance Dance Danseur (Dublado)"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/dance-dance-danseur-dublado/9",
+      "anime_id": 735,
+      "anime_name": "Dance Dance Danseur (Dublado)"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/dance-dance-danseur-dublado/10",
+      "anime_id": 735,
+      "anime_name": "Dance Dance Danseur (Dublado)"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/dance-dance-danseur-dublado/11",
+      "anime_id": 735,
+      "anime_name": "Dance Dance Danseur (Dublado)"
+    }
+  ],
+  "total_episodes": 11
+}

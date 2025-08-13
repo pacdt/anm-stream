@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Hantsu x Trash",
+  "anime": {
+    "id": 1370,
+    "nome": "Hantsu x Trash",
+    "link": "https://animefire.plus/animes/hantsu-x-trash-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hantsu-x-trash",
+    "rating": "5.26",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hantsu-x-trash/1",
+      "anime_id": 1370,
+      "anime_name": "Hantsu x Trash"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hantsu-x-trash/2",
+      "anime_id": 1370,
+      "anime_name": "Hantsu x Trash"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hantsu-x-trash/3",
+      "anime_id": 1370,
+      "anime_name": "Hantsu x Trash"
+    }
+  ],
+  "total_episodes": 3
+}

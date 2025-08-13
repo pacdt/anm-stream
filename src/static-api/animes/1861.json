@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1861,
+    "nome": "Kamisama no Memochou",
+    "link": "https://animefire.plus/animes/kamisama-no-memochou-todos-os-episodios",
+    "texto_original": "Kamisama no Memochou",
+    "rating": 7.61,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/kamisama-no-memochou.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kamisama-no-memochou/",
+    "secao": "legendados",
+    "pagina": 157,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/kamisama-no-memochou"
+  }
+}

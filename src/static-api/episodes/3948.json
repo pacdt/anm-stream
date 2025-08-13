@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Tsugumomo OVA",
+  "anime": {
+    "id": 3948,
+    "nome": "Tsugumomo OVA",
+    "link": "https://animefire.plus/animes/tsugumomo-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tsugumomo-ova",
+    "rating": "6.87",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tsugumomo-ova/1",
+      "anime_id": 3948,
+      "anime_name": "Tsugumomo OVA"
+    }
+  ],
+  "total_episodes": 1
+}

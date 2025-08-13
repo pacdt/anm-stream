@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3937,
+    "nome": "Trillion Game",
+    "link": "https://animefire.plus/animes/trillion-game-todos-os-episodios",
+    "texto_original": "Trillion Game",
+    "rating": 7.56,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/trillion-game.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/trillion-game/",
+    "secao": "legendados",
+    "pagina": 9,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/trillion-game"
+  }
+}

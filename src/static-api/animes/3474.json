@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3474,
+    "nome": "Shinsekai Yori",
+    "link": "https://animefire.plus/animes/shinsekai-yori-todos-os-episodios",
+    "texto_original": "Shinsekai Yori",
+    "rating": 8.42,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/shinsekai-yori.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shinsekai-yori/",
+    "secao": "legendados",
+    "pagina": 104,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/shinsekai-yori"
+  }
+}

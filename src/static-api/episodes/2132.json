@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Kuma Miko",
+  "anime": {
+    "id": 2132,
+    "nome": "Kuma Miko",
+    "link": "https://animefire.plus/animes/kuma-miko-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kuma-miko",
+    "rating": "6.33",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kuma-miko/1",
+      "anime_id": 2132,
+      "anime_name": "Kuma Miko"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kuma-miko/2",
+      "anime_id": 2132,
+      "anime_name": "Kuma Miko"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kuma-miko/3",
+      "anime_id": 2132,
+      "anime_name": "Kuma Miko"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kuma-miko/4",
+      "anime_id": 2132,
+      "anime_name": "Kuma Miko"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kuma-miko/5",
+      "anime_id": 2132,
+      "anime_name": "Kuma Miko"
+    }
+  ],
+  "total_episodes": 5
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Gintama: Shinyaku Benizakura-hen",
+  "anime": {
+    "id": 1175,
+    "nome": "Gintama: Shinyaku Benizakura-hen",
+    "link": "https://animefire.plus/animes/gintama-shinyaku-benizakura-hen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gintama-shinyaku-benizakura-hen",
+    "rating": "8.27",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gintama-shinyaku-benizakura-hen/1",
+      "anime_id": 1175,
+      "anime_name": "Gintama: Shinyaku Benizakura-hen"
+    }
+  ],
+  "total_episodes": 1
+}

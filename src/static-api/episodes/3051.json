@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Puraore! Pride of Orange",
+  "anime": {
+    "id": 3051,
+    "nome": "Puraore! Pride of Orange",
+    "link": "https://animefire.plus/animes/puraore-pride-of-orange-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/puraore-pride-of-orange",
+    "rating": "6.23",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/puraore-pride-of-orange/1",
+      "anime_id": 3051,
+      "anime_name": "Puraore! Pride of Orange"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/puraore-pride-of-orange/2",
+      "anime_id": 3051,
+      "anime_name": "Puraore! Pride of Orange"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/puraore-pride-of-orange/3",
+      "anime_id": 3051,
+      "anime_name": "Puraore! Pride of Orange"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/puraore-pride-of-orange/4",
+      "anime_id": 3051,
+      "anime_name": "Puraore! Pride of Orange"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/puraore-pride-of-orange/5",
+      "anime_id": 3051,
+      "anime_name": "Puraore! Pride of Orange"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/puraore-pride-of-orange/6",
+      "anime_id": 3051,
+      "anime_name": "Puraore! Pride of Orange"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/puraore-pride-of-orange/7",
+      "anime_id": 3051,
+      "anime_name": "Puraore! Pride of Orange"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/puraore-pride-of-orange/8",
+      "anime_id": 3051,
+      "anime_name": "Puraore! Pride of Orange"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/puraore-pride-of-orange/9",
+      "anime_id": 3051,
+      "anime_name": "Puraore! Pride of Orange"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/puraore-pride-of-orange/10",
+      "anime_id": 3051,
+      "anime_name": "Puraore! Pride of Orange"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/puraore-pride-of-orange/11",
+      "anime_id": 3051,
+      "anime_name": "Puraore! Pride of Orange"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/puraore-pride-of-orange/12",
+      "anime_id": 3051,
+      "anime_name": "Puraore! Pride of Orange"
+    }
+  ],
+  "total_episodes": 12
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1522,
+    "nome": "Hoozuki no Reitetsu",
+    "link": "https://animefire.plus/animes/hoozuki-no-reitetsu-todos-os-episodios",
+    "texto_original": "Hoozuki no Reitetsu",
+    "rating": 7.81,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hoozuki-no-reitetsu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hoozuki-no-reitetsu/",
+    "secao": "legendados",
+    "pagina": 63,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/hoozuki-no-reitetsu"
+  }
+}

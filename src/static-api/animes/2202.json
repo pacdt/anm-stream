@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2202,
+    "nome": "Lamune",
+    "link": "https://animefire.plus/animes/lamune-todos-os-episodios",
+    "texto_original": "Lamune",
+    "rating": 6.89,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/lamune.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/lamune/",
+    "secao": "legendados",
+    "pagina": 172,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/lamune"
+  }
+}

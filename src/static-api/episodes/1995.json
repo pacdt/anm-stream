@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Kimi wa Meido-sama. (Dublado)",
+  "anime": {
+    "id": 1995,
+    "nome": "Kimi wa Meido-sama. (Dublado)",
+    "link": "https://animefire.plus/animes/kimi-wa-meido-sama-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kimi-wa-meido-sama-dublado",
+    "rating": "7.07",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kimi-wa-meido-sama-dublado/1",
+      "anime_id": 1995,
+      "anime_name": "Kimi wa Meido-sama. (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kimi-wa-meido-sama-dublado/2",
+      "anime_id": 1995,
+      "anime_name": "Kimi wa Meido-sama. (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kimi-wa-meido-sama-dublado/3",
+      "anime_id": 1995,
+      "anime_name": "Kimi wa Meido-sama. (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kimi-wa-meido-sama-dublado/4",
+      "anime_id": 1995,
+      "anime_name": "Kimi wa Meido-sama. (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kimi-wa-meido-sama-dublado/5",
+      "anime_id": 1995,
+      "anime_name": "Kimi wa Meido-sama. (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kimi-wa-meido-sama-dublado/6",
+      "anime_id": 1995,
+      "anime_name": "Kimi wa Meido-sama. (Dublado)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/kimi-wa-meido-sama-dublado/7",
+      "anime_id": 1995,
+      "anime_name": "Kimi wa Meido-sama. (Dublado)"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/kimi-wa-meido-sama-dublado/8",
+      "anime_id": 1995,
+      "anime_name": "Kimi wa Meido-sama. (Dublado)"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/kimi-wa-meido-sama-dublado/9",
+      "anime_id": 1995,
+      "anime_name": "Kimi wa Meido-sama. (Dublado)"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/kimi-wa-meido-sama-dublado/10",
+      "anime_id": 1995,
+      "anime_name": "Kimi wa Meido-sama. (Dublado)"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/kimi-wa-meido-sama-dublado/11",
+      "anime_id": 1995,
+      "anime_name": "Kimi wa Meido-sama. (Dublado)"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/kimi-wa-meido-sama-dublado/12",
+      "anime_id": 1995,
+      "anime_name": "Kimi wa Meido-sama. (Dublado)"
+    }
+  ],
+  "total_episodes": 12
+}

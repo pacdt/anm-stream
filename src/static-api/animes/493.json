@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 493,
+    "nome": "Brain Powerd",
+    "link": "https://animefire.plus/animes/brain-powerd-todos-os-episodios",
+    "texto_original": "Brain Powerd",
+    "rating": 6.15,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/brain-powerd.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/brain-powerd/",
+    "secao": "legendados",
+    "pagina": 170,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/brain-powerd"
+  }
+}

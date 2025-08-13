@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 763,
+    "nome": "De:vadasy",
+    "link": "https://animefire.plus/animes/de-vadasy-todos-os-episodios",
+    "texto_original": "De:vadasy",
+    "rating": 4.8,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/de-vadasy.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/de-vadasy/",
+    "secao": "legendados",
+    "pagina": 69,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/de-vadasy"
+  }
+}

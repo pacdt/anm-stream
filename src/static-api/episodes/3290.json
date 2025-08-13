@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Seikai no Senki III",
+  "anime": {
+    "id": 3290,
+    "nome": "Seikai no Senki III",
+    "link": "https://animefire.plus/animes/seikai-no-senki-iii-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/seikai-no-senki-iii",
+    "rating": "7.71",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/seikai-no-senki-iii/1",
+      "anime_id": 3290,
+      "anime_name": "Seikai no Senki III"
+    }
+  ],
+  "total_episodes": 1
+}

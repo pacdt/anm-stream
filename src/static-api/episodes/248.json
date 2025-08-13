@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: Arte",
+  "anime": {
+    "id": 248,
+    "nome": "Arte",
+    "link": "https://animefire.plus/animes/arte-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/arte",
+    "rating": "7.17",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/arte/1",
+      "anime_id": 248,
+      "anime_name": "Arte"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/arte/2",
+      "anime_id": 248,
+      "anime_name": "Arte"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/arte/3",
+      "anime_id": 248,
+      "anime_name": "Arte"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/arte/4",
+      "anime_id": 248,
+      "anime_name": "Arte"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/arte/5",
+      "anime_id": 248,
+      "anime_name": "Arte"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/arte/6",
+      "anime_id": 248,
+      "anime_name": "Arte"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/arte/7",
+      "anime_id": 248,
+      "anime_name": "Arte"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/arte/8",
+      "anime_id": 248,
+      "anime_name": "Arte"
+    }
+  ],
+  "total_episodes": 8
+}

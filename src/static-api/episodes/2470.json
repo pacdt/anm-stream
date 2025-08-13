@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Meganebu!",
+  "anime": {
+    "id": 2470,
+    "nome": "Meganebu!",
+    "link": "https://animefire.plus/animes/meganebu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/meganebu",
+    "rating": "6.35",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/meganebu/1",
+      "anime_id": 2470,
+      "anime_name": "Meganebu!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/meganebu/2",
+      "anime_id": 2470,
+      "anime_name": "Meganebu!"
+    }
+  ],
+  "total_episodes": 2
+}

@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Oshiete! Galko-chan",
+  "anime": {
+    "id": 2906,
+    "nome": "Oshiete! Galko-chan",
+    "link": "https://animefire.plus/animes/oshiete-galko-chan-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/oshiete-galko-chan",
+    "rating": "7.18",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/oshiete-galko-chan/1",
+      "anime_id": 2906,
+      "anime_name": "Oshiete! Galko-chan"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/oshiete-galko-chan/2",
+      "anime_id": 2906,
+      "anime_name": "Oshiete! Galko-chan"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/oshiete-galko-chan/3",
+      "anime_id": 2906,
+      "anime_name": "Oshiete! Galko-chan"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/oshiete-galko-chan/4",
+      "anime_id": 2906,
+      "anime_name": "Oshiete! Galko-chan"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/oshiete-galko-chan/5",
+      "anime_id": 2906,
+      "anime_name": "Oshiete! Galko-chan"
+    }
+  ],
+  "total_episodes": 5
+}

@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Shinmai Maou No Testament",
+  "anime": {
+    "id": 3464,
+    "nome": "Shinmai Maou No Testament",
+    "link": "https://animefire.plus/animes/shinmai-maou-no-testament-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shinmai-maou-no-testament",
+    "rating": "7.00",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shinmai-maou-no-testament/1",
+      "anime_id": 3464,
+      "anime_name": "Shinmai Maou No Testament"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shinmai-maou-no-testament/2",
+      "anime_id": 3464,
+      "anime_name": "Shinmai Maou No Testament"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/shinmai-maou-no-testament/3",
+      "anime_id": 3464,
+      "anime_name": "Shinmai Maou No Testament"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/shinmai-maou-no-testament/4",
+      "anime_id": 3464,
+      "anime_name": "Shinmai Maou No Testament"
+    }
+  ],
+  "total_episodes": 4
+}

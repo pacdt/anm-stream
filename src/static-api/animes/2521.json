@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2521,
+    "nome": "Mirai no Mirai",
+    "link": "https://animefire.plus/animes/mirai-no-mirai-todos-os-episodios",
+    "texto_original": "Mirai no Mirai",
+    "rating": 7.45,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/mirai-no-mirai.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mirai-no-mirai/",
+    "secao": "legendados",
+    "pagina": 96,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/mirai-no-mirai"
+  }
+}

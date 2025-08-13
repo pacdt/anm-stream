@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1159,
+    "nome": "Gin no Guardian II",
+    "link": "https://animefire.plus/animes/gin-no-guardian-ii-todos-os-episodios",
+    "texto_original": "Gin no Guardian II",
+    "rating": 6.71,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/gin-no-guardian-ii.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gin-no-guardian-ii/",
+    "secao": "legendados",
+    "pagina": 76,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/gin-no-guardian-ii"
+  }
+}

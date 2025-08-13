@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4149,
+    "nome": "Wolverine",
+    "link": "https://animefire.plus/animes/wolverine-todos-os-episodios",
+    "texto_original": "Wolverine",
+    "rating": 6.18,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/wolverine.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/wolverine/",
+    "secao": "legendados",
+    "pagina": 131,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/wolverine"
+  }
+}

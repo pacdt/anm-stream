@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3027,
+    "nome": "Princess Lover!",
+    "link": "https://animefire.plus/animes/princess-lover-todos-os-episodios",
+    "texto_original": "Princess Lover!",
+    "rating": 6.92,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/princess-lover.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/princess-lover/",
+    "secao": "legendados",
+    "pagina": 151,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/princess-lover"
+  }
+}

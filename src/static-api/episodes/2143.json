@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Kure-nai OVA",
+  "anime": {
+    "id": 2143,
+    "nome": "Kure-nai OVA",
+    "link": "https://animefire.plus/animes/kure-nai-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kure-nai-ova",
+    "rating": "6.85",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kure-nai-ova/1",
+      "anime_id": 2143,
+      "anime_name": "Kure-nai OVA"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kure-nai-ova/2",
+      "anime_id": 2143,
+      "anime_name": "Kure-nai OVA"
+    }
+  ],
+  "total_episodes": 2
+}

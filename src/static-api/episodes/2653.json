@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Nana Toshi Monogatari: Hokkyokukai Sensen",
+  "anime": {
+    "id": 2653,
+    "nome": "Nana Toshi Monogatari: Hokkyokukai Sensen",
+    "link": "https://animefire.plus/animes/nana-toshi-monogatari-hokkyokukai-sensen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nana-toshi-monogatari-hokkyokukai-sensen",
+    "rating": "6.30",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nana-toshi-monogatari-hokkyokukai-sensen/1",
+      "anime_id": 2653,
+      "anime_name": "Nana Toshi Monogatari: Hokkyokukai Sensen"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/nana-toshi-monogatari-hokkyokukai-sensen/2",
+      "anime_id": 2653,
+      "anime_name": "Nana Toshi Monogatari: Hokkyokukai Sensen"
+    }
+  ],
+  "total_episodes": 2
+}

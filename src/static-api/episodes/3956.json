@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Tsukimonogatari",
+  "anime": {
+    "id": 3956,
+    "nome": "Tsukimonogatari",
+    "link": "https://animefire.plus/animes/tsukimonogatari-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tsukimonogatari",
+    "rating": "8.18",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tsukimonogatari/1",
+      "anime_id": 3956,
+      "anime_name": "Tsukimonogatari"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tsukimonogatari/2",
+      "anime_id": 3956,
+      "anime_name": "Tsukimonogatari"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tsukimonogatari/3",
+      "anime_id": 3956,
+      "anime_name": "Tsukimonogatari"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tsukimonogatari/4",
+      "anime_id": 3956,
+      "anime_name": "Tsukimonogatari"
+    }
+  ],
+  "total_episodes": 4
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Haiyore! Nyaruko-san F",
+  "anime": {
+    "id": 1319,
+    "nome": "Haiyore! Nyaruko-san F",
+    "link": "https://animefire.plus/animes/haiyore-nyaruko-san-f-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/haiyore-nyaruko-san-f",
+    "rating": "7.56",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/haiyore-nyaruko-san-f/1",
+      "anime_id": 1319,
+      "anime_name": "Haiyore! Nyaruko-san F"
+    }
+  ],
+  "total_episodes": 1
+}

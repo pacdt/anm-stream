@@ -1,0 +1,98 @@
+{
+  "message": "Resultados da busca por: \"bleach\"",
+  "query": "bleach",
+  "data": [
+    {
+      "id": 423,
+      "nome": "Bleach (Dublado)",
+      "link": "https://animefire.plus/animes/bleach-dublado-todos-os-episodios",
+      "texto_original": "Bleach (Dublado)",
+      "rating": 7.81,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/bleach.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/bleach/",
+      "secao": "dublados,legendados",
+      "pagina": 21,
+      "total_episodios": 366,
+      "link_video": "https://animefire.plus/video/bleach-dublado"
+    },
+    {
+      "id": 424,
+      "nome": "Bleach Colorful!: Gotei Juusan Yatai Daisakusen!",
+      "link": "https://animefire.plus/animes/bleach-colorful-gotei-juusan-yatai-daisakusen-todos-os-episodios",
+      "texto_original": "Bleach Colorful!: Gotei Juusan Yatai Daisakusen!",
+      "rating": 6.5,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/bleach-colorful-gotei-juusan-yatai-daisakusen.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/bleach-colorful-gotei-juusan-yatai-daisakusen/",
+      "secao": "legendados",
+      "pagina": 86,
+      "total_episodios": 1,
+      "link_video": "https://animefire.plus/video/bleach-colorful-gotei-juusan-yatai-daisakusen"
+    },
+    {
+      "id": 425,
+      "nome": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+      "link": "https://animefire.plus/animes/bleach-sennen-kessen-hen-ketsubetsu-tan-todos-os-episodios",
+      "texto_original": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
+      "rating": 8.7,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/bleach-sennen-kessen-hen-ketsubetsu-tan.jpg",
+      "imagem_pasta": "https://animefire.plus/img/animes/bleach-sennen-kessen-hen-ketsubetsu-tan/",
+      "secao": "legendados",
+      "pagina": 23,
+      "total_episodios": 7,
+      "link_video": "https://animefire.plus/video/bleach-sennen-kessen-hen-ketsubetsu-tan"
+    },
+    {
+      "id": 426,
+      "nome": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan (Dublado)",
+      "link": "https://animefire.plus/animes/bleach-sennen-kessen-hen---ketsubetsu-tan-dublado-todos-os-episodios",
+      "texto_original": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan (Dublado)",
+      "rating": 8.7,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/bleach-sennen-kessen-hen---ketsubetsu-tan.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/bleach-sennen-kessen-hen---ketsubetsu-tan/",
+      "secao": "dublados",
+      "pagina": 6,
+      "total_episodios": 13,
+      "link_video": "https://animefire.plus/video/bleach-sennen-kessen-hen---ketsubetsu-tan-dublado"
+    },
+    {
+      "id": 427,
+      "nome": "Bleach: Sennen Kessen-hen - Soukoku-tan (Dublado)",
+      "link": "https://animefire.plus/animes/bleach-sennen-kessen-hen---soukoku-tan-dublado-todos-os-episodios",
+      "texto_original": "Bleach: Sennen Kessen-hen - Soukoku-tan (Dublado)",
+      "rating": 8.67,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/bleach-sennen-kessen-hen---soukoku-tan.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/bleach-sennen-kessen-hen---soukoku-tan/",
+      "secao": "dublados,legendados",
+      "pagina": 2,
+      "total_episodios": 14,
+      "link_video": "https://animefire.plus/video/bleach-sennen-kessen-hen---soukoku-tan-dublado"
+    },
+    {
+      "id": 428,
+      "nome": "Bleach: Sennen Kessen-hen (Dublado)",
+      "link": "https://animefire.plus/animes/bleach-sennen-kessen-hen-dublado-todos-os-episodios",
+      "texto_original": "Bleach: Sennen Kessen-hen (Dublado)",
+      "rating": 8.99,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/bleach-sennen-kessen-hen.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/bleach-sennen-kessen-hen/",
+      "secao": "dublados,legendados",
+      "pagina": 9,
+      "total_episodios": 13,
+      "link_video": "https://animefire.plus/video/bleach-sennen-kessen-hen-dublado"
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "per_page": 20,
+    "total_items": 6,
+    "total_pages": 1,
+    "has_next": false,
+    "has_prev": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 232,
+    "nome": "Aria The Natural",
+    "link": "https://animefire.plus/animes/aria-the-natural-todos-os-episodios",
+    "texto_original": "Aria The Natural",
+    "rating": 8.2,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/aria-the-natural.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/aria-the-natural/",
+    "secao": "legendados",
+    "pagina": 128,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/aria-the-natural"
+  }
+}

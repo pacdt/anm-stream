@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1782,
+    "nome": "Kage kara Mamoru!",
+    "link": "https://animefire.plus/animes/kage-kara-mamoru-todos-os-episodios",
+    "texto_original": "Kage kara Mamoru!",
+    "rating": 6.67,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kage-kara-mamoru.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kage-kara-mamoru/",
+    "secao": "legendados",
+    "pagina": 133,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/kage-kara-mamoru"
+  }
+}

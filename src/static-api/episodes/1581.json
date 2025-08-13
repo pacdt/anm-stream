@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Ichigo Mashimaro Encore",
+  "anime": {
+    "id": 1581,
+    "nome": "Ichigo Mashimaro Encore",
+    "link": "https://animefire.plus/animes/ichigo-mashimaro-encore-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ichigo-mashimaro-encore",
+    "rating": "7.72",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ichigo-mashimaro-encore/1",
+      "anime_id": 1581,
+      "anime_name": "Ichigo Mashimaro Encore"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ichigo-mashimaro-encore/2",
+      "anime_id": 1581,
+      "anime_name": "Ichigo Mashimaro Encore"
+    }
+  ],
+  "total_episodes": 2
+}

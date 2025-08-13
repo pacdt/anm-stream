@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1947,
+    "nome": "Kenka Dokugaku",
+    "link": "https://animefire.plus/animes/kenka-dokugaku-todos-os-episodios",
+    "texto_original": "Kenka Dokugaku",
+    "rating": 7.33,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kenka-dokugaku.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kenka-dokugaku/",
+    "secao": "legendados",
+    "pagina": 14,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/kenka-dokugaku"
+  }
+}

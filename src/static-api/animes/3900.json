@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3900,
+    "nome": "Tomodachi Game",
+    "link": "https://animefire.plus/animes/tomodachi-game-todos-os-episodios",
+    "texto_original": "Tomodachi Game",
+    "rating": 7.71,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/tomodachi-game.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tomodachi-game/",
+    "secao": "legendados",
+    "pagina": 34,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/tomodachi-game"
+  }
+}

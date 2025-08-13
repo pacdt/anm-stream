@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Black Lagoon",
+  "anime": {
+    "id": 412,
+    "nome": "Black Lagoon",
+    "link": "https://animefire.plus/animes/black-lagoon-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/black-lagoon",
+    "rating": "8.11",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/black-lagoon/1",
+      "anime_id": 412,
+      "anime_name": "Black Lagoon"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/black-lagoon/2",
+      "anime_id": 412,
+      "anime_name": "Black Lagoon"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/black-lagoon/3",
+      "anime_id": 412,
+      "anime_name": "Black Lagoon"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/black-lagoon/4",
+      "anime_id": 412,
+      "anime_name": "Black Lagoon"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/black-lagoon/5",
+      "anime_id": 412,
+      "anime_name": "Black Lagoon"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/black-lagoon/6",
+      "anime_id": 412,
+      "anime_name": "Black Lagoon"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/black-lagoon/7",
+      "anime_id": 412,
+      "anime_name": "Black Lagoon"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/black-lagoon/8",
+      "anime_id": 412,
+      "anime_name": "Black Lagoon"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/black-lagoon/9",
+      "anime_id": 412,
+      "anime_name": "Black Lagoon"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/black-lagoon/10",
+      "anime_id": 412,
+      "anime_name": "Black Lagoon"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/black-lagoon/11",
+      "anime_id": 412,
+      "anime_name": "Black Lagoon"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/black-lagoon/12",
+      "anime_id": 412,
+      "anime_name": "Black Lagoon"
+    }
+  ],
+  "total_episodes": 12
+}

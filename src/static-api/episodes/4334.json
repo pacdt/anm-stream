@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Zanting! Rang Wo Cha Gonglue",
+  "anime": {
+    "id": 4334,
+    "nome": "Zanting! Rang Wo Cha Gonglue",
+    "link": "https://animefire.plus/animes/zanting-rang-wo-cha-gonglue-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/zanting-rang-wo-cha-gonglue",
+    "rating": "6.41",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/zanting-rang-wo-cha-gonglue/1",
+      "anime_id": 4334,
+      "anime_name": "Zanting! Rang Wo Cha Gonglue"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/zanting-rang-wo-cha-gonglue/2",
+      "anime_id": 4334,
+      "anime_name": "Zanting! Rang Wo Cha Gonglue"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/zanting-rang-wo-cha-gonglue/3",
+      "anime_id": 4334,
+      "anime_name": "Zanting! Rang Wo Cha Gonglue"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/zanting-rang-wo-cha-gonglue/4",
+      "anime_id": 4334,
+      "anime_name": "Zanting! Rang Wo Cha Gonglue"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/zanting-rang-wo-cha-gonglue/5",
+      "anime_id": 4334,
+      "anime_name": "Zanting! Rang Wo Cha Gonglue"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/zanting-rang-wo-cha-gonglue/6",
+      "anime_id": 4334,
+      "anime_name": "Zanting! Rang Wo Cha Gonglue"
+    }
+  ],
+  "total_episodes": 6
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4299,
+    "nome": "Yuri!!! on Ice",
+    "link": "https://animefire.plus/animes/yuri-on-ice-todos-os-episodios",
+    "texto_original": "Yuri!!! on Ice",
+    "rating": 8.11,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/yuri-on-ice.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/yuri-on-ice/",
+    "secao": "legendados",
+    "pagina": 116,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/yuri-on-ice"
+  }
+}

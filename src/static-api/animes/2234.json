@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2234,
+    "nome": "Log Horizon",
+    "link": "https://animefire.plus/animes/log-horizon-todos-os-episodios",
+    "texto_original": "Log Horizon",
+    "rating": 8.06,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/log-horizon.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/log-horizon/",
+    "secao": "legendados",
+    "pagina": 121,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/log-horizon"
+  }
+}

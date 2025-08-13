@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Fatal Fury 2: The New Battle (Dublado)",
+  "anime": {
+    "id": 981,
+    "nome": "Fatal Fury 2: The New Battle (Dublado)",
+    "link": "https://animefire.plus/animes/fatal-fury-2-the-new-battle-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/fatal-fury-2-the-new-battle-dublado",
+    "rating": "6.76",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/fatal-fury-2-the-new-battle-dublado/1",
+      "anime_id": 981,
+      "anime_name": "Fatal Fury 2: The New Battle (Dublado)"
+    }
+  ],
+  "total_episodes": 1
+}

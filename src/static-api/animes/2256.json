@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2256,
+    "nome": "Love Live! Superstar!!",
+    "link": "https://animefire.plus/animes/love-live-superstar-todos-os-episodios",
+    "texto_original": "Love Live! Superstar!!",
+    "rating": 7.92,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/love-live-superstar.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/love-live-superstar/",
+    "secao": "legendados",
+    "pagina": 40,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/love-live-superstar"
+  }
+}

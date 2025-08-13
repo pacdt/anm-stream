@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1866,
+    "nome": "Kanamemo",
+    "link": "https://animefire.plus/animes/kanamemo-todos-os-episodios",
+    "texto_original": "Kanamemo",
+    "rating": 6.94,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kanamemo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kanamemo/",
+    "secao": "legendados",
+    "pagina": 104,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/kanamemo"
+  }
+}

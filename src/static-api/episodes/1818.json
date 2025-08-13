@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Kakegurui Twin (Dublado)",
+  "anime": {
+    "id": 1818,
+    "nome": "Kakegurui Twin (Dublado)",
+    "link": "https://animefire.plus/animes/kakegurui-twin-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kakegurui-twin-dublado",
+    "rating": "7.18",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kakegurui-twin-dublado/1",
+      "anime_id": 1818,
+      "anime_name": "Kakegurui Twin (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kakegurui-twin-dublado/2",
+      "anime_id": 1818,
+      "anime_name": "Kakegurui Twin (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kakegurui-twin-dublado/3",
+      "anime_id": 1818,
+      "anime_name": "Kakegurui Twin (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kakegurui-twin-dublado/4",
+      "anime_id": 1818,
+      "anime_name": "Kakegurui Twin (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kakegurui-twin-dublado/5",
+      "anime_id": 1818,
+      "anime_name": "Kakegurui Twin (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kakegurui-twin-dublado/6",
+      "anime_id": 1818,
+      "anime_name": "Kakegurui Twin (Dublado)"
+    }
+  ],
+  "total_episodes": 6
+}

@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Aoi Umi no Tristia",
+  "anime": {
+    "id": 211,
+    "nome": "Aoi Umi no Tristia",
+    "link": "https://animefire.plus/animes/aoi-umi-no-tristia-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/aoi-umi-no-tristia",
+    "rating": "5.71",
+    "classificacao_etaria": "A10"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/aoi-umi-no-tristia/1",
+      "anime_id": 211,
+      "anime_name": "Aoi Umi no Tristia"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/aoi-umi-no-tristia/2",
+      "anime_id": 211,
+      "anime_name": "Aoi Umi no Tristia"
+    }
+  ],
+  "total_episodes": 2
+}

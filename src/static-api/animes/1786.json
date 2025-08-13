@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1786,
+    "nome": "Kagewani",
+    "link": "https://animefire.plus/animes/kagewani-todos-os-episodios",
+    "texto_original": "Kagewani",
+    "rating": 6.47,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/kagewani.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kagewani/",
+    "secao": "legendados",
+    "pagina": 104,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/kagewani"
+  }
+}

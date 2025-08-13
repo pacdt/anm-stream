@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: XxxHOLiC Rou",
+  "anime": {
+    "id": 4179,
+    "nome": "XxxHOLiC Rou",
+    "link": "https://animefire.plus/animes/xxxholic-rou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/xxxholic-rou",
+    "rating": "8.23",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/xxxholic-rou/1",
+      "anime_id": 4179,
+      "anime_name": "XxxHOLiC Rou"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/xxxholic-rou/2",
+      "anime_id": 4179,
+      "anime_name": "XxxHOLiC Rou"
+    }
+  ],
+  "total_episodes": 2
+}

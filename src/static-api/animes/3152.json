@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3152,
+    "nome": "Romantica Clock",
+    "link": "https://animefire.plus/animes/romantica-clock-todos-os-episodios",
+    "texto_original": "Romantica Clock",
+    "rating": 5.72,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/romantica-clock.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/romantica-clock/",
+    "secao": "legendados",
+    "pagina": 43,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/romantica-clock"
+  }
+}

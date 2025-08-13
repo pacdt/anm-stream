@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Nanatsu no Taizai: Ensa no Edinburgh (Dublado)",
+  "anime": {
+    "id": 2662,
+    "nome": "Nanatsu no Taizai: Ensa no Edinburgh (Dublado)",
+    "link": "https://animefire.plus/animes/nanatsu-no-taizai-ensa-no-edinburgh-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nanatsu-no-taizai-ensa-no-edinburgh-dublado",
+    "rating": "6.21",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nanatsu-no-taizai-ensa-no-edinburgh-dublado/1",
+      "anime_id": 2662,
+      "anime_name": "Nanatsu no Taizai: Ensa no Edinburgh (Dublado)"
+    }
+  ],
+  "total_episodes": 1
+}

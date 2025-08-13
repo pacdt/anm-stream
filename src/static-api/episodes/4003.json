@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: Udon no Kuni no Kiniro Kemari",
+  "anime": {
+    "id": 4003,
+    "nome": "Udon no Kuni no Kiniro Kemari",
+    "link": "https://animefire.plus/animes/udon-no-kuni-no-kiniro-kemari-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/udon-no-kuni-no-kiniro-kemari",
+    "rating": "7.81",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/udon-no-kuni-no-kiniro-kemari/1",
+      "anime_id": 4003,
+      "anime_name": "Udon no Kuni no Kiniro Kemari"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/udon-no-kuni-no-kiniro-kemari/2",
+      "anime_id": 4003,
+      "anime_name": "Udon no Kuni no Kiniro Kemari"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/udon-no-kuni-no-kiniro-kemari/3",
+      "anime_id": 4003,
+      "anime_name": "Udon no Kuni no Kiniro Kemari"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/udon-no-kuni-no-kiniro-kemari/4",
+      "anime_id": 4003,
+      "anime_name": "Udon no Kuni no Kiniro Kemari"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/udon-no-kuni-no-kiniro-kemari/5",
+      "anime_id": 4003,
+      "anime_name": "Udon no Kuni no Kiniro Kemari"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/udon-no-kuni-no-kiniro-kemari/6",
+      "anime_id": 4003,
+      "anime_name": "Udon no Kuni no Kiniro Kemari"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/udon-no-kuni-no-kiniro-kemari/7",
+      "anime_id": 4003,
+      "anime_name": "Udon no Kuni no Kiniro Kemari"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/udon-no-kuni-no-kiniro-kemari/8",
+      "anime_id": 4003,
+      "anime_name": "Udon no Kuni no Kiniro Kemari"
+    }
+  ],
+  "total_episodes": 8
+}

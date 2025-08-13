@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Yu☆Gi☆Oh! VRAINS (Dublado)",
+  "anime": {
+    "id": 4279,
+    "nome": "Yu☆Gi☆Oh! VRAINS (Dublado)",
+    "link": "https://animefire.plus/animes/yu-gi-oh-vrains-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yu-gi-oh-vrains-dublado",
+    "rating": "6.64",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yu-gi-oh-vrains-dublado/1",
+      "anime_id": 4279,
+      "anime_name": "Yu☆Gi☆Oh! VRAINS (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yu-gi-oh-vrains-dublado/2",
+      "anime_id": 4279,
+      "anime_name": "Yu☆Gi☆Oh! VRAINS (Dublado)"
+    }
+  ],
+  "total_episodes": 2
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1908,
+    "nome": "Katekyo Hitman Reborn!",
+    "link": "https://animefire.plus/animes/katekyo-hitman-reborn-todos-os-episodios",
+    "texto_original": "Katekyo Hitman Reborn!",
+    "rating": 8.27,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/katekyo-hitman-reborn.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/katekyo-hitman-reborn/",
+    "secao": "legendados",
+    "pagina": 152,
+    "total_episodios": 104,
+    "link_video": "https://animefire.plus/video/katekyo-hitman-reborn"
+  }
+}

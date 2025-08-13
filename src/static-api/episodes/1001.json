@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Fate/strange Fake: Whispers of Dawn",
+  "anime": {
+    "id": 1001,
+    "nome": "Fate/strange Fake: Whispers of Dawn",
+    "link": "https://animefire.plus/animes/fate-strange-fake-whispers-of-dawn-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/fate-strange-fake-whispers-of-dawn",
+    "rating": "8.18",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/fate-strange-fake-whispers-of-dawn/1",
+      "anime_id": 1001,
+      "anime_name": "Fate/strange Fake: Whispers of Dawn"
+    }
+  ],
+  "total_episodes": 1
+}

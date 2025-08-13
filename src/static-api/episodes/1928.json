@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Kekkai Sensen (Dublado)",
+  "anime": {
+    "id": 1928,
+    "nome": "Kekkai Sensen (Dublado)",
+    "link": "https://animefire.plus/animes/kekkai-sensen-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kekkai-sensen-dublado",
+    "rating": "7.66",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kekkai-sensen-dublado/1",
+      "anime_id": 1928,
+      "anime_name": "Kekkai Sensen (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kekkai-sensen-dublado/2",
+      "anime_id": 1928,
+      "anime_name": "Kekkai Sensen (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kekkai-sensen-dublado/3",
+      "anime_id": 1928,
+      "anime_name": "Kekkai Sensen (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kekkai-sensen-dublado/4",
+      "anime_id": 1928,
+      "anime_name": "Kekkai Sensen (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/kekkai-sensen-dublado/5",
+      "anime_id": 1928,
+      "anime_name": "Kekkai Sensen (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/kekkai-sensen-dublado/6",
+      "anime_id": 1928,
+      "anime_name": "Kekkai Sensen (Dublado)"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/kekkai-sensen-dublado/7",
+      "anime_id": 1928,
+      "anime_name": "Kekkai Sensen (Dublado)"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/kekkai-sensen-dublado/8",
+      "anime_id": 1928,
+      "anime_name": "Kekkai Sensen (Dublado)"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/kekkai-sensen-dublado/9",
+      "anime_id": 1928,
+      "anime_name": "Kekkai Sensen (Dublado)"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/kekkai-sensen-dublado/10",
+      "anime_id": 1928,
+      "anime_name": "Kekkai Sensen (Dublado)"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/kekkai-sensen-dublado/11",
+      "anime_id": 1928,
+      "anime_name": "Kekkai Sensen (Dublado)"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/kekkai-sensen-dublado/12",
+      "anime_id": 1928,
+      "anime_name": "Kekkai Sensen (Dublado)"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/kekkai-sensen-dublado/13",
+      "anime_id": 1928,
+      "anime_name": "Kekkai Sensen (Dublado)"
+    }
+  ],
+  "total_episodes": 13
+}

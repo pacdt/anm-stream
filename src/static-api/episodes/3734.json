@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Tamayura",
+  "anime": {
+    "id": 3734,
+    "nome": "Tamayura",
+    "link": "https://animefire.plus/animes/tamayura-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tamayura",
+    "rating": "7.16",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tamayura/1",
+      "anime_id": 3734,
+      "anime_name": "Tamayura"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tamayura/2",
+      "anime_id": 3734,
+      "anime_name": "Tamayura"
+    }
+  ],
+  "total_episodes": 2
+}

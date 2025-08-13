@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Burn Up Excess",
+  "anime": {
+    "id": 528,
+    "nome": "Burn Up Excess",
+    "link": "https://animefire.plus/animes/burn-up-excess-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/burn-up-excess",
+    "rating": "6.64",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/burn-up-excess/1",
+      "anime_id": 528,
+      "anime_name": "Burn Up Excess"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/burn-up-excess/2",
+      "anime_id": 528,
+      "anime_name": "Burn Up Excess"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/burn-up-excess/3",
+      "anime_id": 528,
+      "anime_name": "Burn Up Excess"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/burn-up-excess/4",
+      "anime_id": 528,
+      "anime_name": "Burn Up Excess"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/burn-up-excess/5",
+      "anime_id": 528,
+      "anime_name": "Burn Up Excess"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/burn-up-excess/6",
+      "anime_id": 528,
+      "anime_name": "Burn Up Excess"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/burn-up-excess/7",
+      "anime_id": 528,
+      "anime_name": "Burn Up Excess"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/burn-up-excess/8",
+      "anime_id": 528,
+      "anime_name": "Burn Up Excess"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/burn-up-excess/9",
+      "anime_id": 528,
+      "anime_name": "Burn Up Excess"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/burn-up-excess/10",
+      "anime_id": 528,
+      "anime_name": "Burn Up Excess"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/burn-up-excess/11",
+      "anime_id": 528,
+      "anime_name": "Burn Up Excess"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/burn-up-excess/12",
+      "anime_id": 528,
+      "anime_name": "Burn Up Excess"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/burn-up-excess/13",
+      "anime_id": 528,
+      "anime_name": "Burn Up Excess"
+    }
+  ],
+  "total_episodes": 13
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 682,
+    "nome": "Comet Lucifer",
+    "link": "https://animefire.plus/animes/comet-lucifer-todos-os-episodios",
+    "texto_original": "Comet Lucifer",
+    "rating": 5.93,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/comet-lucifer.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/comet-lucifer/",
+    "secao": "legendados",
+    "pagina": 111,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/comet-lucifer"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 659,
+    "nome": "CLAMP Gakuen Tanteidan",
+    "link": "https://animefire.plus/animes/clamp-gakuen-tanteidan-todos-os-episodios",
+    "texto_original": "CLAMP Gakuen Tanteidan",
+    "rating": 6.98,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/clamp-gakuen-tanteidan.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/clamp-gakuen-tanteidan/",
+    "secao": "legendados",
+    "pagina": 96,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/clamp-gakuen-tanteidan"
+  }
+}

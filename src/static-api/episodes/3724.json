@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Tales of Gekijou",
+  "anime": {
+    "id": 3724,
+    "nome": "Tales of Gekijou",
+    "link": "https://animefire.plus/animes/tales-of-gekijou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tales-of-gekijou",
+    "rating": "6.65",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tales-of-gekijou/1",
+      "anime_id": 3724,
+      "anime_name": "Tales of Gekijou"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tales-of-gekijou/2",
+      "anime_id": 3724,
+      "anime_name": "Tales of Gekijou"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tales-of-gekijou/3",
+      "anime_id": 3724,
+      "anime_name": "Tales of Gekijou"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tales-of-gekijou/4",
+      "anime_id": 3724,
+      "anime_name": "Tales of Gekijou"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/tales-of-gekijou/5",
+      "anime_id": 3724,
+      "anime_name": "Tales of Gekijou"
+    }
+  ],
+  "total_episodes": 5
+}

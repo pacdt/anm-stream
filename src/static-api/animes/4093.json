@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4093,
+    "nome": "Wagamama High Spec",
+    "link": "https://animefire.plus/animes/wagamama-high-spec-todos-os-episodios",
+    "texto_original": "Wagamama High Spec",
+    "rating": 5.45,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/wagamama-high-spec.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/wagamama-high-spec/",
+    "secao": "legendados",
+    "pagina": 115,
+    "total_episodios": 9,
+    "link_video": "https://animefire.plus/video/wagamama-high-spec"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 761,
+    "nome": "Date A Live V",
+    "link": "https://animefire.plus/animes/date-a-live-v-todos-os-episodios",
+    "texto_original": "Date A Live V",
+    "rating": 7.69,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/date-a-live-v.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/date-a-live-v/",
+    "secao": "legendados",
+    "pagina": 15,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/date-a-live-v"
+  }
+}

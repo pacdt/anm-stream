@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3824,
+    "nome": "The Animatrix (Dublado)",
+    "link": "https://animefire.plus/animes/the-animatrix-dublado-todos-os-episodios",
+    "texto_original": "The Animatrix (Dublado)",
+    "rating": 7.32,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/the-animatrix.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/the-animatrix/",
+    "secao": "dublados,legendados",
+    "pagina": 27,
+    "total_episodios": 9,
+    "link_video": "https://animefire.plus/video/the-animatrix-dublado"
+  }
+}

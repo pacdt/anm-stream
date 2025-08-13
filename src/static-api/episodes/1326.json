@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Hakata Mentai! Pirikarako-chan",
+  "anime": {
+    "id": 1326,
+    "nome": "Hakata Mentai! Pirikarako-chan",
+    "link": "https://animefire.plus/animes/hakata-mentai-pirikarako-chan-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hakata-mentai-pirikarako-chan",
+    "rating": "5.05",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hakata-mentai-pirikarako-chan/1",
+      "anime_id": 1326,
+      "anime_name": "Hakata Mentai! Pirikarako-chan"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hakata-mentai-pirikarako-chan/2",
+      "anime_id": 1326,
+      "anime_name": "Hakata Mentai! Pirikarako-chan"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hakata-mentai-pirikarako-chan/3",
+      "anime_id": 1326,
+      "anime_name": "Hakata Mentai! Pirikarako-chan"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hakata-mentai-pirikarako-chan/4",
+      "anime_id": 1326,
+      "anime_name": "Hakata Mentai! Pirikarako-chan"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hakata-mentai-pirikarako-chan/5",
+      "anime_id": 1326,
+      "anime_name": "Hakata Mentai! Pirikarako-chan"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hakata-mentai-pirikarako-chan/6",
+      "anime_id": 1326,
+      "anime_name": "Hakata Mentai! Pirikarako-chan"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/hakata-mentai-pirikarako-chan/7",
+      "anime_id": 1326,
+      "anime_name": "Hakata Mentai! Pirikarako-chan"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/hakata-mentai-pirikarako-chan/8",
+      "anime_id": 1326,
+      "anime_name": "Hakata Mentai! Pirikarako-chan"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/hakata-mentai-pirikarako-chan/9",
+      "anime_id": 1326,
+      "anime_name": "Hakata Mentai! Pirikarako-chan"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/hakata-mentai-pirikarako-chan/10",
+      "anime_id": 1326,
+      "anime_name": "Hakata Mentai! Pirikarako-chan"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/hakata-mentai-pirikarako-chan/11",
+      "anime_id": 1326,
+      "anime_name": "Hakata Mentai! Pirikarako-chan"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/hakata-mentai-pirikarako-chan/12",
+      "anime_id": 1326,
+      "anime_name": "Hakata Mentai! Pirikarako-chan"
+    }
+  ],
+  "total_episodes": 12
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2142,
+    "nome": "Kure-nai",
+    "link": "https://animefire.plus/animes/kure-nai-todos-os-episodios",
+    "texto_original": "Kure-nai",
+    "rating": 7.43,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kure-nai.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kure-nai/",
+    "secao": "legendados",
+    "pagina": 167,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/kure-nai"
+  }
+}

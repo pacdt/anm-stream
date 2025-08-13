@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4250,
+    "nome": "Yoru no Yatterman",
+    "link": "https://animefire.plus/animes/yoru-no-yatterman-todos-os-episodios",
+    "texto_original": "Yoru no Yatterman",
+    "rating": 6.54,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/yoru-no-yatterman.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/yoru-no-yatterman/",
+    "secao": "legendados",
+    "pagina": 95,
+    "total_episodios": 8,
+    "link_video": "https://animefire.plus/video/yoru-no-yatterman"
+  }
+}

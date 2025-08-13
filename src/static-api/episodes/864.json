@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Doupo Cangqiong 2nd Season Specials",
+  "anime": {
+    "id": 864,
+    "nome": "Doupo Cangqiong 2nd Season Specials",
+    "link": "https://animefire.plus/animes/doupo-cangqiong-2nd-season-specials-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/doupo-cangqiong-2nd-season-specials",
+    "rating": "7.30",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/doupo-cangqiong-2nd-season-specials/1",
+      "anime_id": 864,
+      "anime_name": "Doupo Cangqiong 2nd Season Specials"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/doupo-cangqiong-2nd-season-specials/2",
+      "anime_id": 864,
+      "anime_name": "Doupo Cangqiong 2nd Season Specials"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/doupo-cangqiong-2nd-season-specials/3",
+      "anime_id": 864,
+      "anime_name": "Doupo Cangqiong 2nd Season Specials"
+    }
+  ],
+  "total_episodes": 3
+}

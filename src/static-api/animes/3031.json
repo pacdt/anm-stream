@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3031,
+    "nome": "Princess Tutu",
+    "link": "https://animefire.plus/animes/princess-tutu-todos-os-episodios",
+    "texto_original": "Princess Tutu",
+    "rating": 8.17,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/princess-tutu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/princess-tutu/",
+    "secao": "legendados",
+    "pagina": 61,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/princess-tutu"
+  }
+}

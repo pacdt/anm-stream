@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Futari Ecchi (2014)",
+  "anime": {
+    "id": 1058,
+    "nome": "Futari Ecchi (2014)",
+    "link": "https://animefire.plus/animes/futari-ecchi-2014-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/futari-ecchi-2014",
+    "rating": "6.23",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/futari-ecchi-2014/1",
+      "anime_id": 1058,
+      "anime_name": "Futari Ecchi (2014)"
+    }
+  ],
+  "total_episodes": 1
+}

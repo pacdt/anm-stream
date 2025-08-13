@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 105,
+    "nome": "Ajin (Dublado)",
+    "link": "https://animefire.plus/animes/ajin-dublado-todos-os-episodios",
+    "texto_original": "Ajin (Dublado)",
+    "rating": 7.6,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/ajin.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ajin/",
+    "secao": "dublados,legendados",
+    "pagina": 26,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/ajin-dublado"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Dumbbell Nan Kilo Moteru?",
+  "anime": {
+    "id": 897,
+    "nome": "Dumbbell Nan Kilo Moteru?",
+    "link": "https://animefire.plus/animes/dumbbell-nan-kilo-moteru-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/dumbbell-nan-kilo-moteru",
+    "rating": "7.36",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/dumbbell-nan-kilo-moteru/1",
+      "anime_id": 897,
+      "anime_name": "Dumbbell Nan Kilo Moteru?"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/dumbbell-nan-kilo-moteru/2",
+      "anime_id": 897,
+      "anime_name": "Dumbbell Nan Kilo Moteru?"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/dumbbell-nan-kilo-moteru/3",
+      "anime_id": 897,
+      "anime_name": "Dumbbell Nan Kilo Moteru?"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/dumbbell-nan-kilo-moteru/4",
+      "anime_id": 897,
+      "anime_name": "Dumbbell Nan Kilo Moteru?"
+    }
+  ],
+  "total_episodes": 4
+}

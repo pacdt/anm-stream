@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Makeruna!! Aku no Gundan!",
+  "anime": {
+    "id": 2399,
+    "nome": "Makeruna!! Aku no Gundan!",
+    "link": "https://animefire.plus/animes/makeruna-aku-no-gundan-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/makeruna-aku-no-gundan",
+    "rating": "5.27",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/makeruna-aku-no-gundan/1",
+      "anime_id": 2399,
+      "anime_name": "Makeruna!! Aku no Gundan!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/makeruna-aku-no-gundan/2",
+      "anime_id": 2399,
+      "anime_name": "Makeruna!! Aku no Gundan!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/makeruna-aku-no-gundan/3",
+      "anime_id": 2399,
+      "anime_name": "Makeruna!! Aku no Gundan!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/makeruna-aku-no-gundan/4",
+      "anime_id": 2399,
+      "anime_name": "Makeruna!! Aku no Gundan!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/makeruna-aku-no-gundan/5",
+      "anime_id": 2399,
+      "anime_name": "Makeruna!! Aku no Gundan!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/makeruna-aku-no-gundan/6",
+      "anime_id": 2399,
+      "anime_name": "Makeruna!! Aku no Gundan!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/makeruna-aku-no-gundan/7",
+      "anime_id": 2399,
+      "anime_name": "Makeruna!! Aku no Gundan!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/makeruna-aku-no-gundan/8",
+      "anime_id": 2399,
+      "anime_name": "Makeruna!! Aku no Gundan!"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/makeruna-aku-no-gundan/9",
+      "anime_id": 2399,
+      "anime_name": "Makeruna!! Aku no Gundan!"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/makeruna-aku-no-gundan/10",
+      "anime_id": 2399,
+      "anime_name": "Makeruna!! Aku no Gundan!"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/makeruna-aku-no-gundan/11",
+      "anime_id": 2399,
+      "anime_name": "Makeruna!! Aku no Gundan!"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/makeruna-aku-no-gundan/12",
+      "anime_id": 2399,
+      "anime_name": "Makeruna!! Aku no Gundan!"
+    }
+  ],
+  "total_episodes": 12
+}

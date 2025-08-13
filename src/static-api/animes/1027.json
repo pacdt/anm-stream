@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1027,
+    "nome": "Freezing",
+    "link": "https://animefire.plus/animes/freezing-todos-os-episodios",
+    "texto_original": "Freezing",
+    "rating": 7.06,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/freezing.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/freezing/",
+    "secao": "legendados",
+    "pagina": 134,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/freezing"
+  }
+}

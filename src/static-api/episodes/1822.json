@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Kakkou no Iinazuke Season 2",
+  "anime": {
+    "id": 1822,
+    "nome": "Kakkou no Iinazuke Season 2",
+    "link": "https://animefire.plus/animes/kakkou-no-iinazuke-season-2-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kakkou-no-iinazuke-season-2",
+    "rating": "7.02",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kakkou-no-iinazuke-season-2/1",
+      "anime_id": 1822,
+      "anime_name": "Kakkou no Iinazuke Season 2"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kakkou-no-iinazuke-season-2/2",
+      "anime_id": 1822,
+      "anime_name": "Kakkou no Iinazuke Season 2"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kakkou-no-iinazuke-season-2/3",
+      "anime_id": 1822,
+      "anime_name": "Kakkou no Iinazuke Season 2"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kakkou-no-iinazuke-season-2/4",
+      "anime_id": 1822,
+      "anime_name": "Kakkou no Iinazuke Season 2"
+    }
+  ],
+  "total_episodes": 4
+}

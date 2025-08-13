@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 836,
+    "nome": "Do It Yourself!!",
+    "link": "https://animefire.plus/animes/do-it-yourself-todos-os-episodios",
+    "texto_original": "Do It Yourself!!",
+    "rating": 7.45,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/do-it-yourself.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/do-it-yourself/",
+    "secao": "legendados",
+    "pagina": 29,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/do-it-yourself"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 233,
+    "nome": "Aria The Origination",
+    "link": "https://animefire.plus/animes/aria-the-origination-todos-os-episodios",
+    "texto_original": "Aria The Origination",
+    "rating": 8.53,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/aria-the-origination.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/aria-the-origination/",
+    "secao": "legendados",
+    "pagina": 138,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/aria-the-origination"
+  }
+}

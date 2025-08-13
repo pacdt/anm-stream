@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Viper's Creed",
+  "anime": {
+    "id": 4083,
+    "nome": "Viper's Creed",
+    "link": "https://animefire.plus/animes/viper-s-creed-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/viper-s-creed",
+    "rating": "6.80",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/viper-s-creed/1",
+      "anime_id": 4083,
+      "anime_name": "Viper's Creed"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/viper-s-creed/2",
+      "anime_id": 4083,
+      "anime_name": "Viper's Creed"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/viper-s-creed/3",
+      "anime_id": 4083,
+      "anime_name": "Viper's Creed"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/viper-s-creed/4",
+      "anime_id": 4083,
+      "anime_name": "Viper's Creed"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/viper-s-creed/5",
+      "anime_id": 4083,
+      "anime_name": "Viper's Creed"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/viper-s-creed/6",
+      "anime_id": 4083,
+      "anime_name": "Viper's Creed"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/viper-s-creed/7",
+      "anime_id": 4083,
+      "anime_name": "Viper's Creed"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/viper-s-creed/8",
+      "anime_id": 4083,
+      "anime_name": "Viper's Creed"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/viper-s-creed/9",
+      "anime_id": 4083,
+      "anime_name": "Viper's Creed"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/viper-s-creed/10",
+      "anime_id": 4083,
+      "anime_name": "Viper's Creed"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/viper-s-creed/11",
+      "anime_id": 4083,
+      "anime_name": "Viper's Creed"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/viper-s-creed/12",
+      "anime_id": 4083,
+      "anime_name": "Viper's Creed"
+    }
+  ],
+  "total_episodes": 12
+}

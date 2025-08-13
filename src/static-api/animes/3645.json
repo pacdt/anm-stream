@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3645,
+    "nome": "Strike the Blood",
+    "link": "https://animefire.plus/animes/strike-the-blood-todos-os-episodios",
+    "texto_original": "Strike the Blood",
+    "rating": 7.3,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/strike-the-blood.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/strike-the-blood/",
+    "secao": "legendados",
+    "pagina": 126,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/strike-the-blood"
+  }
+}

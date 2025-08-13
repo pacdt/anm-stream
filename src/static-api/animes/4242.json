@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4242,
+    "nome": "Yoku Wakaru Gendai Mahou",
+    "link": "https://animefire.plus/animes/yoku-wakaru-gendai-mahou-todos-os-episodios",
+    "texto_original": "Yoku Wakaru Gendai Mahou",
+    "rating": 6.5,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/yoku-wakaru-gendai-mahou.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/yoku-wakaru-gendai-mahou/",
+    "secao": "legendados",
+    "pagina": 103,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/yoku-wakaru-gendai-mahou"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1526,
+    "nome": "Horimiya (Dublado)",
+    "link": "https://animefire.plus/animes/horimiya-dublado-todos-os-episodios",
+    "texto_original": "Horimiya (Dublado)",
+    "rating": 8.19,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/horimiya.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/horimiya/",
+    "secao": "dublados,legendados",
+    "pagina": 15,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/horimiya-dublado"
+  }
+}

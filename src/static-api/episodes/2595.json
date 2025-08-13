@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Mou Hitotsu no Mirai wo.",
+  "anime": {
+    "id": 2595,
+    "nome": "Mou Hitotsu no Mirai wo.",
+    "link": "https://animefire.plus/animes/mou-hitotsu-no-mirai-wo-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mou-hitotsu-no-mirai-wo",
+    "rating": "6.10",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mou-hitotsu-no-mirai-wo/1",
+      "anime_id": 2595,
+      "anime_name": "Mou Hitotsu no Mirai wo."
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mou-hitotsu-no-mirai-wo/2",
+      "anime_id": 2595,
+      "anime_name": "Mou Hitotsu no Mirai wo."
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mou-hitotsu-no-mirai-wo/3",
+      "anime_id": 2595,
+      "anime_name": "Mou Hitotsu no Mirai wo."
+    }
+  ],
+  "total_episodes": 3
+}

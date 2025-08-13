@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2185,
+    "nome": "Kyoukai Senki",
+    "link": "https://animefire.plus/animes/kyoukai-senki-todos-os-episodios",
+    "texto_original": "Kyoukai Senki",
+    "rating": 6.31,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kyoukai-senki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kyoukai-senki/",
+    "secao": "legendados",
+    "pagina": 38,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/kyoukai-senki"
+  }
+}

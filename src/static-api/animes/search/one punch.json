@@ -1,0 +1,70 @@
+{
+  "message": "Resultados da busca por: \"one punch\"",
+  "query": "one punch",
+  "data": [
+    {
+      "id": 2838,
+      "nome": "One Punch Man (Dublado)",
+      "link": "https://animefire.plus/animes/one-punch-man-dublado-todos-os-episodios",
+      "texto_original": "One Punch Man (Dublado)",
+      "rating": 8.7,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/one-punch-man.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/one-punch-man/",
+      "secao": "dublados,legendados",
+      "pagina": 28,
+      "total_episodios": 12,
+      "link_video": "https://animefire.plus/video/one-punch-man-dublado"
+    },
+    {
+      "id": 2839,
+      "nome": "One Punch Man 2nd Season (Dublado)",
+      "link": "https://animefire.plus/animes/one-punch-man-2nd-season-dublado-todos-os-episodios",
+      "texto_original": "One Punch Man 2nd Season (Dublado)",
+      "rating": 7.44,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/one-punch-man-2nd-season.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/one-punch-man-2nd-season/",
+      "secao": "dublados,legendados",
+      "pagina": 13,
+      "total_episodios": 12,
+      "link_video": "https://animefire.plus/video/one-punch-man-2nd-season-dublado"
+    },
+    {
+      "id": 2840,
+      "nome": "One Punch Man 2nd Season Commemorative Special",
+      "link": "https://animefire.plus/animes/one-punch-man-2nd-season-commemorative-special-todos-os-episodios",
+      "texto_original": "One Punch Man 2nd Season Commemorative Special",
+      "rating": 6.71,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/one-punch-man-2nd-season-commemorative-special.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/one-punch-man-2nd-season-commemorative-special/",
+      "secao": "legendados",
+      "pagina": 89,
+      "total_episodios": 1,
+      "link_video": "https://animefire.plus/video/one-punch-man-2nd-season-commemorative-special"
+    },
+    {
+      "id": 2841,
+      "nome": "One Punch Man 3",
+      "link": "https://animefire.plus/animes/one-punch-man-3-todos-os-episodios",
+      "texto_original": "One Punch Man 3",
+      "rating": null,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/one-punch-man-3.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/one-punch-man-3/",
+      "secao": "legendados,lancamentos",
+      "pagina": 19,
+      "total_episodios": 0,
+      "link_video": "https://animefire.plus/video/one-punch-man-3"
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "per_page": 20,
+    "total_items": 4,
+    "total_pages": 1,
+    "has_next": false,
+    "has_prev": false
+  }
+}

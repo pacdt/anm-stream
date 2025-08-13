@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2780,
+    "nome": "Noragami (Dublado)",
+    "link": "https://animefire.plus/animes/noragami-dublado-todos-os-episodios",
+    "texto_original": "Noragami (Dublado)",
+    "rating": 7.98,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/noragami.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/noragami/",
+    "secao": "dublados,legendados",
+    "pagina": 14,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/noragami-dublado"
+  }
+}

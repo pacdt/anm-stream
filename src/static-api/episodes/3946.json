@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Tsugu Tsugumomo",
+  "anime": {
+    "id": 3946,
+    "nome": "Tsugu Tsugumomo",
+    "link": "https://animefire.plus/animes/tsugu-tsugumomo-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tsugu-tsugumomo",
+    "rating": "7.51",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tsugu-tsugumomo/1",
+      "anime_id": 3946,
+      "anime_name": "Tsugu Tsugumomo"
+    }
+  ],
+  "total_episodes": 1
+}

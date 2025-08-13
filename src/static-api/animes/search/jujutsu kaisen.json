@@ -1,0 +1,56 @@
+{
+  "message": "Resultados da busca por: \"jujutsu kaisen\"",
+  "query": "jujutsu kaisen",
+  "data": [
+    {
+      "id": 1754,
+      "nome": "Jujutsu Kaisen (Dublado)",
+      "link": "https://animefire.plus/animes/jujutsu-kaisen-dublado-todos-os-episodios",
+      "texto_original": "Jujutsu Kaisen (Dublado)",
+      "rating": 8.66,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/jujutsu-kaisen.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/jujutsu-kaisen/",
+      "secao": "dublados",
+      "pagina": 8,
+      "total_episodios": 24,
+      "link_video": "https://animefire.plus/video/jujutsu-kaisen-dublado"
+    },
+    {
+      "id": 1755,
+      "nome": "Jujutsu Kaisen (TV) (Dublado)",
+      "link": "https://animefire.plus/animes/jujutsu-kaisen-tv-dublado-todos-os-episodios",
+      "texto_original": "Jujutsu Kaisen (TV) (Dublado)",
+      "rating": 8.39,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/jujutsu-kaisen-tv.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/jujutsu-kaisen-tv/",
+      "secao": "dublados,legendados",
+      "pagina": 19,
+      "total_episodios": 11,
+      "link_video": "https://animefire.plus/video/jujutsu-kaisen-tv-dublado"
+    },
+    {
+      "id": 1756,
+      "nome": "Jujutsu Kaisen 2nd Season (Dublado)",
+      "link": "https://animefire.plus/animes/jujutsu-kaisen-2nd-season-dublado-todos-os-episodios",
+      "texto_original": "Jujutsu Kaisen 2nd Season (Dublado)",
+      "rating": 8.74,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/jujutsu-kaisen-2nd-season.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/jujutsu-kaisen-2nd-season/",
+      "secao": "dublados,legendados",
+      "pagina": 6,
+      "total_episodios": 23,
+      "link_video": "https://animefire.plus/video/jujutsu-kaisen-2nd-season-dublado"
+    }
+  ],
+  "pagination": {
+    "current_page": 1,
+    "per_page": 20,
+    "total_items": 3,
+    "total_pages": 1,
+    "has_next": false,
+    "has_prev": false
+  }
+}

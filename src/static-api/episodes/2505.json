@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Min Diao Ju Yi Wen Lu",
+  "anime": {
+    "id": 2505,
+    "nome": "Min Diao Ju Yi Wen Lu",
+    "link": "https://animefire.plus/animes/min-diao-ju-yi-wen-lu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/min-diao-ju-yi-wen-lu",
+    "rating": "6.68",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/min-diao-ju-yi-wen-lu/1",
+      "anime_id": 2505,
+      "anime_name": "Min Diao Ju Yi Wen Lu"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/min-diao-ju-yi-wen-lu/2",
+      "anime_id": 2505,
+      "anime_name": "Min Diao Ju Yi Wen Lu"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/min-diao-ju-yi-wen-lu/3",
+      "anime_id": 2505,
+      "anime_name": "Min Diao Ju Yi Wen Lu"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/min-diao-ju-yi-wen-lu/4",
+      "anime_id": 2505,
+      "anime_name": "Min Diao Ju Yi Wen Lu"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/min-diao-ju-yi-wen-lu/5",
+      "anime_id": 2505,
+      "anime_name": "Min Diao Ju Yi Wen Lu"
+    }
+  ],
+  "total_episodes": 5
+}

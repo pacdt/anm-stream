@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 150,
+    "nome": "Amagami SS",
+    "link": "https://animefire.plus/animes/amagami-ss-todos-os-episodios",
+    "texto_original": "Amagami SS",
+    "rating": 7.47,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/amagami-ss.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/amagami-ss/",
+    "secao": "legendados",
+    "pagina": 133,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/amagami-ss"
+  }
+}

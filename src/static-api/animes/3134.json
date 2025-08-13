@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3134,
+    "nome": "Rio: Rainbow Gate!",
+    "link": "https://animefire.plus/animes/rio-rainbow-gate-todos-os-episodios",
+    "texto_original": "Rio: Rainbow Gate!",
+    "rating": 5.96,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/rio-rainbow-gate.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/rio-rainbow-gate/",
+    "secao": "legendados",
+    "pagina": 132,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/rio-rainbow-gate"
+  }
+}

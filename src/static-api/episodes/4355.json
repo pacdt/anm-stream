@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Zettai Shougeki: Platonic Heart",
+  "anime": {
+    "id": 4355,
+    "nome": "Zettai Shougeki: Platonic Heart",
+    "link": "https://animefire.plus/animes/zettai-shougeki-platonic-heart-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/zettai-shougeki-platonic-heart",
+    "rating": "4.69",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/zettai-shougeki-platonic-heart/1",
+      "anime_id": 4355,
+      "anime_name": "Zettai Shougeki: Platonic Heart"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/zettai-shougeki-platonic-heart/2",
+      "anime_id": 4355,
+      "anime_name": "Zettai Shougeki: Platonic Heart"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/zettai-shougeki-platonic-heart/3",
+      "anime_id": 4355,
+      "anime_name": "Zettai Shougeki: Platonic Heart"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/zettai-shougeki-platonic-heart/4",
+      "anime_id": 4355,
+      "anime_name": "Zettai Shougeki: Platonic Heart"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/zettai-shougeki-platonic-heart/5",
+      "anime_id": 4355,
+      "anime_name": "Zettai Shougeki: Platonic Heart"
+    }
+  ],
+  "total_episodes": 5
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?",
+  "anime": {
+    "id": 2570,
+    "nome": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?",
+    "link": "https://animefire.plus/animes/mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo",
+    "rating": "7.73",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo/1",
+      "anime_id": 2570,
+      "anime_name": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?"
+    }
+  ],
+  "total_episodes": 1
+}

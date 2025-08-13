@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Freezing Vibration",
+  "anime": {
+    "id": 1028,
+    "nome": "Freezing Vibration",
+    "link": "https://animefire.plus/animes/freezing-vibration-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/freezing-vibration",
+    "rating": "6.97",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/freezing-vibration/1",
+      "anime_id": 1028,
+      "anime_name": "Freezing Vibration"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/freezing-vibration/2",
+      "anime_id": 1028,
+      "anime_name": "Freezing Vibration"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/freezing-vibration/3",
+      "anime_id": 1028,
+      "anime_name": "Freezing Vibration"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/freezing-vibration/4",
+      "anime_id": 1028,
+      "anime_name": "Freezing Vibration"
+    }
+  ],
+  "total_episodes": 4
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4091,
+    "nome": "W: Wish",
+    "link": "https://animefire.plus/animes/w-wish-todos-os-episodios",
+    "texto_original": "W: Wish",
+    "rating": 6.24,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/w-wish.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/w-wish/",
+    "secao": "legendados",
+    "pagina": 153,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/w-wish"
+  }
+}

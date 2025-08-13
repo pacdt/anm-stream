@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3887,
+    "nome": "Tokyo Magnitude 8.0",
+    "link": "https://animefire.plus/animes/tokyo-magnitude-8-0-todos-os-episodios",
+    "texto_original": "Tokyo Magnitude 8.0",
+    "rating": 8.13,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/tokyo-magnitude-8-0.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tokyo-magnitude-8-0/",
+    "secao": "legendados",
+    "pagina": 172,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/tokyo-magnitude-8-0"
+  }
+}

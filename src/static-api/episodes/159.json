@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Ame to Kimi to",
+  "anime": {
+    "id": 159,
+    "nome": "Ame to Kimi to",
+    "link": "https://animefire.plus/animes/ame-to-kimi-to-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/ame-to-kimi-to",
+    "rating": "7.45",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/ame-to-kimi-to/1",
+      "anime_id": 159,
+      "anime_name": "Ame to Kimi to"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/ame-to-kimi-to/2",
+      "anime_id": 159,
+      "anime_name": "Ame to Kimi to"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/ame-to-kimi-to/3",
+      "anime_id": 159,
+      "anime_name": "Ame to Kimi to"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/ame-to-kimi-to/4",
+      "anime_id": 159,
+      "anime_name": "Ame to Kimi to"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/ame-to-kimi-to/5",
+      "anime_id": 159,
+      "anime_name": "Ame to Kimi to"
+    }
+  ],
+  "total_episodes": 5
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Buddy Daddies",
+  "anime": {
+    "id": 514,
+    "nome": "Buddy Daddies",
+    "link": "https://animefire.plus/animes/buddy-daddies-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/buddy-daddies",
+    "rating": "8.12",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/buddy-daddies/1",
+      "anime_id": 514,
+      "anime_name": "Buddy Daddies"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/buddy-daddies/2",
+      "anime_id": 514,
+      "anime_name": "Buddy Daddies"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/buddy-daddies/3",
+      "anime_id": 514,
+      "anime_name": "Buddy Daddies"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/buddy-daddies/4",
+      "anime_id": 514,
+      "anime_name": "Buddy Daddies"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/buddy-daddies/5",
+      "anime_id": 514,
+      "anime_name": "Buddy Daddies"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/buddy-daddies/6",
+      "anime_id": 514,
+      "anime_name": "Buddy Daddies"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/buddy-daddies/7",
+      "anime_id": 514,
+      "anime_name": "Buddy Daddies"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/buddy-daddies/8",
+      "anime_id": 514,
+      "anime_name": "Buddy Daddies"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/buddy-daddies/9",
+      "anime_id": 514,
+      "anime_name": "Buddy Daddies"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/buddy-daddies/10",
+      "anime_id": 514,
+      "anime_name": "Buddy Daddies"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/buddy-daddies/11",
+      "anime_id": 514,
+      "anime_name": "Buddy Daddies"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/buddy-daddies/12",
+      "anime_id": 514,
+      "anime_name": "Buddy Daddies"
+    }
+  ],
+  "total_episodes": 12
+}

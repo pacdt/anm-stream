@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: UN-GO",
+  "anime": {
+    "id": 4021,
+    "nome": "UN-GO",
+    "link": "https://animefire.plus/animes/un-go-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/un-go",
+    "rating": "7.46",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/un-go/1",
+      "anime_id": 4021,
+      "anime_name": "UN-GO"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/un-go/2",
+      "anime_id": 4021,
+      "anime_name": "UN-GO"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/un-go/3",
+      "anime_id": 4021,
+      "anime_name": "UN-GO"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/un-go/4",
+      "anime_id": 4021,
+      "anime_name": "UN-GO"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/un-go/5",
+      "anime_id": 4021,
+      "anime_name": "UN-GO"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/un-go/6",
+      "anime_id": 4021,
+      "anime_name": "UN-GO"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/un-go/7",
+      "anime_id": 4021,
+      "anime_name": "UN-GO"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/un-go/8",
+      "anime_id": 4021,
+      "anime_name": "UN-GO"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/un-go/9",
+      "anime_id": 4021,
+      "anime_name": "UN-GO"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/un-go/10",
+      "anime_id": 4021,
+      "anime_name": "UN-GO"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/un-go/11",
+      "anime_id": 4021,
+      "anime_name": "UN-GO"
+    }
+  ],
+  "total_episodes": 11
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1551,
+    "nome": "Hunter x Hunter Pilot",
+    "link": "https://animefire.plus/animes/hunter-x-hunter-pilot-todos-os-episodios",
+    "texto_original": "Hunter x Hunter Pilot",
+    "rating": 7.22,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hunter-x-hunter-pilot.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hunter-x-hunter-pilot/",
+    "secao": "legendados",
+    "pagina": 69,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/hunter-x-hunter-pilot"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Caramel Honey",
+  "anime": {
+    "id": 560,
+    "nome": "Caramel Honey",
+    "link": "https://animefire.plus/animes/caramel-honey-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/caramel-honey",
+    "rating": "6.86",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/caramel-honey/1",
+      "anime_id": 560,
+      "anime_name": "Caramel Honey"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/caramel-honey/2",
+      "anime_id": 560,
+      "anime_name": "Caramel Honey"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/caramel-honey/3",
+      "anime_id": 560,
+      "anime_name": "Caramel Honey"
+    }
+  ],
+  "total_episodes": 3
+}

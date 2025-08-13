@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2649,
+    "nome": "Nami Yo Kiitekure",
+    "link": "https://animefire.plus/animes/nami-yo-kiitekure-todos-os-episodios",
+    "texto_original": "Nami Yo Kiitekure",
+    "rating": 7.37,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/nami-yo-kiitekure.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/nami-yo-kiitekure/",
+    "secao": "legendados",
+    "pagina": 60,
+    "total_episodios": 8,
+    "link_video": "https://animefire.plus/video/nami-yo-kiitekure"
+  }
+}

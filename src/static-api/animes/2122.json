@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2122,
+    "nome": "Koyomimonogatari",
+    "link": "https://animefire.plus/animes/koyomimonogatari-todos-os-episodios",
+    "texto_original": "Koyomimonogatari",
+    "rating": 7.75,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/koyomimonogatari.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/koyomimonogatari/",
+    "secao": "legendados",
+    "pagina": 134,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/koyomimonogatari"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4280,
+    "nome": "Yu☆Gi☆Oh! Zexal",
+    "link": "https://animefire.plus/animes/yu-gi-oh-zexal-todos-os-episodios",
+    "texto_original": "Yu☆Gi☆Oh! Zexal",
+    "rating": 6.47,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/yu-gi-oh-zexal.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/yu-gi-oh-zexal/",
+    "secao": "legendados",
+    "pagina": 125,
+    "total_episodios": 41,
+    "link_video": "https://animefire.plus/video/yu-gi-oh-zexal"
+  }
+}

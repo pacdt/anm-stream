@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1074,
+    "nome": "Gabriel DropOut",
+    "link": "https://animefire.plus/animes/gabriel-dropout-todos-os-episodios",
+    "texto_original": "Gabriel DropOut",
+    "rating": 7.57,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/gabriel-dropout.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gabriel-dropout/",
+    "secao": "legendados",
+    "pagina": 107,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/gabriel-dropout"
+  }
+}

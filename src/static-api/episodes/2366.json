@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Mai-Otome 0: S.ifr",
+  "anime": {
+    "id": 2366,
+    "nome": "Mai-Otome 0: S.ifr",
+    "link": "https://animefire.plus/animes/mai-otome-0-s-ifr-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mai-otome-0-s-ifr",
+    "rating": "7.41",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mai-otome-0-s-ifr/1",
+      "anime_id": 2366,
+      "anime_name": "Mai-Otome 0: S.ifr"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mai-otome-0-s-ifr/2",
+      "anime_id": 2366,
+      "anime_name": "Mai-Otome 0: S.ifr"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mai-otome-0-s-ifr/3",
+      "anime_id": 2366,
+      "anime_name": "Mai-Otome 0: S.ifr"
+    }
+  ],
+  "total_episodes": 3
+}

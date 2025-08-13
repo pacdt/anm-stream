@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Shoujo-tachi wa Kouya wo Mezasu",
+  "anime": {
+    "id": 3500,
+    "nome": "Shoujo-tachi wa Kouya wo Mezasu",
+    "link": "https://animefire.plus/animes/shoujo-tachi-wa-kouya-wo-mezasu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shoujo-tachi-wa-kouya-wo-mezasu",
+    "rating": "6.38",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shoujo-tachi-wa-kouya-wo-mezasu/1",
+      "anime_id": 3500,
+      "anime_name": "Shoujo-tachi wa Kouya wo Mezasu"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shoujo-tachi-wa-kouya-wo-mezasu/2",
+      "anime_id": 3500,
+      "anime_name": "Shoujo-tachi wa Kouya wo Mezasu"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/shoujo-tachi-wa-kouya-wo-mezasu/3",
+      "anime_id": 3500,
+      "anime_name": "Shoujo-tachi wa Kouya wo Mezasu"
+    }
+  ],
+  "total_episodes": 3
+}

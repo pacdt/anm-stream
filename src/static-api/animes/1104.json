@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1104,
+    "nome": "Ganbare! Kickers",
+    "link": "https://animefire.plus/animes/ganbare-kickers-todos-os-episodios",
+    "texto_original": "Ganbare! Kickers",
+    "rating": 6.82,
+    "classificacao_etaria": null,
+    "imagem_original": "https://animefire.plus/img/animes/ganbare-kickers.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ganbare-kickers/",
+    "secao": "legendados",
+    "pagina": 84,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/ganbare-kickers"
+  }
+}

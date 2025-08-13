@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 802,
+    "nome": "Devil May Cry",
+    "link": "https://animefire.plus/animes/devil-may-cry-todos-os-episodios",
+    "texto_original": "Devil May Cry",
+    "rating": 7.08,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/devil-may-cry.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/devil-may-cry/",
+    "secao": "legendados",
+    "pagina": 178,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/devil-may-cry"
+  }
+}

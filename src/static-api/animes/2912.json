@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2912,
+    "nome": "Otaku no Video",
+    "link": "https://animefire.plus/animes/otaku-no-video-todos-os-episodios",
+    "texto_original": "Otaku no Video",
+    "rating": 7.16,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/otaku-no-video.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/otaku-no-video/",
+    "secao": "legendados",
+    "pagina": 66,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/otaku-no-video"
+  }
+}

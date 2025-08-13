@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3130,
+    "nome": "Rinne no Lagrange",
+    "link": "https://animefire.plus/animes/rinne-no-lagrange-todos-os-episodios",
+    "texto_original": "Rinne no Lagrange",
+    "rating": 6.97,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/rinne-no-lagrange.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/rinne-no-lagrange/",
+    "secao": "legendados",
+    "pagina": 153,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/rinne-no-lagrange"
+  }
+}

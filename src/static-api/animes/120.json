@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 120,
+    "nome": "AKB0048",
+    "link": "https://animefire.plus/animes/akb0048-todos-os-episodios",
+    "texto_original": "AKB0048",
+    "rating": 7.48,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/akb0048.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/akb0048/",
+    "secao": "legendados",
+    "pagina": 128,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/akb0048"
+  }
+}

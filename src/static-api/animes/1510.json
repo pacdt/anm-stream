@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1510,
+    "nome": "Hitsugi no Chaika",
+    "link": "https://animefire.plus/animes/hitsugi-no-chaika-todos-os-episodios",
+    "texto_original": "Hitsugi no Chaika",
+    "rating": 7.37,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/hitsugi-no-chaika.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hitsugi-no-chaika/",
+    "secao": "legendados",
+    "pagina": 163,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/hitsugi-no-chaika"
+  }
+}

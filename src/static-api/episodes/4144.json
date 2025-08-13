@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Wo Kai Dongwuyuan Naxie Nian",
+  "anime": {
+    "id": 4144,
+    "nome": "Wo Kai Dongwuyuan Naxie Nian",
+    "link": "https://animefire.plus/animes/wo-kai-dongwuyuan-naxie-nian-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/wo-kai-dongwuyuan-naxie-nian",
+    "rating": "6.37",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/wo-kai-dongwuyuan-naxie-nian/1",
+      "anime_id": 4144,
+      "anime_name": "Wo Kai Dongwuyuan Naxie Nian"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/wo-kai-dongwuyuan-naxie-nian/2",
+      "anime_id": 4144,
+      "anime_name": "Wo Kai Dongwuyuan Naxie Nian"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/wo-kai-dongwuyuan-naxie-nian/3",
+      "anime_id": 4144,
+      "anime_name": "Wo Kai Dongwuyuan Naxie Nian"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/wo-kai-dongwuyuan-naxie-nian/4",
+      "anime_id": 4144,
+      "anime_name": "Wo Kai Dongwuyuan Naxie Nian"
+    }
+  ],
+  "total_episodes": 4
+}

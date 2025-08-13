@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1021,
+    "nome": "Frame Arms Girl",
+    "link": "https://animefire.plus/animes/frame-arms-girl-todos-os-episodios",
+    "texto_original": "Frame Arms Girl",
+    "rating": 6.49,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/frame-arms-girl.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/frame-arms-girl/",
+    "secao": "legendados",
+    "pagina": 171,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/frame-arms-girl"
+  }
+}

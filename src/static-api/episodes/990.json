@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Fate/Grand Order: Zettai Majuu Sensen Babylonia",
+  "anime": {
+    "id": 990,
+    "nome": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
+    "link": "https://animefire.plus/animes/fate-grand-order-zettai-majuu-sensen-babylonia-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/fate-grand-order-zettai-majuu-sensen-babylonia",
+    "rating": "7.95",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/fate-grand-order-zettai-majuu-sensen-babylonia/1",
+      "anime_id": 990,
+      "anime_name": "Fate/Grand Order: Zettai Majuu Sensen Babylonia"
+    }
+  ],
+  "total_episodes": 1
+}

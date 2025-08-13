@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Saiyuuki Gaiden",
+  "anime": {
+    "id": 3217,
+    "nome": "Saiyuuki Gaiden",
+    "link": "https://animefire.plus/animes/saiyuuki-gaiden-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/saiyuuki-gaiden",
+    "rating": "7.95",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/saiyuuki-gaiden/1",
+      "anime_id": 3217,
+      "anime_name": "Saiyuuki Gaiden"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/saiyuuki-gaiden/2",
+      "anime_id": 3217,
+      "anime_name": "Saiyuuki Gaiden"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/saiyuuki-gaiden/3",
+      "anime_id": 3217,
+      "anime_name": "Saiyuuki Gaiden"
+    }
+  ],
+  "total_episodes": 3
+}

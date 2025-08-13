@@ -1,0 +1,74 @@
+{
+  "message": "Lista de episódios do anime: Mushishi Zoku Shou",
+  "anime": {
+    "id": 2621,
+    "nome": "Mushishi Zoku Shou",
+    "link": "https://animefire.plus/animes/mushishi-zoku-shou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mushishi-zoku-shou",
+    "rating": "8.74",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mushishi-zoku-shou/1",
+      "anime_id": 2621,
+      "anime_name": "Mushishi Zoku Shou"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mushishi-zoku-shou/2",
+      "anime_id": 2621,
+      "anime_name": "Mushishi Zoku Shou"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mushishi-zoku-shou/3",
+      "anime_id": 2621,
+      "anime_name": "Mushishi Zoku Shou"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/mushishi-zoku-shou/4",
+      "anime_id": 2621,
+      "anime_name": "Mushishi Zoku Shou"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/mushishi-zoku-shou/5",
+      "anime_id": 2621,
+      "anime_name": "Mushishi Zoku Shou"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/mushishi-zoku-shou/6",
+      "anime_id": 2621,
+      "anime_name": "Mushishi Zoku Shou"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/mushishi-zoku-shou/7",
+      "anime_id": 2621,
+      "anime_name": "Mushishi Zoku Shou"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/mushishi-zoku-shou/8",
+      "anime_id": 2621,
+      "anime_name": "Mushishi Zoku Shou"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/mushishi-zoku-shou/9",
+      "anime_id": 2621,
+      "anime_name": "Mushishi Zoku Shou"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/mushishi-zoku-shou/10",
+      "anime_id": 2621,
+      "anime_name": "Mushishi Zoku Shou"
+    }
+  ],
+  "total_episodes": 10
+}

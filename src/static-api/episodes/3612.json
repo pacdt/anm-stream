@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: Spriggan (ONA) (Dublado)",
+  "anime": {
+    "id": 3612,
+    "nome": "Spriggan (ONA) (Dublado)",
+    "link": "https://animefire.plus/animes/spriggan-ona-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/spriggan-ona-dublado",
+    "rating": "6.86",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/spriggan-ona-dublado/1",
+      "anime_id": 3612,
+      "anime_name": "Spriggan (ONA) (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/spriggan-ona-dublado/2",
+      "anime_id": 3612,
+      "anime_name": "Spriggan (ONA) (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/spriggan-ona-dublado/3",
+      "anime_id": 3612,
+      "anime_name": "Spriggan (ONA) (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/spriggan-ona-dublado/4",
+      "anime_id": 3612,
+      "anime_name": "Spriggan (ONA) (Dublado)"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/spriggan-ona-dublado/5",
+      "anime_id": 3612,
+      "anime_name": "Spriggan (ONA) (Dublado)"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/spriggan-ona-dublado/6",
+      "anime_id": 3612,
+      "anime_name": "Spriggan (ONA) (Dublado)"
+    }
+  ],
+  "total_episodes": 6
+}

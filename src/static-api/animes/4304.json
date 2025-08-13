@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4304,
+    "nome": "Yuru Yuri",
+    "link": "https://animefire.plus/animes/yuru-yuri-todos-os-episodios",
+    "texto_original": "Yuru Yuri",
+    "rating": 7.66,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/yuru-yuri.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/yuru-yuri/",
+    "secao": "legendados",
+    "pagina": 105,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/yuru-yuri"
+  }
+}

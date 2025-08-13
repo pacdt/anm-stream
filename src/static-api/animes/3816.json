@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3816,
+    "nome": "Terminator 0",
+    "link": "https://animefire.plus/animes/terminator-0-todos-os-episodios",
+    "texto_original": "Terminator 0",
+    "rating": 7.1,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/terminator-0.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/terminator-0/",
+    "secao": "legendados",
+    "pagina": 10,
+    "total_episodios": 8,
+    "link_video": "https://animefire.plus/video/terminator-0"
+  }
+}

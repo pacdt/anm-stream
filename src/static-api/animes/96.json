@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 96,
+    "nome": "Aikatsu!",
+    "link": "https://animefire.plus/animes/aikatsu-todos-os-episodios",
+    "texto_original": "Aikatsu!",
+    "rating": 7.45,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/aikatsu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/aikatsu/",
+    "secao": "legendados",
+    "pagina": 178,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/aikatsu"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 768,
+    "nome": "Deadman Wonderland",
+    "link": "https://animefire.plus/animes/deadman-wonderland-todos-os-episodios",
+    "texto_original": "Deadman Wonderland",
+    "rating": 7.36,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/deadman-wonderland.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/deadman-wonderland/",
+    "secao": "legendados",
+    "pagina": 171,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/deadman-wonderland"
+  }
+}

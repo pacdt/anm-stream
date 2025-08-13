@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Gunnm (Dublado)",
+  "anime": {
+    "id": 1284,
+    "nome": "Gunnm (Dublado)",
+    "link": "https://animefire.plus/animes/gunnm-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gunnm-dublado",
+    "rating": "7.10",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gunnm-dublado/1",
+      "anime_id": 1284,
+      "anime_name": "Gunnm (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/gunnm-dublado/2",
+      "anime_id": 1284,
+      "anime_name": "Gunnm (Dublado)"
+    }
+  ],
+  "total_episodes": 2
+}

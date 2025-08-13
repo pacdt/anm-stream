@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3591,
+    "nome": "Soul Buster",
+    "link": "https://animefire.plus/animes/soul-buster-todos-os-episodios",
+    "texto_original": "Soul Buster",
+    "rating": 5.84,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/soul-buster.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/soul-buster/",
+    "secao": "legendados",
+    "pagina": 61,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/soul-buster"
+  }
+}

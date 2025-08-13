@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
+  "anime": {
+    "id": 3413,
+    "nome": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
+    "link": "https://animefire.plus/animes/shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai",
+    "rating": "7.46",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shimoneta-to-iu-gainen-ga-sonzai-shinai-taikutsu-na-sekai/1",
+      "anime_id": 3413,
+      "anime_name": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai"
+    }
+  ],
+  "total_episodes": 1
+}

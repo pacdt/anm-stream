@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 670,
+    "nome": "Clover",
+    "link": "https://animefire.plus/animes/clover-todos-os-episodios",
+    "texto_original": "Clover",
+    "rating": 6.8,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/clover.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/clover/",
+    "secao": "legendados",
+    "pagina": 41,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/clover"
+  }
+}

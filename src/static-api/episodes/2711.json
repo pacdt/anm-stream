@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Nekomonogatari: Kuro",
+  "anime": {
+    "id": 2711,
+    "nome": "Nekomonogatari: Kuro",
+    "link": "https://animefire.plus/animes/nekomonogatari-kuro-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nekomonogatari-kuro",
+    "rating": "8.03",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nekomonogatari-kuro/1",
+      "anime_id": 2711,
+      "anime_name": "Nekomonogatari: Kuro"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/nekomonogatari-kuro/2",
+      "anime_id": 2711,
+      "anime_name": "Nekomonogatari: Kuro"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/nekomonogatari-kuro/3",
+      "anime_id": 2711,
+      "anime_name": "Nekomonogatari: Kuro"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/nekomonogatari-kuro/4",
+      "anime_id": 2711,
+      "anime_name": "Nekomonogatari: Kuro"
+    }
+  ],
+  "total_episodes": 4
+}

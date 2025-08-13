@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3593,
+    "nome": "Soul Eater NOT!",
+    "link": "https://animefire.plus/animes/soul-eater-not-todos-os-episodios",
+    "texto_original": "Soul Eater NOT!",
+    "rating": 6.16,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/soul-eater-not.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/soul-eater-not/",
+    "secao": "legendados",
+    "pagina": 170,
+    "total_episodios": 11,
+    "link_video": "https://animefire.plus/video/soul-eater-not"
+  }
+}

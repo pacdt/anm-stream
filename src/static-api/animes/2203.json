@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2203,
+    "nome": "Lan Mo De Hua",
+    "link": "https://animefire.plus/animes/lan-mo-de-hua-todos-os-episodios",
+    "texto_original": "Lan Mo De Hua",
+    "rating": 6.74,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/lan-mo-de-hua.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/lan-mo-de-hua/",
+    "secao": "legendados",
+    "pagina": 151,
+    "total_episodios": 9,
+    "link_video": "https://animefire.plus/video/lan-mo-de-hua"
+  }
+}

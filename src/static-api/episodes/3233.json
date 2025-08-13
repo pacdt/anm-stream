@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Sakura Internet",
+  "anime": {
+    "id": 3233,
+    "nome": "Sakura Internet",
+    "link": "https://animefire.plus/animes/sakura-internet-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sakura-internet",
+    "rating": "5.76",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sakura-internet/1",
+      "anime_id": 3233,
+      "anime_name": "Sakura Internet"
+    }
+  ],
+  "total_episodes": 1
+}

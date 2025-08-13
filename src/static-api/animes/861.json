@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 861,
+    "nome": "Douluo Dalu",
+    "link": "https://animefire.plus/animes/douluo-dalu-todos-os-episodios",
+    "texto_original": "Douluo Dalu",
+    "rating": 7.87,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/douluo-dalu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/douluo-dalu/",
+    "secao": "legendados",
+    "pagina": 87,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/douluo-dalu"
+  }
+}

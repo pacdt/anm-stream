@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Tokyo Ghoul: \"Jack\" (Dublado)",
+  "anime": {
+    "id": 3883,
+    "nome": "Tokyo Ghoul: \"Jack\" (Dublado)",
+    "link": "https://animefire.plus/animes/tokyo-ghoul-jack-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tokyo-ghoul-jack-dublado",
+    "rating": "7.35",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tokyo-ghoul-jack-dublado/1",
+      "anime_id": 3883,
+      "anime_name": "Tokyo Ghoul: \"Jack\" (Dublado)"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,77 @@
+{
+  "message": "5 animes aleatórios",
+  "data": [
+    {
+      "id": 1297,
+      "nome": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!",
+      "link": "https://animefire.plus/animes/gyakuten-saiban-sono-shinjitsu-igi-ari-todos-os-episodios",
+      "texto_original": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!",
+      "rating": 6.47,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/gyakuten-saiban-sono-shinjitsu-igi-ari.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/gyakuten-saiban-sono-shinjitsu-igi-ari/",
+      "secao": "legendados",
+      "pagina": 116,
+      "total_episodios": 9,
+      "link_video": "https://animefire.plus/video/gyakuten-saiban-sono-shinjitsu-igi-ari"
+    },
+    {
+      "id": 2455,
+      "nome": "Mayonaka no Occult Koumuin: Fukurokouji to Ano Ko to Ore to",
+      "link": "https://animefire.plus/animes/mayonaka-no-occult-koumuin-fukurokouji-to-ano-ko-to-ore-to-todos-os-episodios",
+      "texto_original": "Mayonaka no Occult Koumuin: Fukurokouji to Ano Ko to Ore to",
+      "rating": 6.79,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/mayonaka-no-occult-koumuin-fukurokouji-to-ano-ko-to-ore-to.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/mayonaka-no-occult-koumuin-fukurokouji-to-ano-ko-to-ore-to/",
+      "secao": "legendados",
+      "pagina": 88,
+      "total_episodios": 1,
+      "link_video": "https://animefire.plus/video/mayonaka-no-occult-koumuin-fukurokouji-to-ano-ko-to-ore-to"
+    },
+    {
+      "id": 1415,
+      "nome": "Hellsing Ultimate",
+      "link": "https://animefire.plus/animes/hellsing-ultimate-todos-os-episodios",
+      "texto_original": "Hellsing Ultimate",
+      "rating": 8.44,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/hellsing-ultimate.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/hellsing-ultimate/",
+      "secao": "legendados",
+      "pagina": 72,
+      "total_episodios": 13,
+      "link_video": "https://animefire.plus/video/hellsing-ultimate"
+    },
+    {
+      "id": 674,
+      "nome": "Code Geass: Dakkan no Rozé",
+      "link": "https://animefire.plus/animes/code-geass-dakkan-no-roze-todos-os-episodios",
+      "texto_original": "Code Geass: Dakkan no Rozé",
+      "rating": 6.52,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/code-geass-dakkan-no-roze.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/code-geass-dakkan-no-roze/",
+      "secao": "legendados",
+      "pagina": 12,
+      "total_episodios": 12,
+      "link_video": "https://animefire.plus/video/code-geass-dakkan-no-roze"
+    },
+    {
+      "id": 1053,
+      "nome": "Fushigi Na Somera-chan",
+      "link": "https://animefire.plus/animes/fushigi-na-somera-chan-todos-os-episodios",
+      "texto_original": "Fushigi Na Somera-chan",
+      "rating": 5.91,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/fushigi-na-somera-chan.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/fushigi-na-somera-chan/",
+      "secao": "legendados",
+      "pagina": 97,
+      "total_episodios": 12,
+      "link_video": "https://animefire.plus/video/fushigi-na-somera-chan"
+    }
+  ],
+  "total": 5,
+  "version": 2
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3813,
+    "nome": "Teogonia",
+    "link": "https://animefire.plus/animes/teogonia-todos-os-episodios",
+    "texto_original": "Teogonia",
+    "rating": 6.93,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/teogonia.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/teogonia/",
+    "secao": "legendados",
+    "pagina": 5,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/teogonia"
+  }
+}

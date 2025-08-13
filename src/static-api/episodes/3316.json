@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Sekai de Ichiban Tsuyoku Naritai!",
+  "anime": {
+    "id": 3316,
+    "nome": "Sekai de Ichiban Tsuyoku Naritai!",
+    "link": "https://animefire.plus/animes/sekai-de-ichiban-tsuyoku-naritai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sekai-de-ichiban-tsuyoku-naritai",
+    "rating": "5.90",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sekai-de-ichiban-tsuyoku-naritai/1",
+      "anime_id": 3316,
+      "anime_name": "Sekai de Ichiban Tsuyoku Naritai!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/sekai-de-ichiban-tsuyoku-naritai/2",
+      "anime_id": 3316,
+      "anime_name": "Sekai de Ichiban Tsuyoku Naritai!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/sekai-de-ichiban-tsuyoku-naritai/3",
+      "anime_id": 3316,
+      "anime_name": "Sekai de Ichiban Tsuyoku Naritai!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/sekai-de-ichiban-tsuyoku-naritai/4",
+      "anime_id": 3316,
+      "anime_name": "Sekai de Ichiban Tsuyoku Naritai!"
+    }
+  ],
+  "total_episodes": 4
+}

@@ -1,0 +1,24 @@
+{
+  "message": "Estatísticas gerais dos animes",
+  "statistics": {
+    "total_animes": 4368,
+    "total_episodes": 54271,
+    "animes_with_episodes": 3942,
+    "animes_without_episodes": 426,
+    "avg_rating": "7.08",
+    "avg_episodes_per_anime": "13.77",
+    "sections": {
+      "legendados": 4269,
+      "lancamentos": 285,
+      "dublados": 656
+    },
+    "age_ratings": {
+      "A14": 2988,
+      "A16": 708,
+      "A18": 374,
+      "A10": 119
+    },
+    "most_common_age_rating": "A14"
+  },
+  "generated_at": "2025-08-13T02:27:39.148Z"
+}

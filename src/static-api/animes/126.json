@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 126,
+    "nome": "Akihabara Dennou-gumi",
+    "link": "https://animefire.plus/animes/akihabara-dennou-gumi-todos-os-episodios",
+    "texto_original": "Akihabara Dennou-gumi",
+    "rating": 6.64,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/akihabara-dennou-gumi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/akihabara-dennou-gumi/",
+    "secao": "legendados",
+    "pagina": 140,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/akihabara-dennou-gumi"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3375,
+    "nome": "Shadowverse Flame",
+    "link": "https://animefire.plus/animes/shadowverse-flame-todos-os-episodios",
+    "texto_original": "Shadowverse Flame",
+    "rating": 6.73,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/shadowverse-flame.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shadowverse-flame/",
+    "secao": "legendados,lancamentos",
+    "pagina": 34,
+    "total_episodios": 98,
+    "link_video": "https://animefire.plus/video/shadowverse-flame"
+  }
+}

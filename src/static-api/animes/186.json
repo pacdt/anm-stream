@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 186,
+    "nome": "Ano Natsu de Matteru",
+    "link": "https://animefire.plus/animes/ano-natsu-de-matteru-todos-os-episodios",
+    "texto_original": "Ano Natsu de Matteru",
+    "rating": 7.61,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ano-natsu-de-matteru.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ano-natsu-de-matteru/",
+    "secao": "legendados",
+    "pagina": 161,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/ano-natsu-de-matteru"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Tsuritama",
+  "anime": {
+    "id": 3966,
+    "nome": "Tsuritama",
+    "link": "https://animefire.plus/animes/tsuritama-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tsuritama",
+    "rating": "7.72",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tsuritama/1",
+      "anime_id": 3966,
+      "anime_name": "Tsuritama"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tsuritama/2",
+      "anime_id": 3966,
+      "anime_name": "Tsuritama"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tsuritama/3",
+      "anime_id": 3966,
+      "anime_name": "Tsuritama"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tsuritama/4",
+      "anime_id": 3966,
+      "anime_name": "Tsuritama"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/tsuritama/5",
+      "anime_id": 3966,
+      "anime_name": "Tsuritama"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/tsuritama/6",
+      "anime_id": 3966,
+      "anime_name": "Tsuritama"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/tsuritama/7",
+      "anime_id": 3966,
+      "anime_name": "Tsuritama"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/tsuritama/8",
+      "anime_id": 3966,
+      "anime_name": "Tsuritama"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/tsuritama/9",
+      "anime_id": 3966,
+      "anime_name": "Tsuritama"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/tsuritama/10",
+      "anime_id": 3966,
+      "anime_name": "Tsuritama"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/tsuritama/11",
+      "anime_id": 3966,
+      "anime_name": "Tsuritama"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/tsuritama/12",
+      "anime_id": 3966,
+      "anime_name": "Tsuritama"
+    }
+  ],
+  "total_episodes": 12
+}

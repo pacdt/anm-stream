@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3592,
+    "nome": "Soul Eater (Dublado)",
+    "link": "https://animefire.plus/animes/soul-eater-dublado-todos-os-episodios",
+    "texto_original": "Soul Eater (Dublado)",
+    "rating": 7.85,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/soul-eater.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/soul-eater/",
+    "secao": "dublados,legendados",
+    "pagina": 13,
+    "total_episodios": 51,
+    "link_video": "https://animefire.plus/video/soul-eater-dublado"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: One Room, Hiatari Futsuu, Tenshi-tsuki.",
+  "anime": {
+    "id": 2845,
+    "nome": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
+    "link": "https://animefire.plus/animes/one-room-hiatari-futsuu-tenshi-tsuki-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/one-room-hiatari-futsuu-tenshi-tsuki",
+    "rating": "7.03",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/one-room-hiatari-futsuu-tenshi-tsuki/1",
+      "anime_id": 2845,
+      "anime_name": "One Room, Hiatari Futsuu, Tenshi-tsuki."
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/one-room-hiatari-futsuu-tenshi-tsuki/2",
+      "anime_id": 2845,
+      "anime_name": "One Room, Hiatari Futsuu, Tenshi-tsuki."
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/one-room-hiatari-futsuu-tenshi-tsuki/3",
+      "anime_id": 2845,
+      "anime_name": "One Room, Hiatari Futsuu, Tenshi-tsuki."
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/one-room-hiatari-futsuu-tenshi-tsuki/4",
+      "anime_id": 2845,
+      "anime_name": "One Room, Hiatari Futsuu, Tenshi-tsuki."
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/one-room-hiatari-futsuu-tenshi-tsuki/5",
+      "anime_id": 2845,
+      "anime_name": "One Room, Hiatari Futsuu, Tenshi-tsuki."
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/one-room-hiatari-futsuu-tenshi-tsuki/6",
+      "anime_id": 2845,
+      "anime_name": "One Room, Hiatari Futsuu, Tenshi-tsuki."
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/one-room-hiatari-futsuu-tenshi-tsuki/7",
+      "anime_id": 2845,
+      "anime_name": "One Room, Hiatari Futsuu, Tenshi-tsuki."
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/one-room-hiatari-futsuu-tenshi-tsuki/8",
+      "anime_id": 2845,
+      "anime_name": "One Room, Hiatari Futsuu, Tenshi-tsuki."
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/one-room-hiatari-futsuu-tenshi-tsuki/9",
+      "anime_id": 2845,
+      "anime_name": "One Room, Hiatari Futsuu, Tenshi-tsuki."
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/one-room-hiatari-futsuu-tenshi-tsuki/10",
+      "anime_id": 2845,
+      "anime_name": "One Room, Hiatari Futsuu, Tenshi-tsuki."
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/one-room-hiatari-futsuu-tenshi-tsuki/11",
+      "anime_id": 2845,
+      "anime_name": "One Room, Hiatari Futsuu, Tenshi-tsuki."
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/one-room-hiatari-futsuu-tenshi-tsuki/12",
+      "anime_id": 2845,
+      "anime_name": "One Room, Hiatari Futsuu, Tenshi-tsuki."
+    }
+  ],
+  "total_episodes": 12
+}

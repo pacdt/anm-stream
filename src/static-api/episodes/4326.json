@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Yuyushiki",
+  "anime": {
+    "id": 4326,
+    "nome": "Yuyushiki",
+    "link": "https://animefire.plus/animes/yuyushiki-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yuyushiki",
+    "rating": "7.43",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yuyushiki/1",
+      "anime_id": 4326,
+      "anime_name": "Yuyushiki"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yuyushiki/2",
+      "anime_id": 4326,
+      "anime_name": "Yuyushiki"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/yuyushiki/3",
+      "anime_id": 4326,
+      "anime_name": "Yuyushiki"
+    }
+  ],
+  "total_episodes": 3
+}

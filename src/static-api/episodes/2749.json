@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Nisemonogatari",
+  "anime": {
+    "id": 2749,
+    "nome": "Nisemonogatari",
+    "link": "https://animefire.plus/animes/nisemonogatari-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nisemonogatari",
+    "rating": "8.20",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nisemonogatari/1",
+      "anime_id": 2749,
+      "anime_name": "Nisemonogatari"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2014,
+    "nome": "Kirara",
+    "link": "https://animefire.plus/animes/kirara-todos-os-episodios",
+    "texto_original": "Kirara",
+    "rating": 6.21,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/kirara.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kirara/",
+    "secao": "legendados",
+    "pagina": 66,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/kirara"
+  }
+}

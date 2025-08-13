@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky",
+  "anime": {
+    "id": 99,
+    "nome": "Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky",
+    "link": "https://animefire.plus/animes/air-gear-kuro-no-hane-to-nemuri-no-mori---break-on-the-sky-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/air-gear-kuro-no-hane-to-nemuri-no-mori---break-on-the-sky",
+    "rating": "7.69",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/air-gear-kuro-no-hane-to-nemuri-no-mori---break-on-the-sky/1",
+      "anime_id": 99,
+      "anime_name": "Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/air-gear-kuro-no-hane-to-nemuri-no-mori---break-on-the-sky/2",
+      "anime_id": 99,
+      "anime_name": "Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/air-gear-kuro-no-hane-to-nemuri-no-mori---break-on-the-sky/3",
+      "anime_id": 99,
+      "anime_name": "Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky"
+    }
+  ],
+  "total_episodes": 3
+}

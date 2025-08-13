@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Cleopatra D.C.",
+  "anime": {
+    "id": 666,
+    "nome": "Cleopatra D.C.",
+    "link": "https://animefire.plus/animes/cleopatra-d-c-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/cleopatra-d-c",
+    "rating": "5.95",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/cleopatra-d-c/1",
+      "anime_id": 666,
+      "anime_name": "Cleopatra D.C."
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/cleopatra-d-c/2",
+      "anime_id": 666,
+      "anime_name": "Cleopatra D.C."
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/cleopatra-d-c/3",
+      "anime_id": 666,
+      "anime_name": "Cleopatra D.C."
+    }
+  ],
+  "total_episodes": 3
+}

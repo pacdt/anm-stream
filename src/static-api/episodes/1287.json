@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Gunslinger Girl: Il Teatrino OVA",
+  "anime": {
+    "id": 1287,
+    "nome": "Gunslinger Girl: Il Teatrino OVA",
+    "link": "https://animefire.plus/animes/gunslinger-girl-il-teatrino-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gunslinger-girl-il-teatrino-ova",
+    "rating": "7.02",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gunslinger-girl-il-teatrino-ova/1",
+      "anime_id": 1287,
+      "anime_name": "Gunslinger Girl: Il Teatrino OVA"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Fairy Tail OVA (2016)",
+  "anime": {
+    "id": 971,
+    "nome": "Fairy Tail OVA (2016)",
+    "link": "https://animefire.plus/animes/fairy-tail-ova-2016-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/fairy-tail-ova-2016",
+    "rating": "7.31",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/fairy-tail-ova-2016/1",
+      "anime_id": 971,
+      "anime_name": "Fairy Tail OVA (2016)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/fairy-tail-ova-2016/2",
+      "anime_id": 971,
+      "anime_name": "Fairy Tail OVA (2016)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/fairy-tail-ova-2016/3",
+      "anime_id": 971,
+      "anime_name": "Fairy Tail OVA (2016)"
+    }
+  ],
+  "total_episodes": 3
+}

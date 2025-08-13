@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1205,
+    "nome": "Gochuumon wa Usagi Desu ka?",
+    "link": "https://animefire.plus/animes/gochuumon-wa-usagi-desu-ka-todos-os-episodios",
+    "texto_original": "Gochuumon wa Usagi Desu ka?",
+    "rating": 7.58,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/gochuumon-wa-usagi-desu-ka.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gochuumon-wa-usagi-desu-ka/",
+    "secao": "legendados",
+    "pagina": 172,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/gochuumon-wa-usagi-desu-ka"
+  }
+}

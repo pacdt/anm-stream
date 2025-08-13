@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 725,
+    "nome": "Dagashi Kashi",
+    "link": "https://animefire.plus/animes/dagashi-kashi-todos-os-episodios",
+    "texto_original": "Dagashi Kashi",
+    "rating": 6.7,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/dagashi-kashi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dagashi-kashi/",
+    "secao": "legendados",
+    "pagina": 171,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/dagashi-kashi"
+  }
+}

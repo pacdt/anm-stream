@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Himiko-Den",
+  "anime": {
+    "id": 1485,
+    "nome": "Himiko-Den",
+    "link": "https://animefire.plus/animes/himiko-den-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/himiko-den",
+    "rating": "6.31",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/himiko-den/1",
+      "anime_id": 1485,
+      "anime_name": "Himiko-Den"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/himiko-den/2",
+      "anime_id": 1485,
+      "anime_name": "Himiko-Den"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/himiko-den/3",
+      "anime_id": 1485,
+      "anime_name": "Himiko-Den"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/himiko-den/4",
+      "anime_id": 1485,
+      "anime_name": "Himiko-Den"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/himiko-den/5",
+      "anime_id": 1485,
+      "anime_name": "Himiko-Den"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/himiko-den/6",
+      "anime_id": 1485,
+      "anime_name": "Himiko-Den"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/himiko-den/7",
+      "anime_id": 1485,
+      "anime_name": "Himiko-Den"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/himiko-den/8",
+      "anime_id": 1485,
+      "anime_name": "Himiko-Den"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/himiko-den/9",
+      "anime_id": 1485,
+      "anime_name": "Himiko-Den"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/himiko-den/10",
+      "anime_id": 1485,
+      "anime_name": "Himiko-Den"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/himiko-den/11",
+      "anime_id": 1485,
+      "anime_name": "Himiko-Den"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/himiko-den/12",
+      "anime_id": 1485,
+      "anime_name": "Himiko-Den"
+    }
+  ],
+  "total_episodes": 12
+}

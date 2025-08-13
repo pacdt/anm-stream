@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3476,
+    "nome": "Shion no Ou",
+    "link": "https://animefire.plus/animes/shion-no-ou-todos-os-episodios",
+    "texto_original": "Shion no Ou",
+    "rating": 7.61,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/shion-no-ou.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/shion-no-ou/",
+    "secao": "legendados",
+    "pagina": 128,
+    "total_episodios": 22,
+    "link_video": "https://animefire.plus/video/shion-no-ou"
+  }
+}

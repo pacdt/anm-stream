@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1220,
+    "nome": "Golden Kamuy",
+    "link": "https://animefire.plus/animes/golden-kamuy-todos-os-episodios",
+    "texto_original": "Golden Kamuy",
+    "rating": 7.8,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/golden-kamuy.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/golden-kamuy/",
+    "secao": "legendados",
+    "pagina": 140,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/golden-kamuy"
+  }
+}

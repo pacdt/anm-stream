@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 756,
+    "nome": "Darwin's Game",
+    "link": "https://animefire.plus/animes/darwin-s-game-todos-os-episodios",
+    "texto_original": "Darwin's Game",
+    "rating": 7.3,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/darwin-s-game.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/darwin-s-game/",
+    "secao": "legendados",
+    "pagina": 93,
+    "total_episodios": 10,
+    "link_video": "https://animefire.plus/video/darwin-s-game"
+  }
+}

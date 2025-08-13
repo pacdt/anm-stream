@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Yojouhan Time Machine Blues",
+  "anime": {
+    "id": 4241,
+    "nome": "Yojouhan Time Machine Blues",
+    "link": "https://animefire.plus/animes/yojouhan-time-machine-blues-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yojouhan-time-machine-blues",
+    "rating": "8.18",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yojouhan-time-machine-blues/1",
+      "anime_id": 4241,
+      "anime_name": "Yojouhan Time Machine Blues"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yojouhan-time-machine-blues/2",
+      "anime_id": 4241,
+      "anime_name": "Yojouhan Time Machine Blues"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/yojouhan-time-machine-blues/3",
+      "anime_id": 4241,
+      "anime_name": "Yojouhan Time Machine Blues"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/yojouhan-time-machine-blues/4",
+      "anime_id": 4241,
+      "anime_name": "Yojouhan Time Machine Blues"
+    }
+  ],
+  "total_episodes": 4
+}

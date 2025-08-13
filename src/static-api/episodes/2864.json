@@ -1,0 +1,80 @@
+{
+  "message": "Lista de episódios do anime: Onyankopon",
+  "anime": {
+    "id": 2864,
+    "nome": "Onyankopon",
+    "link": "https://animefire.plus/animes/onyankopon-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/onyankopon",
+    "rating": "4.50",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/onyankopon/1",
+      "anime_id": 2864,
+      "anime_name": "Onyankopon"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/onyankopon/2",
+      "anime_id": 2864,
+      "anime_name": "Onyankopon"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/onyankopon/3",
+      "anime_id": 2864,
+      "anime_name": "Onyankopon"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/onyankopon/4",
+      "anime_id": 2864,
+      "anime_name": "Onyankopon"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/onyankopon/5",
+      "anime_id": 2864,
+      "anime_name": "Onyankopon"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/onyankopon/6",
+      "anime_id": 2864,
+      "anime_name": "Onyankopon"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/onyankopon/7",
+      "anime_id": 2864,
+      "anime_name": "Onyankopon"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/onyankopon/8",
+      "anime_id": 2864,
+      "anime_name": "Onyankopon"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/onyankopon/9",
+      "anime_id": 2864,
+      "anime_name": "Onyankopon"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/onyankopon/10",
+      "anime_id": 2864,
+      "anime_name": "Onyankopon"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/onyankopon/11",
+      "anime_id": 2864,
+      "anime_name": "Onyankopon"
+    }
+  ],
+  "total_episodes": 11
+}

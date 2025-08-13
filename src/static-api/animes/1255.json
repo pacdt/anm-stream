@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1255,
+    "nome": "Grendizer U",
+    "link": "https://animefire.plus/animes/grendizer-u-todos-os-episodios",
+    "texto_original": "Grendizer U",
+    "rating": null,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/grendizer-u.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/grendizer-u/",
+    "secao": "legendados,lancamentos",
+    "pagina": 12,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/grendizer-u"
+  }
+}

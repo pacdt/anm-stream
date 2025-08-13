@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Bihada Ichizoku",
+  "anime": {
+    "id": 385,
+    "nome": "Bihada Ichizoku",
+    "link": "https://animefire.plus/animes/bihada-ichizoku-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/bihada-ichizoku",
+    "rating": "5.80",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/bihada-ichizoku/1",
+      "anime_id": 385,
+      "anime_name": "Bihada Ichizoku"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/bihada-ichizoku/2",
+      "anime_id": 385,
+      "anime_name": "Bihada Ichizoku"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/bihada-ichizoku/3",
+      "anime_id": 385,
+      "anime_name": "Bihada Ichizoku"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/bihada-ichizoku/4",
+      "anime_id": 385,
+      "anime_name": "Bihada Ichizoku"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/bihada-ichizoku/5",
+      "anime_id": 385,
+      "anime_name": "Bihada Ichizoku"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/bihada-ichizoku/6",
+      "anime_id": 385,
+      "anime_name": "Bihada Ichizoku"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/bihada-ichizoku/7",
+      "anime_id": 385,
+      "anime_name": "Bihada Ichizoku"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/bihada-ichizoku/8",
+      "anime_id": 385,
+      "anime_name": "Bihada Ichizoku"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/bihada-ichizoku/9",
+      "anime_id": 385,
+      "anime_name": "Bihada Ichizoku"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/bihada-ichizoku/10",
+      "anime_id": 385,
+      "anime_name": "Bihada Ichizoku"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/bihada-ichizoku/11",
+      "anime_id": 385,
+      "anime_name": "Bihada Ichizoku"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/bihada-ichizoku/12",
+      "anime_id": 385,
+      "anime_name": "Bihada Ichizoku"
+    }
+  ],
+  "total_episodes": 12
+}

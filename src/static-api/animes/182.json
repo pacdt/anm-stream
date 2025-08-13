@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 182,
+    "nome": "Anne Happy♪",
+    "link": "https://animefire.plus/animes/anne-happy-todos-os-episodios",
+    "texto_original": "Anne Happy♪",
+    "rating": 7.05,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/anne-happy.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/anne-happy/",
+    "secao": "legendados",
+    "pagina": 96,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/anne-happy"
+  }
+}

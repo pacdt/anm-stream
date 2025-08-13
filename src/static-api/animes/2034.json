@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2034,
+    "nome": "Knight's & Magic",
+    "link": "https://animefire.plus/animes/knight-s-magic-todos-os-episodios",
+    "texto_original": "Knight's & Magic",
+    "rating": 7.28,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/knight-s-magic.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/knight-s-magic/",
+    "secao": "legendados",
+    "pagina": 101,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/knight-s-magic"
+  }
+}

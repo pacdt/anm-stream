@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Venus Versus Virus",
+  "anime": {
+    "id": 4076,
+    "nome": "Venus Versus Virus",
+    "link": "https://animefire.plus/animes/venus-versus-virus-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/venus-versus-virus",
+    "rating": "6.47",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/venus-versus-virus/1",
+      "anime_id": 4076,
+      "anime_name": "Venus Versus Virus"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/venus-versus-virus/2",
+      "anime_id": 4076,
+      "anime_name": "Venus Versus Virus"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/venus-versus-virus/3",
+      "anime_id": 4076,
+      "anime_name": "Venus Versus Virus"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/venus-versus-virus/4",
+      "anime_id": 4076,
+      "anime_name": "Venus Versus Virus"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/venus-versus-virus/5",
+      "anime_id": 4076,
+      "anime_name": "Venus Versus Virus"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/venus-versus-virus/6",
+      "anime_id": 4076,
+      "anime_name": "Venus Versus Virus"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/venus-versus-virus/7",
+      "anime_id": 4076,
+      "anime_name": "Venus Versus Virus"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/venus-versus-virus/8",
+      "anime_id": 4076,
+      "anime_name": "Venus Versus Virus"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/venus-versus-virus/9",
+      "anime_id": 4076,
+      "anime_name": "Venus Versus Virus"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/venus-versus-virus/10",
+      "anime_id": 4076,
+      "anime_name": "Venus Versus Virus"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/venus-versus-virus/11",
+      "anime_id": 4076,
+      "anime_name": "Venus Versus Virus"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/venus-versus-virus/12",
+      "anime_id": 4076,
+      "anime_name": "Venus Versus Virus"
+    }
+  ],
+  "total_episodes": 12
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 800,
+    "nome": "Detonator Orgun",
+    "link": "https://animefire.plus/animes/detonator-orgun-todos-os-episodios",
+    "texto_original": "Detonator Orgun",
+    "rating": 6.5,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/detonator-orgun.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/detonator-orgun/",
+    "secao": "legendados",
+    "pagina": 77,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/detonator-orgun"
+  }
+}

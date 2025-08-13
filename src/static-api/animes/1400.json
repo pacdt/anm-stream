@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1400,
+    "nome": "Hayate no Gotoku! OVA",
+    "link": "https://animefire.plus/animes/hayate-no-gotoku-ova-todos-os-episodios",
+    "texto_original": "Hayate no Gotoku! OVA",
+    "rating": 7.18,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/hayate-no-gotoku-ova.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hayate-no-gotoku-ova/",
+    "secao": "legendados",
+    "pagina": 85,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/hayate-no-gotoku-ova"
+  }
+}

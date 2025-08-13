@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2431,
+    "nome": "Masamune Datenicle",
+    "link": "https://animefire.plus/animes/masamune-datenicle-todos-os-episodios",
+    "texto_original": "Masamune Datenicle",
+    "rating": 6.03,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/masamune-datenicle.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/masamune-datenicle/",
+    "secao": "legendados",
+    "pagina": 143,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/masamune-datenicle"
+  }
+}

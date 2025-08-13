@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1573,
+    "nome": "I: Wish You Were Here",
+    "link": "https://animefire.plus/animes/i-wish-you-were-here-todos-os-episodios",
+    "texto_original": "I: Wish You Were Here",
+    "rating": 6.13,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/i-wish-you-were-here.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/i-wish-you-were-here/",
+    "secao": "legendados",
+    "pagina": 113,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/i-wish-you-were-here"
+  }
+}

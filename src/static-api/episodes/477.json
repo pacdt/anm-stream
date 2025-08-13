@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Bokutachi no Remake",
+  "anime": {
+    "id": 477,
+    "nome": "Bokutachi no Remake",
+    "link": "https://animefire.plus/animes/bokutachi-no-remake-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/bokutachi-no-remake",
+    "rating": "7.39",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/bokutachi-no-remake/1",
+      "anime_id": 477,
+      "anime_name": "Bokutachi no Remake"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/bokutachi-no-remake/2",
+      "anime_id": 477,
+      "anime_name": "Bokutachi no Remake"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/bokutachi-no-remake/3",
+      "anime_id": 477,
+      "anime_name": "Bokutachi no Remake"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/bokutachi-no-remake/4",
+      "anime_id": 477,
+      "anime_name": "Bokutachi no Remake"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/bokutachi-no-remake/5",
+      "anime_id": 477,
+      "anime_name": "Bokutachi no Remake"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/bokutachi-no-remake/6",
+      "anime_id": 477,
+      "anime_name": "Bokutachi no Remake"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/bokutachi-no-remake/7",
+      "anime_id": 477,
+      "anime_name": "Bokutachi no Remake"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/bokutachi-no-remake/8",
+      "anime_id": 477,
+      "anime_name": "Bokutachi no Remake"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/bokutachi-no-remake/9",
+      "anime_id": 477,
+      "anime_name": "Bokutachi no Remake"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/bokutachi-no-remake/10",
+      "anime_id": 477,
+      "anime_name": "Bokutachi no Remake"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/bokutachi-no-remake/11",
+      "anime_id": 477,
+      "anime_name": "Bokutachi no Remake"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/bokutachi-no-remake/12",
+      "anime_id": 477,
+      "anime_name": "Bokutachi no Remake"
+    }
+  ],
+  "total_episodes": 12
+}

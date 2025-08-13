@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 882,
+    "nome": "Dragon Drive",
+    "link": "https://animefire.plus/animes/dragon-drive-todos-os-episodios",
+    "texto_original": "Dragon Drive",
+    "rating": 6.81,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/dragon-drive.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dragon-drive/",
+    "secao": "legendados",
+    "pagina": 125,
+    "total_episodios": 38,
+    "link_video": "https://animefire.plus/video/dragon-drive"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Fate/Zero",
+  "anime": {
+    "id": 1002,
+    "nome": "Fate/Zero",
+    "link": "https://animefire.plus/animes/fate-zero-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/fate-zero",
+    "rating": "8.40",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/fate-zero/1",
+      "anime_id": 1002,
+      "anime_name": "Fate/Zero"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/fate-zero/2",
+      "anime_id": 1002,
+      "anime_name": "Fate/Zero"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/fate-zero/3",
+      "anime_id": 1002,
+      "anime_name": "Fate/Zero"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/fate-zero/4",
+      "anime_id": 1002,
+      "anime_name": "Fate/Zero"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/fate-zero/5",
+      "anime_id": 1002,
+      "anime_name": "Fate/Zero"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/fate-zero/6",
+      "anime_id": 1002,
+      "anime_name": "Fate/Zero"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/fate-zero/7",
+      "anime_id": 1002,
+      "anime_name": "Fate/Zero"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/fate-zero/8",
+      "anime_id": 1002,
+      "anime_name": "Fate/Zero"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/fate-zero/9",
+      "anime_id": 1002,
+      "anime_name": "Fate/Zero"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/fate-zero/10",
+      "anime_id": 1002,
+      "anime_name": "Fate/Zero"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/fate-zero/11",
+      "anime_id": 1002,
+      "anime_name": "Fate/Zero"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/fate-zero/12",
+      "anime_id": 1002,
+      "anime_name": "Fate/Zero"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/fate-zero/13",
+      "anime_id": 1002,
+      "anime_name": "Fate/Zero"
+    }
+  ],
+  "total_episodes": 13
+}

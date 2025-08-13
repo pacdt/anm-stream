@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Houkago Shounen Hanako-kun Part 2",
+  "anime": {
+    "id": 1541,
+    "nome": "Houkago Shounen Hanako-kun Part 2",
+    "link": "https://animefire.plus/animes/houkago-shounen-hanako-kun-part-2-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/houkago-shounen-hanako-kun-part-2",
+    "rating": "7.09",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/houkago-shounen-hanako-kun-part-2/1",
+      "anime_id": 1541,
+      "anime_name": "Houkago Shounen Hanako-kun Part 2"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/houkago-shounen-hanako-kun-part-2/2",
+      "anime_id": 1541,
+      "anime_name": "Houkago Shounen Hanako-kun Part 2"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/houkago-shounen-hanako-kun-part-2/3",
+      "anime_id": 1541,
+      "anime_name": "Houkago Shounen Hanako-kun Part 2"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/houkago-shounen-hanako-kun-part-2/4",
+      "anime_id": 1541,
+      "anime_name": "Houkago Shounen Hanako-kun Part 2"
+    }
+  ],
+  "total_episodes": 4
+}

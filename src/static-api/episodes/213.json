@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Aoki Honoo",
+  "anime": {
+    "id": 213,
+    "nome": "Aoki Honoo",
+    "link": "https://animefire.plus/animes/aoki-honoo-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/aoki-honoo",
+    "rating": "5.02",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/aoki-honoo/1",
+      "anime_id": 213,
+      "anime_name": "Aoki Honoo"
+    }
+  ],
+  "total_episodes": 1
+}

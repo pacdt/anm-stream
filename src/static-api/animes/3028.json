@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3028,
+    "nome": "Princess Minerva",
+    "link": "https://animefire.plus/animes/princess-minerva-todos-os-episodios",
+    "texto_original": "Princess Minerva",
+    "rating": 5.58,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/princess-minerva.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/princess-minerva/",
+    "secao": "legendados",
+    "pagina": 69,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/princess-minerva"
+  }
+}

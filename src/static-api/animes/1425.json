@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1425,
+    "nome": "Heroic Age",
+    "link": "https://animefire.plus/animes/heroic-age-todos-os-episodios",
+    "texto_original": "Heroic Age",
+    "rating": 7.61,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/heroic-age.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/heroic-age/",
+    "secao": "legendados",
+    "pagina": 145,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/heroic-age"
+  }
+}

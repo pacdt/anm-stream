@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1896,
+    "nome": "Karakuri Circus (TV)",
+    "link": "https://animefire.plus/animes/karakuri-circus-tv-todos-os-episodios",
+    "texto_original": "Karakuri Circus (TV)",
+    "rating": 7.09,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/karakuri-circus-tv.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/karakuri-circus-tv/",
+    "secao": "legendados",
+    "pagina": 40,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/karakuri-circus-tv"
+  }
+}

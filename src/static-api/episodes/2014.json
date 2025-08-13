@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Kirara",
+  "anime": {
+    "id": 2014,
+    "nome": "Kirara",
+    "link": "https://animefire.plus/animes/kirara-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kirara",
+    "rating": "6.21",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kirara/1",
+      "anime_id": 2014,
+      "anime_name": "Kirara"
+    }
+  ],
+  "total_episodes": 1
+}

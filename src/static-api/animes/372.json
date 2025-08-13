@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 372,
+    "nome": "Ben-To",
+    "link": "https://animefire.plus/animes/ben-to-todos-os-episodios",
+    "texto_original": "Ben-To",
+    "rating": 7.38,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ben-to.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ben-to/",
+    "secao": "legendados",
+    "pagina": 165,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/ben-to"
+  }
+}

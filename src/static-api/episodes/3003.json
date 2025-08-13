@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Pokemon Legends Arceus: Yuki Hodo Kishi Futaai",
+  "anime": {
+    "id": 3003,
+    "nome": "Pokemon Legends Arceus: Yuki Hodo Kishi Futaai",
+    "link": "https://animefire.plus/animes/pokemon-legends-arceus-yuki-hodo-kishi-futaai-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/pokemon-legends-arceus-yuki-hodo-kishi-futaai",
+    "rating": "7.41",
+    "classificacao_etaria": "A10"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/pokemon-legends-arceus-yuki-hodo-kishi-futaai/1",
+      "anime_id": 3003,
+      "anime_name": "Pokemon Legends Arceus: Yuki Hodo Kishi Futaai"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/pokemon-legends-arceus-yuki-hodo-kishi-futaai/2",
+      "anime_id": 3003,
+      "anime_name": "Pokemon Legends Arceus: Yuki Hodo Kishi Futaai"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/pokemon-legends-arceus-yuki-hodo-kishi-futaai/3",
+      "anime_id": 3003,
+      "anime_name": "Pokemon Legends Arceus: Yuki Hodo Kishi Futaai"
+    }
+  ],
+  "total_episodes": 3
+}

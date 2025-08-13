@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 271,
+    "nome": "Asura Cryin'",
+    "link": "https://animefire.plus/animes/asura-cryin-todos-os-episodios",
+    "texto_original": "Asura Cryin'",
+    "rating": 7.02,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/asura-cryin.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/asura-cryin/",
+    "secao": "legendados",
+    "pagina": 172,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/asura-cryin"
+  }
+}

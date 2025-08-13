@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2517,
+    "nome": "Mini Yuri",
+    "link": "https://animefire.plus/animes/mini-yuri-todos-os-episodios",
+    "texto_original": "Mini Yuri",
+    "rating": 6.74,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/mini-yuri.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mini-yuri/",
+    "secao": "legendados",
+    "pagina": 84,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/mini-yuri"
+  }
+}

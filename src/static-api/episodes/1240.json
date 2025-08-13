@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Grancrest Senki Tsuisou",
+  "anime": {
+    "id": 1240,
+    "nome": "Grancrest Senki Tsuisou",
+    "link": "https://animefire.plus/animes/grancrest-senki-tsuisou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/grancrest-senki-tsuisou",
+    "rating": "6.51",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/grancrest-senki-tsuisou/1",
+      "anime_id": 1240,
+      "anime_name": "Grancrest Senki Tsuisou"
+    }
+  ],
+  "total_episodes": 1
+}

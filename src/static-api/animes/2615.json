@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2615,
+    "nome": "Musashino!",
+    "link": "https://animefire.plus/animes/musashino-todos-os-episodios",
+    "texto_original": "Musashino!",
+    "rating": 4.65,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/musashino.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/musashino/",
+    "secao": "legendados",
+    "pagina": 32,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/musashino"
+  }
+}

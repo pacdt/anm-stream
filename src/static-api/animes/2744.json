@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2744,
+    "nome": "Ninja Ryuukenden",
+    "link": "https://animefire.plus/animes/ninja-ryuukenden-todos-os-episodios",
+    "texto_original": "Ninja Ryuukenden",
+    "rating": 5.68,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/ninja-ryuukenden.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ninja-ryuukenden/",
+    "secao": "legendados",
+    "pagina": 77,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/ninja-ryuukenden"
+  }
+}

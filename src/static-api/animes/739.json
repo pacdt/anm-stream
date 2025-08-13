@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 739,
+    "nome": "Dandadan (Dublado)",
+    "link": "https://animefire.plus/animes/dandadan-dublado-todos-os-episodios",
+    "texto_original": "Dandadan (Dublado)",
+    "rating": 8.48,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/dandadan.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dandadan/",
+    "secao": "dublados,legendados",
+    "pagina": 2,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/dandadan-dublado"
+  }
+}

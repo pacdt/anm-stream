@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Bungou Stray Dogs: Hitori Ayumu (Dublado)",
+  "anime": {
+    "id": 525,
+    "nome": "Bungou Stray Dogs: Hitori Ayumu (Dublado)",
+    "link": "https://animefire.plus/animes/bungou-stray-dogs-hitori-ayumu-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/bungou-stray-dogs-hitori-ayumu-dublado",
+    "rating": "7.71",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/bungou-stray-dogs-hitori-ayumu-dublado/1",
+      "anime_id": 525,
+      "anime_name": "Bungou Stray Dogs: Hitori Ayumu (Dublado)"
+    }
+  ],
+  "total_episodes": 1
+}

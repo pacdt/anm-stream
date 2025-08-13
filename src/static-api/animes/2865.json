@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2865,
+    "nome": "Ooi! Tonbo",
+    "link": "https://animefire.plus/animes/ooi-tonbo-todos-os-episodios",
+    "texto_original": "Ooi! Tonbo",
+    "rating": 7.11,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ooi-tonbo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ooi-tonbo/",
+    "secao": "legendados,lancamentos",
+    "pagina": 14,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/ooi-tonbo"
+  }
+}

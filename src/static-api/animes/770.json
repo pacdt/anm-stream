@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 770,
+    "nome": "Deaimon",
+    "link": "https://animefire.plus/animes/deaimon-todos-os-episodios",
+    "texto_original": "Deaimon",
+    "rating": 7.55,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/deaimon.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/deaimon/",
+    "secao": "legendados",
+    "pagina": 34,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/deaimon"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Zan Sayonara Zetsubou Sensei Bangaichi",
+  "anime": {
+    "id": 4332,
+    "nome": "Zan Sayonara Zetsubou Sensei Bangaichi",
+    "link": "https://animefire.plus/animes/zan-sayonara-zetsubou-sensei-bangaichi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/zan-sayonara-zetsubou-sensei-bangaichi",
+    "rating": "7.83",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/zan-sayonara-zetsubou-sensei-bangaichi/1",
+      "anime_id": 4332,
+      "anime_name": "Zan Sayonara Zetsubou Sensei Bangaichi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/zan-sayonara-zetsubou-sensei-bangaichi/2",
+      "anime_id": 4332,
+      "anime_name": "Zan Sayonara Zetsubou Sensei Bangaichi"
+    }
+  ],
+  "total_episodes": 2
+}

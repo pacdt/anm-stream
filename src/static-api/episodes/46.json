@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: A-Channel: Nabe wo Tabeyou",
+  "anime": {
+    "id": 46,
+    "nome": "A-Channel: Nabe wo Tabeyou",
+    "link": "https://animefire.plus/animes/a-channel-nabe-wo-tabeyou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/a-channel-nabe-wo-tabeyou",
+    "rating": "6.92",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/a-channel-nabe-wo-tabeyou/1",
+      "anime_id": 46,
+      "anime_name": "A-Channel: Nabe wo Tabeyou"
+    }
+  ],
+  "total_episodes": 1
+}

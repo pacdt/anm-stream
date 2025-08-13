@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 986,
+    "nome": "Fate/Grand Carnival",
+    "link": "https://animefire.plus/animes/fate-grand-carnival-todos-os-episodios",
+    "texto_original": "Fate/Grand Carnival",
+    "rating": 8.18,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/fate-grand-carnival.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/fate-grand-carnival/",
+    "secao": "legendados,lancamentos",
+    "pagina": 48,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/fate-grand-carnival"
+  }
+}

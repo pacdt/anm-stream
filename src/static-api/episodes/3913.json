@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Tonikaku Kawaii: Joshikou-hen (Dublado)",
+  "anime": {
+    "id": 3913,
+    "nome": "Tonikaku Kawaii: Joshikou-hen (Dublado)",
+    "link": "https://animefire.plus/animes/tonikaku-kawaii-joshikou-hen-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tonikaku-kawaii-joshikou-hen-dublado",
+    "rating": "7.76",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tonikaku-kawaii-joshikou-hen-dublado/1",
+      "anime_id": 3913,
+      "anime_name": "Tonikaku Kawaii: Joshikou-hen (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tonikaku-kawaii-joshikou-hen-dublado/2",
+      "anime_id": 3913,
+      "anime_name": "Tonikaku Kawaii: Joshikou-hen (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tonikaku-kawaii-joshikou-hen-dublado/3",
+      "anime_id": 3913,
+      "anime_name": "Tonikaku Kawaii: Joshikou-hen (Dublado)"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tonikaku-kawaii-joshikou-hen-dublado/4",
+      "anime_id": 3913,
+      "anime_name": "Tonikaku Kawaii: Joshikou-hen (Dublado)"
+    }
+  ],
+  "total_episodes": 4
+}

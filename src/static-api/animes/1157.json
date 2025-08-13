@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1157,
+    "nome": "Gimai Seikatsu",
+    "link": "https://animefire.plus/animes/gimai-seikatsu-todos-os-episodios",
+    "texto_original": "Gimai Seikatsu",
+    "rating": 7.33,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/gimai-seikatsu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gimai-seikatsu/",
+    "secao": "legendados",
+    "pagina": 13,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/gimai-seikatsu"
+  }
+}

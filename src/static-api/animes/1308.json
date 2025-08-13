@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1308,
+    "nome": "Haikyuu!! (Dublado)",
+    "link": "https://animefire.plus/animes/haikyuu-dublado-todos-os-episodios",
+    "texto_original": "Haikyuu!! (Dublado)",
+    "rating": 8.45,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/haikyuu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/haikyuu/",
+    "secao": "dublados,legendados",
+    "pagina": 9,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/haikyuu-dublado"
+  }
+}

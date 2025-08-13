@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3269,
+    "nome": "Sayonara Zetsubou Sensei",
+    "link": "https://animefire.plus/animes/sayonara-zetsubou-sensei-todos-os-episodios",
+    "texto_original": "Sayonara Zetsubou Sensei",
+    "rating": 7.92,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/sayonara-zetsubou-sensei.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sayonara-zetsubou-sensei/",
+    "secao": "legendados",
+    "pagina": 60,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/sayonara-zetsubou-sensei"
+  }
+}

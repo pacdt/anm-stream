@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1516,
+    "nome": "Honey Lemon Soda",
+    "link": "https://animefire.plus/animes/honey-lemon-soda-todos-os-episodios",
+    "texto_original": "Honey Lemon Soda",
+    "rating": 7.17,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/honey-lemon-soda.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/honey-lemon-soda/",
+    "secao": "legendados",
+    "pagina": 7,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/honey-lemon-soda"
+  }
+}

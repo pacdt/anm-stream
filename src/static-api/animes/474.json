@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 474,
+    "nome": "Bokurano",
+    "link": "https://animefire.plus/animes/bokurano-todos-os-episodios",
+    "texto_original": "Bokurano",
+    "rating": 7.72,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/bokurano.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/bokurano/",
+    "secao": "legendados",
+    "pagina": 142,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/bokurano"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Mikagura Gakuen Kumikyoku (TV)",
+  "anime": {
+    "id": 2500,
+    "nome": "Mikagura Gakuen Kumikyoku (TV)",
+    "link": "https://animefire.plus/animes/mikagura-gakuen-kumikyoku-tv-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mikagura-gakuen-kumikyoku-tv",
+    "rating": "6.78",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mikagura-gakuen-kumikyoku-tv/1",
+      "anime_id": 2500,
+      "anime_name": "Mikagura Gakuen Kumikyoku (TV)"
+    }
+  ],
+  "total_episodes": 1
+}

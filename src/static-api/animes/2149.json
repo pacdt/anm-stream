@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2149,
+    "nome": "Kurokami The Animation",
+    "link": "https://animefire.plus/animes/kurokami-the-animation-todos-os-episodios",
+    "texto_original": "Kurokami The Animation",
+    "rating": 7.22,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/kurokami-the-animation.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kurokami-the-animation/",
+    "secao": "legendados",
+    "pagina": 177,
+    "total_episodios": 23,
+    "link_video": "https://animefire.plus/video/kurokami-the-animation"
+  }
+}

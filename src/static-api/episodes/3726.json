@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Tales of Phantasia The Animation",
+  "anime": {
+    "id": 3726,
+    "nome": "Tales of Phantasia The Animation",
+    "link": "https://animefire.plus/animes/tales-of-phantasia-the-animation-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tales-of-phantasia-the-animation",
+    "rating": "6.84",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tales-of-phantasia-the-animation/1",
+      "anime_id": 3726,
+      "anime_name": "Tales of Phantasia The Animation"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tales-of-phantasia-the-animation/2",
+      "anime_id": 3726,
+      "anime_name": "Tales of Phantasia The Animation"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tales-of-phantasia-the-animation/3",
+      "anime_id": 3726,
+      "anime_name": "Tales of Phantasia The Animation"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tales-of-phantasia-the-animation/4",
+      "anime_id": 3726,
+      "anime_name": "Tales of Phantasia The Animation"
+    }
+  ],
+  "total_episodes": 4
+}

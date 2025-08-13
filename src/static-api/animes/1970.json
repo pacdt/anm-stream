@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1970,
+    "nome": "Kikoushi Enma",
+    "link": "https://animefire.plus/animes/kikoushi-enma-todos-os-episodios",
+    "texto_original": "Kikoushi Enma",
+    "rating": 7.16,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/kikoushi-enma.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kikoushi-enma/",
+    "secao": "legendados",
+    "pagina": 66,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/kikoushi-enma"
+  }
+}

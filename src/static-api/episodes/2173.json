@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Kyochuu Rettou",
+  "anime": {
+    "id": 2173,
+    "nome": "Kyochuu Rettou",
+    "link": "https://animefire.plus/animes/kyochuu-rettou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kyochuu-rettou",
+    "rating": "4.53",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kyochuu-rettou/1",
+      "anime_id": 2173,
+      "anime_name": "Kyochuu Rettou"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Koutetsu Sangokushi",
+  "anime": {
+    "id": 2114,
+    "nome": "Koutetsu Sangokushi",
+    "link": "https://animefire.plus/animes/koutetsu-sangokushi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/koutetsu-sangokushi",
+    "rating": "6.37",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/koutetsu-sangokushi/1",
+      "anime_id": 2114,
+      "anime_name": "Koutetsu Sangokushi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/koutetsu-sangokushi/2",
+      "anime_id": 2114,
+      "anime_name": "Koutetsu Sangokushi"
+    }
+  ],
+  "total_episodes": 2
+}

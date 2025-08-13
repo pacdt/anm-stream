@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Hitsugi no Chaika",
+  "anime": {
+    "id": 1510,
+    "nome": "Hitsugi no Chaika",
+    "link": "https://animefire.plus/animes/hitsugi-no-chaika-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hitsugi-no-chaika",
+    "rating": "7.37",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hitsugi-no-chaika/1",
+      "anime_id": 1510,
+      "anime_name": "Hitsugi no Chaika"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hitsugi-no-chaika/2",
+      "anime_id": 1510,
+      "anime_name": "Hitsugi no Chaika"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hitsugi-no-chaika/3",
+      "anime_id": 1510,
+      "anime_name": "Hitsugi no Chaika"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/hitsugi-no-chaika/4",
+      "anime_id": 1510,
+      "anime_name": "Hitsugi no Chaika"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/hitsugi-no-chaika/5",
+      "anime_id": 1510,
+      "anime_name": "Hitsugi no Chaika"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/hitsugi-no-chaika/6",
+      "anime_id": 1510,
+      "anime_name": "Hitsugi no Chaika"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/hitsugi-no-chaika/7",
+      "anime_id": 1510,
+      "anime_name": "Hitsugi no Chaika"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/hitsugi-no-chaika/8",
+      "anime_id": 1510,
+      "anime_name": "Hitsugi no Chaika"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/hitsugi-no-chaika/9",
+      "anime_id": 1510,
+      "anime_name": "Hitsugi no Chaika"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/hitsugi-no-chaika/10",
+      "anime_id": 1510,
+      "anime_name": "Hitsugi no Chaika"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/hitsugi-no-chaika/11",
+      "anime_id": 1510,
+      "anime_name": "Hitsugi no Chaika"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/hitsugi-no-chaika/12",
+      "anime_id": 1510,
+      "anime_name": "Hitsugi no Chaika"
+    }
+  ],
+  "total_episodes": 12
+}

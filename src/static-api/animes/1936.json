@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1936,
+    "nome": "Kemono Friends 2",
+    "link": "https://animefire.plus/animes/kemono-friends-2-todos-os-episodios",
+    "texto_original": "Kemono Friends 2",
+    "rating": 5.87,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kemono-friends-2.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kemono-friends-2/",
+    "secao": "legendados",
+    "pagina": 112,
+    "total_episodios": 2,
+    "link_video": "https://animefire.plus/video/kemono-friends-2"
+  }
+}

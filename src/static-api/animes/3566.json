@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3566,
+    "nome": "Solty Rei",
+    "link": "https://animefire.plus/animes/solty-rei-todos-os-episodios",
+    "texto_original": "Solty Rei",
+    "rating": 7.32,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/solty-rei.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/solty-rei/",
+    "secao": "legendados",
+    "pagina": 158,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/solty-rei"
+  }
+}

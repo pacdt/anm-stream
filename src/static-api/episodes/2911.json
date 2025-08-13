@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Osomatsu-san: Ouma de Kobanashi",
+  "anime": {
+    "id": 2911,
+    "nome": "Osomatsu-san: Ouma de Kobanashi",
+    "link": "https://animefire.plus/animes/osomatsu-san-ouma-de-kobanashi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/osomatsu-san-ouma-de-kobanashi",
+    "rating": "7.31",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/osomatsu-san-ouma-de-kobanashi/1",
+      "anime_id": 2911,
+      "anime_name": "Osomatsu-san: Ouma de Kobanashi"
+    }
+  ],
+  "total_episodes": 1
+}

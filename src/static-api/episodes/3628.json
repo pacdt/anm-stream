@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Starmyu in Halloween",
+  "anime": {
+    "id": 3628,
+    "nome": "Starmyu in Halloween",
+    "link": "https://animefire.plus/animes/starmyu-in-halloween-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/starmyu-in-halloween",
+    "rating": "6.92",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/starmyu-in-halloween/1",
+      "anime_id": 3628,
+      "anime_name": "Starmyu in Halloween"
+    }
+  ],
+  "total_episodes": 1
+}

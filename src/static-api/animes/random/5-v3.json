@@ -1,0 +1,77 @@
+{
+  "message": "5 animes aleatórios",
+  "data": [
+    {
+      "id": 3145,
+      "nome": "Rokka no Yuusha (Dublado)",
+      "link": "https://animefire.plus/animes/rokka-no-yuusha-dublado-todos-os-episodios",
+      "texto_original": "Rokka no Yuusha (Dublado)",
+      "rating": 7.43,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/rokka-no-yuusha.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/rokka-no-yuusha/",
+      "secao": "dublados,legendados",
+      "pagina": 25,
+      "total_episodios": 12,
+      "link_video": "https://animefire.plus/video/rokka-no-yuusha-dublado"
+    },
+    {
+      "id": 329,
+      "nome": "Ballroom e Youkoso",
+      "link": "https://animefire.plus/animes/ballroom-e-youkoso-todos-os-episodios",
+      "texto_original": "Ballroom e Youkoso",
+      "rating": 8.26,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/ballroom-e-youkoso.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/ballroom-e-youkoso/",
+      "secao": "legendados",
+      "pagina": 80,
+      "total_episodios": 0,
+      "link_video": "https://animefire.plus/video/ballroom-e-youkoso"
+    },
+    {
+      "id": 2068,
+      "nome": "Kokoro Toshokan",
+      "link": "https://animefire.plus/animes/kokoro-toshokan-todos-os-episodios",
+      "texto_original": "Kokoro Toshokan",
+      "rating": 6.53,
+      "classificacao_etaria": "A10",
+      "imagem_original": "https://animefire.plus/img/animes/kokoro-toshokan.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/kokoro-toshokan/",
+      "secao": "legendados",
+      "pagina": 122,
+      "total_episodios": 13,
+      "link_video": "https://animefire.plus/video/kokoro-toshokan"
+    },
+    {
+      "id": 766,
+      "nome": "Dead Mount Death Play",
+      "link": "https://animefire.plus/animes/dead-mount-death-play-todos-os-episodios",
+      "texto_original": "Dead Mount Death Play",
+      "rating": 7.27,
+      "classificacao_etaria": "A16",
+      "imagem_original": "https://animefire.plus/img/animes/dead-mount-death-play.jpg",
+      "imagem_pasta": "https://animefire.plus/img/animes/dead-mount-death-play/",
+      "secao": "legendados",
+      "pagina": 24,
+      "total_episodios": 12,
+      "link_video": "https://animefire.plus/video/dead-mount-death-play"
+    },
+    {
+      "id": 677,
+      "nome": "Code-E",
+      "link": "https://animefire.plus/animes/code-e-todos-os-episodios",
+      "texto_original": "Code-E",
+      "rating": 6.48,
+      "classificacao_etaria": null,
+      "imagem_original": "https://animefire.plus/img/animes/code-e.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/code-e/",
+      "secao": "legendados",
+      "pagina": 153,
+      "total_episodios": 12,
+      "link_video": "https://animefire.plus/video/code-e"
+    }
+  ],
+  "total": 5,
+  "version": 3
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Wan Sheng Jie",
+  "anime": {
+    "id": 4101,
+    "nome": "Wan Sheng Jie",
+    "link": "https://animefire.plus/animes/wan-sheng-jie-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/wan-sheng-jie",
+    "rating": "7.95",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/wan-sheng-jie/1",
+      "anime_id": 4101,
+      "anime_name": "Wan Sheng Jie"
+    }
+  ],
+  "total_episodes": 1
+}

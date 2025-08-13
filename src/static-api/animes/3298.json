@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3298,
+    "nome": "Seikon no Qwaser",
+    "link": "https://animefire.plus/animes/seikon-no-qwaser-todos-os-episodios",
+    "texto_original": "Seikon no Qwaser",
+    "rating": 6.34,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/seikon-no-qwaser.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/seikon-no-qwaser/",
+    "secao": "legendados",
+    "pagina": 18,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/seikon-no-qwaser"
+  }
+}

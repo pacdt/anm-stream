@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 438,
+    "nome": "Blue Gender",
+    "link": "https://animefire.plus/animes/blue-gender-todos-os-episodios",
+    "texto_original": "Blue Gender",
+    "rating": 7.1,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/blue-gender.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/blue-gender/",
+    "secao": "legendados",
+    "pagina": 173,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/blue-gender"
+  }
+}

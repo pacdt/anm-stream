@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Strike the Blood: Kieta Seisou-hen",
+  "anime": {
+    "id": 3650,
+    "nome": "Strike the Blood: Kieta Seisou-hen",
+    "link": "https://animefire.plus/animes/strike-the-blood-kieta-seisou-hen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/strike-the-blood-kieta-seisou-hen",
+    "rating": "6.89",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/strike-the-blood-kieta-seisou-hen/1",
+      "anime_id": 3650,
+      "anime_name": "Strike the Blood: Kieta Seisou-hen"
+    }
+  ],
+  "total_episodes": 1
+}

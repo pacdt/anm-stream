@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4051,
+    "nome": "Utawarerumono",
+    "link": "https://animefire.plus/animes/utawarerumono-todos-os-episodios",
+    "texto_original": "Utawarerumono",
+    "rating": 7.72,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/utawarerumono.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/utawarerumono/",
+    "secao": "legendados",
+    "pagina": 145,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/utawarerumono"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Kandagawa Jet Girls OVA",
+  "anime": {
+    "id": 1871,
+    "nome": "Kandagawa Jet Girls OVA",
+    "link": "https://animefire.plus/animes/kandagawa-jet-girls-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kandagawa-jet-girls-ova",
+    "rating": "5.60",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kandagawa-jet-girls-ova/1",
+      "anime_id": 1871,
+      "anime_name": "Kandagawa Jet Girls OVA"
+    }
+  ],
+  "total_episodes": 1
+}

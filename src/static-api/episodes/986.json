@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Fate/Grand Carnival",
+  "anime": {
+    "id": 986,
+    "nome": "Fate/Grand Carnival",
+    "link": "https://animefire.plus/animes/fate-grand-carnival-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/fate-grand-carnival",
+    "rating": "8.18",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/fate-grand-carnival/1",
+      "anime_id": 986,
+      "anime_name": "Fate/Grand Carnival"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/fate-grand-carnival/2",
+      "anime_id": 986,
+      "anime_name": "Fate/Grand Carnival"
+    }
+  ],
+  "total_episodes": 2
+}

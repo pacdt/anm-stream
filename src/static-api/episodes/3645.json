@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Strike the Blood",
+  "anime": {
+    "id": 3645,
+    "nome": "Strike the Blood",
+    "link": "https://animefire.plus/animes/strike-the-blood-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/strike-the-blood",
+    "rating": "7.30",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/strike-the-blood/1",
+      "anime_id": 3645,
+      "anime_name": "Strike the Blood"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/strike-the-blood/2",
+      "anime_id": 3645,
+      "anime_name": "Strike the Blood"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/strike-the-blood/3",
+      "anime_id": 3645,
+      "anime_name": "Strike the Blood"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/strike-the-blood/4",
+      "anime_id": 3645,
+      "anime_name": "Strike the Blood"
+    }
+  ],
+  "total_episodes": 4
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2799,
+    "nome": "Nyanko Days",
+    "link": "https://animefire.plus/animes/nyanko-days-todos-os-episodios",
+    "texto_original": "Nyanko Days",
+    "rating": 6.66,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/nyanko-days.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/nyanko-days/",
+    "secao": "legendados",
+    "pagina": 118,
+    "total_episodios": 1,
+    "link_video": "https://animefire.plus/video/nyanko-days"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1513,
+    "nome": "Hokuto No Ken",
+    "link": "https://animefire.plus/animes/hokuto-no-ken-todos-os-episodios",
+    "texto_original": "Hokuto No Ken",
+    "rating": 8.01,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/hokuto-no-ken.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/hokuto-no-ken/",
+    "secao": "legendados",
+    "pagina": 60,
+    "total_episodios": 107,
+    "link_video": "https://animefire.plus/video/hokuto-no-ken"
+  }
+}

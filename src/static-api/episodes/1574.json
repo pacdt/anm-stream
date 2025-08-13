@@ -1,0 +1,50 @@
+{
+  "message": "Lista de episódios do anime: I''s Pure",
+  "anime": {
+    "id": 1574,
+    "nome": "I''s Pure",
+    "link": "https://animefire.plus/animes/i-s-pure-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/i-s-pure",
+    "rating": "6.89",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/i-s-pure/1",
+      "anime_id": 1574,
+      "anime_name": "I''s Pure"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/i-s-pure/2",
+      "anime_id": 1574,
+      "anime_name": "I''s Pure"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/i-s-pure/3",
+      "anime_id": 1574,
+      "anime_name": "I''s Pure"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/i-s-pure/4",
+      "anime_id": 1574,
+      "anime_name": "I''s Pure"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/i-s-pure/5",
+      "anime_id": 1574,
+      "anime_name": "I''s Pure"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/i-s-pure/6",
+      "anime_id": 1574,
+      "anime_name": "I''s Pure"
+    }
+  ],
+  "total_episodes": 6
+}

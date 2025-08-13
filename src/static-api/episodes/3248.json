@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Samurai Gun Special",
+  "anime": {
+    "id": 3248,
+    "nome": "Samurai Gun Special",
+    "link": "https://animefire.plus/animes/samurai-gun-special-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/samurai-gun-special",
+    "rating": "5.94",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/samurai-gun-special/1",
+      "anime_id": 3248,
+      "anime_name": "Samurai Gun Special"
+    }
+  ],
+  "total_episodes": 1
+}

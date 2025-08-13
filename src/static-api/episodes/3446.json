@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Shingeki no Kyojin: Lost Girls (Dublado)",
+  "anime": {
+    "id": 3446,
+    "nome": "Shingeki no Kyojin: Lost Girls (Dublado)",
+    "link": "https://animefire.plus/animes/shingeki-no-kyojin-lost-girls-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/shingeki-no-kyojin-lost-girls-dublado",
+    "rating": "7.80",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/shingeki-no-kyojin-lost-girls-dublado/1",
+      "anime_id": 3446,
+      "anime_name": "Shingeki no Kyojin: Lost Girls (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/shingeki-no-kyojin-lost-girls-dublado/2",
+      "anime_id": 3446,
+      "anime_name": "Shingeki no Kyojin: Lost Girls (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/shingeki-no-kyojin-lost-girls-dublado/3",
+      "anime_id": 3446,
+      "anime_name": "Shingeki no Kyojin: Lost Girls (Dublado)"
+    }
+  ],
+  "total_episodes": 3
+}

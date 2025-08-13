@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2760,
+    "nome": "Nobunaga Concerto",
+    "link": "https://animefire.plus/animes/nobunaga-concerto-todos-os-episodios",
+    "texto_original": "Nobunaga Concerto",
+    "rating": 7.69,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/nobunaga-concerto.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/nobunaga-concerto/",
+    "secao": "legendados",
+    "pagina": 141,
+    "total_episodios": 7,
+    "link_video": "https://animefire.plus/video/nobunaga-concerto"
+  }
+}

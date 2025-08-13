@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 298,
+    "nome": "Baby Steps",
+    "link": "https://animefire.plus/animes/baby-steps-todos-os-episodios",
+    "texto_original": "Baby Steps",
+    "rating": 7.92,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/baby-steps.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/baby-steps/",
+    "secao": "legendados",
+    "pagina": 145,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/baby-steps"
+  }
+}

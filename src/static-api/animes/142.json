@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 142,
+    "nome": "Alice to Zouroku",
+    "link": "https://animefire.plus/animes/alice-to-zouroku-todos-os-episodios",
+    "texto_original": "Alice to Zouroku",
+    "rating": 7.18,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/alice-to-zouroku.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/alice-to-zouroku/",
+    "secao": "legendados",
+    "pagina": 139,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/alice-to-zouroku"
+  }
+}

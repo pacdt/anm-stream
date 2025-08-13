@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 660,
+    "nome": "Clannad",
+    "link": "https://animefire.plus/animes/clannad-todos-os-episodios",
+    "texto_original": "Clannad",
+    "rating": 8.18,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/clannad.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/clannad/",
+    "secao": "legendados",
+    "pagina": 155,
+    "total_episodios": 23,
+    "link_video": "https://animefire.plus/video/clannad"
+  }
+}

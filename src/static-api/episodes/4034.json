@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Urara Meirochou",
+  "anime": {
+    "id": 4034,
+    "nome": "Urara Meirochou",
+    "link": "https://animefire.plus/animes/urara-meirochou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/urara-meirochou",
+    "rating": "7.20",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/urara-meirochou/1",
+      "anime_id": 4034,
+      "anime_name": "Urara Meirochou"
+    }
+  ],
+  "total_episodes": 1
+}

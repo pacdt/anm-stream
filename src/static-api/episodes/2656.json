@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Nanatsu no Bitoku Specials",
+  "anime": {
+    "id": 2656,
+    "nome": "Nanatsu no Bitoku Specials",
+    "link": "https://animefire.plus/animes/nanatsu-no-bitoku-specials-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/nanatsu-no-bitoku-specials",
+    "rating": "5.52",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/nanatsu-no-bitoku-specials/1",
+      "anime_id": 2656,
+      "anime_name": "Nanatsu no Bitoku Specials"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/nanatsu-no-bitoku-specials/2",
+      "anime_id": 2656,
+      "anime_name": "Nanatsu no Bitoku Specials"
+    }
+  ],
+  "total_episodes": 2
+}

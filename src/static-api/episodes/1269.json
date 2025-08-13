@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: Guilty Gear Strive: Dual Rulers",
+  "anime": {
+    "id": 1269,
+    "nome": "Guilty Gear Strive: Dual Rulers",
+    "link": "https://animefire.plus/animes/guilty-gear-strive-dual-rulers-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/guilty-gear-strive-dual-rulers",
+    "rating": "5.94",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/guilty-gear-strive-dual-rulers/1",
+      "anime_id": 1269,
+      "anime_name": "Guilty Gear Strive: Dual Rulers"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/guilty-gear-strive-dual-rulers/2",
+      "anime_id": 1269,
+      "anime_name": "Guilty Gear Strive: Dual Rulers"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/guilty-gear-strive-dual-rulers/3",
+      "anime_id": 1269,
+      "anime_name": "Guilty Gear Strive: Dual Rulers"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/guilty-gear-strive-dual-rulers/4",
+      "anime_id": 1269,
+      "anime_name": "Guilty Gear Strive: Dual Rulers"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/guilty-gear-strive-dual-rulers/5",
+      "anime_id": 1269,
+      "anime_name": "Guilty Gear Strive: Dual Rulers"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/guilty-gear-strive-dual-rulers/6",
+      "anime_id": 1269,
+      "anime_name": "Guilty Gear Strive: Dual Rulers"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/guilty-gear-strive-dual-rulers/7",
+      "anime_id": 1269,
+      "anime_name": "Guilty Gear Strive: Dual Rulers"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/guilty-gear-strive-dual-rulers/8",
+      "anime_id": 1269,
+      "anime_name": "Guilty Gear Strive: Dual Rulers"
+    }
+  ],
+  "total_episodes": 8
+}

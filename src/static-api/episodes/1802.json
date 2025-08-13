@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Kaibutsu Oujo (OVA)",
+  "anime": {
+    "id": 1802,
+    "nome": "Kaibutsu Oujo (OVA)",
+    "link": "https://animefire.plus/animes/kaibutsu-oujo-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kaibutsu-oujo-ova",
+    "rating": "7.10",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kaibutsu-oujo-ova/1",
+      "anime_id": 1802,
+      "anime_name": "Kaibutsu Oujo (OVA)"
+    }
+  ],
+  "total_episodes": 1
+}

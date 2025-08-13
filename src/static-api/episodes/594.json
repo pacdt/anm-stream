@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: ChäoS;HEAd",
+  "anime": {
+    "id": 594,
+    "nome": "ChäoS;HEAd",
+    "link": "https://animefire.plus/animes/chaeos-head-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/chaeos-head",
+    "rating": "6.47",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/chaeos-head/1",
+      "anime_id": 594,
+      "anime_name": "ChäoS;HEAd"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/chaeos-head/2",
+      "anime_id": 594,
+      "anime_name": "ChäoS;HEAd"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/chaeos-head/3",
+      "anime_id": 594,
+      "anime_name": "ChäoS;HEAd"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/chaeos-head/4",
+      "anime_id": 594,
+      "anime_name": "ChäoS;HEAd"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/chaeos-head/5",
+      "anime_id": 594,
+      "anime_name": "ChäoS;HEAd"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/chaeos-head/6",
+      "anime_id": 594,
+      "anime_name": "ChäoS;HEAd"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/chaeos-head/7",
+      "anime_id": 594,
+      "anime_name": "ChäoS;HEAd"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/chaeos-head/8",
+      "anime_id": 594,
+      "anime_name": "ChäoS;HEAd"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/chaeos-head/9",
+      "anime_id": 594,
+      "anime_name": "ChäoS;HEAd"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/chaeos-head/10",
+      "anime_id": 594,
+      "anime_name": "ChäoS;HEAd"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/chaeos-head/11",
+      "anime_id": 594,
+      "anime_name": "ChäoS;HEAd"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/chaeos-head/12",
+      "anime_id": 594,
+      "anime_name": "ChäoS;HEAd"
+    }
+  ],
+  "total_episodes": 12
+}

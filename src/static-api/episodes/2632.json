@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Muteking the Dancing Hero",
+  "anime": {
+    "id": 2632,
+    "nome": "Muteking the Dancing Hero",
+    "link": "https://animefire.plus/animes/muteking-the-dancing-hero-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/muteking-the-dancing-hero",
+    "rating": "5.84",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/muteking-the-dancing-hero/1",
+      "anime_id": 2632,
+      "anime_name": "Muteking the Dancing Hero"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/muteking-the-dancing-hero/2",
+      "anime_id": 2632,
+      "anime_name": "Muteking the Dancing Hero"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/muteking-the-dancing-hero/3",
+      "anime_id": 2632,
+      "anime_name": "Muteking the Dancing Hero"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/muteking-the-dancing-hero/4",
+      "anime_id": 2632,
+      "anime_name": "Muteking the Dancing Hero"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/muteking-the-dancing-hero/5",
+      "anime_id": 2632,
+      "anime_name": "Muteking the Dancing Hero"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/muteking-the-dancing-hero/6",
+      "anime_id": 2632,
+      "anime_name": "Muteking the Dancing Hero"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/muteking-the-dancing-hero/7",
+      "anime_id": 2632,
+      "anime_name": "Muteking the Dancing Hero"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/muteking-the-dancing-hero/8",
+      "anime_id": 2632,
+      "anime_name": "Muteking the Dancing Hero"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/muteking-the-dancing-hero/9",
+      "anime_id": 2632,
+      "anime_name": "Muteking the Dancing Hero"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/muteking-the-dancing-hero/10",
+      "anime_id": 2632,
+      "anime_name": "Muteking the Dancing Hero"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/muteking-the-dancing-hero/11",
+      "anime_id": 2632,
+      "anime_name": "Muteking the Dancing Hero"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/muteking-the-dancing-hero/12",
+      "anime_id": 2632,
+      "anime_name": "Muteking the Dancing Hero"
+    }
+  ],
+  "total_episodes": 12
+}

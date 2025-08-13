@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Dr. Stone: Ryuusui (Dublado)",
+  "anime": {
+    "id": 870,
+    "nome": "Dr. Stone: Ryuusui (Dublado)",
+    "link": "https://animefire.plus/animes/dr-stone-ryuusui-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/dr-stone-ryuusui-dublado",
+    "rating": "8.13",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/dr-stone-ryuusui-dublado/1",
+      "anime_id": 870,
+      "anime_name": "Dr. Stone: Ryuusui (Dublado)"
+    }
+  ],
+  "total_episodes": 1
+}

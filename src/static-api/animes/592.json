@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 592,
+    "nome": "Chao You Bing",
+    "link": "https://animefire.plus/animes/chao-you-bing-todos-os-episodios",
+    "texto_original": "Chao You Bing",
+    "rating": 5.86,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/chao-you-bing.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/chao-you-bing/",
+    "secao": "legendados",
+    "pagina": 163,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/chao-you-bing"
+  }
+}

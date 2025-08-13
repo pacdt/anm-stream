@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2611,
+    "nome": "Murai no Koi",
+    "link": "https://animefire.plus/animes/murai-no-koi-todos-os-episodios",
+    "texto_original": "Murai no Koi",
+    "rating": 7.52,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/murai-no-koi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/murai-no-koi/",
+    "secao": "legendados",
+    "pagina": 9,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/murai-no-koi"
+  }
+}

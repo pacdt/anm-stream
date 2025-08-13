@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3218,
+    "nome": "Saiyuuki Reload",
+    "link": "https://animefire.plus/animes/saiyuuki-reload-todos-os-episodios",
+    "texto_original": "Saiyuuki Reload",
+    "rating": 7.49,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/saiyuuki-reload.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/saiyuuki-reload/",
+    "secao": "legendados",
+    "pagina": 176,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/saiyuuki-reload"
+  }
+}

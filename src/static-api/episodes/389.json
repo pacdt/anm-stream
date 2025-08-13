@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: Binan Koukou Chikyuu Boueibu LOVE!",
+  "anime": {
+    "id": 389,
+    "nome": "Binan Koukou Chikyuu Boueibu LOVE!",
+    "link": "https://animefire.plus/animes/binan-koukou-chikyuu-boueibu-love-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/binan-koukou-chikyuu-boueibu-love",
+    "rating": "7.00",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/binan-koukou-chikyuu-boueibu-love/1",
+      "anime_id": 389,
+      "anime_name": "Binan Koukou Chikyuu Boueibu LOVE!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/binan-koukou-chikyuu-boueibu-love/2",
+      "anime_id": 389,
+      "anime_name": "Binan Koukou Chikyuu Boueibu LOVE!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/binan-koukou-chikyuu-boueibu-love/3",
+      "anime_id": 389,
+      "anime_name": "Binan Koukou Chikyuu Boueibu LOVE!"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/binan-koukou-chikyuu-boueibu-love/4",
+      "anime_id": 389,
+      "anime_name": "Binan Koukou Chikyuu Boueibu LOVE!"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/binan-koukou-chikyuu-boueibu-love/5",
+      "anime_id": 389,
+      "anime_name": "Binan Koukou Chikyuu Boueibu LOVE!"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/binan-koukou-chikyuu-boueibu-love/6",
+      "anime_id": 389,
+      "anime_name": "Binan Koukou Chikyuu Boueibu LOVE!"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/binan-koukou-chikyuu-boueibu-love/7",
+      "anime_id": 389,
+      "anime_name": "Binan Koukou Chikyuu Boueibu LOVE!"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/binan-koukou-chikyuu-boueibu-love/8",
+      "anime_id": 389,
+      "anime_name": "Binan Koukou Chikyuu Boueibu LOVE!"
+    }
+  ],
+  "total_episodes": 8
+}

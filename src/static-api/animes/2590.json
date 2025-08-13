@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2590,
+    "nome": "Moonrise",
+    "link": "https://animefire.plus/animes/moonrise-todos-os-episodios",
+    "texto_original": "Moonrise",
+    "rating": null,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/moonrise.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/moonrise/",
+    "secao": "legendados,lancamentos",
+    "pagina": 4,
+    "total_episodios": 3,
+    "link_video": "https://animefire.plus/video/moonrise"
+  }
+}

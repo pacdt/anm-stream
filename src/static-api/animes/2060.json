@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2060,
+    "nome": "Koisuru Asteroid",
+    "link": "https://animefire.plus/animes/koisuru-asteroid-todos-os-episodios",
+    "texto_original": "Koisuru Asteroid",
+    "rating": 6.87,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/koisuru-asteroid.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/koisuru-asteroid/",
+    "secao": "legendados",
+    "pagina": 93,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/koisuru-asteroid"
+  }
+}

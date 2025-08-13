@@ -1,0 +1,77 @@
+{
+  "message": "5 animes aleatórios",
+  "data": [
+    {
+      "id": 2650,
+      "nome": "Namu Amida Butsu!: Rendai Utena",
+      "link": "https://animefire.plus/animes/namu-amida-butsu-rendai-utena-todos-os-episodios",
+      "texto_original": "Namu Amida Butsu!: Rendai Utena",
+      "rating": 6.07,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/namu-amida-butsu-rendai-utena.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/namu-amida-butsu-rendai-utena/",
+      "secao": "legendados",
+      "pagina": 142,
+      "total_episodios": 0,
+      "link_video": "https://animefire.plus/video/namu-amida-butsu-rendai-utena"
+    },
+    {
+      "id": 492,
+      "nome": "Boys Be...",
+      "link": "https://animefire.plus/animes/boys-be-todos-os-episodios",
+      "texto_original": "Boys Be...",
+      "rating": 6.46,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/boys-be.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/boys-be/",
+      "secao": "legendados",
+      "pagina": 54,
+      "total_episodios": 13,
+      "link_video": "https://animefire.plus/video/boys-be"
+    },
+    {
+      "id": 846,
+      "nome": "Donten ni Warau",
+      "link": "https://animefire.plus/animes/donten-ni-warau-todos-os-episodios",
+      "texto_original": "Donten ni Warau",
+      "rating": 7.59,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/donten-ni-warau.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/donten-ni-warau/",
+      "secao": "legendados",
+      "pagina": 120,
+      "total_episodios": 0,
+      "link_video": "https://animefire.plus/video/donten-ni-warau"
+    },
+    {
+      "id": 729,
+      "nome": "Daitoshokan No Hitsujikai",
+      "link": "https://animefire.plus/animes/daitoshokan-no-hitsujikai-todos-os-episodios",
+      "texto_original": "Daitoshokan No Hitsujikai",
+      "rating": 7.02,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/daitoshokan-no-hitsujikai.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/daitoshokan-no-hitsujikai/",
+      "secao": "legendados",
+      "pagina": 96,
+      "total_episodios": 2,
+      "link_video": "https://animefire.plus/video/daitoshokan-no-hitsujikai"
+    },
+    {
+      "id": 2184,
+      "nome": "Kyoukai no Rinne (TV)",
+      "link": "https://animefire.plus/animes/kyoukai-no-rinne-tv-todos-os-episodios",
+      "texto_original": "Kyoukai no Rinne (TV)",
+      "rating": 6.93,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/kyoukai-no-rinne-tv.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/kyoukai-no-rinne-tv/",
+      "secao": "legendados",
+      "pagina": 91,
+      "total_episodios": 25,
+      "link_video": "https://animefire.plus/video/kyoukai-no-rinne-tv"
+    }
+  ],
+  "total": 5,
+  "version": 1
+}

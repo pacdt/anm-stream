@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3823,
+    "nome": "Texhnolyze",
+    "link": "https://animefire.plus/animes/texhnolyze-todos-os-episodios",
+    "texto_original": "Texhnolyze",
+    "rating": 7.76,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/texhnolyze.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/texhnolyze/",
+    "secao": "legendados",
+    "pagina": 144,
+    "total_episodios": 22,
+    "link_video": "https://animefire.plus/video/texhnolyze"
+  }
+}

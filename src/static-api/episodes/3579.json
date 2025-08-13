@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Sorairo Utility",
+  "anime": {
+    "id": 3579,
+    "nome": "Sorairo Utility",
+    "link": "https://animefire.plus/animes/sorairo-utility-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sorairo-utility",
+    "rating": "6.52",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sorairo-utility/1",
+      "anime_id": 3579,
+      "anime_name": "Sorairo Utility"
+    }
+  ],
+  "total_episodes": 1
+}

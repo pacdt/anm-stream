@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1227,
+    "nome": "Golgo 13 (TV)",
+    "link": "https://animefire.plus/animes/golgo-13-tv-todos-os-episodios",
+    "texto_original": "Golgo 13 (TV)",
+    "rating": 7.53,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/golgo-13-tv.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/golgo-13-tv/",
+    "secao": "legendados",
+    "pagina": 45,
+    "total_episodios": 50,
+    "link_video": "https://animefire.plus/video/golgo-13-tv"
+  }
+}

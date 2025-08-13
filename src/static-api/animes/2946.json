@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2946,
+    "nome": "Pan de Peace!",
+    "link": "https://animefire.plus/animes/pan-de-peace-todos-os-episodios",
+    "texto_original": "Pan de Peace!",
+    "rating": 5.61,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/pan-de-peace.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/pan-de-peace/",
+    "secao": "legendados",
+    "pagina": 61,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/pan-de-peace"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "message": "Lista de episódios do anime: Sengoku Basara",
+  "anime": {
+    "id": 3329,
+    "nome": "Sengoku Basara",
+    "link": "https://animefire.plus/animes/sengoku-basara-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sengoku-basara",
+    "rating": "7.47",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sengoku-basara/1",
+      "anime_id": 3329,
+      "anime_name": "Sengoku Basara"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/sengoku-basara/2",
+      "anime_id": 3329,
+      "anime_name": "Sengoku Basara"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/sengoku-basara/3",
+      "anime_id": 3329,
+      "anime_name": "Sengoku Basara"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/sengoku-basara/4",
+      "anime_id": 3329,
+      "anime_name": "Sengoku Basara"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/sengoku-basara/5",
+      "anime_id": 3329,
+      "anime_name": "Sengoku Basara"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/sengoku-basara/6",
+      "anime_id": 3329,
+      "anime_name": "Sengoku Basara"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/sengoku-basara/7",
+      "anime_id": 3329,
+      "anime_name": "Sengoku Basara"
+    }
+  ],
+  "total_episodes": 7
+}

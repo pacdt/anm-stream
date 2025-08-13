@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2560,
+    "nome": "Mobile Suit Victory Gundam",
+    "link": "https://animefire.plus/animes/mobile-suit-victory-gundam-todos-os-episodios",
+    "texto_original": "Mobile Suit Victory Gundam",
+    "rating": 6.76,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/mobile-suit-victory-gundam.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mobile-suit-victory-gundam/",
+    "secao": "legendados",
+    "pagina": 55,
+    "total_episodios": 51,
+    "link_video": "https://animefire.plus/video/mobile-suit-victory-gundam"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Chuubyou Gekihatsu Boy Special",
+  "anime": {
+    "id": 641,
+    "nome": "Chuubyou Gekihatsu Boy Special",
+    "link": "https://animefire.plus/animes/chuubyou-gekihatsu-boy-special-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/chuubyou-gekihatsu-boy-special",
+    "rating": "6.83",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/chuubyou-gekihatsu-boy-special/1",
+      "anime_id": 641,
+      "anime_name": "Chuubyou Gekihatsu Boy Special"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3686,
+    "nome": "Suzuka",
+    "link": "https://animefire.plus/animes/suzuka-todos-os-episodios",
+    "texto_original": "Suzuka",
+    "rating": 7.3,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/suzuka.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/suzuka/",
+    "secao": "legendados",
+    "pagina": 129,
+    "total_episodios": 22,
+    "link_video": "https://animefire.plus/video/suzuka"
+  }
+}

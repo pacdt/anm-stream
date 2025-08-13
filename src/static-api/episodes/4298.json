@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Yuri Kuma Arashi",
+  "anime": {
+    "id": 4298,
+    "nome": "Yuri Kuma Arashi",
+    "link": "https://animefire.plus/animes/yuri-kuma-arashi-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/yuri-kuma-arashi",
+    "rating": "7.14",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/yuri-kuma-arashi/1",
+      "anime_id": 4298,
+      "anime_name": "Yuri Kuma Arashi"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/yuri-kuma-arashi/2",
+      "anime_id": 4298,
+      "anime_name": "Yuri Kuma Arashi"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/yuri-kuma-arashi/3",
+      "anime_id": 4298,
+      "anime_name": "Yuri Kuma Arashi"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/yuri-kuma-arashi/4",
+      "anime_id": 4298,
+      "anime_name": "Yuri Kuma Arashi"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/yuri-kuma-arashi/5",
+      "anime_id": 4298,
+      "anime_name": "Yuri Kuma Arashi"
+    }
+  ],
+  "total_episodes": 5
+}

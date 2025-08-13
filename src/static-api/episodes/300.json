@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Babylon",
+  "anime": {
+    "id": 300,
+    "nome": "Babylon",
+    "link": "https://animefire.plus/animes/babylon-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/babylon",
+    "rating": "6.82",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/babylon/1",
+      "anime_id": 300,
+      "anime_name": "Babylon"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/babylon/2",
+      "anime_id": 300,
+      "anime_name": "Babylon"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/babylon/3",
+      "anime_id": 300,
+      "anime_name": "Babylon"
+    }
+  ],
+  "total_episodes": 3
+}

@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Egao no Daika",
+  "anime": {
+    "id": 924,
+    "nome": "Egao no Daika",
+    "link": "https://animefire.plus/animes/egao-no-daika-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/egao-no-daika",
+    "rating": "6.06",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/egao-no-daika/1",
+      "anime_id": 924,
+      "anime_name": "Egao no Daika"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/egao-no-daika/2",
+      "anime_id": 924,
+      "anime_name": "Egao no Daika"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/egao-no-daika/3",
+      "anime_id": 924,
+      "anime_name": "Egao no Daika"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/egao-no-daika/4",
+      "anime_id": 924,
+      "anime_name": "Egao no Daika"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/egao-no-daika/5",
+      "anime_id": 924,
+      "anime_name": "Egao no Daika"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/egao-no-daika/6",
+      "anime_id": 924,
+      "anime_name": "Egao no Daika"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/egao-no-daika/7",
+      "anime_id": 924,
+      "anime_name": "Egao no Daika"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/egao-no-daika/8",
+      "anime_id": 924,
+      "anime_name": "Egao no Daika"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/egao-no-daika/9",
+      "anime_id": 924,
+      "anime_name": "Egao no Daika"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/egao-no-daika/10",
+      "anime_id": 924,
+      "anime_name": "Egao no Daika"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/egao-no-daika/11",
+      "anime_id": 924,
+      "anime_name": "Egao no Daika"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/egao-no-daika/12",
+      "anime_id": 924,
+      "anime_name": "Egao no Daika"
+    }
+  ],
+  "total_episodes": 12
+}

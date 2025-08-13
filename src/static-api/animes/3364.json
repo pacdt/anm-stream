@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3364,
+    "nome": "Servant x Service",
+    "link": "https://animefire.plus/animes/servant-x-service-todos-os-episodios",
+    "texto_original": "Servant x Service",
+    "rating": 7.73,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/servant-x-service.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/servant-x-service/",
+    "secao": "legendados",
+    "pagina": 82,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/servant-x-service"
+  }
+}

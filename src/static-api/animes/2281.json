@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2281,
+    "nome": "Lupin Zero",
+    "link": "https://animefire.plus/animes/lupin-zero-todos-os-episodios",
+    "texto_original": "Lupin Zero",
+    "rating": 7.39,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/lupin-zero.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/lupin-zero/",
+    "secao": "legendados",
+    "pagina": 27,
+    "total_episodios": 6,
+    "link_video": "https://animefire.plus/video/lupin-zero"
+  }
+}

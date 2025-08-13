@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2214,
+    "nome": "Let's Nupu Nupu",
+    "link": "https://animefire.plus/animes/let-s-nupu-nupu-todos-os-episodios",
+    "texto_original": "Let's Nupu Nupu",
+    "rating": 6.25,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/let-s-nupu-nupu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/let-s-nupu-nupu/",
+    "secao": "legendados",
+    "pagina": 42,
+    "total_episodios": 16,
+    "link_video": "https://animefire.plus/video/let-s-nupu-nupu"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Spectral Force",
+  "anime": {
+    "id": 3609,
+    "nome": "Spectral Force",
+    "link": "https://animefire.plus/animes/spectral-force-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/spectral-force",
+    "rating": "3.97",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/spectral-force/1",
+      "anime_id": 3609,
+      "anime_name": "Spectral Force"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/spectral-force/2",
+      "anime_id": 3609,
+      "anime_name": "Spectral Force"
+    }
+  ],
+  "total_episodes": 2
+}

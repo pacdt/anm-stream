@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 760,
+    "nome": "Date A Live IV",
+    "link": "https://animefire.plus/animes/date-a-live-iv-todos-os-episodios",
+    "texto_original": "Date A Live IV",
+    "rating": 7.74,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/date-a-live-iv.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/date-a-live-iv/",
+    "secao": "legendados,lancamentos",
+    "pagina": 39,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/date-a-live-iv"
+  }
+}

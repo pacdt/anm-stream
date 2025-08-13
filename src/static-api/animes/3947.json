@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3947,
+    "nome": "Tsugumomo",
+    "link": "https://animefire.plus/animes/tsugumomo-todos-os-episodios",
+    "texto_original": "Tsugumomo",
+    "rating": 7.11,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/tsugumomo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/tsugumomo/",
+    "secao": "legendados",
+    "pagina": 106,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/tsugumomo"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3033,
+    "nome": "PriPara",
+    "link": "https://animefire.plus/animes/pripara-todos-os-episodios",
+    "texto_original": "PriPara",
+    "rating": 7.62,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/pripara.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/pripara/",
+    "secao": "legendados",
+    "pagina": 177,
+    "total_episodios": 140,
+    "link_video": "https://animefire.plus/video/pripara"
+  }
+}

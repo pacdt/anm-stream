@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1056,
+    "nome": "Futakoi",
+    "link": "https://animefire.plus/animes/futakoi-todos-os-episodios",
+    "texto_original": "Futakoi",
+    "rating": 6.56,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/futakoi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/futakoi/",
+    "secao": "legendados",
+    "pagina": 174,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/futakoi"
+  }
+}

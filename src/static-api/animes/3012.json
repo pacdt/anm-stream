@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3012,
+    "nome": "PopoloCrois",
+    "link": "https://animefire.plus/animes/popolocrois-todos-os-episodios",
+    "texto_original": "PopoloCrois",
+    "rating": 7.09,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/popolocrois.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/popolocrois/",
+    "secao": "legendados",
+    "pagina": 164,
+    "total_episodios": 26,
+    "link_video": "https://animefire.plus/video/popolocrois"
+  }
+}

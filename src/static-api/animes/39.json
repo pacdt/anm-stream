@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 39,
+    "nome": "7 Seeds (Dublado)",
+    "link": "https://animefire.plus/animes/7-seeds-dublado-todos-os-episodios",
+    "texto_original": "7 Seeds (Dublado)",
+    "rating": 6.52,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/7-seeds.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/7-seeds/",
+    "secao": "dublados,legendados",
+    "pagina": 23,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/7-seeds-dublado"
+  }
+}

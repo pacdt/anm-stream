@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3851,
+    "nome": "To Be Hero",
+    "link": "https://animefire.plus/animes/to-be-hero-todos-os-episodios",
+    "texto_original": "To Be Hero",
+    "rating": 7.04,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/to-be-hero.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/to-be-hero/",
+    "secao": "legendados",
+    "pagina": 99,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/to-be-hero"
+  }
+}

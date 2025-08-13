@@ -1,0 +1,74 @@
+{
+  "message": "Lista de episódios do anime: Mahoutsukai Precure!! Mirai Days",
+  "anime": {
+    "id": 2359,
+    "nome": "Mahoutsukai Precure!! Mirai Days",
+    "link": "https://animefire.plus/animes/mahoutsukai-precure-mirai-days-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/mahoutsukai-precure-mirai-days",
+    "rating": "7.17",
+    "classificacao_etaria": "N/A"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/mahoutsukai-precure-mirai-days/1",
+      "anime_id": 2359,
+      "anime_name": "Mahoutsukai Precure!! Mirai Days"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/mahoutsukai-precure-mirai-days/2",
+      "anime_id": 2359,
+      "anime_name": "Mahoutsukai Precure!! Mirai Days"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/mahoutsukai-precure-mirai-days/3",
+      "anime_id": 2359,
+      "anime_name": "Mahoutsukai Precure!! Mirai Days"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/mahoutsukai-precure-mirai-days/4",
+      "anime_id": 2359,
+      "anime_name": "Mahoutsukai Precure!! Mirai Days"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/mahoutsukai-precure-mirai-days/5",
+      "anime_id": 2359,
+      "anime_name": "Mahoutsukai Precure!! Mirai Days"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/mahoutsukai-precure-mirai-days/6",
+      "anime_id": 2359,
+      "anime_name": "Mahoutsukai Precure!! Mirai Days"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/mahoutsukai-precure-mirai-days/7",
+      "anime_id": 2359,
+      "anime_name": "Mahoutsukai Precure!! Mirai Days"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/mahoutsukai-precure-mirai-days/8",
+      "anime_id": 2359,
+      "anime_name": "Mahoutsukai Precure!! Mirai Days"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/mahoutsukai-precure-mirai-days/9",
+      "anime_id": 2359,
+      "anime_name": "Mahoutsukai Precure!! Mirai Days"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/mahoutsukai-precure-mirai-days/10",
+      "anime_id": 2359,
+      "anime_name": "Mahoutsukai Precure!! Mirai Days"
+    }
+  ],
+  "total_episodes": 10
+}

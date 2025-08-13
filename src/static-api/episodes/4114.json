@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
+  "anime": {
+    "id": 4114,
+    "nome": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
+    "link": "https://animefire.plus/animes/watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
+    "rating": "7.20",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui/1",
+      "anime_id": 4114,
+      "anime_name": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui/2",
+      "anime_id": 4114,
+      "anime_name": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui/3",
+      "anime_id": 4114,
+      "anime_name": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!"
+    }
+  ],
+  "total_episodes": 3
+}

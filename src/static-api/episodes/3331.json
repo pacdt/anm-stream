@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Sengoku Basara Two: Ryuko, Itadaki no Chikai! Atsuki Mirai e Kakeru Tamashii!!",
+  "anime": {
+    "id": 3331,
+    "nome": "Sengoku Basara Two: Ryuko, Itadaki no Chikai! Atsuki Mirai e Kakeru Tamashii!!",
+    "link": "https://animefire.plus/animes/sengoku-basara-two-ryuko-itadaki-no-chikai-atsuki-mirai-e-kakeru-tamashii-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sengoku-basara-two-ryuko-itadaki-no-chikai-atsuki-mirai-e-kakeru-tamashii",
+    "rating": "7.29",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sengoku-basara-two-ryuko-itadaki-no-chikai-atsuki-mirai-e-kakeru-tamashii/1",
+      "anime_id": 3331,
+      "anime_name": "Sengoku Basara Two: Ryuko, Itadaki no Chikai! Atsuki Mirai e Kakeru Tamashii!!"
+    }
+  ],
+  "total_episodes": 1
+}

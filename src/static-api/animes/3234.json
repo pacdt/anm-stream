@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3234,
+    "nome": "Sakura Quest",
+    "link": "https://animefire.plus/animes/sakura-quest-todos-os-episodios",
+    "texto_original": "Sakura Quest",
+    "rating": 7.46,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/sakura-quest.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sakura-quest/",
+    "secao": "legendados",
+    "pagina": 153,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/sakura-quest"
+  }
+}

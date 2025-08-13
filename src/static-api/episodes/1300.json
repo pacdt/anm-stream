@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Hachi-nan tte, Sore wa Nai deshou!",
+  "anime": {
+    "id": 1300,
+    "nome": "Hachi-nan tte, Sore wa Nai deshou!",
+    "link": "https://animefire.plus/animes/hachi-nan-tte-sore-wa-nai-deshou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hachi-nan-tte-sore-wa-nai-deshou",
+    "rating": "6.19",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hachi-nan-tte-sore-wa-nai-deshou/1",
+      "anime_id": 1300,
+      "anime_name": "Hachi-nan tte, Sore wa Nai deshou!"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hachi-nan-tte-sore-wa-nai-deshou/2",
+      "anime_id": 1300,
+      "anime_name": "Hachi-nan tte, Sore wa Nai deshou!"
+    }
+  ],
+  "total_episodes": 2
+}

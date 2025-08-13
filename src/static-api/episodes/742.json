@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
+  "anime": {
+    "id": 742,
+    "nome": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
+    "link": "https://animefire.plus/animes/danganronpa-3-the-end-of-kibougamine-gakuen---zetsubou-hen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/danganronpa-3-the-end-of-kibougamine-gakuen---zetsubou-hen",
+    "rating": "7.68",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/danganronpa-3-the-end-of-kibougamine-gakuen---zetsubou-hen/1",
+      "anime_id": 742,
+      "anime_name": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen"
+    }
+  ],
+  "total_episodes": 1
+}

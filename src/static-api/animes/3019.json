@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3019,
+    "nome": "Power Stone",
+    "link": "https://animefire.plus/animes/power-stone-todos-os-episodios",
+    "texto_original": "Power Stone",
+    "rating": 6.54,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/power-stone.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/power-stone/",
+    "secao": "legendados",
+    "pagina": 105,
+    "total_episodios": 18,
+    "link_video": "https://animefire.plus/video/power-stone"
+  }
+}

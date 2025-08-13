@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Kimetsu Gakuen: Valentine-hen",
+  "anime": {
+    "id": 1975,
+    "nome": "Kimetsu Gakuen: Valentine-hen",
+    "link": "https://animefire.plus/animes/kimetsu-gakuen-valentine-hen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kimetsu-gakuen-valentine-hen",
+    "rating": "6.68",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kimetsu-gakuen-valentine-hen/1",
+      "anime_id": 1975,
+      "anime_name": "Kimetsu Gakuen: Valentine-hen"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kimetsu-gakuen-valentine-hen/2",
+      "anime_id": 1975,
+      "anime_name": "Kimetsu Gakuen: Valentine-hen"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kimetsu-gakuen-valentine-hen/3",
+      "anime_id": 1975,
+      "anime_name": "Kimetsu Gakuen: Valentine-hen"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/kimetsu-gakuen-valentine-hen/4",
+      "anime_id": 1975,
+      "anime_name": "Kimetsu Gakuen: Valentine-hen"
+    }
+  ],
+  "total_episodes": 4
+}

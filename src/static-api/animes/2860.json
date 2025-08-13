@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2860,
+    "nome": "Onmyou Taisenki",
+    "link": "https://animefire.plus/animes/onmyou-taisenki-todos-os-episodios",
+    "texto_original": "Onmyou Taisenki",
+    "rating": 7.26,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/onmyou-taisenki.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/onmyou-taisenki/",
+    "secao": "legendados",
+    "pagina": 178,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/onmyou-taisenki"
+  }
+}

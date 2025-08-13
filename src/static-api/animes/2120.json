@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2120,
+    "nome": "Kowabon",
+    "link": "https://animefire.plus/animes/kowabon-todos-os-episodios",
+    "texto_original": "Kowabon",
+    "rating": 5.25,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/kowabon.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kowabon/",
+    "secao": "legendados",
+    "pagina": 59,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/kowabon"
+  }
+}

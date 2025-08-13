@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2460,
+    "nome": "Mecha-ude (TV)",
+    "link": "https://animefire.plus/animes/mecha-ude-tv-todos-os-episodios",
+    "texto_original": "Mecha-ude (TV)",
+    "rating": 6.8,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/mecha-ude-tv.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/mecha-ude-tv/",
+    "secao": "legendados",
+    "pagina": 10,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/mecha-ude-tv"
+  }
+}

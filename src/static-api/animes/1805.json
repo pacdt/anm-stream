@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1805,
+    "nome": "Kaidan Restaurant",
+    "link": "https://animefire.plus/animes/kaidan-restaurant-todos-os-episodios",
+    "texto_original": "Kaidan Restaurant",
+    "rating": 7.33,
+    "classificacao_etaria": "A10",
+    "imagem_original": "https://animefire.plus/img/animes/kaidan-restaurant.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/kaidan-restaurant/",
+    "secao": "legendados",
+    "pagina": 134,
+    "total_episodios": 19,
+    "link_video": "https://animefire.plus/video/kaidan-restaurant"
+  }
+}

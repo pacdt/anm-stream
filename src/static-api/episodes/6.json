@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: \"Bungaku Shoujo\" Memoire",
+  "anime": {
+    "id": 6,
+    "nome": "\"Bungaku Shoujo\" Memoire",
+    "link": "https://animefire.plus/animes/bungaku-shoujo-memoire-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/bungaku-shoujo-memoire",
+    "rating": "7.33",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/bungaku-shoujo-memoire/1",
+      "anime_id": 6,
+      "anime_name": "\"Bungaku Shoujo\" Memoire"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/bungaku-shoujo-memoire/2",
+      "anime_id": 6,
+      "anime_name": "\"Bungaku Shoujo\" Memoire"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/bungaku-shoujo-memoire/3",
+      "anime_id": 6,
+      "anime_name": "\"Bungaku Shoujo\" Memoire"
+    }
+  ],
+  "total_episodes": 3
+}

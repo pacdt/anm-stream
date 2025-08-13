@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3180,
+    "nome": "Sabage-bu!",
+    "link": "https://animefire.plus/animes/sabage-bu-todos-os-episodios",
+    "texto_original": "Sabage-bu!",
+    "rating": 7.43,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/sabage-bu.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sabage-bu/",
+    "secao": "legendados",
+    "pagina": 111,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/sabage-bu"
+  }
+}

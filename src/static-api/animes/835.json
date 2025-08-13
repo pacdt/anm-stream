@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 835,
+    "nome": "DNA² (Dublado)",
+    "link": "https://animefire.plus/animes/dna-dublado-todos-os-episodios",
+    "texto_original": "DNA² (Dublado)",
+    "rating": 6.73,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/dna.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/dna/",
+    "secao": "dublados,legendados",
+    "pagina": 25,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/dna-dublado"
+  }
+}

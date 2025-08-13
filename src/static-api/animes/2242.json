@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2242,
+    "nome": "Lost Song (Dublado)",
+    "link": "https://animefire.plus/animes/lost-song-dublado-todos-os-episodios",
+    "texto_original": "Lost Song (Dublado)",
+    "rating": 7.16,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/lost-song.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/lost-song/",
+    "secao": "dublados,legendados",
+    "pagina": 24,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/lost-song-dublado"
+  }
+}

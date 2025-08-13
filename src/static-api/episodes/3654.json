@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Strike Witches OVA",
+  "anime": {
+    "id": 3654,
+    "nome": "Strike Witches OVA",
+    "link": "https://animefire.plus/animes/strike-witches-ova-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/strike-witches-ova",
+    "rating": "6.28",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/strike-witches-ova/1",
+      "anime_id": 3654,
+      "anime_name": "Strike Witches OVA"
+    }
+  ],
+  "total_episodes": 1
+}

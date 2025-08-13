@@ -1,0 +1,68 @@
+{
+  "message": "Lista de episódios do anime: Bubuki Buranki: Hoshi no Kyojin",
+  "anime": {
+    "id": 508,
+    "nome": "Bubuki Buranki: Hoshi no Kyojin",
+    "link": "https://animefire.plus/animes/bubuki-buranki-hoshi-no-kyojin-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/bubuki-buranki-hoshi-no-kyojin",
+    "rating": "6.93",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/bubuki-buranki-hoshi-no-kyojin/1",
+      "anime_id": 508,
+      "anime_name": "Bubuki Buranki: Hoshi no Kyojin"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/bubuki-buranki-hoshi-no-kyojin/2",
+      "anime_id": 508,
+      "anime_name": "Bubuki Buranki: Hoshi no Kyojin"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/bubuki-buranki-hoshi-no-kyojin/3",
+      "anime_id": 508,
+      "anime_name": "Bubuki Buranki: Hoshi no Kyojin"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/bubuki-buranki-hoshi-no-kyojin/4",
+      "anime_id": 508,
+      "anime_name": "Bubuki Buranki: Hoshi no Kyojin"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/bubuki-buranki-hoshi-no-kyojin/5",
+      "anime_id": 508,
+      "anime_name": "Bubuki Buranki: Hoshi no Kyojin"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/bubuki-buranki-hoshi-no-kyojin/6",
+      "anime_id": 508,
+      "anime_name": "Bubuki Buranki: Hoshi no Kyojin"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/bubuki-buranki-hoshi-no-kyojin/7",
+      "anime_id": 508,
+      "anime_name": "Bubuki Buranki: Hoshi no Kyojin"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/bubuki-buranki-hoshi-no-kyojin/8",
+      "anime_id": 508,
+      "anime_name": "Bubuki Buranki: Hoshi no Kyojin"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/bubuki-buranki-hoshi-no-kyojin/9",
+      "anime_id": 508,
+      "anime_name": "Bubuki Buranki: Hoshi no Kyojin"
+    }
+  ],
+  "total_episodes": 9
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Gakuen Tokusou Hikaruon",
+  "anime": {
+    "id": 1088,
+    "nome": "Gakuen Tokusou Hikaruon",
+    "link": "https://animefire.plus/animes/gakuen-tokusou-hikaruon-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/gakuen-tokusou-hikaruon",
+    "rating": "5.56",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/gakuen-tokusou-hikaruon/1",
+      "anime_id": 1088,
+      "anime_name": "Gakuen Tokusou Hikaruon"
+    }
+  ],
+  "total_episodes": 1
+}

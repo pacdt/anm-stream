@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Tantei Opera Milky Holmes: Psycho no Aisatsu",
+  "anime": {
+    "id": 3746,
+    "nome": "Tantei Opera Milky Holmes: Psycho no Aisatsu",
+    "link": "https://animefire.plus/animes/tantei-opera-milky-holmes-psycho-no-aisatsu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tantei-opera-milky-holmes-psycho-no-aisatsu",
+    "rating": "6.79",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tantei-opera-milky-holmes-psycho-no-aisatsu/1",
+      "anime_id": 3746,
+      "anime_name": "Tantei Opera Milky Holmes: Psycho no Aisatsu"
+    }
+  ],
+  "total_episodes": 1
+}

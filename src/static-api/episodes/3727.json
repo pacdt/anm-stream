@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Tales Of Symphonia The Animation: Tethe'alla-hen",
+  "anime": {
+    "id": 3727,
+    "nome": "Tales Of Symphonia The Animation: Tethe'alla-hen",
+    "link": "https://animefire.plus/animes/tales-of-symphonia-the-animation-tethe-alla-hen-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tales-of-symphonia-the-animation-tethe-alla-hen",
+    "rating": "7.56",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tales-of-symphonia-the-animation-tethe-alla-hen/1",
+      "anime_id": 3727,
+      "anime_name": "Tales Of Symphonia The Animation: Tethe'alla-hen"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tales-of-symphonia-the-animation-tethe-alla-hen/2",
+      "anime_id": 3727,
+      "anime_name": "Tales Of Symphonia The Animation: Tethe'alla-hen"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/tales-of-symphonia-the-animation-tethe-alla-hen/3",
+      "anime_id": 3727,
+      "anime_name": "Tales Of Symphonia The Animation: Tethe'alla-hen"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/tales-of-symphonia-the-animation-tethe-alla-hen/4",
+      "anime_id": 3727,
+      "anime_name": "Tales Of Symphonia The Animation: Tethe'alla-hen"
+    }
+  ],
+  "total_episodes": 4
+}

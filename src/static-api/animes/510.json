@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 510,
+    "nome": "Bucchigiri",
+    "link": "https://animefire.plus/animes/butchgiri-todos-os-episodios",
+    "texto_original": "Bucchigiri",
+    "rating": 5.96,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/butchgiri.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/butchgiri/",
+    "secao": "legendados",
+    "pagina": 16,
+    "total_episodios": 0,
+    "link_video": "https://animefire.plus/video/butchgiri"
+  }
+}

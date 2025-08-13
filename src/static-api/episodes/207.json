@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Aoharu x Kikanjuu",
+  "anime": {
+    "id": 207,
+    "nome": "Aoharu x Kikanjuu",
+    "link": "https://animefire.plus/animes/aoharu-x-kikanjuu-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/aoharu-x-kikanjuu",
+    "rating": "7.27",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/aoharu-x-kikanjuu/1",
+      "anime_id": 207,
+      "anime_name": "Aoharu x Kikanjuu"
+    }
+  ],
+  "total_episodes": 1
+}

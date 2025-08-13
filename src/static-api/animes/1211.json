@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1211,
+    "nome": "Gokinjo Monogatari",
+    "link": "https://animefire.plus/animes/gokinjo-monogatari-todos-os-episodios",
+    "texto_original": "Gokinjo Monogatari",
+    "rating": 7.46,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/gokinjo-monogatari.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/gokinjo-monogatari/",
+    "secao": "legendados",
+    "pagina": 77,
+    "total_episodios": 50,
+    "link_video": "https://animefire.plus/video/gokinjo-monogatari"
+  }
+}

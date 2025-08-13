@@ -1,0 +1,86 @@
+{
+  "message": "Lista de episódios do anime: Citrus",
+  "anime": {
+    "id": 655,
+    "nome": "Citrus",
+    "link": "https://animefire.plus/animes/citrus-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/citrus",
+    "rating": "6.77",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/citrus/1",
+      "anime_id": 655,
+      "anime_name": "Citrus"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/citrus/2",
+      "anime_id": 655,
+      "anime_name": "Citrus"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/citrus/3",
+      "anime_id": 655,
+      "anime_name": "Citrus"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/citrus/4",
+      "anime_id": 655,
+      "anime_name": "Citrus"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/citrus/5",
+      "anime_id": 655,
+      "anime_name": "Citrus"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/citrus/6",
+      "anime_id": 655,
+      "anime_name": "Citrus"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/citrus/7",
+      "anime_id": 655,
+      "anime_name": "Citrus"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/citrus/8",
+      "anime_id": 655,
+      "anime_name": "Citrus"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/citrus/9",
+      "anime_id": 655,
+      "anime_name": "Citrus"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/citrus/10",
+      "anime_id": 655,
+      "anime_name": "Citrus"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/citrus/11",
+      "anime_id": 655,
+      "anime_name": "Citrus"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/citrus/12",
+      "anime_id": 655,
+      "anime_name": "Citrus"
+    }
+  ],
+  "total_episodes": 12
+}

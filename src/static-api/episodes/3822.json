@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Tetsuwan Birdy Decode:02",
+  "anime": {
+    "id": 3822,
+    "nome": "Tetsuwan Birdy Decode:02",
+    "link": "https://animefire.plus/animes/tetsuwan-birdy-decode-02-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/tetsuwan-birdy-decode-02",
+    "rating": "7.79",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/tetsuwan-birdy-decode-02/1",
+      "anime_id": 3822,
+      "anime_name": "Tetsuwan Birdy Decode:02"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/tetsuwan-birdy-decode-02/2",
+      "anime_id": 3822,
+      "anime_name": "Tetsuwan Birdy Decode:02"
+    }
+  ],
+  "total_episodes": 2
+}

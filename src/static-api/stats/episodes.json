@@ -1,0 +1,23 @@
+{
+  "message": "Estatísticas de episódios",
+  "episode_stats": {
+    "total_animes": 4368,
+    "animes_with_episodes": 3942,
+    "animes_without_episodes": 426,
+    "total_episodes": 54271,
+    "episode_distribution": {
+      "1": 465,
+      "2-5": 533,
+      "6-12": 1656,
+      "13-24": 826,
+      "25-50": 370,
+      "51-100": 65,
+      "100+": 27
+    },
+    "avg_episodes": "13.77",
+    "min_episodes": 1,
+    "max_episodes": 834,
+    "median_episodes": 12
+  },
+  "generated_at": "2025-08-13T02:27:39.236Z"
+}

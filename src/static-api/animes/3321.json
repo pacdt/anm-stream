@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3321,
+    "nome": "Sekaiichi Hatsukoi",
+    "link": "https://animefire.plus/animes/sekaiichi-hatsukoi-todos-os-episodios",
+    "texto_original": "Sekaiichi Hatsukoi",
+    "rating": 8.01,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/sekaiichi-hatsukoi.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/sekaiichi-hatsukoi/",
+    "secao": "legendados",
+    "pagina": 161,
+    "total_episodios": 5,
+    "link_video": "https://animefire.plus/video/sekaiichi-hatsukoi"
+  }
+}

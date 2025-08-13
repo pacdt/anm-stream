@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 246,
+    "nome": "Arslan Senki (TV)",
+    "link": "https://animefire.plus/animes/arslan-senki-tv-todos-os-episodios",
+    "texto_original": "Arslan Senki (TV)",
+    "rating": 7.77,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/arslan-senki-tv.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/arslan-senki-tv/",
+    "secao": "legendados",
+    "pagina": 95,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/arslan-senki-tv"
+  }
+}

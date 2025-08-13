@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Watashi ni Tenshi ga Maiorita! Special",
+  "anime": {
+    "id": 4118,
+    "nome": "Watashi ni Tenshi ga Maiorita! Special",
+    "link": "https://animefire.plus/animes/watashi-ni-tenshi-ga-maiorita-special-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/watashi-ni-tenshi-ga-maiorita-special",
+    "rating": "7.30",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/watashi-ni-tenshi-ga-maiorita-special/1",
+      "anime_id": 4118,
+      "anime_name": "Watashi ni Tenshi ga Maiorita! Special"
+    }
+  ],
+  "total_episodes": 1
+}

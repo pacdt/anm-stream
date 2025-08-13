@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Isekai wa Smartphone to Tomo ni. (Dublado)",
+  "anime": {
+    "id": 1672,
+    "nome": "Isekai wa Smartphone to Tomo ni. (Dublado)",
+    "link": "https://animefire.plus/animes/isekai-wa-smartphone-to-tomo-ni-dublado-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/isekai-wa-smartphone-to-tomo-ni-dublado",
+    "rating": "6.50",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/isekai-wa-smartphone-to-tomo-ni-dublado/1",
+      "anime_id": 1672,
+      "anime_name": "Isekai wa Smartphone to Tomo ni. (Dublado)"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/isekai-wa-smartphone-to-tomo-ni-dublado/2",
+      "anime_id": 1672,
+      "anime_name": "Isekai wa Smartphone to Tomo ni. (Dublado)"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/isekai-wa-smartphone-to-tomo-ni-dublado/3",
+      "anime_id": 1672,
+      "anime_name": "Isekai wa Smartphone to Tomo ni. (Dublado)"
+    }
+  ],
+  "total_episodes": 3
+}

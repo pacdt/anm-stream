@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Senjou no Valkyria 3: Tagatame no Juusou",
+  "anime": {
+    "id": 3339,
+    "nome": "Senjou no Valkyria 3: Tagatame no Juusou",
+    "link": "https://animefire.plus/animes/senjou-no-valkyria-3-tagatame-no-juusou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/senjou-no-valkyria-3-tagatame-no-juusou",
+    "rating": "7.33",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/senjou-no-valkyria-3-tagatame-no-juusou/1",
+      "anime_id": 3339,
+      "anime_name": "Senjou no Valkyria 3: Tagatame no Juusou"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/senjou-no-valkyria-3-tagatame-no-juusou/2",
+      "anime_id": 3339,
+      "anime_name": "Senjou no Valkyria 3: Tagatame no Juusou"
+    }
+  ],
+  "total_episodes": 2
+}

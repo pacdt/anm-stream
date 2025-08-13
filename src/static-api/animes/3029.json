@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 3029,
+    "nome": "Princess Princess",
+    "link": "https://animefire.plus/animes/princess-princess-todos-os-episodios",
+    "texto_original": "Princess Princess",
+    "rating": 7.11,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/princess-princess.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/princess-princess/",
+    "secao": "legendados",
+    "pagina": 118,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/princess-princess"
+  }
+}

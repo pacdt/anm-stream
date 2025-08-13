@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 1375,
+    "nome": "Happy Sugar Life",
+    "link": "https://animefire.plus/animes/happy-sugar-life-todos-os-episodios",
+    "texto_original": "Happy Sugar Life",
+    "rating": 7.04,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/happy-sugar-life.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/happy-sugar-life/",
+    "secao": "legendados",
+    "pagina": 142,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/happy-sugar-life"
+  }
+}

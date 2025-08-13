@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Candy☆Boy: Side Story For Archive",
+  "anime": {
+    "id": 553,
+    "nome": "Candy☆Boy: Side Story For Archive",
+    "link": "https://animefire.plus/animes/candy-boy-side-story-for-archive-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/candy-boy-side-story-for-archive",
+    "rating": "6.88",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/candy-boy-side-story-for-archive/1",
+      "anime_id": 553,
+      "anime_name": "Candy☆Boy: Side Story For Archive"
+    }
+  ],
+  "total_episodes": 1
+}

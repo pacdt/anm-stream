@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Hatena☆Illusion",
+  "anime": {
+    "id": 1391,
+    "nome": "Hatena☆Illusion",
+    "link": "https://animefire.plus/animes/hatena-illusion-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/hatena-illusion",
+    "rating": "5.37",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/hatena-illusion/1",
+      "anime_id": 1391,
+      "anime_name": "Hatena☆Illusion"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/hatena-illusion/2",
+      "anime_id": 1391,
+      "anime_name": "Hatena☆Illusion"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/hatena-illusion/3",
+      "anime_id": 1391,
+      "anime_name": "Hatena☆Illusion"
+    }
+  ],
+  "total_episodes": 3
+}

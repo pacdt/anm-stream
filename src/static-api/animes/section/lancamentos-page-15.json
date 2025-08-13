@@ -1,0 +1,84 @@
+{
+  "message": "Animes da seção: lancamentos",
+  "section": "lancamentos",
+  "data": [
+    {
+      "id": 4322,
+      "nome": "Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau (Dublado)",
+      "link": "https://animefire.plus/animes/yuusha-party-wo-tsuihou-sareta-beast-tamer-saikyoushu-no-nekomimi-shoujo-to-deau-dublado-todos-os-episodios",
+      "texto_original": "Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau (Dublado)",
+      "rating": 6.91,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/yuusha-party-wo-tsuihou-sareta-beast-tamer-saikyoushu-no-nekomimi-shoujo-to-deau.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/yuusha-party-wo-tsuihou-sareta-beast-tamer-saikyoushu-no-nekomimi-shoujo-to-deau/",
+      "secao": "dublados,legendados,lancamentos",
+      "pagina": 9,
+      "total_episodios": 13,
+      "link_video": "https://animefire.plus/video/yuusha-party-wo-tsuihou-sareta-beast-tamer-saikyoushu-no-nekomimi-shoujo-to-deau-dublado"
+    },
+    {
+      "id": 4323,
+      "nome": "Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru",
+      "link": "https://animefire.plus/animes/yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru-todos-os-episodios",
+      "texto_original": "Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru",
+      "rating": 6.47,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru/",
+      "secao": "legendados,lancamentos",
+      "pagina": 2,
+      "total_episodios": 5,
+      "link_video": "https://animefire.plus/video/yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru"
+    },
+    {
+      "id": 4334,
+      "nome": "Zanting! Rang Wo Cha Gonglue",
+      "link": "https://animefire.plus/animes/zanting-rang-wo-cha-gonglue-todos-os-episodios",
+      "texto_original": "Zanting! Rang Wo Cha Gonglue",
+      "rating": 6.41,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/zanting-rang-wo-cha-gonglue.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zanting-rang-wo-cha-gonglue/",
+      "secao": "legendados,lancamentos",
+      "pagina": 19,
+      "total_episodios": 6,
+      "link_video": "https://animefire.plus/video/zanting-rang-wo-cha-gonglue"
+    },
+    {
+      "id": 4343,
+      "nome": "Zenshuu. (Dublado)",
+      "link": "https://animefire.plus/animes/zenshuu-dublado-todos-os-episodios",
+      "texto_original": "Zenshuu. (Dublado)",
+      "rating": 7.59,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/zenshuu.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zenshuu/",
+      "secao": "dublados,legendados,lancamentos",
+      "pagina": 2,
+      "total_episodios": 12,
+      "link_video": "https://animefire.plus/video/zenshuu-dublado"
+    },
+    {
+      "id": 4368,
+      "nome": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
+      "link": "https://animefire.plus/animes/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru-todos-os-episodios",
+      "texto_original": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
+      "rating": 7.21,
+      "classificacao_etaria": "A14",
+      "imagem_original": "https://animefire.plus/img/animes/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru.webp",
+      "imagem_pasta": "https://animefire.plus/img/animes/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru/",
+      "secao": "legendados,lancamentos",
+      "pagina": 2,
+      "total_episodios": 5,
+      "link_video": "https://animefire.plus/video/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru"
+    }
+  ],
+  "pagination": {
+    "current_page": 15,
+    "per_page": 20,
+    "total_items": 285,
+    "total_pages": 15,
+    "has_next": false,
+    "has_prev": true
+  }
+}

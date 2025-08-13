@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 204,
+    "nome": "Ao no Hako",
+    "link": "https://animefire.plus/animes/ao-no-hako-todos-os-episodios",
+    "texto_original": "Ao no Hako",
+    "rating": 8.2,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/ao-no-hako.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ao-no-hako/",
+    "secao": "legendados",
+    "pagina": 9,
+    "total_episodios": 25,
+    "link_video": "https://animefire.plus/video/ao-no-hako"
+  }
+}

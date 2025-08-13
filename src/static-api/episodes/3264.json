@@ -1,0 +1,92 @@
+{
+  "message": "Lista de episódios do anime: Sasami: Mahou Shoujo Club",
+  "anime": {
+    "id": 3264,
+    "nome": "Sasami: Mahou Shoujo Club",
+    "link": "https://animefire.plus/animes/sasami-mahou-shoujo-club-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/sasami-mahou-shoujo-club",
+    "rating": "6.72",
+    "classificacao_etaria": "A10"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/sasami-mahou-shoujo-club/1",
+      "anime_id": 3264,
+      "anime_name": "Sasami: Mahou Shoujo Club"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/sasami-mahou-shoujo-club/2",
+      "anime_id": 3264,
+      "anime_name": "Sasami: Mahou Shoujo Club"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/sasami-mahou-shoujo-club/3",
+      "anime_id": 3264,
+      "anime_name": "Sasami: Mahou Shoujo Club"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/sasami-mahou-shoujo-club/4",
+      "anime_id": 3264,
+      "anime_name": "Sasami: Mahou Shoujo Club"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/sasami-mahou-shoujo-club/5",
+      "anime_id": 3264,
+      "anime_name": "Sasami: Mahou Shoujo Club"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/sasami-mahou-shoujo-club/6",
+      "anime_id": 3264,
+      "anime_name": "Sasami: Mahou Shoujo Club"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/sasami-mahou-shoujo-club/7",
+      "anime_id": 3264,
+      "anime_name": "Sasami: Mahou Shoujo Club"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/sasami-mahou-shoujo-club/8",
+      "anime_id": 3264,
+      "anime_name": "Sasami: Mahou Shoujo Club"
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/sasami-mahou-shoujo-club/9",
+      "anime_id": 3264,
+      "anime_name": "Sasami: Mahou Shoujo Club"
+    },
+    {
+      "episode_number": 10,
+      "episode_url": "https://animefire.plus/video/sasami-mahou-shoujo-club/10",
+      "anime_id": 3264,
+      "anime_name": "Sasami: Mahou Shoujo Club"
+    },
+    {
+      "episode_number": 11,
+      "episode_url": "https://animefire.plus/video/sasami-mahou-shoujo-club/11",
+      "anime_id": 3264,
+      "anime_name": "Sasami: Mahou Shoujo Club"
+    },
+    {
+      "episode_number": 12,
+      "episode_url": "https://animefire.plus/video/sasami-mahou-shoujo-club/12",
+      "anime_id": 3264,
+      "anime_name": "Sasami: Mahou Shoujo Club"
+    },
+    {
+      "episode_number": 13,
+      "episode_url": "https://animefire.plus/video/sasami-mahou-shoujo-club/13",
+      "anime_id": 3264,
+      "anime_name": "Sasami: Mahou Shoujo Club"
+    }
+  ],
+  "total_episodes": 13
+}

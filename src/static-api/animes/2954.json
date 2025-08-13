@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2954,
+    "nome": "Paripi Koumei",
+    "link": "https://animefire.plus/animes/paripi-koumei-todos-os-episodios",
+    "texto_original": "Paripi Koumei",
+    "rating": 8.11,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/paripi-koumei.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/paripi-koumei/",
+    "secao": "legendados",
+    "pagina": 34,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/paripi-koumei"
+  }
+}

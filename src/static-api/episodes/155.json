@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Amagi Brilliant Park",
+  "anime": {
+    "id": 155,
+    "nome": "Amagi Brilliant Park",
+    "link": "https://animefire.plus/animes/amagi-brilliant-park-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/amagi-brilliant-park",
+    "rating": "7.60",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/amagi-brilliant-park/1",
+      "anime_id": 155,
+      "anime_name": "Amagi Brilliant Park"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/amagi-brilliant-park/2",
+      "anime_id": 155,
+      "anime_name": "Amagi Brilliant Park"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/amagi-brilliant-park/3",
+      "anime_id": 155,
+      "anime_name": "Amagi Brilliant Park"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/amagi-brilliant-park/4",
+      "anime_id": 155,
+      "anime_name": "Amagi Brilliant Park"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/amagi-brilliant-park/5",
+      "anime_id": 155,
+      "anime_name": "Amagi Brilliant Park"
+    }
+  ],
+  "total_episodes": 5
+}

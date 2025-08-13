@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 4083,
+    "nome": "Viper's Creed",
+    "link": "https://animefire.plus/animes/viper-s-creed-todos-os-episodios",
+    "texto_original": "Viper's Creed",
+    "rating": 6.8,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/viper-s-creed.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/viper-s-creed/",
+    "secao": "legendados",
+    "pagina": 147,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/viper-s-creed"
+  }
+}

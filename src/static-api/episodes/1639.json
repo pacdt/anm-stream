@@ -1,0 +1,62 @@
+{
+  "message": "Lista de episódios do anime: Inu x Boku SS",
+  "anime": {
+    "id": 1639,
+    "nome": "Inu x Boku SS",
+    "link": "https://animefire.plus/animes/inu-x-boku-ss-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/inu-x-boku-ss",
+    "rating": "7.59",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/inu-x-boku-ss/1",
+      "anime_id": 1639,
+      "anime_name": "Inu x Boku SS"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/inu-x-boku-ss/2",
+      "anime_id": 1639,
+      "anime_name": "Inu x Boku SS"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/inu-x-boku-ss/3",
+      "anime_id": 1639,
+      "anime_name": "Inu x Boku SS"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/inu-x-boku-ss/4",
+      "anime_id": 1639,
+      "anime_name": "Inu x Boku SS"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/inu-x-boku-ss/5",
+      "anime_id": 1639,
+      "anime_name": "Inu x Boku SS"
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/inu-x-boku-ss/6",
+      "anime_id": 1639,
+      "anime_name": "Inu x Boku SS"
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/inu-x-boku-ss/7",
+      "anime_id": 1639,
+      "anime_name": "Inu x Boku SS"
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/inu-x-boku-ss/8",
+      "anime_id": 1639,
+      "anime_name": "Inu x Boku SS"
+    }
+  ],
+  "total_episodes": 8
+}

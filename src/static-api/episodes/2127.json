@@ -1,0 +1,32 @@
+{
+  "message": "Lista de episódios do anime: Kujakuou",
+  "anime": {
+    "id": 2127,
+    "nome": "Kujakuou",
+    "link": "https://animefire.plus/animes/kujakuou-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kujakuou",
+    "rating": "6.04",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kujakuou/1",
+      "anime_id": 2127,
+      "anime_name": "Kujakuou"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kujakuou/2",
+      "anime_id": 2127,
+      "anime_name": "Kujakuou"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/kujakuou/3",
+      "anime_id": 2127,
+      "anime_name": "Kujakuou"
+    }
+  ],
+  "total_episodes": 3
+}

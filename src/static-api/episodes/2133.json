@@ -1,0 +1,26 @@
+{
+  "message": "Lista de episódios do anime: Kuma Miko Specials",
+  "anime": {
+    "id": 2133,
+    "nome": "Kuma Miko Specials",
+    "link": "https://animefire.plus/animes/kuma-miko-specials-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/kuma-miko-specials",
+    "rating": "6.53",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/kuma-miko-specials/1",
+      "anime_id": 2133,
+      "anime_name": "Kuma Miko Specials"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/kuma-miko-specials/2",
+      "anime_id": 2133,
+      "anime_name": "Kuma Miko Specials"
+    }
+  ],
+  "total_episodes": 2
+}

@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Saki Biyori Animation",
+  "anime": {
+    "id": 3229,
+    "nome": "Saki Biyori Animation",
+    "link": "https://animefire.plus/animes/saki-biyori-animation-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/saki-biyori-animation",
+    "rating": "6.76",
+    "classificacao_etaria": "A14"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/saki-biyori-animation/1",
+      "anime_id": 3229,
+      "anime_name": "Saki Biyori Animation"
+    }
+  ],
+  "total_episodes": 1
+}

@@ -1,0 +1,44 @@
+{
+  "message": "Lista de episódios do anime: Date A Live IV",
+  "anime": {
+    "id": 760,
+    "nome": "Date A Live IV",
+    "link": "https://animefire.plus/animes/date-a-live-iv-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/date-a-live-iv",
+    "rating": "7.74",
+    "classificacao_etaria": "A16"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/date-a-live-iv/1",
+      "anime_id": 760,
+      "anime_name": "Date A Live IV"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/date-a-live-iv/2",
+      "anime_id": 760,
+      "anime_name": "Date A Live IV"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/date-a-live-iv/3",
+      "anime_id": 760,
+      "anime_name": "Date A Live IV"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/date-a-live-iv/4",
+      "anime_id": 760,
+      "anime_name": "Date A Live IV"
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/date-a-live-iv/5",
+      "anime_id": 760,
+      "anime_name": "Date A Live IV"
+    }
+  ],
+  "total_episodes": 5
+}

@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 2306,
+    "nome": "Magi: The Kingdom of Magic",
+    "link": "https://animefire.plus/animes/magi-the-kingdom-of-magic-todos-os-episodios",
+    "texto_original": "Magi: The Kingdom of Magic",
+    "rating": 8.4,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/magi-the-kingdom-of-magic.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/magi-the-kingdom-of-magic/",
+    "secao": "legendados",
+    "pagina": 134,
+    "total_episodios": 4,
+    "link_video": "https://animefire.plus/video/magi-the-kingdom-of-magic"
+  }
+}

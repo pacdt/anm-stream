@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 420,
+    "nome": "Blade Runner: Black Lotus",
+    "link": "https://animefire.plus/animes/blade-runner-black-lotus-todos-os-episodios",
+    "texto_original": "Blade Runner: Black Lotus",
+    "rating": 6.28,
+    "classificacao_etaria": "A16",
+    "imagem_original": "https://animefire.plus/img/animes/blade-runner-black-lotus.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/blade-runner-black-lotus/",
+    "secao": "legendados",
+    "pagina": 37,
+    "total_episodios": 13,
+    "link_video": "https://animefire.plus/video/blade-runner-black-lotus"
+  }
+}

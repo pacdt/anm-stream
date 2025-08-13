@@ -1,0 +1,68 @@
+{
+  "message": "Lista de episódios do anime: Souryo to Majiwaru Shikiyoku no Yoru ni...",
+  "anime": {
+    "id": 3596,
+    "nome": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
+    "link": "https://animefire.plus/animes/souryo-to-majiwaru-shikiyoku-no-yoru-ni-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/souryo-to-majiwaru-shikiyoku-no-yoru-ni",
+    "rating": "4.64",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/souryo-to-majiwaru-shikiyoku-no-yoru-ni/1",
+      "anime_id": 3596,
+      "anime_name": "Souryo to Majiwaru Shikiyoku no Yoru ni..."
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/souryo-to-majiwaru-shikiyoku-no-yoru-ni/2",
+      "anime_id": 3596,
+      "anime_name": "Souryo to Majiwaru Shikiyoku no Yoru ni..."
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/souryo-to-majiwaru-shikiyoku-no-yoru-ni/3",
+      "anime_id": 3596,
+      "anime_name": "Souryo to Majiwaru Shikiyoku no Yoru ni..."
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/souryo-to-majiwaru-shikiyoku-no-yoru-ni/4",
+      "anime_id": 3596,
+      "anime_name": "Souryo to Majiwaru Shikiyoku no Yoru ni..."
+    },
+    {
+      "episode_number": 5,
+      "episode_url": "https://animefire.plus/video/souryo-to-majiwaru-shikiyoku-no-yoru-ni/5",
+      "anime_id": 3596,
+      "anime_name": "Souryo to Majiwaru Shikiyoku no Yoru ni..."
+    },
+    {
+      "episode_number": 6,
+      "episode_url": "https://animefire.plus/video/souryo-to-majiwaru-shikiyoku-no-yoru-ni/6",
+      "anime_id": 3596,
+      "anime_name": "Souryo to Majiwaru Shikiyoku no Yoru ni..."
+    },
+    {
+      "episode_number": 7,
+      "episode_url": "https://animefire.plus/video/souryo-to-majiwaru-shikiyoku-no-yoru-ni/7",
+      "anime_id": 3596,
+      "anime_name": "Souryo to Majiwaru Shikiyoku no Yoru ni..."
+    },
+    {
+      "episode_number": 8,
+      "episode_url": "https://animefire.plus/video/souryo-to-majiwaru-shikiyoku-no-yoru-ni/8",
+      "anime_id": 3596,
+      "anime_name": "Souryo to Majiwaru Shikiyoku no Yoru ni..."
+    },
+    {
+      "episode_number": 9,
+      "episode_url": "https://animefire.plus/video/souryo-to-majiwaru-shikiyoku-no-yoru-ni/9",
+      "anime_id": 3596,
+      "anime_name": "Souryo to Majiwaru Shikiyoku no Yoru ni..."
+    }
+  ],
+  "total_episodes": 9
+}

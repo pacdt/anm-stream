@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 283,
+    "nome": "Ayakashi Triangle",
+    "link": "https://animefire.plus/animes/ayakashi-triangle-todos-os-episodios",
+    "texto_original": "Ayakashi Triangle",
+    "rating": 6.45,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/ayakashi-triangle.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/ayakashi-triangle/",
+    "secao": "legendados",
+    "pagina": 26,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/ayakashi-triangle"
+  }
+}

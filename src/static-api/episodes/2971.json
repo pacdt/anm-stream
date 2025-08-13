@@ -1,0 +1,38 @@
+{
+  "message": "Lista de episódios do anime: Petshop of Horrors",
+  "anime": {
+    "id": 2971,
+    "nome": "Petshop of Horrors",
+    "link": "https://animefire.plus/animes/petshop-of-horrors-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/petshop-of-horrors",
+    "rating": "7.33",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/petshop-of-horrors/1",
+      "anime_id": 2971,
+      "anime_name": "Petshop of Horrors"
+    },
+    {
+      "episode_number": 2,
+      "episode_url": "https://animefire.plus/video/petshop-of-horrors/2",
+      "anime_id": 2971,
+      "anime_name": "Petshop of Horrors"
+    },
+    {
+      "episode_number": 3,
+      "episode_url": "https://animefire.plus/video/petshop-of-horrors/3",
+      "anime_id": 2971,
+      "anime_name": "Petshop of Horrors"
+    },
+    {
+      "episode_number": 4,
+      "episode_url": "https://animefire.plus/video/petshop-of-horrors/4",
+      "anime_id": 2971,
+      "anime_name": "Petshop of Horrors"
+    }
+  ],
+  "total_episodes": 4
+}

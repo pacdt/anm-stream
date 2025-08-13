@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 265,
+    "nome": "Asobi ni Iku yo!",
+    "link": "https://animefire.plus/animes/asobi-ni-iku-yo-todos-os-episodios",
+    "texto_original": "Asobi ni Iku yo!",
+    "rating": 6.77,
+    "classificacao_etaria": "A18",
+    "imagem_original": "https://animefire.plus/img/animes/asobi-ni-iku-yo.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/asobi-ni-iku-yo/",
+    "secao": "legendados",
+    "pagina": 122,
+    "total_episodios": 12,
+    "link_video": "https://animefire.plus/video/asobi-ni-iku-yo"
+  }
+}

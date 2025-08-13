@@ -1,0 +1,20 @@
+{
+  "message": "Lista de episódios do anime: Midnight Eye: Gokuu II",
+  "anime": {
+    "id": 2493,
+    "nome": "Midnight Eye: Gokuu II",
+    "link": "https://animefire.plus/animes/midnight-eye-gokuu-ii-todos-os-episodios",
+    "link_video": "https://animefire.plus/video/midnight-eye-gokuu-ii",
+    "rating": "6.29",
+    "classificacao_etaria": "A18"
+  },
+  "episodes": [
+    {
+      "episode_number": 1,
+      "episode_url": "https://animefire.plus/video/midnight-eye-gokuu-ii/1",
+      "anime_id": 2493,
+      "anime_name": "Midnight Eye: Gokuu II"
+    }
+  ],
+  "total_episodes": 1
+}

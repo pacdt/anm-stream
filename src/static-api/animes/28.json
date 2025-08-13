@@ -1,0 +1,17 @@
+{
+  "message": "Anime encontrado",
+  "data": {
+    "id": 28,
+    "nome": "3-gatsu no Lion",
+    "link": "https://animefire.plus/animes/3-gatsu-no-lion-todos-os-episodios",
+    "texto_original": "3-gatsu no Lion",
+    "rating": 8.44,
+    "classificacao_etaria": "A14",
+    "imagem_original": "https://animefire.plus/img/animes/3-gatsu-no-lion.webp",
+    "imagem_pasta": "https://animefire.plus/img/animes/3-gatsu-no-lion/",
+    "secao": "legendados",
+    "pagina": 154,
+    "total_episodios": 24,
+    "link_video": "https://animefire.plus/video/3-gatsu-no-lion"
+  }
+}
