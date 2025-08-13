@@ -18,6 +18,18 @@
   force = true
   headers = {X-From = "Netlify"}
 
+# Proxy para vídeos do lightspeedst.net
+[[redirects]]
+  from = "/api/video/*"
+  to = "https://lightspeedst.net/:splat"
+  status = 200
+  force = true
+  headers = {
+    X-From = "Netlify",
+    User-Agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+    Referer = "https://animefire.plus/"
+  }
+
 # Fallback para SPA (Single Page Application)
 [[redirects]]
   from = "/*"

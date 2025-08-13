@@ -486,6 +486,15 @@ export class StaticEpisodeService {
       return `/api/external${path}`;
     }
     
+    // Converter URLs do lightspeedst.net para usar o proxy de vídeo
+    if (originalUrl.startsWith('https://lightspeedst.net')) {
+      const path = originalUrl.replace('https://lightspeedst.net', '');
+      
+      // Em desenvolvimento, usa o proxy de vídeo do Vite
+      // Em produção, precisa ser configurado no netlify.toml
+      return `/api/video${path}`;
+    }
+    
     // Para outras URLs externas, retornar a URL original (pode ser expandido no futuro)
     return originalUrl
   }
@@ -627,10 +636,10 @@ export class StaticEpisodeService {
     
     const { data: videoData, token } = streamingData
     
-    // Mapear qualidades disponíveis
+    // Mapear qualidades disponíveis e aplicar proxy de vídeo
     const qualities = videoData.map((item: any) => ({
       quality: item.label,
-      url: item.src,
+      url: this.convertToProxyUrl(item.src), // Aplicar proxy às URLs de vídeo
       type: 'mp4'
     }))
     
@@ -648,11 +657,11 @@ export class StaticEpisodeService {
     let video_url: string
     
     if (token) {
-      // Se há token, usar como URL principal
-      video_url = token
+      // Se há token, aplicar proxy e usar como URL principal
+      video_url = this.convertToProxyUrl(token)
       console.log(`🎯 [STATIC API] Usando token como URL principal: ${token}`)
     } else {
-      // Senão, usar a maior qualidade disponível
+      // Senão, usar a maior qualidade disponível (já com proxy aplicado)
       video_url = qualities.length > 0 ? qualities[0].url : ''
       console.log(`🎯 [STATIC API] Usando maior qualidade como URL principal: ${qualities[0]?.quality}`)
     }

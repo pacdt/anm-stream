@@ -35,6 +35,33 @@ export default defineConfig({
           });
         },
       },
+      // Proxy específico para vídeos do lightspeedst.net
+      '/api/video': {
+        target: 'https://lightspeedst.net',
+        changeOrigin: true,
+        rewrite: (path) => path.replace(/^\/api\/video/, ''),
+        configure: (proxy, _options) => {
+          proxy.on('error', (err, _req, _res) => {
+            console.log('Video proxy error:', err);
+          });
+          proxy.on('proxyReq', (proxyReq, req, _res) => {
+            // Adicionar headers necessários para contornar restrições
+            proxyReq.setHeader('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36');
+            proxyReq.setHeader('Referer', 'https://animefire.plus/');
+            proxyReq.setHeader('Accept', 'video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5');
+            proxyReq.setHeader('Accept-Encoding', 'identity;q=1, *;q=0');
+            proxyReq.setHeader('Range', req.headers.range || 'bytes=0-');
+            console.log('🎬 [VIDEO PROXY] Sending video request:', req.method, req.url);
+          });
+          proxy.on('proxyRes', (proxyRes, req, _res) => {
+            // Adicionar headers CORS para permitir acesso do frontend
+            proxyRes.headers['Access-Control-Allow-Origin'] = '*';
+            proxyRes.headers['Access-Control-Allow-Methods'] = 'GET, HEAD, OPTIONS';
+            proxyRes.headers['Access-Control-Allow-Headers'] = 'Range';
+            console.log('🎬 [VIDEO PROXY] Received video response:', proxyRes.statusCode, req.url);
+          });
+        },
+      },
     }
   },
   // Incluir arquivos JSON como assets
