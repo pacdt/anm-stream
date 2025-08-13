@@ -545,12 +545,17 @@ export class StaticEpisodeService {
         
         console.log(`📡 [STATIC API] Dados de streaming recebidos:`, streamingData)
         
-        // Processar dados de streaming com lógica de priorização
-        const processedData = this.processExternalStreamingData(streamingData, episodeNumber, animeId, episode.anime_name)
-        
-        return {
-          message: `Stream do episódio ${episodeNumber} carregado`,
-          data: processedData
+        // Verificar se os dados recebidos são válidos
+        if (streamingData && streamingData.data && Array.isArray(streamingData.data) && streamingData.data.length > 0) {
+          // Processar dados de streaming com lógica de priorização
+          const processedData = this.processExternalStreamingData(streamingData, episodeNumber, animeId, episode.anime_name)
+          
+          return {
+            message: `Stream do episódio ${episodeNumber} carregado`,
+            data: processedData
+          }
+        } else {
+          throw new Error('Dados de streaming inválidos ou vazios recebidos da API externa')
         }
       } catch (externalError: any) {
         console.warn(`⚠️ [STATIC API] API externa falhou após tentativas, usando dados mock:`, externalError.message)
@@ -660,7 +665,8 @@ export class StaticEpisodeService {
       episode_number: episodeNumber,
       anime_id: animeId,
       anime_name: animeName,
-      token: token || null
+      token: token || null,
+      is_mock: false // Dados reais da API externa
     }
   }
 }

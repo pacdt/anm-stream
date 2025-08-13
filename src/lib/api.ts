@@ -399,23 +399,29 @@ export function processEpisodeStreamData(response: EpisodeStreamResponse): Video
   try {
     const processedData = processStaticEpisodeStreamData(response)
     
-    // Converter streamOptions para VideoQualityOption[]
+    // Verificar se são dados mock
+    const isMockData = response?.data?.is_mock === true
+    
+    // Se são dados mock, retornar apenas as qualidades mock
+    if (isMockData) {
+      console.log('🎭 [STATIC API] Processando dados mock')
+      const videoSources: VideoQualityOption[] = processedData.streamOptions.map((option, index) => ({
+        label: option.quality,
+        src: option.url,
+        isAlternative: index > 0
+      }))
+      console.log('✅ [STATIC API] Convertido para VideoQualityOption[] (mock):', videoSources)
+      return videoSources
+    }
+    
+    // Para dados reais da API externa, usar apenas as qualidades disponíveis
     const videoSources: VideoQualityOption[] = processedData.streamOptions.map((option, index) => ({
       label: option.quality,
       src: option.url,
       isAlternative: index > 0 // Primeira opção é principal, outras são alternativas
     }))
     
-    // Se há uma videoUrl principal e não está nas opções, adicionar como primeira opção
-    if (processedData.videoUrl && !videoSources.find(source => source.src === processedData.videoUrl)) {
-      videoSources.unshift({
-        label: 'Principal',
-        src: processedData.videoUrl,
-        isAlternative: false
-      })
-    }
-    
-    console.log('✅ [STATIC API] Convertido para VideoQualityOption[]:', videoSources)
+    console.log('✅ [STATIC API] Convertido para VideoQualityOption[] (real):', videoSources)
     return videoSources
   } catch (error) {
     console.error('❌ [STATIC API] Erro ao processar dados de stream:', error)

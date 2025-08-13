@@ -1,7 +1,7 @@
 # TODO:
 
-- [x] 1: Configurar proxy no netlify.toml para `/api/external/*` apontar para `https://animefire.plus/:splat` (priority: High)
-- [x] 2: Modificar função convertToProxyUrl para detectar ambiente (desenvolvimento vs produção) (priority: High)
-- [x] 3: Ajustar lógica de requisições para usar proxy correto baseado no ambiente (priority: High)
-- [x] 4: Testar se requisições para APIs externas funcionam no Netlify (priority: Medium)
-- [x] 5: Verificar se episódios carregam corretamente sem dados mock no deploy (priority: Medium)
+- [x] 1: Modificar processEpisodeStreamData para evitar adição de fontes extras desnecessárias (priority: High)
+- [x] 2: Garantir que apenas dados reais sejam usados, sem misturar com dados mock (priority: High)
+- [x] 3: Adicionar flag is_mock para distinguir dados reais de mock (priority: High)
+- [x] 4: Melhorar tratamento de erro para URLs não suportadas (lightspeedst.net) (priority: High)
+- [ ] 5: Testar as correções executando npm run dev e verificando se os vídeos funcionam corretamente (priority: Medium)

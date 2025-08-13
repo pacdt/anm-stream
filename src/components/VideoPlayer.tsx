@@ -126,6 +126,7 @@ export function VideoPlayer({
       console.log('VideoPlayer - Error message:', error.message)
       
       let errorMessage = 'Erro ao carregar o vídeo'
+      let shouldTryNextSource = false
       
       switch (error.code) {
         case MediaError.MEDIA_ERR_ABORTED:
@@ -135,16 +136,32 @@ export function VideoPlayer({
         case MediaError.MEDIA_ERR_NETWORK:
           errorMessage = 'Erro de rede'
           console.log('VideoPlayer - Error: MEDIA_ERR_NETWORK')
+          shouldTryNextSource = true
           break
         case MediaError.MEDIA_ERR_DECODE:
           errorMessage = 'Erro de decodificação'
           console.log('VideoPlayer - Error: MEDIA_ERR_DECODE')
+          shouldTryNextSource = true
           break
         case MediaError.MEDIA_ERR_SRC_NOT_SUPPORTED:
           errorMessage = 'Formato não suportado'
           console.log('VideoPlayer - Error: MEDIA_ERR_SRC_NOT_SUPPORTED')
           console.log('VideoPlayer - Unsupported source URL:', video.src)
+          shouldTryNextSource = true
           break
+      }
+      
+      // Tentar próxima qualidade disponível se o erro permite
+      if (shouldTryNextSource && availableSources.length > 1) {
+        const currentIndex = availableSources.findIndex(source => source.src === currentSource.src)
+        const nextIndex = currentIndex + 1
+        
+        if (nextIndex < availableSources.length) {
+          const nextSource = availableSources[nextIndex]
+          console.log(`🔄 [VideoPlayer] Tentando próxima qualidade: ${nextSource.label}`)
+          onSourceChange(nextSource)
+          return // Não definir erro ainda, tentar próxima fonte
+        }
       }
       
       setError(errorMessage)
