@@ -475,45 +475,22 @@ setInterval(() => {
 
 // Serviços da API Estática de Episódios
 export class StaticEpisodeService {
-  // Converter URL externa para usar o proxy correto baseado no ambiente
+  // Converter URL externa para usar o proxy apenas para APIs, não para vídeos
   private static convertToProxyUrl(originalUrl: string): string {
-    console.log(`🔄 [PROXY] Convertendo URL: ${originalUrl}`)
+    console.log(`🔄 [PROXY] Analisando URL: ${originalUrl}`)
     
-    // Converter URLs do animefire.plus para usar o proxy correto baseado no ambiente
-    if (originalUrl.startsWith('https://animefire.plus')) {
+    // Converter URLs do animefire.plus para usar o proxy APENAS para APIs de metadados
+    if (originalUrl.startsWith('https://animefire.plus') && !originalUrl.includes('.mp4') && !originalUrl.includes('.m3u8')) {
       const path = originalUrl.replace('https://animefire.plus', '');
       const proxyUrl = `/api/external${path}`;
-      console.log(`🔄 [PROXY] URL animefire.plus convertida: ${proxyUrl}`)
+      console.log(`🔄 [PROXY] URL animefire.plus API convertida: ${proxyUrl}`)
       return proxyUrl;
     }
     
-    // Converter URLs do lightspeedst.net para usar o proxy de vídeo
-    if (originalUrl.startsWith('https://lightspeedst.net')) {
-      const path = originalUrl.replace('https://lightspeedst.net', '');
-      const proxyUrl = `/api/video${path}`;
-      console.log(`🔄 [PROXY] URL lightspeedst.net convertida: ${proxyUrl}`)
-      return proxyUrl;
-    }
-    
-    // Verificar se é uma URL de vídeo de outros domínios conhecidos
-    if (originalUrl.includes('.mp4') || originalUrl.includes('.m3u8') || originalUrl.includes('/video/') || originalUrl.includes('/stream/')) {
-      // Se contém lightspeedst.net no meio da URL (tokens podem ter formato diferente)
-      if (originalUrl.includes('lightspeedst.net')) {
-        const urlObj = new URL(originalUrl)
-        const proxyUrl = `/api/video${urlObj.pathname}${urlObj.search || ''}`;
-        console.log(`🔄 [PROXY] Token lightspeedst.net convertido: ${proxyUrl}`)
-        return proxyUrl;
-      }
-      
-      // Para outros domínios de vídeo, tentar usar proxy de vídeo genérico
-      try {
-        const urlObj = new URL(originalUrl)
-        const proxyUrl = `/api/video${urlObj.pathname}${urlObj.search || ''}`;
-        console.log(`🔄 [PROXY] URL de vídeo genérica convertida: ${proxyUrl}`)
-        return proxyUrl;
-      } catch (error) {
-        console.warn(`⚠️ [PROXY] Erro ao processar URL como vídeo: ${originalUrl}`, error)
-      }
+    // Para URLs de vídeo (lightspeedst.net e outros), manter URL original
+    if (originalUrl.includes('.mp4') || originalUrl.includes('.m3u8') || originalUrl.includes('lightspeedst.net')) {
+      console.log(`🎬 [PROXY] URL de vídeo mantida original: ${originalUrl}`)
+      return originalUrl;
     }
     
     // Para outras URLs externas, retornar a URL original
@@ -658,10 +635,10 @@ export class StaticEpisodeService {
     
     const { data: videoData, token } = streamingData
     
-    // Mapear qualidades disponíveis e aplicar proxy de vídeo
+    // Mapear qualidades disponíveis mantendo URLs originais
     const qualities = videoData.map((item: any) => ({
       quality: item.label,
-      url: this.convertToProxyUrl(item.src), // Aplicar proxy às URLs de vídeo
+      url: item.src, // Manter URL original do vídeo
       type: 'mp4'
     }))
     
@@ -679,11 +656,11 @@ export class StaticEpisodeService {
     let video_url: string
     
     if (token) {
-      // Se há token, aplicar proxy e usar como URL principal
-      video_url = this.convertToProxyUrl(token)
+      // Se há token, usar como URL principal sem proxy
+      video_url = token
       console.log(`🎯 [STATIC API] Usando token como URL principal: ${token}`)
     } else {
-      // Senão, usar a maior qualidade disponível (já com proxy aplicado)
+      // Senão, usar a maior qualidade disponível (URL original)
       video_url = qualities.length > 0 ? qualities[0].url : ''
       console.log(`🎯 [STATIC API] Usando maior qualidade como URL principal: ${qualities[0]?.quality}`)
     }
