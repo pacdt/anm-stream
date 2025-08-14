@@ -8,13 +8,6 @@
   to = "https://anime-api-netf.onrender.com/api/:splat"
   status = 200
   force = true
-  headers = {
-    X-From = "Netlify",
-    Cache-Control = "public, max-age=300",
-    Access-Control-Allow-Origin = "*",
-    Access-Control-Allow-Methods = "GET, POST, PUT, DELETE, OPTIONS",
-    Access-Control-Allow-Headers = "Content-Type, Authorization"
-  }
 
 # Proxy para APIs externas (animefire.plus)
 [[redirects]]
@@ -22,15 +15,6 @@
   to = "https://animefire.plus/:splat"
   status = 200
   force = true
-  headers = {
-    X-From = "Netlify",
-    User-Agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    Referer = "https://animefire.plus/",
-    Accept = "application/json, text/plain, */*",
-    Accept-Language = "pt-BR,pt;q=0.9,en;q=0.8",
-    Cache-Control = "no-cache",
-    Access-Control-Allow-Origin = "*"
-  }
 
 # Proxy para vídeos do lightspeedst.net
 [[redirects]]
@@ -38,19 +22,6 @@
   to = "https://lightspeedst.net/:splat"
   status = 200
   force = true
-  headers = {
-    X-From = "Netlify",
-    User-Agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    Referer = "https://animefire.plus/",
-    Accept = "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-    Accept-Encoding = "identity;q=1, *;q=0",
-    Accept-Language = "pt-BR,pt;q=0.9,en;q=0.8",
-    Cache-Control = "public, max-age=3600",
-    Access-Control-Allow-Origin = "*",
-    Access-Control-Allow-Methods = "GET, HEAD, OPTIONS",
-    Access-Control-Allow-Headers = "Range, Content-Type",
-    Access-Control-Expose-Headers = "Content-Length, Content-Range, Accept-Ranges"
-  }
 
 # Proxy genérico para outros domínios de vídeo
 [[redirects]]
@@ -58,17 +29,6 @@
   to = "https://:splat"
   status = 200
   force = true
-  headers = {
-    X-From = "Netlify",
-    User-Agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    Referer = "https://animefire.plus/",
-    Accept = "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-    Accept-Encoding = "identity;q=1, *;q=0",
-    Cache-Control = "public, max-age=3600",
-    Access-Control-Allow-Origin = "*",
-    Access-Control-Allow-Methods = "GET, HEAD, OPTIONS",
-    Access-Control-Allow-Headers = "Range, Content-Type"
-  }
 
 # Proxy para CDNs de vídeo comuns
 [[redirects]]
@@ -76,15 +36,6 @@
   to = "https://:splat"
   status = 200
   force = true
-  headers = {
-    X-From = "Netlify",
-    User-Agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-    Accept = "video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5",
-    Cache-Control = "public, max-age=7200",
-    Access-Control-Allow-Origin = "*",
-    Access-Control-Allow-Methods = "GET, HEAD, OPTIONS",
-    Access-Control-Allow-Headers = "Range, Content-Type"
-  }
 
 # Fallback para SPA (Single Page Application)
 [[redirects]]
@@ -103,6 +54,12 @@
     Permissions-Policy = "camera=(), microphone=(), geolocation=()"
     Strict-Transport-Security = "max-age=31536000; includeSubDomains"
     Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; media-src 'self' https: blob:; connect-src 'self' https: wss:; font-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self';"
+    X-From = "Netlify"
+    Cache-Control = "public, max-age=300"
+    Access-Control-Allow-Origin = "*"
+    Access-Control-Allow-Methods = "GET, POST, PUT, DELETE, OPTIONS"
+    Access-Control-Allow-Headers = "Content-Type, Authorization, Range, User-Agent, Referer, Accept"
+    Access-Control-Expose-Headers = "Content-Length, Content-Range, Accept-Ranges"
 
 # Headers específicos para arquivos estáticos
 [[headers]]
