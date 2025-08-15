@@ -26,16 +26,38 @@ flushPassiveEffects @ chunk-276SZO74.js?v=6500782f:19447
 workLoop @ chunk-276SZO74.js?v=6500782f:197
 flushWork @ chunk-276SZO74.js?v=6500782f:176
 performWorkUntilDeadline @ chunk-276SZO74.js?v=6500782f:384
-hook.js:608 ⚠️ React Router Future Flag Warning: Relative route resolution within Splat routes is changing in v7. You can use the `v7_relativeSplatPath` future flag to opt-in early. For more information, see https://reactrouter.com/v6/upgrading/future#v7_relativesplatpath. Error Component Stack
-    at BrowserRouter (react-router-dom.js?v=6500782f:5247:5)
-    at AppContent (App.tsx:30:3)
-    at QueryClientProvider (@tanstack_react-query.js?v=6500782f:2934:3)
-    at App (<anonymous>)
-overrideMethod @ hook.js:608
-warnOnce @ react-router-dom.js?v=6500782f:4393
-logDeprecation @ react-router-dom.js?v=6500782f:4396
-logV6DeprecationWarnings @ react-router-dom.js?v=6500782f:4402
-(anônimo) @ react-router-dom.js?v=6500782f:5271
+useSync.ts:54 useSync - Parando sincronização automática (usuário não autenticado)
+useSync.ts:54 useSync - Parando sincronização automática (usuário não autenticado)
+staticApi.ts:31 ✅ [STATIC API] Dados carregados: /animes/3601.json
+staticApi.ts:31 ✅ [STATIC API] Dados carregados: /episodes/3601.json
+staticApi.ts:31 ✅ [STATIC API] Dados carregados: /episodes/3601.json
+staticApi.ts:478 🔄 [PROXY] Analisando URL: https://animefire.plus/video/sousou-no-frieren-dublado/1
+staticApi.ts:506 ⚠️ [PROXY] URL do AnimeFire detectada, mas não será proxificada (retorna HTML): https://animefire.plus/video/sousou-no-frieren-dublado/1
+staticApi.ts:562 🔄 [STATIC API] Usando proxy: https://animefire.plus/video/sousou-no-frieren-dublado/1 (original: https://animefire.plus/video/sousou-no-frieren-dublado/1)
+staticApi.ts:429 🔄 [REQUEST] Tentativa 1/3 para: https://animefire.plus/video/sousou-no-frieren-dublado/1
+useAuth.ts:44 👤 Nenhuma sessão ativa - modo visitante
+useAuth.ts:44 👤 Nenhuma sessão ativa - modo visitante
+useAuth.ts:60 🔐 Auth state change: INITIAL_SESSION
+useAuth.ts:44 👤 Nenhuma sessão ativa - modo visitante
+useAuth.ts:60 🔐 Auth state change: INITIAL_SESSION
+useAuth.ts:44 👤 Nenhuma sessão ativa - modo visitante
+1:1 Access to fetch at 'https://animefire.plus/video/sousou-no-frieren-dublado/1' from origin 'http://localhost:3001' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+staticApi.ts:384  GET https://animefire.plus/video/sousou-no-frieren-dublado/1 net::ERR_FAILED 200 (OK)
+fetchWithTimeout @ staticApi.ts:384
+fetchWithRetry @ staticApi.ts:431
+getEpisodeStream @ staticApi.ts:565
+await in getEpisodeStream
+getEpisodeStream @ api.ts:380
+queryFn @ useEpisodes.ts:19
+fetchFn @ @tanstack_react-query.js?v=6500782f:881
+run @ @tanstack_react-query.js?v=6500782f:513
+start @ @tanstack_react-query.js?v=6500782f:555
+fetch @ @tanstack_react-query.js?v=6500782f:969
+executeFetch_fn @ @tanstack_react-query.js?v=6500782f:2280
+onSubscribe @ @tanstack_react-query.js?v=6500782f:1983
+subscribe @ @tanstack_react-query.js?v=6500782f:24
+(anônimo) @ @tanstack_react-query.js?v=6500782f:3147
+subscribeToStore @ chunk-276SZO74.js?v=6500782f:11984
 commitHookEffectListMount @ chunk-276SZO74.js?v=6500782f:16915
 commitPassiveMountOnFiber @ chunk-276SZO74.js?v=6500782f:18156
 commitPassiveMountEffects_complete @ chunk-276SZO74.js?v=6500782f:18129
@@ -47,323 +69,605 @@ flushPassiveEffects @ chunk-276SZO74.js?v=6500782f:19447
 workLoop @ chunk-276SZO74.js?v=6500782f:197
 flushWork @ chunk-276SZO74.js?v=6500782f:176
 performWorkUntilDeadline @ chunk-276SZO74.js?v=6500782f:384
-useSync.ts:54 useSync - Parando sincronização automática (usuário não autenticado)
-useSync.ts:54 useSync - Parando sincronização automática (usuário não autenticado)
-staticApi.ts:31 ✅ [STATIC API] Dados carregados: /animes/3601.json
-staticApi.ts:31 ✅ [STATIC API] Dados carregados: /episodes/3601.json
-staticApi.ts:31 ✅ [STATIC API] Dados carregados: /episodes/3601.json
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://animefire.plus/video/sousou-no-frieren-dublado/1
-staticApi.ts:507 🔄 [PROXY] Convertendo URL do AnimeFire: https://animefire.plus/video/sousou-no-frieren-dublado/1 -> /api/animefire/video/sousou-no-frieren-dublado/1
-staticApi.ts:562 🔄 [STATIC API] Usando proxy: /api/animefire/video/sousou-no-frieren-dublado/1 (original: https://animefire.plus/video/sousou-no-frieren-dublado/1)
-staticApi.ts:429 🔄 [REQUEST] Tentativa 1/3 para: /api/animefire/video/sousou-no-frieren-dublado/1
-staticApi.ts:438 ✅ [REQUEST] Sucesso na tentativa 1 para: /api/animefire/video/sousou-no-frieren-dublado/1
-staticApi.ts:305 💾 [CACHE] Dados armazenados para: streaming:/api/animefire/video/sousou-no-frieren-dublado/1 (TTL: 30min)
-staticApi.ts:572 📡 [STATIC API] Dados de streaming recebidos: {data: Array(3), metadata: {…}, response: {…}}
-staticApi.ts:648 🔄 [STATIC API] Processando dados de streaming externos
-staticApi.ts:704 📺 [STATIC API] Maior qualidade selecionada: 1080p URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:713 ✅ [STATIC API] Stream processado: 3 qualidades, URL principal definida
-api.ts:397 🔧 [STATIC API] Processando dados de stream: {message: 'Stream do episódio 1 carregado', data: {…}}
-staticApi.ts:648 🔄 [STATIC API] Processando dados de streaming externos
-staticApi.ts:652 ✅ [STATIC API] Dados já processados, retornando como estão
-api.ts:435 🎯 [STATIC API] Fonte principal selecionada: Melhor Qualidade URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-api.ts:397 🔧 [STATIC API] Processando dados de stream: {message: 'Stream do episódio 1 carregado', data: {…}}
-staticApi.ts:648 🔄 [STATIC API] Processando dados de streaming externos
-staticApi.ts:652 ✅ [STATIC API] Dados já processados, retornando como estão
-api.ts:435 🎯 [STATIC API] Fonte principal selecionada: Melhor Qualidade URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-Player.tsx:36 🎬 Player Debug Info:
-Player.tsx:37   - Video Sources: 1 [{…}]
-Player.tsx:38   - Selected Source: null
-Player.tsx:39   - Current Episode: 1
-Player.tsx:40   - Anime ID: 3601
-Player.tsx:51 🔍 [Player] Debug seleção de fonte:
-Player.tsx:52   - Total de fontes: 1
-Player.tsx:53   - Todas as fontes: [{…}]
-Player.tsx:54   - Fontes não alternativas: [{…}]
-Player.tsx:58 🎯 [Player] Selecionando fonte padrão: {label: 'Melhor Qualidade', src: 'https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4', isAlternative: false}
-api.ts:397 🔧 [STATIC API] Processando dados de stream: {message: 'Stream do episódio 1 carregado', data: {…}}
-staticApi.ts:648 🔄 [STATIC API] Processando dados de streaming externos
-staticApi.ts:652 ✅ [STATIC API] Dados já processados, retornando como estão
-api.ts:435 🎯 [STATIC API] Fonte principal selecionada: Melhor Qualidade URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-api.ts:397 🔧 [STATIC API] Processando dados de stream: {message: 'Stream do episódio 1 carregado', data: {…}}
-staticApi.ts:648 🔄 [STATIC API] Processando dados de streaming externos
-staticApi.ts:652 ✅ [STATIC API] Dados já processados, retornando como estão
-api.ts:435 🎯 [STATIC API] Fonte principal selecionada: Melhor Qualidade URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-chunk-276SZO74.js?v=6500782f:1232 Allow attribute will take precedence over 'allowfullscreen'.
-setValueForProperty @ chunk-276SZO74.js?v=6500782f:1232
-setInitialDOMProperties @ chunk-276SZO74.js?v=6500782f:7462
-setInitialProperties @ chunk-276SZO74.js?v=6500782f:7595
-finalizeInitialChildren @ chunk-276SZO74.js?v=6500782f:8345
-completeWork @ chunk-276SZO74.js?v=6500782f:16293
-completeUnitOfWork @ chunk-276SZO74.js?v=6500782f:19224
-performUnitOfWork @ chunk-276SZO74.js?v=6500782f:19206
-workLoopSync @ chunk-276SZO74.js?v=6500782f:19137
-renderRootSync @ chunk-276SZO74.js?v=6500782f:19116
-performConcurrentWorkOnRoot @ chunk-276SZO74.js?v=6500782f:18678
+staticApi.ts:449 ⚠️ [REQUEST] Tentativa 1 falhou: Failed to fetch
+overrideMethod @ hook.js:608
+fetchWithRetry @ staticApi.ts:449
+await in fetchWithRetry
+getEpisodeStream @ staticApi.ts:565
+await in getEpisodeStream
+getEpisodeStream @ api.ts:380
+queryFn @ useEpisodes.ts:19
+fetchFn @ @tanstack_react-query.js?v=6500782f:881
+run @ @tanstack_react-query.js?v=6500782f:513
+start @ @tanstack_react-query.js?v=6500782f:555
+fetch @ @tanstack_react-query.js?v=6500782f:969
+executeFetch_fn @ @tanstack_react-query.js?v=6500782f:2280
+onSubscribe @ @tanstack_react-query.js?v=6500782f:1983
+subscribe @ @tanstack_react-query.js?v=6500782f:24
+(anônimo) @ @tanstack_react-query.js?v=6500782f:3147
+subscribeToStore @ chunk-276SZO74.js?v=6500782f:11984
+commitHookEffectListMount @ chunk-276SZO74.js?v=6500782f:16915
+commitPassiveMountOnFiber @ chunk-276SZO74.js?v=6500782f:18156
+commitPassiveMountEffects_complete @ chunk-276SZO74.js?v=6500782f:18129
+commitPassiveMountEffects_begin @ chunk-276SZO74.js?v=6500782f:18119
+commitPassiveMountEffects @ chunk-276SZO74.js?v=6500782f:18109
+flushPassiveEffectsImpl @ chunk-276SZO74.js?v=6500782f:19490
+flushPassiveEffects @ chunk-276SZO74.js?v=6500782f:19447
+(anônimo) @ chunk-276SZO74.js?v=6500782f:19328
 workLoop @ chunk-276SZO74.js?v=6500782f:197
 flushWork @ chunk-276SZO74.js?v=6500782f:176
 performWorkUntilDeadline @ chunk-276SZO74.js?v=6500782f:384
-VideoPlayer.tsx:99 VideoPlayer - Available sources received: [{…}]
-VideoPlayer.tsx:100 VideoPlayer - Available sources length: 1
-VideoPlayer.tsx:101 VideoPlayer - Current source: {label: 'Melhor Qualidade', src: 'https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4', isAlternative: false}
-VideoPlayer.tsx:102 VideoPlayer - Primary source: {label: 'Melhor Qualidade', src: 'https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4', isAlternative: false}
-VideoPlayer.tsx:103 VideoPlayer - Primary source URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-Player.tsx:36 🎬 Player Debug Info:
-Player.tsx:37   - Video Sources: 1 [{…}]
-Player.tsx:38   - Selected Source: {label: 'Melhor Qualidade', src: 'https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4', isAlternative: false}
-Player.tsx:39   - Current Episode: 1
-Player.tsx:40   - Anime ID: 3601
-VideoPlayer.tsx:99 VideoPlayer - Available sources received: [{…}]
-VideoPlayer.tsx:100 VideoPlayer - Available sources length: 1
-VideoPlayer.tsx:101 VideoPlayer - Current source: {label: 'Melhor Qualidade', src: 'https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4', isAlternative: false}
-VideoPlayer.tsx:102 VideoPlayer - Primary source: {label: 'Melhor Qualidade', src: 'https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4', isAlternative: false}
-VideoPlayer.tsx:103 VideoPlayer - Primary source URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-useAuth.ts:44 👤 Nenhuma sessão ativa - modo visitante
-api.ts:397 🔧 [STATIC API] Processando dados de stream: {message: 'Stream do episódio 1 carregado', data: {…}}
-staticApi.ts:648 🔄 [STATIC API] Processando dados de streaming externos
-staticApi.ts:652 ✅ [STATIC API] Dados já processados, retornando como estão
-api.ts:435 🎯 [STATIC API] Fonte principal selecionada: Melhor Qualidade URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-api.ts:397 🔧 [STATIC API] Processando dados de stream: {message: 'Stream do episódio 1 carregado', data: {…}}
-staticApi.ts:648 🔄 [STATIC API] Processando dados de streaming externos
-staticApi.ts:652 ✅ [STATIC API] Dados já processados, retornando como estão
-api.ts:435 🎯 [STATIC API] Fonte principal selecionada: Melhor Qualidade URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-VideoPlayer.tsx:99 VideoPlayer - Available sources received: [{…}]
-VideoPlayer.tsx:100 VideoPlayer - Available sources length: 1
-VideoPlayer.tsx:101 VideoPlayer - Current source: {label: 'Melhor Qualidade', src: 'https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4', isAlternative: false}
-VideoPlayer.tsx:102 VideoPlayer - Primary source: {label: 'Melhor Qualidade', src: 'https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4', isAlternative: false}
-VideoPlayer.tsx:103 VideoPlayer - Primary source URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-api.ts:397 🔧 [STATIC API] Processando dados de stream: {message: 'Stream do episódio 1 carregado', data: {…}}
-staticApi.ts:648 🔄 [STATIC API] Processando dados de streaming externos
-staticApi.ts:652 ✅ [STATIC API] Dados já processados, retornando como estão
-api.ts:435 🎯 [STATIC API] Fonte principal selecionada: Melhor Qualidade URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-api.ts:397 🔧 [STATIC API] Processando dados de stream: {message: 'Stream do episódio 1 carregado', data: {…}}
-staticApi.ts:648 🔄 [STATIC API] Processando dados de streaming externos
-staticApi.ts:652 ✅ [STATIC API] Dados já processados, retornando como estão
-api.ts:435 🎯 [STATIC API] Fonte principal selecionada: Melhor Qualidade URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-VideoPlayer.tsx:99 VideoPlayer - Available sources received: [{…}]
-VideoPlayer.tsx:100 VideoPlayer - Available sources length: 1
-VideoPlayer.tsx:101 VideoPlayer - Current source: {label: 'Melhor Qualidade', src: 'https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4', isAlternative: false}
-VideoPlayer.tsx:102 VideoPlayer - Primary source: {label: 'Melhor Qualidade', src: 'https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4', isAlternative: false}
-VideoPlayer.tsx:103 VideoPlayer - Primary source URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-useAuth.ts:44 👤 Nenhuma sessão ativa - modo visitante
-api.ts:397 🔧 [STATIC API] Processando dados de stream: {message: 'Stream do episódio 1 carregado', data: {…}}
-staticApi.ts:648 🔄 [STATIC API] Processando dados de streaming externos
-staticApi.ts:652 ✅ [STATIC API] Dados já processados, retornando como estão
-api.ts:435 🎯 [STATIC API] Fonte principal selecionada: Melhor Qualidade URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-api.ts:397 🔧 [STATIC API] Processando dados de stream: {message: 'Stream do episódio 1 carregado', data: {…}}
-staticApi.ts:648 🔄 [STATIC API] Processando dados de streaming externos
-staticApi.ts:652 ✅ [STATIC API] Dados já processados, retornando como estão
-api.ts:435 🎯 [STATIC API] Fonte principal selecionada: Melhor Qualidade URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-VideoPlayer.tsx:99 VideoPlayer - Available sources received: [{…}]
-VideoPlayer.tsx:100 VideoPlayer - Available sources length: 1
-VideoPlayer.tsx:101 VideoPlayer - Current source: {label: 'Melhor Qualidade', src: 'https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4', isAlternative: false}
-VideoPlayer.tsx:102 VideoPlayer - Primary source: {label: 'Melhor Qualidade', src: 'https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4', isAlternative: false}
-VideoPlayer.tsx:103 VideoPlayer - Primary source URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-useAuth.ts:60 🔐 Auth state change: INITIAL_SESSION
-useAuth.ts:44 👤 Nenhuma sessão ativa - modo visitante
-api.ts:397 🔧 [STATIC API] Processando dados de stream: {message: 'Stream do episódio 1 carregado', data: {…}}
-staticApi.ts:648 🔄 [STATIC API] Processando dados de streaming externos
-staticApi.ts:652 ✅ [STATIC API] Dados já processados, retornando como estão
-api.ts:435 🎯 [STATIC API] Fonte principal selecionada: Melhor Qualidade URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-api.ts:397 🔧 [STATIC API] Processando dados de stream: {message: 'Stream do episódio 1 carregado', data: {…}}
-staticApi.ts:648 🔄 [STATIC API] Processando dados de streaming externos
-staticApi.ts:652 ✅ [STATIC API] Dados já processados, retornando como estão
-api.ts:435 🎯 [STATIC API] Fonte principal selecionada: Melhor Qualidade URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-VideoPlayer.tsx:99 VideoPlayer - Available sources received: [{…}]
-VideoPlayer.tsx:100 VideoPlayer - Available sources length: 1
-VideoPlayer.tsx:101 VideoPlayer - Current source: {label: 'Melhor Qualidade', src: 'https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4', isAlternative: false}
-VideoPlayer.tsx:102 VideoPlayer - Primary source: {label: 'Melhor Qualidade', src: 'https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4', isAlternative: false}
-VideoPlayer.tsx:103 VideoPlayer - Primary source URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-useAuth.ts:60 🔐 Auth state change: INITIAL_SESSION
-useAuth.ts:44 👤 Nenhuma sessão ativa - modo visitante
-api.ts:397 🔧 [STATIC API] Processando dados de stream: {message: 'Stream do episódio 1 carregado', data: {…}}
-staticApi.ts:648 🔄 [STATIC API] Processando dados de streaming externos
-staticApi.ts:652 ✅ [STATIC API] Dados já processados, retornando como estão
-api.ts:435 🎯 [STATIC API] Fonte principal selecionada: Melhor Qualidade URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-api.ts:397 🔧 [STATIC API] Processando dados de stream: {message: 'Stream do episódio 1 carregado', data: {…}}
-staticApi.ts:648 🔄 [STATIC API] Processando dados de streaming externos
-staticApi.ts:652 ✅ [STATIC API] Dados já processados, retornando como estão
-api.ts:435 🎯 [STATIC API] Fonte principal selecionada: Melhor Qualidade URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-VideoPlayer.tsx:99 VideoPlayer - Available sources received: [{…}]
-VideoPlayer.tsx:100 VideoPlayer - Available sources length: 1
-VideoPlayer.tsx:101 VideoPlayer - Current source: {label: 'Melhor Qualidade', src: 'https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4', isAlternative: false}
-VideoPlayer.tsx:102 VideoPlayer - Primary source: {label: 'Melhor Qualidade', src: 'https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4', isAlternative: false}
-VideoPlayer.tsx:103 VideoPlayer - Primary source URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-useAuth.ts:44 👤 Nenhuma sessão ativa - modo visitante
-api.ts:397 🔧 [STATIC API] Processando dados de stream: {message: 'Stream do episódio 1 carregado', data: {…}}
-staticApi.ts:648 🔄 [STATIC API] Processando dados de streaming externos
-staticApi.ts:652 ✅ [STATIC API] Dados já processados, retornando como estão
-api.ts:435 🎯 [STATIC API] Fonte principal selecionada: Melhor Qualidade URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-api.ts:397 🔧 [STATIC API] Processando dados de stream: {message: 'Stream do episódio 1 carregado', data: {…}}
-staticApi.ts:648 🔄 [STATIC API] Processando dados de streaming externos
-staticApi.ts:652 ✅ [STATIC API] Dados já processados, retornando como estão
-api.ts:435 🎯 [STATIC API] Fonte principal selecionada: Melhor Qualidade URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-VideoPlayer.tsx:99 VideoPlayer - Available sources received: [{…}]
-VideoPlayer.tsx:100 VideoPlayer - Available sources length: 1
-VideoPlayer.tsx:101 VideoPlayer - Current source: {label: 'Melhor Qualidade', src: 'https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4', isAlternative: false}
-VideoPlayer.tsx:102 VideoPlayer - Primary source: {label: 'Melhor Qualidade', src: 'https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4', isAlternative: false}
-VideoPlayer.tsx:103 VideoPlayer - Primary source URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-useAuth.ts:60 🔐 Auth state change: INITIAL_SESSION
-useAuth.ts:44 👤 Nenhuma sessão ativa - modo visitante
-api.ts:397 🔧 [STATIC API] Processando dados de stream: {message: 'Stream do episódio 1 carregado', data: {…}}
-staticApi.ts:648 🔄 [STATIC API] Processando dados de streaming externos
-staticApi.ts:652 ✅ [STATIC API] Dados já processados, retornando como estão
-api.ts:435 🎯 [STATIC API] Fonte principal selecionada: Melhor Qualidade URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-api.ts:397 🔧 [STATIC API] Processando dados de stream: {message: 'Stream do episódio 1 carregado', data: {…}}
-staticApi.ts:648 🔄 [STATIC API] Processando dados de streaming externos
-staticApi.ts:652 ✅ [STATIC API] Dados já processados, retornando como estão
-api.ts:435 🎯 [STATIC API] Fonte principal selecionada: Melhor Qualidade URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-VideoPlayer.tsx:99 VideoPlayer - Available sources received: [{…}]
-VideoPlayer.tsx:100 VideoPlayer - Available sources length: 1
-VideoPlayer.tsx:101 VideoPlayer - Current source: {label: 'Melhor Qualidade', src: 'https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4', isAlternative: false}
-VideoPlayer.tsx:102 VideoPlayer - Primary source: {label: 'Melhor Qualidade', src: 'https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4', isAlternative: false}
-VideoPlayer.tsx:103 VideoPlayer - Primary source URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-chromewebdata/:1 Refused to display 'https://lightspeedst.net/' in a frame because it set 'X-Frame-Options' to 'deny'.
-VideoPlayer.tsx:113 VideoPlayer - Iframe ready
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:512 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
-staticApi.ts:478 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] Analisando URL: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
- 🔄 [PROXY] URL não necessita proxy: https://lightspeedst.net/s6/mp4/sousou-no-frieren-dublado/fhd/1.mp4
+staticApi.ts:454 ⏳ [REQUEST] Aguardando 1500ms antes da próxima tentativa...
+staticApi.ts:429 🔄 [REQUEST] Tentativa 2/3 para: https://animefire.plus/video/sousou-no-frieren-dublado/1
+1:1 Access to fetch at 'https://animefire.plus/video/sousou-no-frieren-dublado/1' from origin 'http://localhost:3001' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+staticApi.ts:384  GET https://animefire.plus/video/sousou-no-frieren-dublado/1 net::ERR_FAILED 200 (OK)
+fetchWithTimeout @ staticApi.ts:384
+fetchWithRetry @ staticApi.ts:431
+await in fetchWithRetry
+getEpisodeStream @ staticApi.ts:565
+await in getEpisodeStream
+getEpisodeStream @ api.ts:380
+queryFn @ useEpisodes.ts:19
+fetchFn @ @tanstack_react-query.js?v=6500782f:881
+run @ @tanstack_react-query.js?v=6500782f:513
+start @ @tanstack_react-query.js?v=6500782f:555
+fetch @ @tanstack_react-query.js?v=6500782f:969
+executeFetch_fn @ @tanstack_react-query.js?v=6500782f:2280
+onSubscribe @ @tanstack_react-query.js?v=6500782f:1983
+subscribe @ @tanstack_react-query.js?v=6500782f:24
+(anônimo) @ @tanstack_react-query.js?v=6500782f:3147
+subscribeToStore @ chunk-276SZO74.js?v=6500782f:11984
+commitHookEffectListMount @ chunk-276SZO74.js?v=6500782f:16915
+commitPassiveMountOnFiber @ chunk-276SZO74.js?v=6500782f:18156
+commitPassiveMountEffects_complete @ chunk-276SZO74.js?v=6500782f:18129
+commitPassiveMountEffects_begin @ chunk-276SZO74.js?v=6500782f:18119
+commitPassiveMountEffects @ chunk-276SZO74.js?v=6500782f:18109
+flushPassiveEffectsImpl @ chunk-276SZO74.js?v=6500782f:19490
+flushPassiveEffects @ chunk-276SZO74.js?v=6500782f:19447
+(anônimo) @ chunk-276SZO74.js?v=6500782f:19328
+workLoop @ chunk-276SZO74.js?v=6500782f:197
+flushWork @ chunk-276SZO74.js?v=6500782f:176
+performWorkUntilDeadline @ chunk-276SZO74.js?v=6500782f:384
+staticApi.ts:449 ⚠️ [REQUEST] Tentativa 2 falhou: Failed to fetch
+overrideMethod @ hook.js:608
+fetchWithRetry @ staticApi.ts:449
+await in fetchWithRetry
+getEpisodeStream @ staticApi.ts:565
+await in getEpisodeStream
+getEpisodeStream @ api.ts:380
+queryFn @ useEpisodes.ts:19
+fetchFn @ @tanstack_react-query.js?v=6500782f:881
+run @ @tanstack_react-query.js?v=6500782f:513
+start @ @tanstack_react-query.js?v=6500782f:555
+fetch @ @tanstack_react-query.js?v=6500782f:969
+executeFetch_fn @ @tanstack_react-query.js?v=6500782f:2280
+onSubscribe @ @tanstack_react-query.js?v=6500782f:1983
+subscribe @ @tanstack_react-query.js?v=6500782f:24
+(anônimo) @ @tanstack_react-query.js?v=6500782f:3147
+subscribeToStore @ chunk-276SZO74.js?v=6500782f:11984
+commitHookEffectListMount @ chunk-276SZO74.js?v=6500782f:16915
+commitPassiveMountOnFiber @ chunk-276SZO74.js?v=6500782f:18156
+commitPassiveMountEffects_complete @ chunk-276SZO74.js?v=6500782f:18129
+commitPassiveMountEffects_begin @ chunk-276SZO74.js?v=6500782f:18119
+commitPassiveMountEffects @ chunk-276SZO74.js?v=6500782f:18109
+flushPassiveEffectsImpl @ chunk-276SZO74.js?v=6500782f:19490
+flushPassiveEffects @ chunk-276SZO74.js?v=6500782f:19447
+(anônimo) @ chunk-276SZO74.js?v=6500782f:19328
+workLoop @ chunk-276SZO74.js?v=6500782f:197
+flushWork @ chunk-276SZO74.js?v=6500782f:176
+performWorkUntilDeadline @ chunk-276SZO74.js?v=6500782f:384
+staticApi.ts:454 ⏳ [REQUEST] Aguardando 3000ms antes da próxima tentativa...
+staticApi.ts:429 🔄 [REQUEST] Tentativa 3/3 para: https://animefire.plus/video/sousou-no-frieren-dublado/1
+1:1 Access to fetch at 'https://animefire.plus/video/sousou-no-frieren-dublado/1' from origin 'http://localhost:3001' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+staticApi.ts:384  GET https://animefire.plus/video/sousou-no-frieren-dublado/1 net::ERR_FAILED 200 (OK)
+fetchWithTimeout @ staticApi.ts:384
+fetchWithRetry @ staticApi.ts:431
+await in fetchWithRetry
+getEpisodeStream @ staticApi.ts:565
+await in getEpisodeStream
+getEpisodeStream @ api.ts:380
+queryFn @ useEpisodes.ts:19
+fetchFn @ @tanstack_react-query.js?v=6500782f:881
+run @ @tanstack_react-query.js?v=6500782f:513
+start @ @tanstack_react-query.js?v=6500782f:555
+fetch @ @tanstack_react-query.js?v=6500782f:969
+executeFetch_fn @ @tanstack_react-query.js?v=6500782f:2280
+onSubscribe @ @tanstack_react-query.js?v=6500782f:1983
+subscribe @ @tanstack_react-query.js?v=6500782f:24
+(anônimo) @ @tanstack_react-query.js?v=6500782f:3147
+subscribeToStore @ chunk-276SZO74.js?v=6500782f:11984
+commitHookEffectListMount @ chunk-276SZO74.js?v=6500782f:16915
+commitPassiveMountOnFiber @ chunk-276SZO74.js?v=6500782f:18156
+commitPassiveMountEffects_complete @ chunk-276SZO74.js?v=6500782f:18129
+commitPassiveMountEffects_begin @ chunk-276SZO74.js?v=6500782f:18119
+commitPassiveMountEffects @ chunk-276SZO74.js?v=6500782f:18109
+flushPassiveEffectsImpl @ chunk-276SZO74.js?v=6500782f:19490
+flushPassiveEffects @ chunk-276SZO74.js?v=6500782f:19447
+(anônimo) @ chunk-276SZO74.js?v=6500782f:19328
+workLoop @ chunk-276SZO74.js?v=6500782f:197
+flushWork @ chunk-276SZO74.js?v=6500782f:176
+performWorkUntilDeadline @ chunk-276SZO74.js?v=6500782f:384
+staticApi.ts:449 ⚠️ [REQUEST] Tentativa 3 falhou: Failed to fetch
+overrideMethod @ hook.js:608
+fetchWithRetry @ staticApi.ts:449
+await in fetchWithRetry
+getEpisodeStream @ staticApi.ts:565
+await in getEpisodeStream
+getEpisodeStream @ api.ts:380
+queryFn @ useEpisodes.ts:19
+fetchFn @ @tanstack_react-query.js?v=6500782f:881
+run @ @tanstack_react-query.js?v=6500782f:513
+start @ @tanstack_react-query.js?v=6500782f:555
+fetch @ @tanstack_react-query.js?v=6500782f:969
+executeFetch_fn @ @tanstack_react-query.js?v=6500782f:2280
+onSubscribe @ @tanstack_react-query.js?v=6500782f:1983
+subscribe @ @tanstack_react-query.js?v=6500782f:24
+(anônimo) @ @tanstack_react-query.js?v=6500782f:3147
+subscribeToStore @ chunk-276SZO74.js?v=6500782f:11984
+commitHookEffectListMount @ chunk-276SZO74.js?v=6500782f:16915
+commitPassiveMountOnFiber @ chunk-276SZO74.js?v=6500782f:18156
+commitPassiveMountEffects_complete @ chunk-276SZO74.js?v=6500782f:18129
+commitPassiveMountEffects_begin @ chunk-276SZO74.js?v=6500782f:18119
+commitPassiveMountEffects @ chunk-276SZO74.js?v=6500782f:18109
+flushPassiveEffectsImpl @ chunk-276SZO74.js?v=6500782f:19490
+flushPassiveEffects @ chunk-276SZO74.js?v=6500782f:19447
+(anônimo) @ chunk-276SZO74.js?v=6500782f:19328
+workLoop @ chunk-276SZO74.js?v=6500782f:197
+flushWork @ chunk-276SZO74.js?v=6500782f:176
+performWorkUntilDeadline @ chunk-276SZO74.js?v=6500782f:384
+staticApi.ts:460 ❌ [REQUEST] Todas as 3 tentativas falharam para: https://animefire.plus/video/sousou-no-frieren-dublado/1
+overrideMethod @ hook.js:608
+fetchWithRetry @ staticApi.ts:460
+await in fetchWithRetry
+getEpisodeStream @ staticApi.ts:565
+await in getEpisodeStream
+getEpisodeStream @ api.ts:380
+queryFn @ useEpisodes.ts:19
+fetchFn @ @tanstack_react-query.js?v=6500782f:881
+run @ @tanstack_react-query.js?v=6500782f:513
+start @ @tanstack_react-query.js?v=6500782f:555
+fetch @ @tanstack_react-query.js?v=6500782f:969
+executeFetch_fn @ @tanstack_react-query.js?v=6500782f:2280
+onSubscribe @ @tanstack_react-query.js?v=6500782f:1983
+subscribe @ @tanstack_react-query.js?v=6500782f:24
+(anônimo) @ @tanstack_react-query.js?v=6500782f:3147
+subscribeToStore @ chunk-276SZO74.js?v=6500782f:11984
+commitHookEffectListMount @ chunk-276SZO74.js?v=6500782f:16915
+commitPassiveMountOnFiber @ chunk-276SZO74.js?v=6500782f:18156
+commitPassiveMountEffects_complete @ chunk-276SZO74.js?v=6500782f:18129
+commitPassiveMountEffects_begin @ chunk-276SZO74.js?v=6500782f:18119
+commitPassiveMountEffects @ chunk-276SZO74.js?v=6500782f:18109
+flushPassiveEffectsImpl @ chunk-276SZO74.js?v=6500782f:19490
+flushPassiveEffects @ chunk-276SZO74.js?v=6500782f:19447
+(anônimo) @ chunk-276SZO74.js?v=6500782f:19328
+workLoop @ chunk-276SZO74.js?v=6500782f:197
+flushWork @ chunk-276SZO74.js?v=6500782f:176
+performWorkUntilDeadline @ chunk-276SZO74.js?v=6500782f:384
+staticApi.ts:331 ❌ [CACHE] URL marcada como falhada: streaming:https://animefire.plus/video/sousou-no-frieren-dublado/1 (TTL: 5min)
+staticApi.ts:587 ❌ [STATIC API] API externa falhou após tentativas: Failed to fetch
+overrideMethod @ hook.js:608
+getEpisodeStream @ staticApi.ts:587
+await in getEpisodeStream
+getEpisodeStream @ api.ts:380
+queryFn @ useEpisodes.ts:19
+fetchFn @ @tanstack_react-query.js?v=6500782f:881
+run @ @tanstack_react-query.js?v=6500782f:513
+start @ @tanstack_react-query.js?v=6500782f:555
+fetch @ @tanstack_react-query.js?v=6500782f:969
+executeFetch_fn @ @tanstack_react-query.js?v=6500782f:2280
+onSubscribe @ @tanstack_react-query.js?v=6500782f:1983
+subscribe @ @tanstack_react-query.js?v=6500782f:24
+(anônimo) @ @tanstack_react-query.js?v=6500782f:3147
+subscribeToStore @ chunk-276SZO74.js?v=6500782f:11984
+commitHookEffectListMount @ chunk-276SZO74.js?v=6500782f:16915
+commitPassiveMountOnFiber @ chunk-276SZO74.js?v=6500782f:18156
+commitPassiveMountEffects_complete @ chunk-276SZO74.js?v=6500782f:18129
+commitPassiveMountEffects_begin @ chunk-276SZO74.js?v=6500782f:18119
+commitPassiveMountEffects @ chunk-276SZO74.js?v=6500782f:18109
+flushPassiveEffectsImpl @ chunk-276SZO74.js?v=6500782f:19490
+flushPassiveEffects @ chunk-276SZO74.js?v=6500782f:19447
+(anônimo) @ chunk-276SZO74.js?v=6500782f:19328
+workLoop @ chunk-276SZO74.js?v=6500782f:197
+flushWork @ chunk-276SZO74.js?v=6500782f:176
+performWorkUntilDeadline @ chunk-276SZO74.js?v=6500782f:384
+staticApi.ts:591 ❌ [STATIC API] Erro ao buscar stream para anime 3601, episódio 1: Error: Episódio 1 não disponível: Failed to fetch
+    at StaticEpisodeService.getEpisodeStream (staticApi.ts:588:15)
+    at async EpisodeService.getEpisodeStream (api.ts:380:14)
+overrideMethod @ hook.js:608
+getEpisodeStream @ staticApi.ts:591
+await in getEpisodeStream
+getEpisodeStream @ api.ts:380
+queryFn @ useEpisodes.ts:19
+fetchFn @ @tanstack_react-query.js?v=6500782f:881
+run @ @tanstack_react-query.js?v=6500782f:513
+start @ @tanstack_react-query.js?v=6500782f:555
+fetch @ @tanstack_react-query.js?v=6500782f:969
+executeFetch_fn @ @tanstack_react-query.js?v=6500782f:2280
+onSubscribe @ @tanstack_react-query.js?v=6500782f:1983
+subscribe @ @tanstack_react-query.js?v=6500782f:24
+(anônimo) @ @tanstack_react-query.js?v=6500782f:3147
+subscribeToStore @ chunk-276SZO74.js?v=6500782f:11984
+commitHookEffectListMount @ chunk-276SZO74.js?v=6500782f:16915
+commitPassiveMountOnFiber @ chunk-276SZO74.js?v=6500782f:18156
+commitPassiveMountEffects_complete @ chunk-276SZO74.js?v=6500782f:18129
+commitPassiveMountEffects_begin @ chunk-276SZO74.js?v=6500782f:18119
+commitPassiveMountEffects @ chunk-276SZO74.js?v=6500782f:18109
+flushPassiveEffectsImpl @ chunk-276SZO74.js?v=6500782f:19490
+flushPassiveEffects @ chunk-276SZO74.js?v=6500782f:19447
+(anônimo) @ chunk-276SZO74.js?v=6500782f:19328
+workLoop @ chunk-276SZO74.js?v=6500782f:197
+flushWork @ chunk-276SZO74.js?v=6500782f:176
+performWorkUntilDeadline @ chunk-276SZO74.js?v=6500782f:384
+api.ts:382 ❌ [STATIC API] Erro ao buscar stream para anime 3601, episódio 1: Episódio 1 não disponível: Failed to fetch
+overrideMethod @ hook.js:608
+getEpisodeStream @ api.ts:382
+await in getEpisodeStream
+queryFn @ useEpisodes.ts:19
+fetchFn @ @tanstack_react-query.js?v=6500782f:881
+run @ @tanstack_react-query.js?v=6500782f:513
+start @ @tanstack_react-query.js?v=6500782f:555
+fetch @ @tanstack_react-query.js?v=6500782f:969
+executeFetch_fn @ @tanstack_react-query.js?v=6500782f:2280
+onSubscribe @ @tanstack_react-query.js?v=6500782f:1983
+subscribe @ @tanstack_react-query.js?v=6500782f:24
+(anônimo) @ @tanstack_react-query.js?v=6500782f:3147
+subscribeToStore @ chunk-276SZO74.js?v=6500782f:11984
+commitHookEffectListMount @ chunk-276SZO74.js?v=6500782f:16915
+commitPassiveMountOnFiber @ chunk-276SZO74.js?v=6500782f:18156
+commitPassiveMountEffects_complete @ chunk-276SZO74.js?v=6500782f:18129
+commitPassiveMountEffects_begin @ chunk-276SZO74.js?v=6500782f:18119
+commitPassiveMountEffects @ chunk-276SZO74.js?v=6500782f:18109
+flushPassiveEffectsImpl @ chunk-276SZO74.js?v=6500782f:19490
+flushPassiveEffects @ chunk-276SZO74.js?v=6500782f:19447
+(anônimo) @ chunk-276SZO74.js?v=6500782f:19328
+workLoop @ chunk-276SZO74.js?v=6500782f:197
+flushWork @ chunk-276SZO74.js?v=6500782f:176
+performWorkUntilDeadline @ chunk-276SZO74.js?v=6500782f:384
+api.ts:379 🌐 [STATIC API] Buscando stream para anime 3601, episódio 1
+staticApi.ts:542 🎬 [STATIC API] Buscando stream para anime 3601, episódio 1
+staticApi.ts:14 📦 [STATIC API] Usando cache para: /episodes/3601.json
+staticApi.ts:478 🔄 [PROXY] Analisando URL: https://animefire.plus/video/sousou-no-frieren-dublado/1
+staticApi.ts:506 ⚠️ [PROXY] URL do AnimeFire detectada, mas não será proxificada (retorna HTML): https://animefire.plus/video/sousou-no-frieren-dublado/1
+staticApi.ts:562 🔄 [STATIC API] Usando proxy: https://animefire.plus/video/sousou-no-frieren-dublado/1 (original: https://animefire.plus/video/sousou-no-frieren-dublado/1)
+staticApi.ts:346 🚫 [CACHE] URL ainda marcada como falhada: streaming:https://animefire.plus/video/sousou-no-frieren-dublado/1
+staticApi.ts:587 ❌ [STATIC API] API externa falhou após tentativas: URL marcada como falhada no cache
+overrideMethod @ hook.js:608
+getEpisodeStream @ staticApi.ts:587
+await in getEpisodeStream
+getEpisodeStream @ api.ts:380
+queryFn @ useEpisodes.ts:19
+fetchFn @ @tanstack_react-query.js?v=6500782f:881
+run @ @tanstack_react-query.js?v=6500782f:513
+(anônimo) @ @tanstack_react-query.js?v=6500782f:538
+Promise.then
+(anônimo) @ @tanstack_react-query.js?v=6500782f:534
+Promise.catch
+run @ @tanstack_react-query.js?v=6500782f:517
+start @ @tanstack_react-query.js?v=6500782f:555
+fetch @ @tanstack_react-query.js?v=6500782f:969
+executeFetch_fn @ @tanstack_react-query.js?v=6500782f:2280
+onSubscribe @ @tanstack_react-query.js?v=6500782f:1983
+subscribe @ @tanstack_react-query.js?v=6500782f:24
+(anônimo) @ @tanstack_react-query.js?v=6500782f:3147
+subscribeToStore @ chunk-276SZO74.js?v=6500782f:11984
+commitHookEffectListMount @ chunk-276SZO74.js?v=6500782f:16915
+commitPassiveMountOnFiber @ chunk-276SZO74.js?v=6500782f:18156
+commitPassiveMountEffects_complete @ chunk-276SZO74.js?v=6500782f:18129
+commitPassiveMountEffects_begin @ chunk-276SZO74.js?v=6500782f:18119
+commitPassiveMountEffects @ chunk-276SZO74.js?v=6500782f:18109
+flushPassiveEffectsImpl @ chunk-276SZO74.js?v=6500782f:19490
+flushPassiveEffects @ chunk-276SZO74.js?v=6500782f:19447
+(anônimo) @ chunk-276SZO74.js?v=6500782f:19328
+workLoop @ chunk-276SZO74.js?v=6500782f:197
+flushWork @ chunk-276SZO74.js?v=6500782f:176
+performWorkUntilDeadline @ chunk-276SZO74.js?v=6500782f:384
+staticApi.ts:591 ❌ [STATIC API] Erro ao buscar stream para anime 3601, episódio 1: Error: Episódio 1 não disponível: URL marcada como falhada no cache
+    at StaticEpisodeService.getEpisodeStream (staticApi.ts:588:15)
+    at async EpisodeService.getEpisodeStream (api.ts:380:14)
+overrideMethod @ hook.js:608
+getEpisodeStream @ staticApi.ts:591
+await in getEpisodeStream
+getEpisodeStream @ api.ts:380
+queryFn @ useEpisodes.ts:19
+fetchFn @ @tanstack_react-query.js?v=6500782f:881
+run @ @tanstack_react-query.js?v=6500782f:513
+(anônimo) @ @tanstack_react-query.js?v=6500782f:538
+Promise.then
+(anônimo) @ @tanstack_react-query.js?v=6500782f:534
+Promise.catch
+run @ @tanstack_react-query.js?v=6500782f:517
+start @ @tanstack_react-query.js?v=6500782f:555
+fetch @ @tanstack_react-query.js?v=6500782f:969
+executeFetch_fn @ @tanstack_react-query.js?v=6500782f:2280
+onSubscribe @ @tanstack_react-query.js?v=6500782f:1983
+subscribe @ @tanstack_react-query.js?v=6500782f:24
+(anônimo) @ @tanstack_react-query.js?v=6500782f:3147
+subscribeToStore @ chunk-276SZO74.js?v=6500782f:11984
+commitHookEffectListMount @ chunk-276SZO74.js?v=6500782f:16915
+commitPassiveMountOnFiber @ chunk-276SZO74.js?v=6500782f:18156
+commitPassiveMountEffects_complete @ chunk-276SZO74.js?v=6500782f:18129
+commitPassiveMountEffects_begin @ chunk-276SZO74.js?v=6500782f:18119
+commitPassiveMountEffects @ chunk-276SZO74.js?v=6500782f:18109
+flushPassiveEffectsImpl @ chunk-276SZO74.js?v=6500782f:19490
+flushPassiveEffects @ chunk-276SZO74.js?v=6500782f:19447
+(anônimo) @ chunk-276SZO74.js?v=6500782f:19328
+workLoop @ chunk-276SZO74.js?v=6500782f:197
+flushWork @ chunk-276SZO74.js?v=6500782f:176
+performWorkUntilDeadline @ chunk-276SZO74.js?v=6500782f:384
+api.ts:382 ❌ [STATIC API] Erro ao buscar stream para anime 3601, episódio 1: Episódio 1 não disponível: URL marcada como falhada no cache
+overrideMethod @ hook.js:608
+getEpisodeStream @ api.ts:382
+await in getEpisodeStream
+queryFn @ useEpisodes.ts:19
+fetchFn @ @tanstack_react-query.js?v=6500782f:881
+run @ @tanstack_react-query.js?v=6500782f:513
+(anônimo) @ @tanstack_react-query.js?v=6500782f:538
+Promise.then
+(anônimo) @ @tanstack_react-query.js?v=6500782f:534
+Promise.catch
+run @ @tanstack_react-query.js?v=6500782f:517
+start @ @tanstack_react-query.js?v=6500782f:555
+fetch @ @tanstack_react-query.js?v=6500782f:969
+executeFetch_fn @ @tanstack_react-query.js?v=6500782f:2280
+onSubscribe @ @tanstack_react-query.js?v=6500782f:1983
+subscribe @ @tanstack_react-query.js?v=6500782f:24
+(anônimo) @ @tanstack_react-query.js?v=6500782f:3147
+subscribeToStore @ chunk-276SZO74.js?v=6500782f:11984
+commitHookEffectListMount @ chunk-276SZO74.js?v=6500782f:16915
+commitPassiveMountOnFiber @ chunk-276SZO74.js?v=6500782f:18156
+commitPassiveMountEffects_complete @ chunk-276SZO74.js?v=6500782f:18129
+commitPassiveMountEffects_begin @ chunk-276SZO74.js?v=6500782f:18119
+commitPassiveMountEffects @ chunk-276SZO74.js?v=6500782f:18109
+flushPassiveEffectsImpl @ chunk-276SZO74.js?v=6500782f:19490
+flushPassiveEffects @ chunk-276SZO74.js?v=6500782f:19447
+(anônimo) @ chunk-276SZO74.js?v=6500782f:19328
+workLoop @ chunk-276SZO74.js?v=6500782f:197
+flushWork @ chunk-276SZO74.js?v=6500782f:176
+performWorkUntilDeadline @ chunk-276SZO74.js?v=6500782f:384
+api.ts:379 🌐 [STATIC API] Buscando stream para anime 3601, episódio 1
+staticApi.ts:542 🎬 [STATIC API] Buscando stream para anime 3601, episódio 1
+staticApi.ts:14 📦 [STATIC API] Usando cache para: /episodes/3601.json
+staticApi.ts:478 🔄 [PROXY] Analisando URL: https://animefire.plus/video/sousou-no-frieren-dublado/1
+staticApi.ts:506 ⚠️ [PROXY] URL do AnimeFire detectada, mas não será proxificada (retorna HTML): https://animefire.plus/video/sousou-no-frieren-dublado/1
+staticApi.ts:562 🔄 [STATIC API] Usando proxy: https://animefire.plus/video/sousou-no-frieren-dublado/1 (original: https://animefire.plus/video/sousou-no-frieren-dublado/1)
+staticApi.ts:346 🚫 [CACHE] URL ainda marcada como falhada: streaming:https://animefire.plus/video/sousou-no-frieren-dublado/1
+staticApi.ts:587 ❌ [STATIC API] API externa falhou após tentativas: URL marcada como falhada no cache
+overrideMethod @ hook.js:608
+getEpisodeStream @ staticApi.ts:587
+await in getEpisodeStream
+getEpisodeStream @ api.ts:380
+queryFn @ useEpisodes.ts:19
+fetchFn @ @tanstack_react-query.js?v=6500782f:881
+run @ @tanstack_react-query.js?v=6500782f:513
+(anônimo) @ @tanstack_react-query.js?v=6500782f:538
+Promise.then
+(anônimo) @ @tanstack_react-query.js?v=6500782f:534
+Promise.catch
+run @ @tanstack_react-query.js?v=6500782f:517
+(anônimo) @ @tanstack_react-query.js?v=6500782f:538
+Promise.then
+(anônimo) @ @tanstack_react-query.js?v=6500782f:534
+Promise.catch
+run @ @tanstack_react-query.js?v=6500782f:517
+start @ @tanstack_react-query.js?v=6500782f:555
+fetch @ @tanstack_react-query.js?v=6500782f:969
+executeFetch_fn @ @tanstack_react-query.js?v=6500782f:2280
+onSubscribe @ @tanstack_react-query.js?v=6500782f:1983
+subscribe @ @tanstack_react-query.js?v=6500782f:24
+(anônimo) @ @tanstack_react-query.js?v=6500782f:3147
+subscribeToStore @ chunk-276SZO74.js?v=6500782f:11984
+commitHookEffectListMount @ chunk-276SZO74.js?v=6500782f:16915
+commitPassiveMountOnFiber @ chunk-276SZO74.js?v=6500782f:18156
+commitPassiveMountEffects_complete @ chunk-276SZO74.js?v=6500782f:18129
+commitPassiveMountEffects_begin @ chunk-276SZO74.js?v=6500782f:18119
+commitPassiveMountEffects @ chunk-276SZO74.js?v=6500782f:18109
+flushPassiveEffectsImpl @ chunk-276SZO74.js?v=6500782f:19490
+flushPassiveEffects @ chunk-276SZO74.js?v=6500782f:19447
+(anônimo) @ chunk-276SZO74.js?v=6500782f:19328
+workLoop @ chunk-276SZO74.js?v=6500782f:197
+flushWork @ chunk-276SZO74.js?v=6500782f:176
+performWorkUntilDeadline @ chunk-276SZO74.js?v=6500782f:384
+staticApi.ts:591 ❌ [STATIC API] Erro ao buscar stream para anime 3601, episódio 1: Error: Episódio 1 não disponível: URL marcada como falhada no cache
+    at StaticEpisodeService.getEpisodeStream (staticApi.ts:588:15)
+    at async EpisodeService.getEpisodeStream (api.ts:380:14)
+overrideMethod @ hook.js:608
+getEpisodeStream @ staticApi.ts:591
+await in getEpisodeStream
+getEpisodeStream @ api.ts:380
+queryFn @ useEpisodes.ts:19
+fetchFn @ @tanstack_react-query.js?v=6500782f:881
+run @ @tanstack_react-query.js?v=6500782f:513
+(anônimo) @ @tanstack_react-query.js?v=6500782f:538
+Promise.then
+(anônimo) @ @tanstack_react-query.js?v=6500782f:534
+Promise.catch
+run @ @tanstack_react-query.js?v=6500782f:517
+(anônimo) @ @tanstack_react-query.js?v=6500782f:538
+Promise.then
+(anônimo) @ @tanstack_react-query.js?v=6500782f:534
+Promise.catch
+run @ @tanstack_react-query.js?v=6500782f:517
+start @ @tanstack_react-query.js?v=6500782f:555
+fetch @ @tanstack_react-query.js?v=6500782f:969
+executeFetch_fn @ @tanstack_react-query.js?v=6500782f:2280
+onSubscribe @ @tanstack_react-query.js?v=6500782f:1983
+subscribe @ @tanstack_react-query.js?v=6500782f:24
+(anônimo) @ @tanstack_react-query.js?v=6500782f:3147
+subscribeToStore @ chunk-276SZO74.js?v=6500782f:11984
+commitHookEffectListMount @ chunk-276SZO74.js?v=6500782f:16915
+commitPassiveMountOnFiber @ chunk-276SZO74.js?v=6500782f:18156
+commitPassiveMountEffects_complete @ chunk-276SZO74.js?v=6500782f:18129
+commitPassiveMountEffects_begin @ chunk-276SZO74.js?v=6500782f:18119
+commitPassiveMountEffects @ chunk-276SZO74.js?v=6500782f:18109
+flushPassiveEffectsImpl @ chunk-276SZO74.js?v=6500782f:19490
+flushPassiveEffects @ chunk-276SZO74.js?v=6500782f:19447
+(anônimo) @ chunk-276SZO74.js?v=6500782f:19328
+workLoop @ chunk-276SZO74.js?v=6500782f:197
+flushWork @ chunk-276SZO74.js?v=6500782f:176
+performWorkUntilDeadline @ chunk-276SZO74.js?v=6500782f:384
+api.ts:382 ❌ [STATIC API] Erro ao buscar stream para anime 3601, episódio 1: Episódio 1 não disponível: URL marcada como falhada no cache
+overrideMethod @ hook.js:608
+getEpisodeStream @ api.ts:382
+await in getEpisodeStream
+queryFn @ useEpisodes.ts:19
+fetchFn @ @tanstack_react-query.js?v=6500782f:881
+run @ @tanstack_react-query.js?v=6500782f:513
+(anônimo) @ @tanstack_react-query.js?v=6500782f:538
+Promise.then
+(anônimo) @ @tanstack_react-query.js?v=6500782f:534
+Promise.catch
+run @ @tanstack_react-query.js?v=6500782f:517
+(anônimo) @ @tanstack_react-query.js?v=6500782f:538
+Promise.then
+(anônimo) @ @tanstack_react-query.js?v=6500782f:534
+Promise.catch
+run @ @tanstack_react-query.js?v=6500782f:517
+start @ @tanstack_react-query.js?v=6500782f:555
+fetch @ @tanstack_react-query.js?v=6500782f:969
+executeFetch_fn @ @tanstack_react-query.js?v=6500782f:2280
+onSubscribe @ @tanstack_react-query.js?v=6500782f:1983
+subscribe @ @tanstack_react-query.js?v=6500782f:24
+(anônimo) @ @tanstack_react-query.js?v=6500782f:3147
+subscribeToStore @ chunk-276SZO74.js?v=6500782f:11984
+commitHookEffectListMount @ chunk-276SZO74.js?v=6500782f:16915
+commitPassiveMountOnFiber @ chunk-276SZO74.js?v=6500782f:18156
+commitPassiveMountEffects_complete @ chunk-276SZO74.js?v=6500782f:18129
+commitPassiveMountEffects_begin @ chunk-276SZO74.js?v=6500782f:18119
+commitPassiveMountEffects @ chunk-276SZO74.js?v=6500782f:18109
+flushPassiveEffectsImpl @ chunk-276SZO74.js?v=6500782f:19490
+flushPassiveEffects @ chunk-276SZO74.js?v=6500782f:19447
+(anônimo) @ chunk-276SZO74.js?v=6500782f:19328
+workLoop @ chunk-276SZO74.js?v=6500782f:197
+flushWork @ chunk-276SZO74.js?v=6500782f:176
+performWorkUntilDeadline @ chunk-276SZO74.js?v=6500782f:384
+api.ts:379 🌐 [STATIC API] Buscando stream para anime 3601, episódio 1
+staticApi.ts:542 🎬 [STATIC API] Buscando stream para anime 3601, episódio 1
+staticApi.ts:14 📦 [STATIC API] Usando cache para: /episodes/3601.json
+staticApi.ts:478 🔄 [PROXY] Analisando URL: https://animefire.plus/video/sousou-no-frieren-dublado/1
+staticApi.ts:506 ⚠️ [PROXY] URL do AnimeFire detectada, mas não será proxificada (retorna HTML): https://animefire.plus/video/sousou-no-frieren-dublado/1
+staticApi.ts:562 🔄 [STATIC API] Usando proxy: https://animefire.plus/video/sousou-no-frieren-dublado/1 (original: https://animefire.plus/video/sousou-no-frieren-dublado/1)
+staticApi.ts:346 🚫 [CACHE] URL ainda marcada como falhada: streaming:https://animefire.plus/video/sousou-no-frieren-dublado/1
+staticApi.ts:587 ❌ [STATIC API] API externa falhou após tentativas: URL marcada como falhada no cache
+overrideMethod @ hook.js:608
+getEpisodeStream @ staticApi.ts:587
+await in getEpisodeStream
+getEpisodeStream @ api.ts:380
+queryFn @ useEpisodes.ts:19
+fetchFn @ @tanstack_react-query.js?v=6500782f:881
+run @ @tanstack_react-query.js?v=6500782f:513
+(anônimo) @ @tanstack_react-query.js?v=6500782f:538
+Promise.then
+(anônimo) @ @tanstack_react-query.js?v=6500782f:534
+Promise.catch
+run @ @tanstack_react-query.js?v=6500782f:517
+(anônimo) @ @tanstack_react-query.js?v=6500782f:538
+Promise.then
+(anônimo) @ @tanstack_react-query.js?v=6500782f:534
+Promise.catch
+run @ @tanstack_react-query.js?v=6500782f:517
+(anônimo) @ @tanstack_react-query.js?v=6500782f:538
+Promise.then
+(anônimo) @ @tanstack_react-query.js?v=6500782f:534
+Promise.catch
+run @ @tanstack_react-query.js?v=6500782f:517
+start @ @tanstack_react-query.js?v=6500782f:555
+fetch @ @tanstack_react-query.js?v=6500782f:969
+executeFetch_fn @ @tanstack_react-query.js?v=6500782f:2280
+onSubscribe @ @tanstack_react-query.js?v=6500782f:1983
+subscribe @ @tanstack_react-query.js?v=6500782f:24
+(anônimo) @ @tanstack_react-query.js?v=6500782f:3147
+subscribeToStore @ chunk-276SZO74.js?v=6500782f:11984
+commitHookEffectListMount @ chunk-276SZO74.js?v=6500782f:16915
+commitPassiveMountOnFiber @ chunk-276SZO74.js?v=6500782f:18156
+commitPassiveMountEffects_complete @ chunk-276SZO74.js?v=6500782f:18129
+commitPassiveMountEffects_begin @ chunk-276SZO74.js?v=6500782f:18119
+commitPassiveMountEffects @ chunk-276SZO74.js?v=6500782f:18109
+flushPassiveEffectsImpl @ chunk-276SZO74.js?v=6500782f:19490
+flushPassiveEffects @ chunk-276SZO74.js?v=6500782f:19447
+(anônimo) @ chunk-276SZO74.js?v=6500782f:19328
+workLoop @ chunk-276SZO74.js?v=6500782f:197
+flushWork @ chunk-276SZO74.js?v=6500782f:176
+performWorkUntilDeadline @ chunk-276SZO74.js?v=6500782f:384
+staticApi.ts:591 ❌ [STATIC API] Erro ao buscar stream para anime 3601, episódio 1: Error: Episódio 1 não disponível: URL marcada como falhada no cache
+    at StaticEpisodeService.getEpisodeStream (staticApi.ts:588:15)
+    at async EpisodeService.getEpisodeStream (api.ts:380:14)
+overrideMethod @ hook.js:608
+getEpisodeStream @ staticApi.ts:591
+await in getEpisodeStream
+getEpisodeStream @ api.ts:380
+queryFn @ useEpisodes.ts:19
+fetchFn @ @tanstack_react-query.js?v=6500782f:881
+run @ @tanstack_react-query.js?v=6500782f:513
+(anônimo) @ @tanstack_react-query.js?v=6500782f:538
+Promise.then
+(anônimo) @ @tanstack_react-query.js?v=6500782f:534
+Promise.catch
+run @ @tanstack_react-query.js?v=6500782f:517
+(anônimo) @ @tanstack_react-query.js?v=6500782f:538
+Promise.then
+(anônimo) @ @tanstack_react-query.js?v=6500782f:534
+Promise.catch
+run @ @tanstack_react-query.js?v=6500782f:517
+(anônimo) @ @tanstack_react-query.js?v=6500782f:538
+Promise.then
+(anônimo) @ @tanstack_react-query.js?v=6500782f:534
+Promise.catch
+run @ @tanstack_react-query.js?v=6500782f:517
+start @ @tanstack_react-query.js?v=6500782f:555
+fetch @ @tanstack_react-query.js?v=6500782f:969
+executeFetch_fn @ @tanstack_react-query.js?v=6500782f:2280
+onSubscribe @ @tanstack_react-query.js?v=6500782f:1983
+subscribe @ @tanstack_react-query.js?v=6500782f:24
+(anônimo) @ @tanstack_react-query.js?v=6500782f:3147
+subscribeToStore @ chunk-276SZO74.js?v=6500782f:11984
+commitHookEffectListMount @ chunk-276SZO74.js?v=6500782f:16915
+commitPassiveMountOnFiber @ chunk-276SZO74.js?v=6500782f:18156
+commitPassiveMountEffects_complete @ chunk-276SZO74.js?v=6500782f:18129
+commitPassiveMountEffects_begin @ chunk-276SZO74.js?v=6500782f:18119
+commitPassiveMountEffects @ chunk-276SZO74.js?v=6500782f:18109
+flushPassiveEffectsImpl @ chunk-276SZO74.js?v=6500782f:19490
+flushPassiveEffects @ chunk-276SZO74.js?v=6500782f:19447
+(anônimo) @ chunk-276SZO74.js?v=6500782f:19328
+workLoop @ chunk-276SZO74.js?v=6500782f:197
+flushWork @ chunk-276SZO74.js?v=6500782f:176
+performWorkUntilDeadline @ chunk-276SZO74.js?v=6500782f:384
+api.ts:382 ❌ [STATIC API] Erro ao buscar stream para anime 3601, episódio 1: Episódio 1 não disponível: URL marcada como falhada no cache
+overrideMethod @ hook.js:608
+getEpisodeStream @ api.ts:382
+await in getEpisodeStream
+queryFn @ useEpisodes.ts:19
+fetchFn @ @tanstack_react-query.js?v=6500782f:881
+run @ @tanstack_react-query.js?v=6500782f:513
+(anônimo) @ @tanstack_react-query.js?v=6500782f:538
+Promise.then
+(anônimo) @ @tanstack_react-query.js?v=6500782f:534
+Promise.catch
+run @ @tanstack_react-query.js?v=6500782f:517
+(anônimo) @ @tanstack_react-query.js?v=6500782f:538
+Promise.then
+(anônimo) @ @tanstack_react-query.js?v=6500782f:534
+Promise.catch
+run @ @tanstack_react-query.js?v=6500782f:517
+(anônimo) @ @tanstack_react-query.js?v=6500782f:538
+Promise.then
+(anônimo) @ @tanstack_react-query.js?v=6500782f:534
+Promise.catch
+run @ @tanstack_react-query.js?v=6500782f:517
+start @ @tanstack_react-query.js?v=6500782f:555
+fetch @ @tanstack_react-query.js?v=6500782f:969
+executeFetch_fn @ @tanstack_react-query.js?v=6500782f:2280
+onSubscribe @ @tanstack_react-query.js?v=6500782f:1983
+subscribe @ @tanstack_react-query.js?v=6500782f:24
+(anônimo) @ @tanstack_react-query.js?v=6500782f:3147
+subscribeToStore @ chunk-276SZO74.js?v=6500782f:11984
+commitHookEffectListMount @ chunk-276SZO74.js?v=6500782f:16915
+commitPassiveMountOnFiber @ chunk-276SZO74.js?v=6500782f:18156
+commitPassiveMountEffects_complete @ chunk-276SZO74.js?v=6500782f:18129
+commitPassiveMountEffects_begin @ chunk-276SZO74.js?v=6500782f:18119
+commitPassiveMountEffects @ chunk-276SZO74.js?v=6500782f:18109
+flushPassiveEffectsImpl @ chunk-276SZO74.js?v=6500782f:19490
+flushPassiveEffects @ chunk-276SZO74.js?v=6500782f:19447
+(anônimo) @ chunk-276SZO74.js?v=6500782f:19328
+workLoop @ chunk-276SZO74.js?v=6500782f:197
+flushWork @ chunk-276SZO74.js?v=6500782f:176
+performWorkUntilDeadline @ chunk-276SZO74.js?v=6500782f:384

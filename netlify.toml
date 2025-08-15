@@ -9,12 +9,16 @@
   status = 200
   force = true
 
-# Proxy para APIs externas (animefire.plus)
+# Proxy para animefire removido - retornava HTML em vez de JSON
+# O sistema agora usa dados mock quando APIs externas falham
+
+# Proxy para vídeos do Blogger
 [[redirects]]
-  from = "/api/external/*"
-  to = "https://animefire.plus/:splat"
+  from = "/api/blogger/*"
+  to = "https://blogger.googleusercontent.com/:splat"
   status = 200
   force = true
+  headers = {X-From = "Netlify"}
 
 # Proxy para vídeos do lightspeedst.net
 [[redirects]]
@@ -53,7 +57,7 @@
     Referrer-Policy = "strict-origin-when-cross-origin"
     Permissions-Policy = "camera=(), microphone=(), geolocation=()"
     Strict-Transport-Security = "max-age=31536000; includeSubDomains"
-    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; media-src 'self' https: blob:; connect-src 'self' https: wss:; font-src 'self' https:; object-src 'none'; base-uri 'self'; form-action 'self';"
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; media-src 'self' https: blob:; connect-src 'self' https: wss:; font-src 'self' https:; frame-src 'self' https: blob: data:; object-src 'none'; base-uri 'self'; form-action 'self';"
     X-From = "Netlify"
     Cache-Control = "public, max-age=300"
     Access-Control-Allow-Origin = "*"

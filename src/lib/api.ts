@@ -406,24 +406,6 @@ export function processEpisodeStreamData(response: EpisodeStreamResponse): Video
     // Processar os dados de streaming usando a função da classe StaticEpisodeService
     const processedData = StaticEpisodeService.processExternalStreamingData(response.data)
     
-    // Verificar se são dados mock
-    const isMockData = response?.data?.is_mock === true
-    
-    // Se são dados mock, retornar apenas a primeira qualidade
-    if (isMockData) {
-      console.log('🎭 [STATIC API] Processando dados mock')
-      if (processedData.qualities.length > 0) {
-        const mockSource: VideoQualityOption[] = [{
-          label: 'Principal',
-          src: processedData.qualities[0].url,
-          isAlternative: false
-        }]
-        console.log('✅ [STATIC API] Fonte mock selecionada:', mockSource)
-        return mockSource
-      }
-      return []
-    }
-    
     // Para dados reais da API externa - retornar apenas a URL principal
     if (processedData.mainUrl) {
       const mainSource: VideoQualityOption[] = [{

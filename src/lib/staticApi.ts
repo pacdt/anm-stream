@@ -500,12 +500,10 @@ export function convertToProxyUrl(originalUrl: string): string {
     return proxyUrl
   }
   
-  // Converter URLs do animefire.plus para usar o proxy APENAS para APIs de metadados
-  if (originalUrl.startsWith('https://animefire.plus') && !originalUrl.includes('.mp4') && !originalUrl.includes('.m3u8')) {
-    const path = originalUrl.replace('https://animefire.plus', '');
-    const proxyUrl = `/api/animefire${path}`
-    console.log(`🔄 [PROXY] Convertendo URL do AnimeFire: ${originalUrl} -> ${proxyUrl}`)
-    return proxyUrl
+  // URLs do animefire.plus não são suportadas (causam erro de CORS)
+  if (originalUrl.startsWith('https://animefire.plus')) {
+    console.log(`🚫 [PROXY] URL do AnimeFire detectada, lançando erro: ${originalUrl}`)
+    throw new Error('URLs do AnimeFire não são suportadas (causam erro de CORS)')
   }
   
   // Para outras URLs, retornar inalterado
@@ -557,6 +555,12 @@ export class StaticEpisodeService {
       }
       
       try {
+        // Verificar se é URL do animefire.plus e falhar imediatamente
+        if (episode.episode_url.includes('animefire.plus')) {
+          console.log(`🚫 [STATIC API] URL do AnimeFire detectada, falhando imediatamente: ${episode.episode_url}`)
+          throw new Error('URL do AnimeFire não suportada (causa erro de CORS)')
+        }
+        
         // Converter URL externa para usar o proxy correto baseado no ambiente
         const proxyUrl = convertToProxyUrl(episode.episode_url)
         console.log(`🔄 [STATIC API] Usando proxy: ${proxyUrl} (original: ${episode.episode_url})`)
@@ -584,64 +588,16 @@ export class StaticEpisodeService {
           throw new Error('Dados de streaming inválidos ou vazios recebidos da API externa')
         }
       } catch (externalError: any) {
-        console.warn(`⚠️ [STATIC API] API externa falhou após tentativas, usando dados mock:`, externalError.message)
-        
-        // Fallback para dados mock quando API externa falha
-        const mockData = this.generateMockStreamingData(episodeNumber, animeId, episode.anime_name)
-        
-        return {
-          message: `Stream do episódio ${episodeNumber} carregado (modo demo)`,
-          data: mockData
-        }
+        console.error(`❌ [STATIC API] API externa falhou após tentativas:`, externalError.message)
+        throw new Error(`Episódio ${episodeNumber} não disponível: ${externalError.message}`)
       }
     } catch (error: any) {
       console.error(`❌ [STATIC API] Erro ao buscar stream para anime ${animeId}, episódio ${episodeNumber}:`, error)
-      
-      // Fallback final com dados mock básicos
-      const mockData = this.generateMockStreamingData(episodeNumber, animeId, `Anime ${animeId}`)
-      
-      return {
-        message: `Episódio temporariamente indisponível (modo demo)`,
-        data: mockData
-      }
+      throw error
     }
   }
   
-  // Gerar dados mock de streaming para fallback
-  private static generateMockStreamingData(episodeNumber: number, animeId: number, animeName: string) {
-    console.log(`🎭 [STATIC API] Gerando dados mock para anime ${animeId}, episódio ${episodeNumber}`)
-    
-    // URLs de vídeo de exemplo (Big Buck Bunny - domínio público)
-    const mockVideoUrls = {
-      '1080p': 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4',
-      '720p': 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4',
-      '480p': 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4',
-      '360p': 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4'
-    }
-    
-    // Gerar qualidades mock
-    const qualities = [
-      { quality: '1080p', url: mockVideoUrls['1080p'], type: 'mp4' },
-      { quality: '720p', url: mockVideoUrls['720p'], type: 'mp4' },
-      { quality: '480p', url: mockVideoUrls['480p'], type: 'mp4' },
-      { quality: '360p', url: mockVideoUrls['360p'], type: 'mp4' }
-    ]
-    
-    // URL principal (maior qualidade)
-    const video_url = mockVideoUrls['1080p']
-    
-    console.log(`✅ [STATIC API] Dados mock gerados: ${qualities.length} qualidades disponíveis`)
-    
-    return {
-      video_url,
-      qualities,
-      episode_number: episodeNumber,
-      anime_id: animeId,
-      anime_name: animeName,
-      token: null,
-      is_mock: true // Flag para indicar que são dados mock
-    }
-  }
+  // Função removida - não usar mais dados mock
   
   // Processar dados de streaming externos com lógica de priorização automática
   static processExternalStreamingData(streamingData: any): ProcessedStreamData {
