@@ -480,31 +480,6 @@ export function VideoPlayer({
               {/* Settings Menu */}
               {showSettings && (
                 <div className="absolute top-full right-0 mt-2 bg-black/90 rounded-lg p-4 min-w-48">
-                  {/* Sources */}
-                  {availableSources.length > 1 && (
-                    <div className="mb-4">
-                      <h4 className="text-white text-sm font-medium mb-2">Fonte</h4>
-                      <div className="space-y-1">
-                        {availableSources.map((source, index) => (
-                          <button
-                            key={index}
-                            onClick={() => handleSourceChange(source.label)}
-                            className={`block w-full text-left px-2 py-1 rounded text-sm transition-colors ${
-                              currentSource.label === source.label
-                                ? 'bg-red-600 text-white'
-                                : 'text-gray-300 hover:bg-white/20'
-                            }`}
-                          >
-                            {source.label}
-                            {source.isAlternative && (
-                              <span className="text-xs text-gray-400 ml-1">(Alt)</span>
-                            )}
-                          </button>
-                        ))}
-                      </div>
-                    </div>
-                  )}
-                  
                   {/* Playback Speed */}
                   <div>
                     <h4 className="text-white text-sm font-medium mb-2">Velocidade</h4>

@@ -475,9 +475,15 @@ setInterval(() => {
 
 // Serviços da API Estática de Episódios
 export class StaticEpisodeService {
-  // Converter URL externa para usar o proxy apenas para APIs, não para vídeos
+  // Converter URL externa para usar o proxy para contornar CORS
   private static convertToProxyUrl(originalUrl: string): string {
     console.log(`🔄 [PROXY] Analisando URL: ${originalUrl}`)
+    
+    // Evitar dupla conversão: se já estiver usando proxy, retornar inalterado
+    if (originalUrl.startsWith('/api/')) {
+      console.log(`🔄 [PROXY] URL já está proxificada: ${originalUrl}`)
+      return originalUrl
+    }
     
     // Converter URLs do animefire.plus para usar o proxy APENAS para APIs de metadados
     if (originalUrl.startsWith('https://animefire.plus') && !originalUrl.includes('.mp4') && !originalUrl.includes('.m3u8')) {
@@ -487,13 +493,48 @@ export class StaticEpisodeService {
       return proxyUrl;
     }
     
-    // Para URLs de vídeo (lightspeedst.net e outros), manter URL original
-    if (originalUrl.includes('.mp4') || originalUrl.includes('.m3u8') || originalUrl.includes('lightspeedst.net')) {
-      console.log(`🎬 [PROXY] URL de vídeo mantida original: ${originalUrl}`)
-      return originalUrl;
+    // Converter URLs de vídeo para proxy para contornar CORS
+    if (originalUrl.includes('blogger.com')) {
+      // Para URLs do Blogger, usar proxy específico
+      const path = originalUrl.replace('https://www.blogger.com', '')
+      const proxyUrl = `/api/blogger${path}`
+      console.log(`🎬 [BLOGGER PROXY] URL do blogger convertida: ${proxyUrl}`)
+      return proxyUrl
     }
     
-    // Para outras URLs externas, retornar a URL original
+    if (originalUrl.includes('googlevideo.com')) {
+      // Para URLs do Google Video, usar proxy genérico
+      const domain = originalUrl.replace('https://', '')
+      const proxyUrl = `/api/video-generic/${domain}`
+      console.log(`🎬 [PROXY] URL de vídeo convertida para proxy: ${proxyUrl}`)
+      return proxyUrl
+    }
+    
+    // Converter URLs lightspeedst.net para proxy
+    if (originalUrl.includes('lightspeedst.net')) {
+      const path = originalUrl.replace('https://lightspeedst.net/', '')
+      const proxyUrl = `/api/video/${path}`
+      console.log(`🎬 [PROXY] URL lightspeedst.net convertida: ${proxyUrl}`)
+      return proxyUrl
+    }
+    
+    // Para outros domínios de vídeo, usar proxy genérico
+    if (originalUrl.startsWith('https://') && (originalUrl.includes('video') || originalUrl.includes('stream'))) {
+      const domain = originalUrl.replace('https://', '')
+      const proxyUrl = `/api/video-generic/${domain}`
+      console.log(`🎬 [PROXY] URL de vídeo genérica convertida: ${proxyUrl}`)
+      return proxyUrl
+    }
+    
+    // Para outras URLs externas, usar proxy para contornar CORS
+    if (originalUrl.startsWith('https://')) {
+      const domain = originalUrl.replace('https://', '')
+      const proxyUrl = `/api/video-generic/${domain}`
+      console.log(`🔄 [PROXY] URL externa convertida para proxy: ${proxyUrl}`)
+      return proxyUrl
+    }
+    
+    // Para URLs locais ou outras, retornar a URL original
     console.log(`🔄 [PROXY] URL mantida original: ${originalUrl}`)
     return originalUrl
   }
@@ -556,7 +597,7 @@ export class StaticEpisodeService {
         // Verificar se os dados recebidos são válidos
         if (streamingData && streamingData.data && Array.isArray(streamingData.data) && streamingData.data.length > 0) {
           // Processar dados de streaming com lógica de priorização
-          const processedData = this.processExternalStreamingData(streamingData, episodeNumber, animeId, episode.anime_name)
+          const processedData = this.processExternalStreamingData(streamingData)
           
           return {
             message: `Stream do episódio ${episodeNumber} carregado`,
@@ -625,112 +666,75 @@ export class StaticEpisodeService {
     }
   }
   
-  // Processar dados de streaming externos com lógica de priorização
-  private static processExternalStreamingData(streamingData: any, episodeNumber: number, animeId: number, animeName: string) {
-    console.log(`🔄 [STATIC API] Processando dados de streaming externos`)
+  // Processar dados de streaming externos com lógica de priorização automática
+  static processExternalStreamingData(streamingData: any): ProcessedStreamData {
+    console.log("🔄 [STATIC API] Processando dados de streaming externos");
     
-    if (!streamingData || !streamingData.data) {
-      throw new Error('Dados de streaming inválidos recebidos da API externa')
+    // Se os dados já foram processados (contém qualities), retornar como estão
+    if (streamingData && streamingData.qualities && Array.isArray(streamingData.qualities)) {
+      console.log("✅ [STATIC API] Dados já processados, retornando como estão");
+      return streamingData;
     }
     
-    const { data: videoData, token } = streamingData
-    
-    // Mapear qualidades disponíveis mantendo URLs originais
-    const qualities = videoData.map((item: any) => ({
-      quality: item.label,
-      url: item.src, // Manter URL original do vídeo
-      type: 'mp4'
-    }))
-    
-    // Ordenar qualidades por prioridade (1080p > 720p > 480p > 360p)
-    const qualityPriority: Record<string, number> = {
-      '1080p': 4,
-      '720p': 3,
-      '480p': 2,
-      '360p': 1
+    // Verificar se streamingData e streamingData.data existem e são um array
+    if (!streamingData || !streamingData.data || !Array.isArray(streamingData.data)) {
+      console.error("❌ [STATIC API] Dados de streaming inválidos:", streamingData);
+      // Retornar dados vazios para evitar erro
+      return {
+        qualities: [],
+        mainUrl: "",
+        video_url: ""
+      };
     }
     
-    qualities.sort((a, b) => (qualityPriority[b.quality] || 0) - (qualityPriority[a.quality] || 0))
+    // Mapear qualidades disponíveis
+    const qualities = streamingData.data.map((q: any) => ({
+      label: q.label,
+      url: q.src, // Corrigido: usando 'src' em vez de 'file'
+    }));
+
+    // NOVA LÓGICA: Priorizar token, senão usar a maior qualidade
+    let mainUrl = "";
     
-    // Determinar URL principal do vídeo
-    let video_url: string
-    
-    if (token) {
-      // Se há token, usar como URL principal sem proxy
-      video_url = token
-      console.log(`🎯 [STATIC API] Usando token como URL principal: ${token}`)
-    } else {
-      // Senão, usar a maior qualidade disponível (URL original)
-      video_url = qualities.length > 0 ? qualities[0].url : ''
-      console.log(`🎯 [STATIC API] Usando maior qualidade como URL principal: ${qualities[0]?.quality}`)
+    if (streamingData.token) {
+      // Se há token, usar apenas ele
+      console.log("🎯 [STATIC API] Token encontrado, usando como URL principal:", streamingData.token);
+      mainUrl = streamingData.token;
+    } else if (qualities.length > 0) {
+      // Sem token: encontrar a maior qualidade (1080p > 720p > 480p > 360p > etc)
+      const qualityPriority = ['1080p', '720p', '480p', '360p', '240p'];
+      
+      let bestQuality = qualities[0]; // fallback para a primeira
+      
+      // Procurar pela maior qualidade disponível na ordem de prioridade
+      for (const priority of qualityPriority) {
+        const found = qualities.find(q => q.label.toLowerCase().includes(priority.toLowerCase()));
+        if (found) {
+          bestQuality = found;
+          break;
+        }
+      }
+      
+      mainUrl = bestQuality.url;
+      console.log("📺 [STATIC API] Maior qualidade selecionada:", bestQuality.label, "URL:", mainUrl);
     }
-    
-    console.log(`✅ [STATIC API] Stream processado: ${qualities.length} qualidades, URL principal definida`)
-    
-    return {
-      video_url,
+
+    const processedData: ProcessedStreamData = {
       qualities,
-      episode_number: episodeNumber,
-      anime_id: animeId,
-      anime_name: animeName,
-      token: token || null,
-      is_mock: false // Dados reais da API externa
-    }
+      mainUrl,
+      video_url: mainUrl,
+    };
+
+    console.log(
+      `✅ [STATIC API] Stream processado: ${qualities.length} qualidades, URL principal definida`
+    );
+    return processedData;
   }
 }
 
-// Função para processar dados de stream (mantida para compatibilidade)
-export const processStaticEpisodeStreamData = (streamResponse: any) => {
-  console.log('🎬 [STATIC STREAM] Processando dados de stream:', streamResponse)
-  
-  try {
-    if (!streamResponse || !streamResponse.data) {
-      console.warn('⚠️ [STATIC STREAM] Dados de stream inválidos')
-      return {
-        videoUrl: null,
-        streamOptions: []
-      }
-    }
-    
-    const { data } = streamResponse
-    
-    // Processar opções de qualidade
-    const streamOptions = data.qualities?.map((quality: any) => ({
-      quality: quality.quality,
-      url: quality.url,
-      type: quality.type || 'mp4'
-    })) || []
-    
-    // URL principal do vídeo com lógica de priorização
-    let videoUrl: string | null = null
-    
-    if (data.token) {
-      // Priorizar token se disponível
-      videoUrl = data.token
-      console.log('🎯 [STATIC STREAM] Usando token como URL principal')
-    } else if (data.video_url) {
-      // Usar video_url se disponível
-      videoUrl = data.video_url
-      console.log('🎯 [STATIC STREAM] Usando video_url como URL principal')
-    } else if (streamOptions.length > 0) {
-      // Fallback para a primeira qualidade (já ordenada por prioridade)
-      videoUrl = streamOptions[0].url
-      console.log(`🎯 [STATIC STREAM] Usando primeira qualidade como fallback: ${streamOptions[0].quality}`)
-    }
-    
-    console.log(`✅ [STATIC STREAM] Stream processado: ${streamOptions.length} qualidades disponíveis`)
-    
-    return {
-      videoUrl,
-      streamOptions,
-      hasToken: !!data.token
-    }
-  } catch (error) {
-    console.error('❌ [STATIC STREAM] Erro ao processar dados de stream:', error)
-    return {
-      videoUrl: null,
-      streamOptions: [],
-      hasToken: false
-    }
-  }
+// Interface para dados de stream processados
+interface ProcessedStreamData {
+  qualities: { label: string; url: string }[];
+  mainUrl: string;
+  video_url: string;
 }

@@ -48,6 +48,11 @@ export function Player() {
   // Selecionar fonte padrão se não houver uma selecionada
   useEffect(() => {
     if (videoSources.length > 0 && !selectedSource) {
+      console.log('🔍 [Player] Debug seleção de fonte:')
+      console.log('  - Total de fontes:', videoSources.length)
+      console.log('  - Todas as fontes:', videoSources)
+      console.log('  - Fontes não alternativas:', videoSources.filter(source => !source.isAlternative))
+      
       // Priorizar fontes não alternativas primeiro
       const primarySource = videoSources.find(source => !source.isAlternative) || videoSources[0]
       console.log('🎯 [Player] Selecionando fonte padrão:', primarySource)

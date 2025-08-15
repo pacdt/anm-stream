@@ -1,5 +1,5 @@
 import { Anime, Episode, EpisodeStreamResponse, ApiResponse, VideoQualityOption } from '@/types'
-import { StaticAnimeService, StaticEpisodeService, processStaticEpisodeStreamData } from './staticApi'
+import { StaticAnimeService, StaticEpisodeService } from './staticApi'
 
 // Dados mock para fallback quando a API estiver indisponível
 const mockAnimes: Anime[] = [
@@ -397,32 +397,47 @@ export function processEpisodeStreamData(response: EpisodeStreamResponse): Video
   console.log('🔧 [STATIC API] Processando dados de stream:', response)
   
   try {
-    const processedData = processStaticEpisodeStreamData(response)
+    // Verificar se response.data existe antes de processar
+    if (!response || !response.data) {
+      console.error('❌ [STATIC API] Dados de resposta inválidos:', response);
+      return [];
+    }
+    
+    // Processar os dados de streaming usando a função da classe StaticEpisodeService
+    const processedData = StaticEpisodeService.processExternalStreamingData(response.data)
     
     // Verificar se são dados mock
     const isMockData = response?.data?.is_mock === true
     
-    // Se são dados mock, retornar apenas as qualidades mock
+    // Se são dados mock, retornar apenas a primeira qualidade
     if (isMockData) {
       console.log('🎭 [STATIC API] Processando dados mock')
-      const videoSources: VideoQualityOption[] = processedData.streamOptions.map((option, index) => ({
-        label: option.quality,
-        src: option.url,
-        isAlternative: index > 0
-      }))
-      console.log('✅ [STATIC API] Convertido para VideoQualityOption[] (mock):', videoSources)
-      return videoSources
+      if (processedData.qualities.length > 0) {
+        const mockSource: VideoQualityOption[] = [{
+          label: 'Principal',
+          src: processedData.qualities[0].url,
+          isAlternative: false
+        }]
+        console.log('✅ [STATIC API] Fonte mock selecionada:', mockSource)
+        return mockSource
+      }
+      return []
     }
     
-    // Para dados reais da API externa, usar apenas as qualidades disponíveis
-    const videoSources: VideoQualityOption[] = processedData.streamOptions.map((option, index) => ({
-      label: option.quality,
-      src: option.url,
-      isAlternative: index > 0 // Primeira opção é principal, outras são alternativas
-    }))
+    // Para dados reais da API externa - retornar apenas a URL principal
+    if (processedData.mainUrl) {
+      const mainSource: VideoQualityOption[] = [{
+        label: response?.data?.token ? 'Token Principal' : 'Melhor Qualidade',
+        src: processedData.mainUrl,
+        isAlternative: false
+      }]
+      
+      console.log('🎯 [STATIC API] Fonte principal selecionada:', mainSource[0].label, 'URL:', processedData.mainUrl)
+      return mainSource
+    }
     
-    console.log('✅ [STATIC API] Convertido para VideoQualityOption[] (real):', videoSources)
-    return videoSources
+    console.log('⚠️ [STATIC API] Nenhuma fonte principal encontrada')
+    return []
   } catch (error) {
     console.error('❌ [STATIC API] Erro ao processar dados de stream:', error)
     return []
