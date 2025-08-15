@@ -473,78 +473,48 @@ setInterval(() => {
   CacheManager.cleanup()
 }, 10 * 60 * 1000) // Limpar cache a cada 10 minutos
 
-// Serviços da API Estática de Episódios
-export class StaticEpisodeService {
-  // Converter URL externa para usar o proxy para contornar CORS
-  private static convertToProxyUrl(originalUrl: string): string {
-    console.log(`🔄 [PROXY] Analisando URL: ${originalUrl}`)
-    
-    // Evitar dupla conversão: se já estiver usando proxy, retornar inalterado
-    if (originalUrl.startsWith('/api/')) {
-      console.log(`🔄 [PROXY] URL já está proxificada: ${originalUrl}`)
-      return originalUrl
-    }
-    
-    // Converter URLs do animefire.plus para usar o proxy APENAS para APIs de metadados
-    if (originalUrl.startsWith('https://animefire.plus') && !originalUrl.includes('.mp4') && !originalUrl.includes('.m3u8')) {
-      const path = originalUrl.replace('https://animefire.plus', '');
-      const proxyUrl = `/api/external${path}`;
-      console.log(`🔄 [PROXY] URL animefire.plus API convertida: ${proxyUrl}`)
-      return proxyUrl;
-    }
-    
-    // Converter URLs de vídeo para proxy para contornar CORS
-    if (originalUrl.includes('blogger.com')) {
-      // Para URLs do Blogger, usar proxy específico
-      const path = originalUrl.replace('https://www.blogger.com', '')
-      const proxyUrl = `/api/blogger${path}`
-      console.log(`🎬 [BLOGGER PROXY] URL do blogger convertida: ${proxyUrl}`)
-      return proxyUrl
-    }
-    
-    // Fallback: Para URLs com token que podem ter problemas de CORS, tentar usar dados mock
-    if (originalUrl.includes('token=') && originalUrl.includes('blogger.com')) {
-      console.log(`⚠️ [FALLBACK] URL com token detectada, usando dados mock como fallback: ${originalUrl}`)
-      // Retornar URL original para que o sistema use dados mock se o proxy falhar
-      return originalUrl
-    }
-    
-    if (originalUrl.includes('googlevideo.com')) {
-      // Para URLs do Google Video, usar proxy genérico
-      const domain = originalUrl.replace('https://', '')
-      const proxyUrl = `/api/video-generic/${domain}`
-      console.log(`🎬 [PROXY] URL de vídeo convertida para proxy: ${proxyUrl}`)
-      return proxyUrl
-    }
-    
-    // Converter URLs lightspeedst.net para proxy
-    if (originalUrl.includes('lightspeedst.net')) {
-      const path = originalUrl.replace('https://lightspeedst.net/', '')
-      const proxyUrl = `/api/video/${path}`
-      console.log(`🎬 [PROXY] URL lightspeedst.net convertida: ${proxyUrl}`)
-      return proxyUrl
-    }
-    
-    // Para outros domínios de vídeo, usar proxy genérico
-    if (originalUrl.startsWith('https://') && (originalUrl.includes('video') || originalUrl.includes('stream'))) {
-      const domain = originalUrl.replace('https://', '')
-      const proxyUrl = `/api/video-generic/${domain}`
-      console.log(`🎬 [PROXY] URL de vídeo genérica convertida: ${proxyUrl}`)
-      return proxyUrl
-    }
-    
-    // Para outras URLs externas, usar proxy para contornar CORS
-    if (originalUrl.startsWith('https://')) {
-      const domain = originalUrl.replace('https://', '')
-      const proxyUrl = `/api/video-generic/${domain}`
-      console.log(`🔄 [PROXY] URL externa convertida para proxy: ${proxyUrl}`)
-      return proxyUrl
-    }
-    
-    // Para URLs locais ou outras, retornar a URL original
-    console.log(`🔄 [PROXY] URL mantida original: ${originalUrl}`)
+// Função utilitária para converter URLs para proxy
+export function convertToProxyUrl(originalUrl: string): string {
+  console.log(`🔄 [PROXY] Analisando URL: ${originalUrl}`)
+  
+  // Evitar dupla conversão: se já estiver usando proxy, retornar inalterado
+  if (originalUrl.startsWith('/api/')) {
+    console.log(`🔄 [PROXY] URL já está proxificada: ${originalUrl}`)
     return originalUrl
   }
+  
+  // Converter URLs do blogger.com para usar o proxy de vídeo
+  if (originalUrl.includes('blogger.com') && originalUrl.includes('video.g')) {
+    // Extrair apenas o path da URL do blogger
+    const url = new URL(originalUrl)
+    const path = url.pathname + url.search
+    const proxyUrl = `/api/blogger${path}`
+    console.log(`🔄 [PROXY] Convertendo URL de vídeo do Blogger: ${originalUrl} -> ${proxyUrl}`)
+    return proxyUrl
+  }
+  
+  // Converter outras URLs do blogger.com para usar o proxy geral
+  if (originalUrl.includes('blogger.com')) {
+    const proxyUrl = `/api/blogger?url=${encodeURIComponent(originalUrl)}`
+    console.log(`🔄 [PROXY] Convertendo URL do Blogger: ${originalUrl} -> ${proxyUrl}`)
+    return proxyUrl
+  }
+  
+  // Converter URLs do animefire.plus para usar o proxy APENAS para APIs de metadados
+  if (originalUrl.startsWith('https://animefire.plus') && !originalUrl.includes('.mp4') && !originalUrl.includes('.m3u8')) {
+    const path = originalUrl.replace('https://animefire.plus', '');
+    const proxyUrl = `/api/animefire${path}`
+    console.log(`🔄 [PROXY] Convertendo URL do AnimeFire: ${originalUrl} -> ${proxyUrl}`)
+    return proxyUrl
+  }
+  
+  // Para outras URLs, retornar inalterado
+  console.log(`🔄 [PROXY] URL não necessita proxy: ${originalUrl}`)
+  return originalUrl
+}
+
+// Serviços da API Estática de Episódios
+export class StaticEpisodeService {
   // Listar episódios de um anime
   static async getEpisodes(animeId: number): Promise<{ episodes: Episode[], total_episodes: number }> {
     try {
@@ -588,7 +558,7 @@ export class StaticEpisodeService {
       
       try {
         // Converter URL externa para usar o proxy correto baseado no ambiente
-        const proxyUrl = this.convertToProxyUrl(episode.episode_url)
+        const proxyUrl = convertToProxyUrl(episode.episode_url)
         console.log(`🔄 [STATIC API] Usando proxy: ${proxyUrl} (original: ${episode.episode_url})`)
         
         // Fazer requisição com timeout e retry para a API externa de streaming via proxy
@@ -704,17 +674,9 @@ export class StaticEpisodeService {
     let mainUrl = "";
     
     if (streamingData.token) {
-      // Verificar se o token é uma URL do blogger que pode ter problemas
-      if (streamingData.token.includes('blogger.com') && streamingData.token.includes('token=')) {
-        console.log("⚠️ [STATIC API] Token do blogger detectado, pode ter problemas de CORS:", streamingData.token);
-        // Tentar usar o proxy, mas preparar fallback
-        mainUrl = this.convertToProxyUrl(streamingData.token);
-        console.log("🔄 [STATIC API] Token convertido para proxy:", mainUrl);
-      } else {
-        // Token normal, usar diretamente
-        console.log("🎯 [STATIC API] Token encontrado, usando como URL principal:", streamingData.token);
-        mainUrl = streamingData.token;
-      }
+      // Usar sempre o token original sem conversão
+      console.log("🎯 [STATIC API] Token encontrado, usando URL original:", streamingData.token);
+      mainUrl = streamingData.token;
     } else if (qualities.length > 0) {
       // Sem token: encontrar a maior qualidade (1080p > 720p > 480p > 360p > etc)
       const qualityPriority = ['1080p', '720p', '480p', '360p', '240p'];

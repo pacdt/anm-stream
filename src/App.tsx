@@ -30,7 +30,7 @@ function AppContent() {
   useSync()
 
   return (
-    <Router>
+    <Router future={{ v7_relativeSplatPath: true }}>
       <div className="min-h-screen bg-gray-900">
         <Routes>
           {/* Rotas públicas com layout completo */}
