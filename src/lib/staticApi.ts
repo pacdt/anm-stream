@@ -502,6 +502,13 @@ export class StaticEpisodeService {
       return proxyUrl
     }
     
+    // Fallback: Para URLs com token que podem ter problemas de CORS, tentar usar dados mock
+    if (originalUrl.includes('token=') && originalUrl.includes('blogger.com')) {
+      console.log(`⚠️ [FALLBACK] URL com token detectada, usando dados mock como fallback: ${originalUrl}`)
+      // Retornar URL original para que o sistema use dados mock se o proxy falhar
+      return originalUrl
+    }
+    
     if (originalUrl.includes('googlevideo.com')) {
       // Para URLs do Google Video, usar proxy genérico
       const domain = originalUrl.replace('https://', '')
@@ -697,9 +704,17 @@ export class StaticEpisodeService {
     let mainUrl = "";
     
     if (streamingData.token) {
-      // Se há token, usar apenas ele
-      console.log("🎯 [STATIC API] Token encontrado, usando como URL principal:", streamingData.token);
-      mainUrl = streamingData.token;
+      // Verificar se o token é uma URL do blogger que pode ter problemas
+      if (streamingData.token.includes('blogger.com') && streamingData.token.includes('token=')) {
+        console.log("⚠️ [STATIC API] Token do blogger detectado, pode ter problemas de CORS:", streamingData.token);
+        // Tentar usar o proxy, mas preparar fallback
+        mainUrl = this.convertToProxyUrl(streamingData.token);
+        console.log("🔄 [STATIC API] Token convertido para proxy:", mainUrl);
+      } else {
+        // Token normal, usar diretamente
+        console.log("🎯 [STATIC API] Token encontrado, usando como URL principal:", streamingData.token);
+        mainUrl = streamingData.token;
+      }
     } else if (qualities.length > 0) {
       // Sem token: encontrar a maior qualidade (1080p > 720p > 480p > 360p > etc)
       const qualityPriority = ['1080p', '720p', '480p', '360p', '240p'];

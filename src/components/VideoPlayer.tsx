@@ -151,6 +151,17 @@ export function VideoPlayer({
           break
       }
       
+      // Verificar se é uma URL com token que falhou
+      if (shouldTryNextSource && video.src.includes('blogger.com') && video.src.includes('token=')) {
+        console.log('⚠️ [VideoPlayer] URL com token falhou, tentando fallback para dados mock');
+        // Disparar evento personalizado para solicitar dados mock
+        window.dispatchEvent(new CustomEvent('requestMockFallback', {
+          detail: { animeId, episodeNumber, reason: 'token_failed' }
+        }));
+        setError('Carregando fonte alternativa...');
+        return;
+      }
+      
       // Tentar próxima qualidade disponível se o erro permite
       if (shouldTryNextSource && availableSources.length > 1) {
         const currentIndex = availableSources.findIndex(source => source.src === currentSource.src)

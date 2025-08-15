@@ -66,6 +66,7 @@ export default defineConfig({
       '/api/blogger': {
         target: 'https://www.blogger.com',
         changeOrigin: true,
+        secure: false,
         rewrite: (path) => path.replace(/^\/api\/blogger/, ''),
         configure: (proxy, _options) => {
           proxy.on('error', (err, _req, _res) => {
@@ -73,18 +74,28 @@ export default defineConfig({
           });
           proxy.on('proxyReq', (proxyReq, req, _res) => {
             // Adicionar headers necessários para contornar restrições do Blogger
-            proxyReq.setHeader('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36');
-            proxyReq.setHeader('Referer', 'https://animefire.plus/');
+            proxyReq.setHeader('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
+            proxyReq.setHeader('Referer', 'https://www.blogger.com/');
+            proxyReq.setHeader('Origin', 'https://www.blogger.com');
             proxyReq.setHeader('Accept', 'video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5');
             proxyReq.setHeader('Accept-Encoding', 'identity;q=1, *;q=0');
-            proxyReq.setHeader('Range', req.headers.range || 'bytes=0-');
+            proxyReq.setHeader('Accept-Language', 'pt-BR,pt;q=0.9,en;q=0.8');
+            proxyReq.setHeader('Cache-Control', 'no-cache');
+            proxyReq.setHeader('Pragma', 'no-cache');
+            if (req.headers.range) {
+              proxyReq.setHeader('Range', req.headers.range);
+            }
             console.log('🎬 [BLOGGER PROXY] Sending video request:', req.method, req.url);
           });
           proxy.on('proxyRes', (proxyRes, req, _res) => {
             // Adicionar headers CORS para permitir acesso do frontend
             proxyRes.headers['Access-Control-Allow-Origin'] = '*';
             proxyRes.headers['Access-Control-Allow-Methods'] = 'GET, HEAD, OPTIONS';
-            proxyRes.headers['Access-Control-Allow-Headers'] = 'Range';
+            proxyRes.headers['Access-Control-Allow-Headers'] = 'Range, Content-Type, Accept';
+            proxyRes.headers['Access-Control-Expose-Headers'] = 'Content-Length, Content-Range, Accept-Ranges';
+            // Remover headers que podem causar problemas
+            delete proxyRes.headers['x-frame-options'];
+            delete proxyRes.headers['content-security-policy'];
             console.log('🎬 [BLOGGER PROXY] Received video response:', proxyRes.statusCode, req.url);
           });
         },

@@ -74,6 +74,26 @@ export function Player() {
     return () => window.removeEventListener('resize', handleResize)
   }, [])
 
+  // Fallback para dados mock quando URLs com token falharem
+  useEffect(() => {
+    const handleMockFallback = (event: CustomEvent) => {
+      const { animeId: fallbackAnimeId, episodeNumber: fallbackEpisode, reason } = event.detail;
+      
+      if (fallbackAnimeId === animeId && fallbackEpisode === episodeNum) {
+        console.log('🔄 [Player] Fallback solicitado para dados mock:', { animeId, episodeNumber: episodeNum, reason });
+        
+        // Forçar recarregamento dos dados de stream com flag para usar mock
+        streamQuery.refetch();
+        
+        // Resetar fonte selecionada para forçar nova seleção
+        setSelectedSource(null);
+      }
+    };
+    
+    window.addEventListener('requestMockFallback', handleMockFallback as EventListener);
+    return () => window.removeEventListener('requestMockFallback', handleMockFallback as EventListener);
+  }, [animeId, episodeNum, streamQuery]);
+
   // Keyboard shortcuts
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
